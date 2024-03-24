@@ -73,9 +73,6 @@
   posible. que el usuario puede tomar como recomendación para cada día de estancia. Además, se mostrarán las promociones que ofrecen las empresas desde sus
   páginas o descuentos exclusivos los cuales serán proporcionados por las empresas y cadenas con las que formaremos convenios.
 
-
-
-
   - 1.1.2. Perfiles de integrantes del equipo
 - 1.2. Solution Profile
   - 1.2.1. Antecedentes y problemática  
@@ -136,7 +133,64 @@
       En ocaciones, cuando se tienen todas las opciones seleccionadas, ocurren cambios de hora, cancelaciones de vuelos o suspensión de atención y esta información
       tarda en llegar al usuario. ¿Cómo podríamos evitar que los viajeros se vean obligados a cambiar sus planes a última hora?
 
-    - 1.2.2.2. Lean UX Assumptions
+    - 1.2.2.2. Lean UX Assumptions  
+      **Business Outcomes**  
+      Asumimos que nuestros clientes y usuarios necesitan tener las mejores opciones para todo lo que requiera un viaje según sus preferencias y presupuesto.
+
+      Esta necesidad se puede resolver por medio del filtrado, el cual mostrará solamente las opciones que se adecuen a las preferencias del usuario y no tenga
+      que perder tiempo investigando empresa por empresa manualmente.
+
+      Mis clientes principales son aquellos usuarios que quieran hacer un viaje y busquen la mayor satisfacción posible.
+
+      El valor #1 qué quiere un cliente de este servicio es poder planificar un viaje satisfactorio y lo más perfecto posible en el menor tiempo posible y de la
+      manera más sencilla.
+
+      El cliente puede obtener beneficios adicionales como poder ver descuentos que ofrecen las empresas.
+
+      Obtendré a mis clientes mediante la promoción del producto en grupos de viajeros y publicidad en internet.
+
+      Las ganancias se obtendrán mediante la versión premium que le otorgara a los usuarios opciones mucho más ajustadas a sus preferencias, además de comisiones
+      que se recibirán por parte de hoteles y restaurantes por cada usuario que opte por adquirir su servicio.
+
+      Mi competencia principal serán apps como TripIt, AirBnB y Expedia, las cuales son plataformas que se encargan de recomendar opciones para viajes a las
+      personas.
+
+      Tomaremos ventaja sobre ellos incluyendo filtros precisos, ingreso de presupuestos y mostrando las promociones vigentes.
+
+      A diferencia de estas app mencionadas anteriormente, TripMate muestra recomendaciones que cumplan estrictamente con los filtros, presupuestos y preferencias
+      del usuario.
+
+      El riesgo con la app es que puede que la información que se proporciona no sea suficiente o difícil de entender debido a que muchas empresas recortan o no
+      proporcionan al 100% sus especificaciones.
+
+      Se resolverá mediante la adición de reviews de viajeros reales que puedan proporcionar información adicional según su experiencia.
+      
+      **User Outcomes**  
+      ¿Quién es el usuario?  
+      Personas viajeras que busquen la mayor satisfacción posible durante todo su viaje.
+
+      ¿Dónde encaja el producto?  
+      En el tiempo previo a la realización del viaje.
+
+      ¿Qué problemas tiene el producto y cómo se pueden resolver?  
+      Es posible que por los filtros proporcionados y la poca variedad que se encuentra en el país de destino, solo se muestre unas cuantas opciones o ninguna,
+      esto se puede resolver mostrando una opción que pase un mínimo de costo del presupuesto especificado.
+
+      ¿Cuándo y cómo es usado el producto?  
+      Cuando el usuario quiera realizar un viaje y debe planificarlo en un tiempo menor al promedio y quiera las mejores opciones en el destino al que irá. Una
+      vez se esté en la plataforma ingresará sus filtros y presupuesto para el vuelo, hospedaje, restaurantes y actividades de entretenimiento para que la
+      plataforma proceda a mostrar todas las opciones y adquirir, reservar o tener en cuenta las opciones escogidas.
+
+      ¿Qué características son importantes?  
+      Interfaz amigable, sencillez de uso y apta para todo tipo de necesidad de los usuarios, filtros fáciles de encontrar e ingresar, e información precisa de
+      cada opción mostrada.
+
+      ¿Cómo debe verse nuestro producto y cómo debe comportarse?  
+      La aplicación debe tener una paleta de colores agradable a la vista, con imágenes que muestran la satisfacción de los viajeros y con una fuente de letra
+      legible y lo suficientemente grande para que todas las personas que quieran usar la plataforma puedan leer fácilmente. Cuando un usuario selecciona una
+      opción se la añadirá a un carrito de compras y en caso la compra no pueda ser realizada desde la plataforma se redirigirá al usuario a la página principal
+      de la empresa y le mostrará al usuario la opción que eligió.
+
     - 1.2.2.3. Lean UX Hypothesis Statements
     - 1.2.2.4. Lean UX Canvas
 - 1.3. Segmentos objetivo
