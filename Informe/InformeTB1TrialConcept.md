@@ -519,10 +519,15 @@ Segmento objetivo 2: Martin Casanova
 - 4.5. Web Applications Prototyping
 - 4.6. Domain-Driven Software Architecture
   - 4.6.1. Software Architecture Context Diagram
+   ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/249ba48d-ab33-4e72-b479-43b4c6910565)
+
   - 4.6.2. Software Architecture Container Diagrams
   - 4.6.3. Software Architecture Components Diagrams
 - 4.7. Software Object-Oriented Design
   - 4.7.1. Class Diagrams
+
+![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/36c60b42-bf36-4d13-babb-ca160ca4da46)
+
   - 4.7.2. Class Dictionary
 
 **Class Usuario**
