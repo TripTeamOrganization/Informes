@@ -642,11 +642,6 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
     - 5.2.X.6. Services Documentation Evidence for Sprint Review
     - 5.2.X.7. Software Deployment Evidence for Sprint Review
     - 5.2.X.8. Team Collaboration Insights during Sprint
-- 5.3. Validation Interviews
-  - 5.3.1. Diseño de Entrevistas
-  - 5.3.2. Registro de Entrevistas
-  - 5.3.3. Evaluaciones según heurísticas
-- 5.4. Video About-the-Product
 
 **Conclusiones**
 - Conclusiones y recomendaciones
