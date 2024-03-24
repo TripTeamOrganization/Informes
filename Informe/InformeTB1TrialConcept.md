@@ -61,25 +61,65 @@
 
 ### Capítulo I: Introducción
 - 1.1. Startup Profile
-  - 1.1.1. Descripción de la Startup
-  
-    Nuestra startup TripTeam es una plataforma que busca ayudar a las personas viajeras con
-    los problemas de la desorganización, gastos innecesarios, pérdida de tiempo y no optar por las mejores opciones. Por ese motivo, nuestro objetivo como startup
-    se enfoca en ayudar a los viajeros a tener un viaje organizado y satisfactorio.
-    Para lograrlo, contamos con una plataforma que, mediante filtros, mostrará a los usuarios las aerolíneas, hoteles, restaurantes y actividades de
-    entretenimiento que más se adecuen a sus preferencias y presupuestos, se mostrará más de una opción con imágenes, una descripción y los precios, los cuales
-    serán igual o menores al que se indique para que la persona y así pueda elegir el que más le guste sin necesidad de entrar a varias páginas, investigar por
-    horas y tantear, optimizando el tiempo del usuario. También se le hará un itinerario ordenado según las horas de vuelo y horarios de los restaurantes o
-    lugares de interés los cuales estarán sujetos a cambios repentinos por motivos externos y serán notificados por nosotros a los usuarios en el menor tiempo
-    posible. que el usuario puede tomar como recomendación para cada día de estancia. Además, se mostrarán las promociones que ofrecen las empresas desde sus
-    páginas o descuentos exclusivos los cuales serán proporcionados por las empresas y cadenas con las que formaremos convenios.
+  - 1.1.1. Descripción de la Startup  
+  Nuestra startup TripTeam es una plataforma que busca ayudar a las personas viajeras con
+  los problemas de la desorganización, gastos innecesarios, pérdida de tiempo y no optar por las mejores opciones. Por ese motivo, nuestro objetivo como startup
+  se enfoca en ayudar a los viajeros a tener un viaje organizado y satisfactorio.
+  Para lograrlo, contamos con una plataforma que, mediante filtros, mostrará a los usuarios las aerolíneas, hoteles, restaurantes y actividades de
+  entretenimiento que más se adecuen a sus preferencias y presupuestos, se mostrará más de una opción con imágenes, una descripción y los precios, los cuales
+  serán igual o menores al que se indique para que la persona y así pueda elegir el que más le guste sin necesidad de entrar a varias páginas, investigar por
+  horas y tantear, optimizando el tiempo del usuario. También se le hará un itinerario ordenado según las horas de vuelo y horarios de los restaurantes o
+  lugares de interés los cuales estarán sujetos a cambios repentinos por motivos externos y serán notificados por nosotros a los usuarios en el menor tiempo
+  posible. que el usuario puede tomar como recomendación para cada día de estancia. Además, se mostrarán las promociones que ofrecen las empresas desde sus
+  páginas o descuentos exclusivos los cuales serán proporcionados por las empresas y cadenas con las que formaremos convenios.
 
 
 
 
   - 1.1.2. Perfiles de integrantes del equipo
 - 1.2. Solution Profile
-  - 1.2.1. Antecedentes y problemática
+  - 1.2.1. Antecedentes y problemática  
+    **¿Cuál es el problema?**
+    El problema a resolver es la mala elección de servicios, gastos innecesarios, cambios imprevistos de horarios y desorganización cuando se va a hacer un viaje
+    a un nuevo destino.
+
+    **¿Cuándo sucede el problema?**
+    El problema sucede cuando las personas quieren o tienen que viajar a un lugar en el que no conocen las mejores opciones que estén dentro de su presupuesto,
+    preferencias y horarios.
+
+    **¿Dónde sucede el problema?**
+    El problema sucede en el lugar donde se esté buscando información sobre las aerolíneas, hoteles, restaurantes y actividades de entretenimiento del lugar al
+    que se planea viajar.
+
+    **¿A quién se le presenta el problema? ¿Cuál es tu público objetivo?**
+    El problema se le presenta a las personas que quieren o necesitan viajar y desconocen de las mejores opciones para tener un viaje organizado y satisfactorio.
+    Nuestro público objetivo son las familias que quieran pasar sus vacaciones viajando pero sin gastar dinero de más y los viajeros de clase alta que buscan las
+    opciones de más alto lujo y calidad.
+
+    **¿Por qué sucede el problema? ¿Qué situación ocasiona el problema?**  
+    El problema sucede porque las personas muchas veces no tienen el tiempo para ver una por una a cada empresa y comparar todas las opciones manualmente, esto
+    puede ocasionar que las personas se guíen por la popularidad o publicidad de las empresas y terminen optando por una mala opción, y revisar uno por uno llega
+    a ser tedioso y muchas veces las personas terminan optando por una opción que no les terminó de satisfacer o que terminan siendo cambiadas a último momento
+    debido a desconocimiento de sus cambios de hora. La situación que ocasiona este problema es que existen miles de empresas que están relacionadas con el
+    turismo, como las aerolíneas, hoteles y restaurantes, todos con diversos precios, horarios y calidades que resulta muy difícil poder comparar todas esas
+    opciones manualmente y elegir la mejor de todas.
+
+    **¿Cómo sucede el problema? ¿Cuáles son las precondiciones para que se presente el problema?**
+    El problema ocurre en situaciones en las que las personas deben organizar un viaje pero al desconocer de todas las opciones que hay para los vuelos,
+    hospedajes y restaurantes, intentan comparar solo unas cuantas opciones y eligen la que creen que es más conveniente por el reconocimiento de la empresa pero
+    en ocasiones el servicio no termina siendo del agrado de la persona o dejaron pasar una mejor opción en cuanto a precios y/o calidad. Las precondiciones para
+    que el problema se presente es ser una persona que está por realizar un viaje, que desconoce las opciones y condiciones de las aerolíneas, hoteles y
+    restaurantes, que busca optimizar su tiempo y busca las mejores opciones para su viaje.
+
+    **¿Cuánto impacto económico genera este problema? Representar datos estadísticos del segmento que tiene el problema.**
+    La falta de conocimiento de los precios de cada servicio que se necesita al hacer un viaje puede ocasionar que las personas tengan que extender sus
+    presupuestos y hacer gastos de más y muchas veces en un servicio que no termina por satisfacer al cliente. Según Von Berg, en la web de GoBankingRates, el
+    gasto diario en un viaje es de 150 dólares por día para destinos europeos, sin embargo, muchas veces este costo puede llegar a ser menor si se tiene
+    organización y conocimiento. Según Salomon Asmar (2023), Alrededor de 36% de las personas se endeudan para ir de viaje pero cerca de 82% no logra pagar las
+    deudas a fin de mes. Además, según una encuesta de lastminute.com, indica que sólo el 1% de los consultados logra cumplir al 100%. Esto indica que las
+    personas usualmente cometen gastos muy elevados por desinformación y falta de cultura de ahorro, lo que puede llegar a costar varios sueldos mensuales e
+    inclusive ocasionar deudas y aun así no asegurar un viaje totalmente gratificante.
+
   - 1.2.2. Lean UX Process
     - 1.2.2.1. Lean UX Problem Statements
     - 1.2.2.2. Lean UX Assumptions
