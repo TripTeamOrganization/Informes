@@ -216,6 +216,62 @@
 
 
     - 1.2.2.4. Lean UX Canvas
+      <table>
+            <tr>
+              <td valign="top"><p><b>Problema de negocio</b></p><br>
+                <p>Hacer un viaje es un gusto costoso y muchas veces se debe ampliar el presupuesto inicial para mejorar la experiencia. ¿Cómo podemos ayudar a que las personas economicen sus viajes y aún así tener los mejores servicios posibles?</p><br>
+                <p>A pesar que existen grandes cadenas de hoteles, aerolíneas famosas y restaurantes mundialmente reconocidos, muchas veces no terminan de satisfacer a los viajeros más exigentes. ¿Cómo se podría ayudar a las personas que buscan lujos a tener un viaje perfecto y a su gusto?</p><br>
+                <p>Notamos que la información en internet es abundante al igual que las opciones, las personas deben invertir grandes cantidades de tiempo en investigar qué aerolíneas, hoteles y restaurantes escoger para su viaje y comparar sus precios, horarios y reseñas puede causar malas decisiones. ¿Existe alguna forma de proporcionar toda la información y opciones que los viajeros necesitan en una sola plataforma donde las opciones se muestran según los filtros ingresados?</p><br></td>
+              <td rowspan="2" valign="top"><p><b>Ideas de solución</b></p><br>
+                <p>Una plataforma que muestre a las personas las mejores opciones de aerolíneas, hoteles, restaurantes y actividades de entretenimiento según sus presupuestos y le brindará descuentos que les permitirá ahorrar más dinero.</p><br>
+                <p>Mostrarles a los usuarios con membresía opciones altamente calificadas por otros usuarios para que ellos puedan asegurarse de tener una buena experiencia.</p><br>
+                <p>El usuario podrá tener acceso a toda la información sobre lo que se necesita para viajar en una misma plataforma que además le seleccionará las opciones que vayan acorde a sus preferencias, se le ayudará a planificar itinerarios por cada día de pase de viaje y se le informará sobre cambios en sus opciones elegidas.</p><br>
+                <p>Se notificará sobre cualquier cambio de hora o suspensión del servicio elegido anticipadamente al usuario para que pueda hacer cambios previos al viaje.</p></td>
+              <td valign="top"><p><b>Resultados comerciales esperados</b></p><br>
+              <p>Mejor experiencia y tranquilidad al viajar con poca o nula deuda y ahorrar más dinero.</p><br>
+              <p>La confianza por invertir en un viaje de lujo será mayor y la satisfacción de la experiencia será mucho más alta.</p><br>
+              <p>El tiempo de planificación previa al viaje será menor para toda persona que esté pensando en viajar.</p><br>
+              <p>La insatisfacción, decepción y cambios de planes repentinos de los usuarios por los servicios escogidos se verán reducidos.</p><br></td>
+            </tr>
+            <tr>
+              <td valign="top"><p><b>Usuarios y clientes</b></p><br>
+                <p>Familias viajeras que buscan economizar sus viajes y personas viajeras de clase alta que buscan opciones de lujo y calidad en sus viajes.</p>
+                </td>
+              <td valign="top"><p><b>Beneficios de usuarios</b></p><br>
+                <p>Tener acceso a las opciones que van acorde con sus presupuestos y se les mostrará descuentos vigentes en la plataforma.</p><br>
+                <p>Brindar al usuario una manera más sencilla de tener una lista con las mejores opciones del destino al que se dirige.</p><br>
+                <p>Mostrar al usuario todo lo necesario para un viaje en la misma plataforma y mantenerlo informado sobre sus elecciones.</p><br>
+                </td>
+            </tr>
+            <tr><td valign="top"><p><b>Hipótesis</b></p><br>
+                <p><b>Creemos</b> que mostrar las opciones de aerolíneas, hoteles y restaurantes en una sola plataforma optimizará el tiempo de los viajeros al planificar sus viajes</p>
+                <p><b>Sabremos que</b> estamos bien.</p>
+                <p><b>Cuando</b> la cantidad de tiempo promedio que se invierte en investigar opciones para un viaje se ha reducido.</p><br>
+              <p><b>Creemos</b> que el uso de filtros e ingreso de presupuesto para cada gasto del viaje hará que las personas eviten gastar de más en sus viajes.</p>
+                <p><b>Sabremos que</b> estamos bien.</p>
+                <p><b>Cuando</b> veamos que los usuarios viajan más a menudo y la cifra de endeudamientos por viaje se reduce.</p><br>
+              <p><b>Creemos</b> que mostrar las opciones de aerolíneas, hoteles y restaurantes en una sola plataforma optimizará el tiempo de los viajeros al planificar sus viajes</p>
+                <p><b>Sabremos que</b> estamos bien.</p>
+                <p><b>Cuando</b> veamos que estas personas dejen opiniones muy positivas de su experiencia de viaje.</p><br>
+              <p><b>Creemos</b> que informar de la manera más rápida posible a nuestros usuarios sobre cambios de hora de vuelo, suspensión de atención o cambios de horario en los servicios elegidos hará que los viajeros eviten pasar un mal rato durante su viaje.</p>
+                <p><b>Sabremos que</b> estamos bien.</p>
+                <p><b>Cuando</b> veamos que las personas cambian de servicios previamente al viaje y no mientras ya están en su destino.</p><br>
+              <p><b>Creemos</b> que generar un itinerario de viaje a nuestros usuarios hará que los usuarios tengan un viaje más ordenado.</p>
+                <p><b>Sabremos que</b> ha resultado</p>
+                <p><b>Cuando</b> los usuarios hagan un mayor uso de la opción de generar itinerario al usar por segunda vez la plataforma.</p>
+            </td>
+              <td valign="top"><p><b>¿Qué es lo más importante que necesitamos aprender primero?</b></p><br>
+                <p>Conocer el nivel de manejo de tecnología de nuestro público objetivo.</p><br> 
+                <p>Conocer las principales inquietudes o preocupaciones de nuestro público objetivo.</p><br>
+                <p>Conocer el nivel socioeconómico de nuestro público objetivo.</p><br>
+                <p>Conocer las diversas empresas con las que tendremos convenios para ofrecer sus servicios a los viajeros y saber cómo conseguir y  mantener el convenio.</p><br></td>
+              <td valign="top"><p><b>¿Cual es la menor cantidad de trabajo que necesitamos hacer para aprender lo siguiente más importante?</b></p><br>
+              <p>Entrevistas a familias viajeras y viajeros de clase alta.<br>
+                <p>Testing del prototipo de la plataforma a posibles usuarios que se encuentren dentro de uno de nuestros segmentos objetivo.</p><br>       
+                <p>Investigación de los servicios que ofrecen las aerolíneas, hoteles, restaurantes, etc. que planeamos mostrar  a nuestros usuarios.</p><br>
+                <p>Investigar cuales son las opiniones de los usuarios sobre el servicio que ofrecen las empresas.</p><br>
+                <p>Identificar e investigar a las empresas que estén interesadas en ofrecer descuentos a cambio de poder vender sus servicios en nuestra plataforma.</p></td></tr>
+          </table>
 - 1.3. Segmentos objetivo
     
 **Segmento objetivo 1: Familias Viajeras y Aventureras**
