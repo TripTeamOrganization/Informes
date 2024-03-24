@@ -381,6 +381,84 @@ Segmento objetivo 2: Martin Casanova
 - 4.7. Software Object-Oriented Design
   - 4.7.1. Class Diagrams
   - 4.7.2. Class Dictionary
+
+**Class Usuario**
+
+| Atributo             | Variable            | Descripción                                          |
+|----------------------|---------------------|------------------------------------------------------|
+| idUsuario (PK)         | int                 | Identificador único del usuario                      |
+| nombreCompleto               | str                 | Nombre del usuario                                   |
+| correo  | str                 | Correo electrónico del usuario                       |
+| contrasenia           | str                 | Contraseña del usuario                               |
+| fechaRegistro       | datetime            | Fecha de registro del usuario                        |
+
+**Class Alojamiento**
+
+| Atributo             | Variable            | Descripción                                          |
+|----------------------|---------------------|------------------------------------------------------|
+| idAlojamiento (PK)  | int                 | Identificador único del alojamiento                  |
+| nombre               | str                 | Nombre del alojamiento                               |
+| ubicacion            | str                 | Ubicación del alojamiento                            |
+| tipo                 | str                 | Tipo de alojamiento                                  |
+| comodidades          | str                 | Comodidades ofrecidas por el alojamiento             |
+| precio               | money             | Precio del alojamiento por noche                     |
+
+**Class Actividad**
+
+| Atributo             | Variable            | Descripción                                          |
+|----------------------|---------------------|------------------------------------------------------|
+| idActividad (PK)    | int                 | Identificador único de la actividad                 |
+| nombre               | str                 | Nombre de la actividad                               |
+| descripcion          | str                 | Descripción de la actividad                          |
+| ubicacion            | str                 | Ubicación de la actividad                            |
+| duracion             | time             | Duración de la actividad en horas                    |
+| precio               | money             | Precio de la actividad por persona                   |
+
+**Class Reserva**
+
+| Atributo             | Variable            | Descripción                                          |
+|----------------------|---------------------|------------------------------------------------------|
+| idReserva (PK)      | int                 | Identificador único de la reserva                    |
+| idUsuario (FK)         | int                 | Identificador del usuario que realizó la reserva     |
+| idAlojamiento (FK)  | int                 | Identificador del alojamiento reservado              |
+| idActividad (FK)    | int                 | Identificador de la actividad reservada              |
+| fechaReserva        | datetime            | Fecha y hora de la reserva                           |
+| precioTotal     | money           | Precio total de la reserva                           |
+| estado               | char                 | Estado de la reserva                                 |
+
+**Class Valoracion**
+
+| Atributo             | Variable            | Descripción                                          |
+|----------------------|---------------------|------------------------------------------------------|
+| idValoracion (PK)   | int                 | Identificador único de la valoración                 |
+| idUsuario (FK)         | int                 | Identificador del usuario que realizó la valoración  |
+| idAlojamiento (FK)  | int                 | Identificador del alojamiento valorado               |
+| idActividad (FK)    | int                 | Identificador de la actividad valorada               |
+| calificacion         | int                 | Calificación otorgada por el usuario                 |
+| comentario           | str                 | Comentario del usuario sobre la valoración           |
+| fechaValoracion     | datetime            | Fecha y hora de la valoración                        |
+
+**Class Promocion**
+
+| Atributo             | Variable            | Descripción                                          |
+|----------------------|---------------------|------------------------------------------------------|
+| idPromocion (PK)    | int                 | Identificador único del descuento                    |
+| codigoPromocional   | str                 | Código promocional del descuento                     |
+| tipoDescuento       | char                 | Tipo de descuento                                    |
+| fechaInicio         | date                | Fecha de inicio del descuento                        |
+| fechaFin            | date                | Fecha de fin del descuento                           |
+| condicionesUso      | str                 | Condiciones de uso del descuento                     |
+
+**Class Pago**
+
+| Atributo             | Variable            | Descripción                                          |
+|----------------------|---------------------|------------------------------------------------------|
+| idPago (PK)    | int                 | Identificador único del descuento                    |
+| descripcion       | str                 | Descripción del pago                                    |
+| metodoPago         | str               | Metodo usado para el pago                       |
+| fechaHoraPago            | datetime                | Fecha y hora del pago                          |
+| condicionesUso      | str                 | Condiciones de uso del descuento                     |
+
 - 4.8. Database Design
   - 4.8.1. Database Diagram
 
