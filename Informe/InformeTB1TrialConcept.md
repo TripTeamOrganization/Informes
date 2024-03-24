@@ -327,15 +327,15 @@ Para el segmento objetivo de viajeros de lujo, nuestras preguntas exploran las p
 
 Segmento objetivo 1: Familias Viajeras y Aventureras
 
-| Entrevistado N°1: Andrés Valle | <img src="URL_DE_LA_IMAGEN" alt="image" width="40" height="40"> |
+| Entrevistado N°1: Sandro Quispesivana | <img src="URL_DE_LA_IMAGEN" alt="image" width="40" height="40"> |
 |--------------------------------|------------------------------------------------------------|
-| **Nombre:**                    | Andrés Valle                                               |
-| **Edad:**                      | 32                                                         |
+| **Nombre:**                    | Sandro Quispesivana                                               |
+| **Edad:**                      | 30                                                         |
 | **Sexo:**                      | Masculino                                                  |
-| **Ocupación:**                 | Ingeniero Aeronáutico                                      |
-| **Entrevista:**                | [Link](https://www.youtube.com/watch?v=DpATSL0ElpE)       |
-| **Momento de inicio:**         | 0:04                                                       |
-| **Duración:**                  | 3:50                                                       |
+| **Ocupación:**                 | Docente                                     |
+| **Entrevista:**                | [Link](https://youtu.be/DzOgJiNWUvI)       |
+| **Momento de inicio:**         | 0:03                                                       |
+| **Duración:**                  | 3:59                                                       |
 
 | Entrevistado N°2: Andrés Valle | <img src="URL_DE_LA_IMAGEN" alt="image" width="40" height="40"> |
 |--------------------------------|------------------------------------------------------------|
