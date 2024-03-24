@@ -62,6 +62,18 @@
 ### Capítulo I: Introducción
 - 1.1. Startup Profile
   - 1.1.1. Descripción de la Startup
+  
+    Nuestra startup TripTeam es una plataforma que busca ayudar a las personas viajeras con
+    los problemas de la desorganización, gastos innecesarios, pérdida de tiempo y no optar por las mejores opciones. Por ese motivo, nuestro objetivo como startup
+    se enfoca en ayudar a los viajeros a tener un viaje organizado y satisfactorio.
+    Para lograrlo, contamos con una plataforma que, mediante filtros, mostrará a los usuarios las aerolíneas, hoteles, restaurantes y actividades de
+    entretenimiento que más se adecuen a sus preferencias y presupuestos, se mostrará más de una opción con imágenes, una descripción y los precios, los cuales
+    serán igual o menores al que se indique para que la persona y así pueda elegir el que más le guste sin necesidad de entrar a varias páginas, investigar por
+    horas y tantear, optimizando el tiempo del usuario. También se le hará un itinerario ordenado según las horas de vuelo y horarios de los restaurantes o
+    lugares de interés los cuales estarán sujetos a cambios repentinos por motivos externos y serán notificados por nosotros a los usuarios en el menor tiempo
+    posible. que el usuario puede tomar como recomendación para cada día de estancia. Además, se mostrarán las promociones que ofrecen las empresas desde sus
+    páginas o descuentos exclusivos los cuales serán proporcionados por las empresas y cadenas con las que formaremos convenios.
+
 
 
 
