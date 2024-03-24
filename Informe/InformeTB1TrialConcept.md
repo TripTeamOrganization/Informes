@@ -2,7 +2,7 @@
 
 # Universidad Peruana de Ciencias Aplicadas
 ### INFORME DEL TRABAJO 1 (TB1)
-![image](https://github.com/Jemisas/TripMate-Proyecto-Desarollo-de-Aplicaciones-Open-Source/assets/134337719/e3c9ad94-de38-4da3-820d-22b67d934640)
+![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/c8a24a74-515a-436b-b7b9-ea1b2e418e60)
 
 **Curso:** Desarrollo de Aplicaciones Open Source
 
@@ -27,7 +27,7 @@
 | Bárbara Antonella Espinoza Delgado| u201911727 |
 | Jeremy Joel Quispe Andia         | u202216279   |
 
-# Marzo del 2024
+### Marzo del 2024
 
 ### Registro de Informes
 
@@ -151,7 +151,7 @@ Estos competidores, al igual que TripMate, están enfocados en proporcionar solu
 - 2.2. Entrevistas
   - 2.2.1. Diseño de entrevistas
     
-### Segmento objetivo 1: Familias Viajeras y Aventureras
+Segmento objetivo 1: Familias Viajeras y Aventureras
 
 Para el segmento de familias viajeras y aventureras, las preguntas se centran en la evaluación de la receptividad y necesidades de las familias viajeras y aventureras frente a la potencial aplicación TripMate. Exploran la utilidad percibida de la aplicación para mejorar la organización y disfrute de los viajes en familia, así como las características deseadas, preocupaciones de seguridad, preferencias de personalización, y cómo la aplicación podría abordar los desafíos comunes que enfrentan estas familias en la planificación y realización de sus viajes.
 
@@ -166,7 +166,7 @@ Para el segmento de familias viajeras y aventureras, las preguntas se centran en
 - ¿Prefieres una aplicación que se adapte a las preferencias individuales de cada miembro de la familia, o una con características más generales pero ampliamente útiles para todos?
 - ¿Cómo crees que una aplicación como esta podría mejorar la experiencia general de viaje de tu familia y hacerla más emocionante y satisfactoria?
 
-### Segmento objetivo 2: Viajeros de lujo
+Segmento objetivo 2: Viajeros de lujo
 Para el segmento objetivo de viajeros de lujo, nuestras preguntas exploran las preferencias y necesidades de los viajeros de lujo en relación con TripMate, abordando temas como las experiencias buscadas, la complementación de la aplicación a dichas experiencias, las expectativas de personalización, seguridad y privacidad, así como la percepción sobre la tecnología en la mejora de la experiencia de viaje de lujo. También se indaga sobre experiencias previas con aplicaciones móviles para la planificación de viajes de lujo.
 
 - ¿Qué tipo de experiencias de lujo buscas cuando planificas tus viajes?
@@ -181,13 +181,143 @@ Para el segmento objetivo de viajeros de lujo, nuestras preguntas exploran las p
 - ¿Has tenido alguna experiencia positiva o negativa al utilizar aplicaciones móviles para planificar tus viajes delujo en el pasado?
 
 - 2.2.2. Registro de entrevistas
+
+Segmento objetivo 1: Familias Viajeras y Aventureras
+
+| Entrevistado N°1: Andrés Valle | <img src="URL_DE_LA_IMAGEN" alt="image" width="40" height="40"> |
+|--------------------------------|------------------------------------------------------------|
+| **Nombre:**                    | Andrés Valle                                               |
+| **Edad:**                      | 32                                                         |
+| **Sexo:**                      | Masculino                                                  |
+| **Ocupación:**                 | Ingeniero Aeronáutico                                      |
+| **Entrevista:**                | [Link](https://www.youtube.com/watch?v=DpATSL0ElpE)       |
+| **Momento de inicio:**         | 0:04                                                       |
+| **Duración:**                  | 3:50                                                       |
+
+| Entrevistado N°2: Andrés Valle | <img src="URL_DE_LA_IMAGEN" alt="image" width="40" height="40"> |
+|--------------------------------|------------------------------------------------------------|
+| **Nombre:**                    | Andrés Valle                                               |
+| **Edad:**                      | 32                                                         |
+| **Sexo:**                      | Masculino                                                  |
+| **Ocupación:**                 | Ingeniero Aeronáutico                                      |
+| **Entrevista:**                | [Link](https://www.youtube.com/watch?v=DpATSL0ElpE)       |
+| **Momento de inicio:**         | 0:04                                                       |
+| **Duración:**                  | 3:50                                                       |
+
+
+| Entrevistado N°3: Andrés Valle | <img src="URL_DE_LA_IMAGEN" alt="image" width="40" height="40"> |
+|--------------------------------|------------------------------------------------------------|
+| **Nombre:**                    | Andrés Valle                                               |
+| **Edad:**                      | 32                                                         |
+| **Sexo:**                      | Masculino                                                  |
+| **Ocupación:**                 | Ingeniero Aeronáutico                                      |
+| **Entrevista:**                | [Link](https://www.youtube.com/watch?v=DpATSL0ElpE)       |
+| **Momento de inicio:**         | 0:04                                                       |
+| **Duración:**                  | 3:50                                                       |
+
+Segmento objetivo 2: Viajeros de lujo
+
+| Entrevistado N°4: Andrés Valle | <img src="URL_DE_LA_IMAGEN" alt="image" width="40" height="40"> |
+|--------------------------------|------------------------------------------------------------|
+| **Nombre:**                    | Andrés Valle                                               |
+| **Edad:**                      | 32                                                         |
+| **Sexo:**                      | Masculino                                                  |
+| **Ocupación:**                 | Ingeniero Aeronáutico                                      |
+| **Entrevista:**                | [Link](https://www.youtube.com/watch?v=DpATSL0ElpE)       |
+| **Momento de inicio:**         | 0:04                                                       |
+| **Duración:**                  | 3:50                                                       |
+
+
+| Entrevistado N°5: Andrés Valle | <img src="URL_DE_LA_IMAGEN" alt="image" width="40" height="40"> |
+|--------------------------------|------------------------------------------------------------|
+| **Nombre:**                    | Andrés Valle                                               |
+| **Edad:**                      | 32                                                         |
+| **Sexo:**                      | Masculino                                                  |
+| **Ocupación:**                 | Ingeniero Aeronáutico                                      |
+| **Entrevista:**                | [Link](https://www.youtube.com/watch?v=DpATSL0ElpE)       |
+| **Momento de inicio:**         | 0:04                                                       |
+| **Duración:**                  | 3:50                                                       |
+
+
+| Entrevistado N°6: Andrés Valle | <img src="URL_DE_LA_IMAGEN" alt="image" width="40" height="40"> |
+|--------------------------------|------------------------------------------------------------|
+| **Nombre:**                    | Andrés Valle                                               |
+| **Edad:**                      | 32                                                         |
+| **Sexo:**                      | Masculino                                                  |
+| **Ocupación:**                 | Ingeniero Aeronáutico                                      |
+| **Entrevista:**                | [Link](https://www.youtube.com/watch?v=DpATSL0ElpE)       |
+| **Momento de inicio:**         | 0:04                                                       |
+| **Duración:**                  | 3:50                                                       |
+
+
 - 2.2.3. Análisis de entrevistas
 - 2.3. Needfinding
 - 2.3.1. User Personas
+
+Segmento objetivo 1: Julia Nuñez
+
+![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/7cbfe038-1f9a-4cc3-815e-7950e9bee350)
+
+Segmento objetivo 2: Martin Casanova
+
+![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/1eb63308-e526-426f-a0e2-f8b5a16352b6)
+
+
 - 2.3.2. User Task Matrix
+
+Segmento objetivo 1: Julia Nuñez
+
+|       Actividades                                                                                    | Frecuencia |Importancia|
+|----------------------------------------------------------------------------------------------|-----------------------|-----------------------------|
+| Almacenar itinerarios y detalles de viaje en la aplicación TripMate:                        | Con Frecuencia | Alta |
+| Reservar alojamiento y actividades a través de TripMate:                                    | Con Frecuencia|  Alta |
+| Organizar junto a su familia los viajes para lograr una gestión más efectiva:                | A veces | Media       |
+| Acceder a descuentos exclusivos proporcionados por TripMate:                                 |  A veces|   Media       |
+| Recibir notificaciones en tiempo real sobre cambios en vuelos y reservas a través de TripMate:|  Con Frecuencia |  Alta |
+| Compartir experiencias de viaje con amigos y familiares a través de TripMate:                | Con Frecuencia|   Baja |
+
+
+Segmento objetivo 2: Martin Casanova
+
+| Actividades                                                                                                      | Frecuencia      | Importancia |
+|------------------------------------------------------------------------------------------------------------------|-----------------|-------------|
+| Almacenar detalles de viaje y preferencias en la aplicación TripMate:                                          | Diariamente     | Alta        |
+| Reservar alojamiento exclusivo y actividades de lujo a través de TripMate:                                      | Con Frecuencia | Alta        |
+| Acceder a descuentos exclusivos proporcionados por TripMate para experiencias de lujo:                          | A veces         | Alta        |
+| Recibir notificaciones en tiempo real sobre cambios en vuelos, reservas y actualizaciones de lujo a través de TripMate:| A veces     | Media       |
+| Compartir experiencias de viaje exclusivas con amigos y colegas a través de TripMate:                            | Con Frecuencia | Alta        |
+
+
 - 2.3.3. User Journey Mapping
+
+Segmento objetivo 1: Julia Nuñez
+
+![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/48fae10f-cc5a-4b1c-aff8-4de90cf00f5d)
+
+Segmento objetivo 2: Martin Casanova
+
+![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/4277733a-f9d9-467e-b4c9-bf3e9be88a4a)
+
 - 2.3.4. Empathy Mapping
+Segmento objetivo 1: Julia Nuñez
+![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/a6ec1f85-77ca-4d58-8edb-2b961aa5c3da)
+
+Segmento objetivo 2: Martin Casanova
+![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/0d7adb09-340b-4109-aaea-3e018ba98e3f)
+
+
 - 2.3.5. As-is Scenario Mapping
+
+Segmento objetivo 1: Julia Nuñez
+
+![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/8a3acc6a-d95c-469d-87dc-4a00a060b8e6)
+
+
+Segmento objetivo 2: Martin Casanova
+
+![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/32f038b7-9009-427b-a86c-0575b177d809)
+
+
 - 2.4. Ubiquitous Language
 
 ### Capítulo III: Requirements Specification
