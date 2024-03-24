@@ -251,9 +251,9 @@ Para el segmento objetivo de viajeros de lujo, nuestras preguntas exploran las p
   - 5.1.3. Source Code Style Guide & Conventions
   - 5.1.4. Software Deployment Configuration
 - 5.2. Landing Page, Services & Applications Implementation
-  - 5.2.X. Sprint n
-    - 5.2.X.1. Sprint Planning n
-    - 5.2.X.2. Sprint Backlog n
+  - 5.2.X. Sprintn
+    - 5.2.X.1. Sprint Planningn
+    - 5.2.X.2. Sprint Backlogn
     - 5.2.X.3. Development Evidence for Sprint Review
     - 5.2.X.4. Testing Suite Evidence for Sprint Review
     - 5.2.X.5. Execution Evidence for Sprint Review
@@ -270,6 +270,7 @@ Para el segmento objetivo de viajeros de lujo, nuestras preguntas exploran las p
 - Conclusiones y recomendaciones
 - Video About-the-Team
 **Bibliografía**
+
 **Anexos**
 
 
