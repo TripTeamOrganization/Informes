@@ -171,28 +171,27 @@ Para el segmento de familias viajeras y aventureras, las preguntas se centran en
 - ¿Cómo crees que una aplicación como esta podría mejorar la experiencia general de viaje de tu familia y hacerla más emocionante y satisfactoria?
 
 ### Segmento objetivo 2: Viajeros de lujo
+Para el segmento objetivo de viajeros de lujo, nuestras preguntas exploran las preferencias y necesidades de los viajeros de lujo en relación con TripMate, abordando temas como las experiencias buscadas, la complementación de la aplicación a dichas experiencias, las expectativas de personalización, seguridad y privacidad, así como la percepción sobre la tecnología en la mejora de la experiencia de viaje de lujo. También se indaga sobre experiencias previas con aplicaciones móviles para la planificación de viajes de lujo.
 
-    Para el segmento objetivo de viajeros de lujo, nuestras preguntas exploran las preferencias y necesidades de los viajeros de lujo en relación con TripMate, abordando temas como las experiencias buscadas, la complementación de la aplicación a dichas experiencias, las expectativas de personalización, seguridad y privacidad, así como la percepción sobre la tecnología en la mejora de la experiencia de viaje de lujo. También se indaga sobre experiencias previas con aplicaciones móviles para la planificación de viajes de lujo.
+- ¿Qué tipo de experiencias de lujo buscas cuando planificas tus viajes?
+- ¿Cómo crees que una aplicación como TripMate podría complementar tus experiencias de viaje de lujo?
+- ¿Qué características específicas esperarías encontrar en una aplicación diseñada para viajeros de lujo como tú?
+- ¿Consideras que la capacidad de personalización es importante cuando utilizas aplicaciones para planificar tus viajesde lujo?
+- ¿Qué tipo de recomendaciones o sugerencias valorarías más al utilizar una aplicación como TripMate durante tus viajesde lujo?
+- ¿Cómo valoras la seguridad y la protección de tus datos personales al utilizar aplicaciones móviles durante tusviajes de lujo?
+- ¿Qué aspectos de la aplicación TripMate crees que podrían mejorar aún más la experiencia de viaje de lujo para sususuarios?
+- ¿Prefieres la exclusividad y la privacidad al utilizar servicios de reserva a través de aplicaciones móviles para tusviajes de lujo?
+- ¿Cómo crees que la tecnología puede mejorar la experiencia de viaje de lujo en general?
+- ¿Has tenido alguna experiencia positiva o negativa al utilizar aplicaciones móviles para planificar tus viajes delujo en el pasado?
 
-    - ¿Qué tipo de experiencias de lujo buscas cuando planificas tus viajes?
-    - ¿Cómo crees que una aplicación como TripMate podría complementar tus experiencias de viaje de lujo?
-    - ¿Qué características específicas esperarías encontrar en una aplicación diseñada para viajeros de lujo como tú?
-    - ¿Consideras que la capacidad de personalización es importante cuando utilizas aplicaciones para planificar tus viajes de lujo?
-    - ¿Qué tipo de recomendaciones o sugerencias valorarías más al utilizar una aplicación como TripMate durante tus viajes de lujo?
-    - ¿Cómo valoras la seguridad y la protección de tus datos personales al utilizar aplicaciones móviles durante tus viajes de lujo?
-    - ¿Qué aspectos de la aplicación TripMate crees que podrían mejorar aún más la experiencia de viaje de lujo para sus usuarios?
-    - ¿Prefieres la exclusividad y la privacidad al utilizar servicios de reserva a través de aplicaciones móviles para tus viajes de lujo?
-    - ¿Cómo crees que la tecnología puede mejorar la experiencia de viaje de lujo en general?
-    - ¿Has tenido alguna experiencia positiva o negativa al utilizar aplicaciones móviles para planificar tus viajes de lujo en el pasado?
-
-  - 2.2.2. Registro de entrevistas
-  - 2.2.3. Análisis de entrevistas
+- 2.2.2. Registro de entrevistas
+- 2.2.3. Análisis de entrevistas
 - 2.3. Needfinding
-  - 2.3.1. User Personas
-  - 2.3.2. User Task Matrix
-  - 2.3.3. User Journey Mapping
-  - 2.3.4. Empathy Mapping
-  - 2.3.5. As-is Scenario Mapping
+- 2.3.1. User Personas
+- 2.3.2. User Task Matrix
+- 2.3.3. User Journey Mapping
+- 2.3.4. Empathy Mapping
+- 2.3.5. As-is Scenario Mapping
 - 2.4. Ubiquitous Language
 
 ### Capítulo III: Requirements Specification
@@ -210,24 +209,25 @@ Para el segmento de familias viajeras y aventureras, las preguntas se centran en
 <p align="center">
 <img src="https://github.com/Jemisas/TripMate-Proyecto-Desarollo-de-Aplicaciones-Open-Source/assets/48342953/493ba2d5-e977-4495-965c-8aaab86e1ecc" width="350" height="250"></p>   
   - 4.1.2. Web Style Guidelines
-    - **Diseño Responsivo:** La aplicación debe ser compatible con diferentes dispositivos y tamaños de pantalla para una experiencia de usuario consistente en todos los dispositivos.
-    -**Navegación Intuitiva:** Estructura de navegación clara y fácil de usar que permita a los usuarios encontrar rápidamente la información que están buscando, se prioriza la simplicidad.
-    - **Carga Rápida:** Optimización del rendimiento de la aplicación para tiempos de carga rápidos, lo que incluye la optimización de imágenes y el uso de técnicas de almacenamiento en caché así como los scripts cargados al inicio de la página.
-    - **Diseño de Tarjetas:** Diseños de tarjetas para mostrar la información de manera visualmente atractiva y organizada, especialmente para la presentación de destinos y detalles de viajes.
+
+- **Diseño Responsivo:** La aplicación debe ser compatible con diferentes dispositivos y tamaños de pantalla para una experiencia de usuario consistente en todos los dispositivos.
+-**Navegación Intuitiva:** Estructura de navegación clara y fácil de usar que permita a los usuarios encontrar rápidamente la información que están buscando, se prioriza la simplicidad.
+- **Carga Rápida:** Optimización del rendimiento de la aplicación para tiempos de carga rápidos, lo que incluye la optimización de imágenes y el uso de técnicas de almacenamiento en caché así como los scripts cargados al inicio de la página.
+- **Diseño de Tarjetas:** Diseños de tarjetas para mostrar la información de manera visualmente atractiva y organizada, especialmente para la presentación de destinos y detalles de viajes.
 - 4.2. Information Architecture
-  - 4.2.1. Organization Systems
-    - **Organización Secuencial (Step-by-Step to Accomplish):** Se usa en el proceso de reserva de alojamiento y actividades, guiando a los usuarios paso a paso para completar la reserva de manera eficiente, de forma que se complete mediante una serie de pasos consecuentes y ordenados.
-  - 4.2.2. Labeling Systems
+- 4.2.1. Organization Systems
+- **Organización Secuencial (Step-by-Step to Accomplish):** Se usa en el proceso de reserva de alojamiento y actividades, guiando a los usuarios paso a paso para completar la reserva de manera eficiente, de forma que se complete mediante una serie de pasos consecuentes y ordenados.
+- 4.2.2. Labeling Systems
     Se procura evitar confusiones y que las etiquetas utilizadas sean descriptivas y simples:
     - **Itinerarios:** "Aventura", "Cultura", "Relax", etc.
     - **Actividades:** "Excursión en la naturaleza", "Visita cultural", "Cena gourmet", etc.
     - **Alojamiento:** "Hotel", "Hostal", "Apartamento", etc.
 
-  - 4.2.3. SEO Tags and Meta Tags
-  - 4.2.4. Searching Systems
+- 4.2.3. SEO Tags and Meta Tags
+- 4.2.4. Searching Systems
     Se expondrán los sistemas de búsqueda implementados para ayudar a nuestros usuarios a encontrar la información que están buscando.
         - En el Landing Page, los sistemas de búsqueda son estáticos, ya que la barra de navegación guiará a los usuarios hacia la sección de su interés. Estos sistemas están diseñados para optimizar la experiencia del usuario, proporcionando acceso rápido y directo a la información relevante que están buscando. 
-  - 4.2.5. Navigation Systems
+- 4.2.5. Navigation Systems
 - 4.3. Landing Page UI Design
   - 4.3.1. Landing Page Wireframe
   - 4.3.2. Landing Page Mock-up
