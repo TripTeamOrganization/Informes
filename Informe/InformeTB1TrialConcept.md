@@ -121,7 +121,21 @@
     inclusive ocasionar deudas y aun así no asegurar un viaje totalmente gratificante.
 
   - 1.2.2. Lean UX Process
-    - 1.2.2.1. Lean UX Problem Statements
+    - 1.2.2.1. Lean UX Problem Statements  
+      Hacer un viaje es un gusto costoso y muchas veces se debe ampliar el presupuesto inicial para mejorar la experiencia. ¿Cómo podemos ayudar a que las
+      personas economicen sus viajes y aún así tener los mejores servicios posibles?
+
+      A pesar que existen grandes cadenas de hoteles, aerolíneas famosas y restaurantes mundialmente reconocidos, muchas veces no terminan de satisfacer a los
+      viajeros más exigentes. ¿Cómo se podría ayudar a las personas que buscan lujos a tener un viaje perfecto y a su gusto?
+
+      Notamos que la información en internet es abundante al igual que las opciones, las personas deben invertir grandes cantidades de tiempo en investigar qué
+      aerolíneas, hoteles y restaurantes escoger para su viaje y comparar sus precios, horarios y reseñas puede ser enredado y causar malas decisiones. ¿Existe
+      alguna forma de proporcionar toda la información y opciones que los viajeros necesitan en una sola plataforma donde las opciones se muestran según los
+      filtros ingresados?
+      
+      En ocaciones, cuando se tienen todas las opciones seleccionadas, ocurren cambios de hora, cancelaciones de vuelos o suspensión de atención y esta información
+      tarda en llegar al usuario. ¿Cómo podríamos evitar que los viajeros se vean obligados a cambiar sus planes a última hora?
+
     - 1.2.2.2. Lean UX Assumptions
     - 1.2.2.3. Lean UX Hypothesis Statements
     - 1.2.2.4. Lean UX Canvas
