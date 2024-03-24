@@ -221,6 +221,7 @@ Para el segmento objetivo de viajeros de lujo, nuestras preguntas exploran las p
 
 - 4.2.3. SEO Tags and Meta Tags
 - 4.2.4. Searching Systems
+
     Se expondrán los sistemas de búsqueda implementados para ayudar a nuestros usuarios a encontrar la información que están buscando.
         - En el Landing Page, los sistemas de búsqueda son estáticos, ya que la barra de navegación guiará a los usuarios hacia la sección de su interés. Estos sistemas están diseñados para optimizar la experiencia del usuario, proporcionando acceso rápido y directo a la información relevante que están buscando. 
 - 4.2.5. Navigation Systems
