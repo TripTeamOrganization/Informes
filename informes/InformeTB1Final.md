@@ -25,25 +25,24 @@ Ciclo 2023-02
 
 ### Team Members:
 
-| Member                        |    Code    |
-|:------------------------------|:----------:|
-| Asillo Mendoza, Julio Ernesto | u20201b482 |
-| Mamani Aro, Leydi Yaquelin    | u20201b745 |
-| Lopez Huaman, Edwin Abdias    | u20201b051 |
-| Ruiz Carhuamanca, Angie       | u20201b293 |
-| Antonio Salazar, Jhan Clinton | u20201b312 |
+| Nombre                            | Código       |
+|-----------------------------------|--------------|
+| Adrián Enrique Jesús Palma Obispo| u202210066   |
+| Paolo Del Carmen Martinez Villanueva | 202010039 |
+| Bárbara Antonella Espinoza Delgado| u201911727 |
+| Jeremy Joel Quispe Andia         | u202216279   |
 
 <br>
 
-Agosto del 2023
+Marzo del 2024
 
 <br><br>
 
 # Project Report Collaboration Insights
 
-- TP: Para esta entrega, realizamos como equipo las actividades correspondientes a los capítulos asignados en el siguiente repositorio dentro de nuestra organización de grupo:
+- TP: En esta etapa de entrega, hemos llevado a cabo en equipo las tareas designadas para los respectivos capítulos dentro del repositorio de nuestro grupo organizativo:
 
-  Link del repositorio del Informe Final: [Github - Informe Final LogicMinds](https://github.com/LogicMinds-Group)
+Enlace al repositorio del Informe Final:  [Github - Informe Final TripMate](LINK)
 
     <br>
 
@@ -189,24 +188,7 @@ Agosto del 2023
 # <a name="_toc145263583"></a>**REGISTRO DE VERSIONES DEL INFORME** 
 
 
-| Versión |   Fecha    |     Autor     | Descripción de modificación                                          |
-|:-------:|:----------:|:-------------:|:---------------------------------------------------------------------|
-|  1.1.1  | 19/08/2023 | Leydi  Mamani | Descripción de la problemática usando 5W y 2H                        |
-|  1.1.2  | 19/08/2023 | Leydi  Mamani | Presentación y análisis de competidores                              |
-|  1.1.3  | 19/08/2023 | Jhan Antonio  | Desarrollo del Canvas y diseño de entrevistas                        |
-|  1.1.4  | 05/09/2023 |  Edwin Lopez  | Desarrollo del empathy mapping, user mapping y user goal mapping.    |
-|  1.1.5  | 05/09/2023 |  Angie Ruiz   | Análisis de entrevistas                                              |
-|  1.1.6  | 08/09/2023 |  Edwin Lopez  | Diseño de wireframes y mocks-ups                                     |
-|  1.1.7  | 08/09/2023 | Julio Asillo  | Diseño completo de landing page                                      |
-|  1.1.8  | 09/09/2023 |  Edwin Lopez  | Diseño completo de la base y explicación de las entidades            |
-|  1.1.9  | 09/09/2023 | Jhan Antonio  | Diseño completo del diagrama de clase y explicación de sus atributos |
-| 1.1.10  | 09/09/2023 |  Angie Ruiz   | Documentación completa del sprint 1                                  |
-| 1.1.11  | 09/09/2023 | Julio Asillo  | Documentación del sprint 2                                           |
-|  2.1.1  | 20/09/2023 | Leydi Mamani  | Elaboración del sprint planning y spring backlog 2                   |
-|  2.1.2  | 20/09/2023 |  Angie Ruiz   | Desarrollo del formulario para publicar y guardar propiedades        |
-|  2.1.3  | 21/09/2023 | Jhan Antonio  | Documentación del sprint 2                                           |
-|  2.1.4  | 21/09/2023 |  Edwin Lopez  | Documentación del frontend para mensajería                           |
-|  2.1.4  | 21/09/2023 | Julio Asillo  | Documentación de todos los logros obtenidos en el sprint 2           |
+
 
 <br><br>
 
@@ -215,13 +197,6 @@ Agosto del 2023
 # <a name="_toc145263584"></a>**STUDENT OUTCOMES**
 ABET – EAC - Student Outcome 3 
 
-Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En el siguiente cuadro se describen las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
-
-
-|Criterio Específico|Acciones Realizadas|Conclusiones|
-| :- | :- | :- |
-|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|<p>Asillo Mendoza, Julio Ernesto – TB1</p><p>Para esta TB1 participé de manera activa y usé la plataforma de Discord y Github para administrar los avances.</p><p>Mamani Aro, Leydi Yaquelin - TB1</p><p>Como parte del equipo participé en cada una de las reuniones tanto virtuales (discord) y presenciales. Además, colaboré y me comuniqué constantemente con mi equipo para poder realizar la entrega del proyecto.</p><p>López Huaman Edwin Abdías – TB1</p><p>Para esta entrega realice todos los diagramas relacionados con el usuario y análisis de competidores.</p><p>Jhan Clinton – TB1</p><p>Durante el desarrollo de esta entrega realicé Sprint planning & backlog, class Diagram, DDD Software Architecture.</p><p>Ruiz Carhuamaca, Angie – TB1</p><p>En esta primera entrega participé en cada reunión programada y estuve en constante comunicación con mi equipo para el desarrollo de los capítulos.</p>|<p>TB1</p><p>Como equipo hemos trabajado de manera conjunta y colaborativa, realizando entregas en el tiempo estipulado de acuerdo con lo coordinado en cada reunión.</p><p></p><p>Para poder hacer un buen trabajo en equipo es importante tener una buena comunicación ya que así se pueden coordinar como hacer los trabajos de manera conjunta y eficiente</p><p>También es importante la responsabilidad de cada miembro del equipo porque se debe cumplir los trabajos asignados en los plazos acordados</p><p></p>|
-|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|<p>Asillo Mendoza, Julio Ernesto – TB1</p><p>Para esta entrega utilicé HTML y CSS para la creación de la landing page, incluyendo sitios web para el diseño de diagramas.</p><p>Mamani Aro, Leydi Yaquelin - TB1</p><p>Para este primer entregable realicé el cuadro de Lean UX Canvas, así como también efectué el registro de una entrevista y aporté en colaboración con mi equipo para realizar el sprint 1.</p><p>López Huaman Edwin Abdías – TB1</p><p>Para el desarrollo de esta entrega participé activamente en las reuniones de trabajo y el desarrollo de cada uno de los wireframes y diseño de landing page.</p><p>Antonio Salazar, Jhan Clinton– TB1</p><p>Realicé las user Stories, As-Is Scenario, Antecedentes, Problemática y Diseño de entrevistas.</p><p>Ruiz Carhuamaca, Angie – TB1</p><p>Para el desarrollo de esta entrega utilicé diferentes sitios web para realizar los wireframes y MockUps de la Landing Page, Web Applications y sus respectivos diagramas, participé en la realización de los Problem Statements y Product Backlog.</p>|Planear y conocer bien la estructura del software a desarrollar hace que su implementación sea más fácil.|
 
 
 
@@ -231,8 +206,6 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
 
 ## <a name="_toc131683579"></a><a name="_toc145263586"></a>Startup Profile
 ### 1.1.1. Description de la StartUp
-
-Nos encargamos de servir como nexo entre personas interesadas en rentar inmuebles y los interesados en alquilar dichas propiedades. Nuestros objetivos son facilitar el proceso de búsqueda, sistematizar el registro y seguimiento de las cláusulas del contrato. Además de proporcionar un informe general sobre los registros y comentarios de los usuarios.
 
 
 <div align=center>
