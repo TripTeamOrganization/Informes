@@ -633,9 +633,9 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
   - 5.1.3. Source Code Style Guide & Conventions
   - 5.1.4. Software Deployment Configuration
 - 5.2. Landing Page, Services & Applications Implementation
-  - 5.2.X. Sprintn
-    - 5.2.X.1. Sprint Planningn
-    - 5.2.X.2. Sprint Backlogn
+  - 5.2.X. Sprint 1
+    - 5.2.X.1. Sprint Planning 1
+    - 5.2.X.2. Sprint Backlog 1
     - 5.2.X.3. Development Evidence for Sprint Review
     - 5.2.X.4. Testing Suite Evidence for Sprint Review
     - 5.2.X.5. Execution Evidence for Sprint Review
@@ -644,8 +644,7 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
     - 5.2.X.8. Team Collaboration Insights during Sprint
 
 **Conclusiones**
-- Conclusiones y recomendaciones
-- Video About-the-Team
+
 **Bibliografía**
 
 **Anexos**
