@@ -191,7 +191,30 @@
       opción se la añadirá a un carrito de compras y en caso la compra no pueda ser realizada desde la plataforma se redirigirá al usuario a la página principal
       de la empresa y le mostrará al usuario la opción que eligió.
 
-    - 1.2.2.3. Lean UX Hypothesis Statements
+    - 1.2.2.3. Lean UX Hypothesis Statements  
+      **Creemos** que mostrar las opciones de aerolíneas, hoteles y restaurantes en una sola plataforma optimizará el tiempo de los viajeros al planificar sus viajes.  
+      **Sabremos que** estamos bien.  
+      **Cuando** la cantidad de tiempo promedio que se invierte en investigar opciones para un viaje se ha reducido.  
+
+      **Creemos** que el uso de filtros e ingreso de presupuesto para cada gasto del viaje hará que las personas eviten gastar de más en sus viajes.  
+      **Sabremos que** estamos bien.  
+      **Cuando** veamos que los usuarios viajan más a menudo y la cifra de endeudamientos por viaje se reduce.  
+
+      **Creemos** que mostrar opciones de aerolíneas, hoteles y restaurantes de calidad y mundialmente reconocidas hará que los viajeros sin límite de presupuesto
+      tengan viajes de lujo satisfactorios.  
+      **Sabremos que** estamos bien.  
+      **Cuando** veamos que estas personas dejan opiniones muy positivas de su experiencia de viaje.
+      
+      **Creemos** que informar de la manera más rápida posible a nuestros usuarios sobre cambios de hora de vuelo, suspensión de atención o cambios de horario en los
+      servicios elegidos hará que los viajeros eviten pasar un mal rato durante su viaje.  
+      **Sabremos que** estamos bien.  
+      **Cuando** veamos que las personas cambian de servicios previamente al viaje y no mientras ya están en su destino.  
+
+      **Creemos** que generar un itinerario de viaje a nuestros usuarios hará que los usuarios tengan un viaje más ordenado.  
+      **Sabremos que** ha resultado.  
+      **Cuando** los usuarios hagan un mayor uso de la opción de generar itinerario al usar por segunda vez la plataforma.  
+
+
     - 1.2.2.4. Lean UX Canvas
 - 1.3. Segmentos objetivo
     
