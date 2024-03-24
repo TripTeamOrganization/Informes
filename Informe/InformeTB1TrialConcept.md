@@ -254,6 +254,8 @@ Segmento objetivo 2: Viajeros de lujo
 - 2.3. Needfinding
 - 2.3.1. User Personas
 
+Ahora procederemos a crear los perfiles de User Persona para cada uno de nuestros segmentos objetivo. Utilizaremos la información recopilada de las entrevistas realizadas, centrándonos especialmente en los objetivos, motivaciones y desafíos específicos de los diferentes grupos que componen nuestra audiencia objetivo. Esto implica la creación de perfiles representativos tanto de las familias viajeras y aventureras como de los viajeros de lujo. Estos perfiles se basarán en datos demográficos, geográficos y psicográficos detallados, que incluyen aspectos como edad, nivel socioeconómico, intereses de viaje y preferencias de alojamiento, entre otros.
+
 Segmento objetivo 1: Julia Nuñez
 
 ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/7cbfe038-1f9a-4cc3-815e-7950e9bee350)
@@ -264,6 +266,8 @@ Segmento objetivo 2: Martin Casanova
 
 
 - 2.3.2. User Task Matrix
+
+En esta fase, nos centraremos en las actividades que los User Persona del segmento objetivo de Familias Viajeras desean llevar a cabo en la aplicación, personificados por Julia Nuñez. Del mismo modo, consideraremos las necesidades del segundo User Persona del segmento de Viajeros de Lujo, personificado por Martin Casanova. A continuación, detallamos las actividades que ambos realizan para lograr sus objetivos.
 
 Segmento objetivo 1: Julia Nuñez
 
@@ -290,6 +294,8 @@ Segmento objetivo 2: Martin Casanova
 
 - 2.3.3. User Journey Mapping
 
+Un mapa de viaje del usuario, también conocido como mapeo del recorrido del usuario, es una herramienta valiosa utilizada para visualizar y comprender en profundidad la trayectoria que un usuario sigue desde su primer encuentro con un producto o servicio hasta que logra su objetivo deseado. Este recurso es esencial para detectar áreas de mejora en la experiencia del usuario y asegurar que los procesos de la empresa estén perfectamente alineados con las necesidades y expectativas del usuario.
+
 Segmento objetivo 1: Julia Nuñez
 
 ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/48fae10f-cc5a-4b1c-aff8-4de90cf00f5d)
@@ -299,6 +305,8 @@ Segmento objetivo 2: Martin Casanova
 ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/4277733a-f9d9-467e-b4c9-bf3e9be88a4a)
 
 - 2.3.4. Empathy Mapping
+En esta sección se expone el Mapeo de Empatía de nuestros dos segmentos objetivos. Esta técnica se empleó para identificar a nuestra audiencia objetivo, comprender su contexto y sus necesidades, lo que nos permite entender su perspectiva y visión del mundo.
+
 Segmento objetivo 1: Julia Nuñez
 ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/a6ec1f85-77ca-4d58-8edb-2b961aa5c3da)
 
@@ -307,6 +315,8 @@ Segmento objetivo 2: Martin Casanova
 
 
 - 2.3.5. As-is Scenario Mapping
+
+
 
 Segmento objetivo 1: Julia Nuñez
 
