@@ -1,17 +1,4 @@
-- [Universidad Peruana de Ciencias Aplicadas](#universidad-peruana-de-ciencias-aplicadas)
-    - [INFORME DEL TRABAJO 1 (TB1)](#informe-del-trabajo-1-tb1)
-    - [Integrantes:](#integrantes)
-- [Marzo del 2024](#marzo-del-2024)
-    - [Registro de Informes](#registro-de-informes)
-    - [Project Report Collaboration Insights](#project-report-collaboration-insights)
-    - [Tabla de contenidos](#tabla-de-contenidos)
-    - [Capítulo I: Introducción](#cap%C3%ADtulo-i-introducci%C3%B3n)
-    - [Capítulo II: Requirements Elicitation & Analysis](#cap%C3%ADtulo-ii-requirements-elicitation--analysis)
-    - [Capítulo III: Requirements Specification](#cap%C3%ADtulo-iii-requirements-specification)
-    - [Capítulo IV: Product Design](#cap%C3%ADtulo-iv-product-design)
-    - [Capítulo V: Product Implementation, Validation & Deployment](#cap%C3%ADtulo-v-product-implementation-validation--deployment)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Universidad Peruana de Ciencias Aplicadas
 ### INFORME DEL TRABAJO 1 (TB1)
@@ -58,6 +45,26 @@
 
 
 ### Tabla de contenidos
+- [Universidad Peruana de Ciencias Aplicadas](#universidad-peruana-de-ciencias-aplicadas)
+    - [INFORME DEL TRABAJO 1 (TB1)](#informe-del-trabajo-1-tb1)
+    - [Integrantes:](#integrantes)
+- [Marzo del 2024](#marzo-del-2024)
+    - [Registro de Informes](#registro-de-informes)
+    - [Project Report Collaboration Insights](#project-report-collaboration-insights)
+    - [Tabla de contenidos](#tabla-de-contenidos)
+    - [Capítulo I: Introducción](#cap%C3%ADtulo-i-introducci%C3%B3n)
+    - [Capítulo II: Requirements Elicitation & Analysis](#cap%C3%ADtulo-ii-requirements-elicitation--analysis)
+    - [Capítulo III: Requirements Specification](#cap%C3%ADtulo-iii-requirements-specification)
+    - [Capítulo IV: Product Design](#cap%C3%ADtulo-iv-product-design)
+    - [Capítulo V: Product Implementation, Validation & Deployment](#cap%C3%ADtulo-v-product-implementation-validation--deployment)
+
+### Studen Outcome
+
+
+| Criterio específico | Acciones Realizadas | Conclusiones |
+|---------------------|----------------------|--------------|
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | 2024/03/22 | |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. | 2024/03/22 | |
 
 ### Capítulo I: Introducción
 - 1.1. Startup Profile
