@@ -45,11 +45,6 @@
 
 
 ### Tabla de contenidos
-- [Universidad Peruana de Ciencias Aplicadas](#universidad-peruana-de-ciencias-aplicadas)
-    - [INFORME DEL TRABAJO 1 (TB1)](#informe-del-trabajo-1-tb1)
-    - [Integrantes:](#integrantes)
-    - [Registro de Informes](#registro-de-informes)
-    - [Project Report Collaboration Insights](#project-report-collaboration-insights)
     - [Capítulo I: Introducción](#cap%C3%ADtulo-i-introducci%C3%B3n)
     - [Capítulo II: Requirements Elicitation & Analysis](#cap%C3%ADtulo-ii-requirements-elicitation--analysis)
     - [Capítulo III: Requirements Specification](#cap%C3%ADtulo-iii-requirements-specification)
