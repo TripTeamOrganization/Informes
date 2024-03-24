@@ -46,11 +46,6 @@
 
 ### Tabla de contenidos
 
-    - [Capítulo I: Introducción](#cap%C3%ADtulo-i-introducci%C3%B3n)
-    - [Capítulo II: Requirements Elicitation & Analysis](#cap%C3%ADtulo-ii-requirements-elicitation--analysis)
-    - [Capítulo III: Requirements Specification](#cap%C3%ADtulo-iii-requirements-specification)
-    - [Capítulo IV: Product Design](#cap%C3%ADtulo-iv-product-design)
-    - [Capítulo V: Product Implementation, Validation & Deployment](#cap%C3%ADtulo-v-product-implementation-validation--deployment)
 
 ### Studen Outcome
 
