@@ -621,6 +621,8 @@ Segmento Objetivo #2: Viajeros de lujo
 
 - 3.3. Impact Mapping
 
+El Impact Mapping es una metodología de planificación estratégica que se centra en identificar y alinear los objetivos comerciales y las necesidades del usuario con las acciones concretas a realizar en el desarrollo de software. Se utiliza para visualizar y comunicar cómo las características y funcionalidades de un producto pueden contribuir al logro de objetivos empresariales más amplios.
+
 Segmento Objetivo #1: Familias Viajeras y Aventureras
 
 ![image](https://github.com/TripTeamOrganization/Informes/assets/164519824/8f05b34f-95bd-4ada-98ec-20085f71c1c5)
