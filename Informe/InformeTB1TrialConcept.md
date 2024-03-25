@@ -75,6 +75,14 @@
   páginas o descuentos exclusivos los cuales serán proporcionados por las empresas y cadenas con las que formaremos convenios.
 
   - 1.1.2. Perfiles de integrantes del equipo
+
+| Integrante                           | Descripción del Perfil                                                                                          |
+|-------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| Adrián Enrique Jesús Palma Obispo   | Curso la carrera de Ingeniería de Software de 5to Ciclo. Experiencia trabajando en equipo, aportando en diversas áreas y ayudando en tecnologías. Capacidad para aprender rápido. Curioso y puntual. |
+| Bárbara Antonella Espinoza Delgado  | Estudiante de Ingeniería de Software de 6to ciclo. Experiencia en dirección de grupos, SQL, redacción, búsqueda de información, exposiciones y cumplimiento de tareas. Estricta y puntual. |
+| Jeremy Quispe                        | Cursando el 3er ciclo de Ingeniería de Software en la UPC. Interés en crear soluciones tecnológicas con impacto positivo en la sociedad. Agradece a la universidad por brindar recursos para su desarrollo. |
+| Leonel Alfaro Cumba                 | Estudiante de Ingeniería de Software con gran interés en la tecnología y la innovación. Motivado por ampliar conocimientos y desarrollarse constantemente. |
+| Paolo Del Carmen Martinez Villanueva | Estudiante del 6to ciclo de Ingeniería de Software. Conocimientos intermedios en programación. Responsable, ordenado y trabajador. Comprometido a apoyar al equipo y adquirir nuevos conocimientos. |
 - 1.2. Solution Profile
   - 1.2.1. Antecedentes y problemática  
     **¿Cuál es el problema?**
