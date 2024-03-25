@@ -868,6 +868,11 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
       ![image](https://github.com/TripTeamOrganization/Informes/assets/164519824/80bc9459-2cdd-40de-851b-d23d9eb62d4b)
 
   - 5.1.2. Source Code Management
+
+  Para todo el ciclo de vida de nuestro proyecto, utilizaremos el sistema de control de versiones Git donde la evidencia será visualizada y registrada en la plataforma de GitHub de nuestra organización. Se podrá visualizar todos los cambios y modificaciones hechos por cada uno de los miembros del grupo. 
+
+  GitHub URL: https://github.com/TripTeamOrganization 
+
   - 5.1.3. Source Code Style Guide & Conventions
   - 5.1.4. Software Deployment Configuration
 - 5.2. Landing Page, Services & Applications Implementation
