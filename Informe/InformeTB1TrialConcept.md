@@ -875,6 +875,7 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
     GitHub URL: https://github.com/TripTeamOrganization 
 
   - 5.1.3. Source Code Style Guide & Conventions
+  
     **HTML:** Para el lenguaje HTML, nos planteamos utilizar las convenciones descritas en la guía “HTML Style Guide and Coding Conventions”:
 
       1. Usar nombres de elementos en minúsculas
