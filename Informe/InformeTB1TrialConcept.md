@@ -63,7 +63,9 @@
 ### Capítulo I: Introducción
 - 1.1. Startup Profile
   - 1.1.1. Descripción de la Startup  
-  Nuestra startup TripTeam es una plataforma que busca ayudar a las personas viajeras con
+  TripTeam es una startup conformada por 5 integrantes de la carrera de Ingenieria de Software de 5to y 6to ciclo de la Universidad Peruana de Ciencias Aplicadas.
+Nuesta misión es crear plataformas web con el proposito de facilitar y organizar las actividades de las personas y ayudar a nuestros usuarios a optimizar su tiempo, mientras que nuesta visión es ser la primera opción de ayuda web de los usuarios.  
+En esta oportunidad hemos realizado una plataforma web que busca ayudar a las personas viajeras con
   los problemas de la desorganización, gastos innecesarios, pérdida de tiempo y no optar por las mejores opciones. Por ese motivo, nuestro objetivo como startup
   se enfoca en ayudar a los viajeros a tener un viaje organizado y satisfactorio.
   Para lograrlo, contamos con una plataforma que, mediante filtros, mostrará a los usuarios las aerolíneas, hoteles, restaurantes y actividades de
@@ -72,7 +74,7 @@
   horas y tantear, optimizando el tiempo del usuario. También se le hará un itinerario ordenado según las horas de vuelo y horarios de los restaurantes o
   lugares de interés los cuales estarán sujetos a cambios repentinos por motivos externos y serán notificados por nosotros a los usuarios en el menor tiempo
   posible. que el usuario puede tomar como recomendación para cada día de estancia. Además, se mostrarán las promociones que ofrecen las empresas desde sus
-  páginas o descuentos exclusivos los cuales serán proporcionados por las empresas y cadenas con las que formaremos convenios.
+  páginas o descuentos exclusivos los cuales serán proporcionados por las empresas y cadenas con las que formaremos convenios o acuerdos para mostrar a los usuarios sus servicios a cambio de comisiones.
 
   - 1.1.2. Perfiles de integrantes del equipo
 
