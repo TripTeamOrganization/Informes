@@ -874,6 +874,26 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
   GitHub URL: https://github.com/TripTeamOrganization 
 
   - 5.1.3. Source Code Style Guide & Conventions
+
+  **HTML:** Para el lenguaje HTML, nos planteamos utilizar las convenciones descritas en la guía “HTML Style Guide and Coding Conventions”:
+
+    1. Usar nombres de elementos en minúsculas
+    2. Cerrar todos los elementos HTML
+    3. Usar nombres de atributos en minúsculas 
+    4. Usar atributos en imágenes
+    5. Evitar líneas de código largas 
+    6. Usar sintaxis simple para los enlaces para las hojas de estilo y para cargar script externos
+
+  **CSS:** Para el lenguaje CSS, utilizaremos las siguientes prácticas para alcanzar un código coherente, sostenible y ordenado:
+
+    1. Utilizar minúsculas y guiones para los nombres de propiedades
+    2. Utilizar un espacio después de los dos puntos y un punto y coma para separar pares propiedad-valor.
+    3. Agrupar reglas CSS relacionadas y separarlas con una línea en blanco.
+    4. Utilizar nombres de clases que sean descriptivos y reflejen el propósito del elemento.
+    5. Separar los nombres de las clases y ID con un guión
+
+  **Gherkin:** Es un lenguaje de dominio específico diseñado para escribir especificaciones legibles por humanos que describen el comportamiento del software en un formato estructurado y comprensible. En busca de una buena práctica, se utilizarán saltos de línea para mejorar el orden de los escenarios y poder diferenciarlos de forma más óptima. Además, se escribirán los escenarios bajo el formato “Given”, “When”, “Then”, “And” para definir claramente el contexto, la acción y el resultado esperado.
+
   - 5.1.4. Software Deployment Configuration
 - 5.2. Landing Page, Services & Applications Implementation
   - 5.2.X. Sprint 1
