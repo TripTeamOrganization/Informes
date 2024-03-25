@@ -26,6 +26,7 @@
 | Paolo Del Carmen Martinez Villanueva | 202010039 |
 | Bárbara Antonella Espinoza Delgado| u201911727 |
 | Jeremy Joel Quispe Andia         | u202216279   |
+| Leonel Alfaro Cumba         | u20201A930   |
 
 ### Marzo del 2024
 
