@@ -830,6 +830,43 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
 ### Capítulo V: Product Implementation, Validation & Deployment
 - 5.1. Software Configuration Management
   - 5.1.1. Software Development Environment Configuration
+
+    **Requirements Management**
+
+      1. **Miro:** Plataforma en línea que permite la colaboración en tiempo real a través de pizarras digitales. Ofrece herramientas para la creación de diagramas, mapas mentales, diagramas de flujo, y más. En este caso, utilizamos Miro para la elaboración de As-Is y To-Be Scenarios Mapping.
+
+      ![image](https://github.com/TripTeamOrganization/Informes/assets/164519824/c6a157d4-5891-4df6-9a52-4155c04d3c37)
+
+      2. **UXPressia:** Herramienta especializada en la creación de mapas de impacto de experiencia de usuario (UX). En este caso, utilizamos UXPressia para la elaboración del Impact Mapping para cada segmento objetivo.
+
+      ![image](https://github.com/TripTeamOrganization/Informes/assets/164519824/8337a3ad-5689-4f7c-9a67-1b7f6df8d95b)
+
+      3. **Figma:** Herramienta de diseño de interfaces de usuario (UI) y prototipado colaborativo basada en la nube. En este caso, utilizamos Figma para la elaboración del prototipo de la aplicación.
+
+      ![image](https://github.com/TripTeamOrganization/Informes/assets/164519824/c4a55064-caee-464b-bdd8-908578c23e5f)
+
+      4. **Trello**: Herramienta de gestión de proyectos basada en tableros. En este caso, utilizamos Trello para visualizar y actualizar el estado de las tareas e historias de usuario pertenecientes al sprint a desarrollar.
+
+      ![image](https://github.com/TripTeamOrganization/Informes/assets/164519824/6710a4bb-bc36-4e42-8417-57057bed3146)
+
+      **Software Development**
+
+      1. **Visual Studio Code:** Editor de código fuente desarrollado por Microsoft que ofrece una amplia gama de funcionalidades para programadores. En este caso, utilizamos Visual Studio Code como nuestro entorno de desarrollo integrado principal para escribir, editar y depurar el código HTML y CSS de nuestro proyecto.
+
+      ![image](https://github.com/TripTeamOrganization/Informes/assets/164519824/4e2f9613-5067-4294-89e2-e3426ca7605a)
+
+      2. **HTML:** HTML (Hypertext Markup Language) es el lenguaje estándar utilizado para crear y diseñar páginas web. En este caso, utilizamos el lenguaje HTML para la creación y presentación de nuestra página web.
+
+      ![image](https://github.com/TripTeamOrganization/Informes/assets/164519824/d4a632ca-5dc9-4c77-b51a-3d1839e5476b)
+
+      3. **CSS:** CSS (Cascading Style Sheets) es un lenguaje de diseño utilizado para estilizar la presentación de documentos HTML.
+
+      ![image](https://github.com/TripTeamOrganization/Informes/assets/164519824/2ff3321a-5c8f-4dc9-804e-cd6fa4027417)
+
+      4. **GitHub:** Plataforma de desarrollo colaborativo basada en la nube que utiliza el sistema de control de versiones Git. Permite a los desarrolladores alojar, revisar y colaborar en proyectos de software. En este caso, utilizamos GitHub como un repositorio remoto para almacenar y gestionar el código fuente de nuestro proyecto.
+
+      ![image](https://github.com/TripTeamOrganization/Informes/assets/164519824/80bc9459-2cdd-40de-851b-d23d9eb62d4b)
+
   - 5.1.2. Source Code Management
   - 5.1.3. Source Code Style Guide & Conventions
   - 5.1.4. Software Deployment Configuration
