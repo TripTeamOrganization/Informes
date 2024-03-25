@@ -895,6 +895,17 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
   **Gherkin:** Es un lenguaje de dominio específico diseñado para escribir especificaciones legibles por humanos que describen el comportamiento del software en un formato estructurado y comprensible. En busca de una buena práctica, se utilizarán saltos de línea para mejorar el orden de los escenarios y poder diferenciarlos de forma más óptima. Además, se escribirán los escenarios bajo el formato “Given”, “When”, “Then”, “And” para definir claramente el contexto, la acción y el resultado esperado.
 
   - 5.1.4. Software Deployment Configuration
+
+  **Landing Page Deployment**
+
+    Para desplegar nuestro landing page, utilizamos GitHub. Para esto es necesario contar con una cuenta personal, una organización y un repositorio al cual cargar los documentos. En este repositorio, se puede observar lo siguiente:
+
+      - Una carpeta “html” con el archivo “index.html” el cual contiene nuestra landing page.
+      - Una carpeta “css” la cual contiene nuestra hoja de estilos “style.css”
+      - Una carpeta “images” la cual contiene las imágenes utilizadas en el landing page 
+      - Una carpeta “js” la cual contiene nuestros scripts en un archivo “index.js” 
+
+
 - 5.2. Landing Page, Services & Applications Implementation
   - 5.2.X. Sprint 1
     - 5.2.X.1. Sprint Planning 1
