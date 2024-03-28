@@ -508,11 +508,11 @@ Un mapa de viaje del usuario, también conocido como mapeo del recorrido del usu
 
 Segmento objetivo 1: Julia Nuñez
 
-![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/92628c79-02de-4748-912f-7e07873eb2d3)
+![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/a2d90813-164b-4598-90a0-9bdecbb4c395)
 
 Segmento objetivo 2: Martin Casanova
 
-![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/7a29247e-5cf1-463f-8535-46fd078f003e)
+![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/7baacfc6-3819-4067-ae7d-e808e68230fd)
 
 - 2.3.4. Empathy Mapping
 En esta sección se expone el Mapeo de Empatía de nuestros dos segmentos objetivos. Esta técnica se empleó para identificar a nuestra audiencia objetivo, comprender su contexto y sus necesidades, lo que nos permite entender su perspectiva y visión del mundo.
