@@ -468,11 +468,11 @@ Ahora procederemos a crear los perfiles de User Persona para cada uno de nuestro
 
 Segmento objetivo 1: Julia Nuñez
 
-![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/7cbfe038-1f9a-4cc3-815e-7950e9bee350)
+![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/f6280515-826e-4297-96d2-b1b1af2e796b)
 
 Segmento objetivo 2: Martin Casanova
 
-![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/1eb63308-e526-426f-a0e2-f8b5a16352b6)
+![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/74c24f2b-8e87-495d-a29d-05210456d6cf)
 
 
 - 2.3.2. User Task Matrix
@@ -508,24 +508,23 @@ Un mapa de viaje del usuario, también conocido como mapeo del recorrido del usu
 
 Segmento objetivo 1: Julia Nuñez
 
-![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/48fae10f-cc5a-4b1c-aff8-4de90cf00f5d)
+![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/92628c79-02de-4748-912f-7e07873eb2d3)
 
 Segmento objetivo 2: Martin Casanova
 
-![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/4277733a-f9d9-467e-b4c9-bf3e9be88a4a)
+![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/7a29247e-5cf1-463f-8535-46fd078f003e)
 
 - 2.3.4. Empathy Mapping
 En esta sección se expone el Mapeo de Empatía de nuestros dos segmentos objetivos. Esta técnica se empleó para identificar a nuestra audiencia objetivo, comprender su contexto y sus necesidades, lo que nos permite entender su perspectiva y visión del mundo.
 
 Segmento objetivo 1: Julia Nuñez
-![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/a6ec1f85-77ca-4d58-8edb-2b961aa5c3da)
+![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/96253bbc-28eb-46b1-badc-9b08939d9da4)
 
 Segmento objetivo 2: Martin Casanova
-![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/0d7adb09-340b-4109-aaea-3e018ba98e3f)
+![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/0b9d748d-d567-4210-a2fe-86e4f829b8db)
 
 
 - 2.3.5. As-is Scenario Mapping
-
 
 
 Segmento objetivo 1: Julia Nuñez
