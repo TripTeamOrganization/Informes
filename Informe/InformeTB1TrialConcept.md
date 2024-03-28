@@ -529,13 +529,11 @@ Segmento objetivo 2: Martin Casanova
 
 Segmento objetivo 1: Julia Nuñez
 
-![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/8a3acc6a-d95c-469d-87dc-4a00a060b8e6)
-
+![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/3f05f9e5-65fc-422b-86ff-3673418777d0)
 
 Segmento objetivo 2: Martin Casanova
 
-![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/32f038b7-9009-427b-a86c-0575b177d809)
-
+![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/cc2ea0c9-1098-4e83-924d-1b0d08008ce4)
 
 - 2.4. Ubiquitous Language
 
