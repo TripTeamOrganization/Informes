@@ -722,6 +722,8 @@ Segmento Objetivo #2: Viajeros lujosos
     
   ![Imagen6](https://github.com/TripTeamOrganization/Informes/assets/89095594/40303d5c-f56f-4473-8685-68f7986190fb)
   ![Imagen7](https://github.com/TripTeamOrganization/Informes/assets/89095594/7ff446be-1c01-4f03-a9a1-cc6be9cccbae)
+  ![Imagen8](https://github.com/TripTeamOrganization/Informes/assets/89095594/8484a7b8-f6c5-468a-ae06-b8f905435d57)
+  ![Imagen9](https://github.com/TripTeamOrganization/Informes/assets/89095594/dd6deadb-cf22-44d5-8ff6-2c58c9fa4a99)
 
  
   - 
