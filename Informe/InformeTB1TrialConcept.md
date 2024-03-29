@@ -702,6 +702,8 @@ Segmento Objetivo #2: Viajeros lujosos
     Se expondrán los sistemas de búsqueda implementados para ayudar a nuestros usuarios a encontrar la información que están buscando.
         - En el Landing Page, los sistemas de búsqueda son estáticos, ya que la barra de navegación guiará a los usuarios hacia la sección de su interés. Estos sistemas están diseñados para optimizar la experiencia del usuario, proporcionando acceso rápido y directo a la información relevante que están buscando. 
 - 4.2.5. Navigation Systems
+  
+     En cuanto a los sistemas de navegación, TripTeam ha implementado un enfoque intuitivo y fácil de usar para guiar a los usuarios a través de nuestra plataforma. Nuestra barra de navegación está diseñada para dirigir de manera eficiente a los usuarios hacia las secciones de su interés, facilitando la exploración y la búsqueda de información relevante.
 - 4.3. Landing Page UI Design
 - 4.3.1. Landing Page Wireframe
     
