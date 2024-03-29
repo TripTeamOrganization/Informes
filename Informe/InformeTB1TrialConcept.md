@@ -713,6 +713,8 @@ Segmento Objetivo #2: Viajeros lujosos
 
 
   ![Imagen1](https://github.com/TripTeamOrganization/Informes/assets/89095594/c07127af-579d-4eb6-a24b-0c540b2abe0d)
+  ![Imagen2](https://github.com/TripTeamOrganization/Informes/assets/89095594/b696399b-4eec-45c6-85e2-c282b092591d)
+  
 
   - 4.3.2. Landing Page Mock-up
 - 4.4. Web Applications UX/UI Design
