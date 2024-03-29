@@ -720,13 +720,16 @@ Segmento Objetivo #2: Viajeros lujosos
  
   - 4.3.2. Landing Page Mock-up
     
+  - El Landing Page se desarrolló utilizando un prototipo en forma de Mock Up. A continuación, te presentamos una vista previa de nuestra propuesta:
+    
   ![Imagen6](https://github.com/TripTeamOrganization/Informes/assets/89095594/40303d5c-f56f-4473-8685-68f7986190fb)
   ![Imagen7](https://github.com/TripTeamOrganization/Informes/assets/89095594/7ff446be-1c01-4f03-a9a1-cc6be9cccbae)
   ![Imagen8](https://github.com/TripTeamOrganization/Informes/assets/89095594/8484a7b8-f6c5-468a-ae06-b8f905435d57)
   ![Imagen9](https://github.com/TripTeamOrganization/Informes/assets/89095594/dd6deadb-cf22-44d5-8ff6-2c58c9fa4a99)
-
+  
+https://www.figma.com/file/9P8ofdPg7ra5Q4hRaNfbiy/Untitled?type=design&node-id=0-1&mode=design&t=X9NqDuXiAid9yx61-0
  
-  - 
+
 - 4.4. Web Applications UX/UI Design
   - 4.4.1. Web Applications Wireframes
   - 4.4.2. Web Applications Wireflow Diagrams
