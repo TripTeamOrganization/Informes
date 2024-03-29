@@ -709,6 +709,17 @@ Segmento Objetivo #2: Viajeros lujosos
 - 4.2.5. Navigation Systems
 - 4.3. Landing Page UI Design
   - 4.3.1. Landing Page Wireframe
+
+  -En este apartado, se describe la estructura del sitio de nuestro proyecto. Con el fin de proporcionar una visión más clara del contenido que estará disponible en la plataforma. Esta es una representación en forma de bosquejo para Tripmate. 
+  
+
+  ![Imagen1](https://github.com/TripTeamOrganization/Informes/assets/89095594/c07127af-579d-4eb6-a24b-0c540b2abe0d)
+  ![Imagen2](https://github.com/TripTeamOrganization/Informes/assets/89095594/b696399b-4eec-45c6-85e2-c282b092591d)
+  ![Imagen3](https://github.com/TripTeamOrganization/Informes/assets/89095594/b4fe9e16-b1bc-4913-be0f-e02589544def)
+  ![Imagen4](https://github.com/TripTeamOrganization/Informes/assets/89095594/1cd39301-5502-4ad6-9c05-1ea10574c83c)
+  ![Imagen5](https://github.com/TripTeamOrganization/Informes/assets/89095594/ac7a845e-1da5-4557-a76d-b1c7ea0d0df1)
+
+
   - 4.3.2. Landing Page Mock-up
 - 4.4. Web Applications UX/UI Design
   - 4.4.1. Web Applications Wireframes
