@@ -708,9 +708,9 @@ Segmento Objetivo #2: Viajeros lujosos
         - En el Landing Page, los sistemas de búsqueda son estáticos, ya que la barra de navegación guiará a los usuarios hacia la sección de su interés. Estos sistemas están diseñados para optimizar la experiencia del usuario, proporcionando acceso rápido y directo a la información relevante que están buscando. 
 - 4.2.5. Navigation Systems
 - 4.3. Landing Page UI Design
-  - 4.3.1. Landing Page Wireframe
-  -En este apartado, se describe la estructura del sitio de nuestro proyecto. Con el fin de proporcionar una visión más clara del contenido que estará disponible en la plataforma. Esta es una representación en forma de bosquejo para Tripmate. 
-
+- 4.3.1. Landing Page Wireframe
+    
+  En este apartado, se describe la estructura del sitio de nuestro proyecto. Con el fin de proporcionar una visión más clara del contenido que estará disponible en la plataforma. Esta es una representación en forma de bosquejo para Tripmate. 
 
   ![Imagen1](https://github.com/TripTeamOrganization/Informes/assets/89095594/c07127af-579d-4eb6-a24b-0c540b2abe0d)
   ![Imagen2](https://github.com/TripTeamOrganization/Informes/assets/89095594/b696399b-4eec-45c6-85e2-c282b092591d)
@@ -720,7 +720,7 @@ Segmento Objetivo #2: Viajeros lujosos
  
 - 4.3.2. Landing Page Mock-up
     
-  - El Landing Page se desarrolló utilizando un prototipo en forma de Mock Up. A continuación, te presentamos una vista previa de nuestra propuesta:
+  El Landing Page se desarrolló utilizando un prototipo en forma de Mock Up. A continuación, te presentamos una vista previa de nuestra propuesta:
     
   ![Imagen6](https://github.com/TripTeamOrganization/Informes/assets/89095594/40303d5c-f56f-4473-8685-68f7986190fb)
   ![Imagen7](https://github.com/TripTeamOrganization/Informes/assets/89095594/7ff446be-1c01-4f03-a9a1-cc6be9cccbae)
