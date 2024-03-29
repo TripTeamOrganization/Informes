@@ -1,6 +1,6 @@
 
 
-# Universidad Peruana de Ciencias Aplicadas
+# Universidad Peruana de Ciencias Aplicadas  
 ### INFORME DEL TRABAJO 1 (TB1)
 ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/c8a24a74-515a-436b-b7b9-ea1b2e418e60)
 
@@ -709,6 +709,11 @@ Segmento Objetivo #2: Viajeros lujosos
 - 4.2.5. Navigation Systems
 - 4.3. Landing Page UI Design
   - 4.3.1. Landing Page Wireframe
+  -En este apartado, se describe la estructura del sitio de nuestro proyecto. Con el fin de proporcionar una visión más clara del contenido que estará disponible en la plataforma. Esta es una representación en forma de bosquejo para Tripmate. 
+
+
+  ![Imagen1](https://github.com/TripTeamOrganization/Informes/assets/89095594/c07127af-579d-4eb6-a24b-0c540b2abe0d)
+
   - 4.3.2. Landing Page Mock-up
 - 4.4. Web Applications UX/UI Design
   - 4.4.1. Web Applications Wireframes
