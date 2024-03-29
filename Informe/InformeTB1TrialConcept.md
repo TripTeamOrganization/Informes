@@ -405,15 +405,16 @@ Segmento objetivo 1: Familias Viajeras y Aventureras
 | **Momento de inicio:**         | 0:03                                                       |
 | **Duración:**                  | 3:59                                                       |
 
-| Entrevistado N°2: Andrés Valle | <img src="URL_DE_LA_IMAGEN" alt="image" width="40" height="40"> |
+| Entrevistado N°3: Isaak Sánches | <img src="https://github.com/TripTeamOrganization/Informes/assets/89095594/3b50ca6d-dab8-4329-b6d6-7d142aecade1" alt="image" width="200" height="150"> |
 |--------------------------------|------------------------------------------------------------|
-| **Nombre:**                    | Andrés Valle                                               |
-| **Edad:**                      | 32                                                         |
+| **Nombre:**                    | Isaak Sánches                                              |
+| **Edad:**                      | 28                                                        |
 | **Sexo:**                      | Masculino                                                  |
-| **Ocupación:**                 | Ingeniero Aeronáutico                                      |
-| **Entrevista:**                | [Link](https://www.youtube.com/watch?v=DpATSL0ElpE)       |
-| **Momento de inicio:**         | 0:04                                                       |
-| **Duración:**                  | 3:50                                                       |
+| **Ocupación:**                 | Electrónico                                      |
+| **Entrevista:**                | [Link]([https://www.youtube.com/watch?v=DpATSL0ElpE](https://www.youtube.com/watch?v=JSYodc8w27U)       |
+| **Momento de inicio:**         | 0:02                                                       |
+| **Duración:**                  | 8:21                                                       |
+
 
 
 | Entrevistado N°3: Andrés Valle | <img src="URL_DE_LA_IMAGEN" alt="image" width="40" height="40"> |
@@ -425,6 +426,9 @@ Segmento objetivo 1: Familias Viajeras y Aventureras
 | **Entrevista:**                | [Link](https://www.youtube.com/watch?v=DpATSL0ElpE)       |
 | **Momento de inicio:**         | 0:04                                                       |
 | **Duración:**                  | 3:50                                                       |
+
+
+
 
 Segmento objetivo 2: Viajeros de lujo
 
@@ -439,16 +443,6 @@ Segmento objetivo 2: Viajeros de lujo
 | Duración:                  | 3:50                                                                                                                  |
 
 
-| Entrevistado N°5: Andrés Valle | <img src="URL_DE_LA_IMAGEN" alt="image" width="40" height="40"> |
-|--------------------------------|------------------------------------------------------------|
-| **Nombre:**                    | Andrés Valle                                               |
-| **Edad:**                      | 32                                                         |
-| **Sexo:**                      | Masculino                                                  |
-| **Ocupación:**                 | Ingeniero Aeronáutico                                      |
-| **Entrevista:**                | [Link](https://www.youtube.com/watch?v=DpATSL0ElpE)       |
-| **Momento de inicio:**         | 0:04                                                       |
-| **Duración:**                  | 3:50                                                       |
-
 
 | Entrevistado N°6: Andrés Valle | <img src="URL_DE_LA_IMAGEN" alt="image" width="40" height="40"> |
 |--------------------------------|------------------------------------------------------------|
@@ -459,6 +453,8 @@ Segmento objetivo 2: Viajeros de lujo
 | **Entrevista:**                | [Link](https://www.youtube.com/watch?v=DpATSL0ElpE)       |
 | **Momento de inicio:**         | 0:04                                                       |
 | **Duración:**                  | 3:50                                                       |
+
+
 
 
 - 2.2.3. Análisis de entrevistas
