@@ -78,10 +78,10 @@ En esta oportunidad hemos realizado una plataforma web que busca ayudar a las pe
 
   - 1.1.2. Perfiles de integrantes del equipo
 
-| Integrante                           | Descripción del Perfil                                                                                          |
-|-------------------------------------|------------------------------------------------------------------------------------------------------------------|
-| Adrián Enrique Jesús Palma Obispo   | Curso la carrera de Ingeniería de Software de 5to Ciclo. Experiencia trabajando en equipo, aportando en diversas áreas y ayudando en tecnologías. Capacidad para aprender rápido. Curioso y puntual. |
-| Bárbara Antonella Espinoza Delgado  | Estudiante de Ingeniería de Software de 6to ciclo. Experiencia en dirección de grupos, SQL, redacción, búsqueda de información, exposiciones y cumplimiento de tareas. Estricta y puntual. |
+| Integrante                           | Foto | Descripción del Perfil                                                                                          |
+|-------------------------------------|-------|-----------------------------------------------------------------------------------------------------------|
+| Adrián Enrique Jesús Palma Obispo|![image](https://github.com/TripTeamOrganization/Informes/blob/08ba60c8718c63926c9f6d58141079a2f02311bc/imagenes/FotoAdrian.png) |Curso la carrera de Ingeniería de Software de 5to Ciclo. Experiencia trabajando en equipo, aportando en diversas áreas y ayudando en tecnologías. Capacidad para aprender rápido. Curioso y puntual. |
+| Bárbara Antonella Espinoza Delgado  |![image](https://github.com/TripTeamOrganization/Informes/blob/cf842b4217d5264fe64a9ef00c8dfe65c96c9aa0/imagenes/FotoMesso.png) | Estudiante de Ingeniería de Software de 6to ciclo. Experiencia en dirección de grupos, SQL, redacción, búsqueda de información, exposiciones y cumplimiento de tareas. Estricta y puntual. |
 | Jeremy Quispe                        | Cursando el 5to ciclo de Ingeniería de Software en la UPC. Interés en crear soluciones tecnológicas con impacto positivo en la sociedad. Agradece a la universidad por brindar recursos para su desarrollo. |
 | Leonel Alfaro Cumba                 | Estudiante de Ingeniería de Software con gran interés en la tecnología y la innovación. Motivado por ampliar conocimientos y desarrollarse constantemente. |
 | Paolo Del Carmen Martinez Villanueva | Estudiante del 6to ciclo de Ingeniería de Software. Conocimientos intermedios en programación. Responsable, ordenado y trabajador. Comprometido a apoyar al equipo y adquirir nuevos conocimientos. |
