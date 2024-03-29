@@ -411,7 +411,7 @@ Segmento objetivo 1: Familias Viajeras y Aventureras
 | **Edad:**                      | 28                                                        |
 | **Sexo:**                      | Masculino                                                  |
 | **Ocupación:**                 | Electrónico                                      |
-| **Entrevista:**                | [Link]([https://www.youtube.com/watch?v=DpATSL0ElpE](https://www.youtube.com/watch?v=JSYodc8w27U)       |
+| **Entrevista:**                | [Link](https://www.youtube.com/watch?v=JSYodc8w27U)        |
 | **Momento de inicio:**         | 0:02                                                       |
 | **Duración:**                  | 8:21                                                       |
 
@@ -691,18 +691,7 @@ Segmento Objetivo #2: Viajeros lujosos
 - 4.2. Information Architecture
 - 4.2.1. Organization Systems
 - **Organización Secuencial (Step-by-Step to Accomplish):** Se usa en el proceso de reserva de alojamiento y actividades, guiando a los usuarios paso a paso para completar la reserva de manera eficiente, de forma que se complete mediante una serie de pasos consecuentes y ordenados.
-- 4.2.2. Labeling Systems
-    Se procura evitar confusiones y que las etiquetas utilizadas sean descriptivas y simples:
-    - **Itinerarios:** "Aventura", "Cultura", "Relax", etc.
-    - **Actividades:** "Excursión en la naturaleza", "Visita cultural", "Cena gourmet", etc.
-    - **Alojamiento:** "Hotel", "Hostal", "Apartamento", etc.
 
-- 4.2.3. SEO Tags and Meta Tags
-- 4.2.4. Searching Systems
-
-    Se expondrán los sistemas de búsqueda implementados para ayudar a nuestros usuarios a encontrar la información que están buscando.
-        - En el Landing Page, los sistemas de búsqueda son estáticos, ya que la barra de navegación guiará a los usuarios hacia la sección de su interés. Estos sistemas están diseñados para optimizar la experiencia del usuario, proporcionando acceso rápido y directo a la información relevante que están buscando. 
-- 4.2.5. Navigation Systems
 - 4.3. Landing Page UI Design
 - 4.3.1. Landing Page Wireframe
     
