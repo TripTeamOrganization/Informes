@@ -718,7 +718,7 @@ Segmento Objetivo #2: Viajeros lujosos
   ![Imagen4](https://github.com/TripTeamOrganization/Informes/assets/89095594/1cd39301-5502-4ad6-9c05-1ea10574c83c)
   ![Imagen5](https://github.com/TripTeamOrganization/Informes/assets/89095594/ac7a845e-1da5-4557-a76d-b1c7ea0d0df1)
  
-  - 4.3.2. Landing Page Mock-up
+- 4.3.2. Landing Page Mock-up
     
   - El Landing Page se desarrolló utilizando un prototipo en forma de Mock Up. A continuación, te presentamos una vista previa de nuestra propuesta:
     
