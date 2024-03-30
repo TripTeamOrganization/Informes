@@ -410,7 +410,7 @@ Segmento objetivo 1: Familias Viajeras y Aventureras
 
 | Entrevistado N°2: Isabel Martinez |<img src="https://github.com/TripTeamOrganization/Informes/assets/89095594/9e5ec55e-d03d-4e64-99e8-82447b673027" alt="Andrés Valle" width="150" height="160">|
 |--------------------------------|------------------------------------------------------------|
-| **Nombre:**                    | Isabel Martinez Quispesivana                                               |
+| **Nombre:**                    | Isabel Martinez Quispe                                               |
 | **Edad:**                      | 35                                                         |
 | **Sexo:**                      | Femenino                                                  |
 | **Ocupación:**                 | Cosmetóloga                                      |
@@ -444,7 +444,7 @@ Segmento objetivo 2: Viajeros de lujo
 | Duración:                  | 3:50                                                                                                                  |
 
 
-| Entrevistado N°5: Andrés Valle | <img src=https://github.com/TripTeamOrganization/Informes/assets/89095594/bdda83a4-be1a-4c7e-a8a2-fa329cf779c9 alt="image" width="300" height="200"> |
+| Entrevistado N°5: Gustavo Chinchay | <img src=https://github.com/TripTeamOrganization/Informes/assets/89095594/bdda83a4-be1a-4c7e-a8a2-fa329cf779c9 alt="image" width="300" height="200"> |
 |--------------------------------|------------------------------------------------------------|
 | **Nombre:**                    | Gustavo Chinchay                                              |
 | **Edad:**                      | 30                                                         |
