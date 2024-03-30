@@ -416,16 +416,15 @@ Segmento objetivo 1: Familias Viajeras y Aventureras
 | **Duración:**                  | 8:21                                                       |
 
 
-
-| Entrevistado N°3: Andrés Valle | <img src="URL_DE_LA_IMAGEN" alt="image" width="40" height="40"> |
+| Entrevistado N°3: Andrés Valle | <img src=https://github.com/TripTeamOrganization/Informes/assets/89095594/bdda83a4-be1a-4c7e-a8a2-fa329cf779c9 alt="image" width="300" height="200"> |
 |--------------------------------|------------------------------------------------------------|
-| **Nombre:**                    | Andrés Valle                                               |
-| **Edad:**                      | 32                                                         |
+| **Nombre:**                    | Gustavo Chinchay                                              |
+| **Edad:**                      | 30                                                         |
 | **Sexo:**                      | Masculino                                                  |
-| **Ocupación:**                 | Ingeniero Aeronáutico                                      |
-| **Entrevista:**                | [Link](https://www.youtube.com/watch?v=DpATSL0ElpE)       |
-| **Momento de inicio:**         | 0:04                                                       |
-| **Duración:**                  | 3:50                                                       |
+| **Ocupación:**                 | Ingeniero de sonido                                      |
+| **Entrevista:**                | [Link](https://www.youtube.com/watch?v=ggIC9Cf1or4)       |
+| **Momento de inicio:**         | 0:01                                                       |
+| **Duración:**                  | 5:25                                                       |
 
 
 
