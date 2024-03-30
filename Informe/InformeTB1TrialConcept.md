@@ -405,7 +405,20 @@ Segmento objetivo 1: Familias Viajeras y Aventureras
 | **Momento de inicio:**         | 0:03                                                       |
 | **Duración:**                  | 3:59                                                       |
 
-| Entrevistado N°2: Isaak Sánches | <img src="https://github.com/TripTeamOrganization/Informes/assets/89095594/3b50ca6d-dab8-4329-b6d6-7d142aecade1" alt="image" width="200" height="150"> |
+
+
+
+| Entrevistado N°2: Isabel Martinez |<img src="https://github.com/TripTeamOrganization/Informes/assets/89095594/9e5ec55e-d03d-4e64-99e8-82447b673027" alt="Andrés Valle" width="150" height="160">|
+|--------------------------------|------------------------------------------------------------|
+| **Nombre:**                    | Isabel Martinez Quispesivana                                               |
+| **Edad:**                      | 35                                                         |
+| **Sexo:**                      | Femenino                                                  |
+| **Ocupación:**                 | Cosmetóloga                                      |
+| **Entrevista:**                | [Link](https://www.youtube.com/watch?v=pdUGOwDCa0Y)       |
+| **Momento de inicio:**         | 0:02                                                       |
+| **Duración:**                  | 7:14                                                       |
+
+| Entrevistado N°3: Isaak Sánches | <img src="https://github.com/TripTeamOrganization/Informes/assets/89095594/3b50ca6d-dab8-4329-b6d6-7d142aecade1" alt="image" width="200" height="150"> |
 |--------------------------------|------------------------------------------------------------|
 | **Nombre:**                    | Isaak Sánches                                              |
 | **Edad:**                      | 28                                                        |
