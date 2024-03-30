@@ -405,7 +405,7 @@ Segmento objetivo 1: Familias Viajeras y Aventureras
 | **Momento de inicio:**         | 0:03                                                       |
 | **Duración:**                  | 3:59                                                       |
 
-| Entrevistado N°3: Isaak Sánches | <img src="https://github.com/TripTeamOrganization/Informes/assets/89095594/3b50ca6d-dab8-4329-b6d6-7d142aecade1" alt="image" width="200" height="150"> |
+| Entrevistado N°2: Isaak Sánches | <img src="https://github.com/TripTeamOrganization/Informes/assets/89095594/3b50ca6d-dab8-4329-b6d6-7d142aecade1" alt="image" width="200" height="150"> |
 |--------------------------------|------------------------------------------------------------|
 | **Nombre:**                    | Isaak Sánches                                              |
 | **Edad:**                      | 28                                                        |
@@ -416,22 +416,11 @@ Segmento objetivo 1: Familias Viajeras y Aventureras
 | **Duración:**                  | 8:21                                                       |
 
 
-| Entrevistado N°3: Andrés Valle | <img src=https://github.com/TripTeamOrganization/Informes/assets/89095594/bdda83a4-be1a-4c7e-a8a2-fa329cf779c9 alt="image" width="300" height="200"> |
-|--------------------------------|------------------------------------------------------------|
-| **Nombre:**                    | Gustavo Chinchay                                              |
-| **Edad:**                      | 30                                                         |
-| **Sexo:**                      | Masculino                                                  |
-| **Ocupación:**                 | Ingeniero de sonido                                      |
-| **Entrevista:**                | [Link](https://www.youtube.com/watch?v=ggIC9Cf1or4)       |
-| **Momento de inicio:**         | 0:01                                                       |
-| **Duración:**                  | 5:25                                                       |
-
-
 
 
 Segmento objetivo 2: Viajeros de lujo
 
-| Entrevistado N°1: Andrés Valle |<img src="https://github.com/CodepaceOrganization/Informes/assets/134337719/8f336f70-40b0-4477-94eb-6e92b7917524" alt="Andrés Valle" style="width: 200px;">|
+| Entrevistado N°4: Andrés Valle |<img src="https://github.com/CodepaceOrganization/Informes/assets/134337719/8f336f70-40b0-4477-94eb-6e92b7917524" alt="Andrés Valle" style="width: 200px;">|
 |--------------------------------|-----------------------------------------------------------------------------------------------------------------------|
 | Nombre:                    | Andrés Valle                                                                                                          |
 | Edad:                      | 32                                                                                                                    |
@@ -440,6 +429,17 @@ Segmento objetivo 2: Viajeros de lujo
 | Entrevista:                | Link                                                                    |
 | Momento de inicio:         | 0:04                                                                                                                  |
 | Duración:                  | 3:50                                                                                                                  |
+
+
+| Entrevistado N°5: Andrés Valle | <img src=https://github.com/TripTeamOrganization/Informes/assets/89095594/bdda83a4-be1a-4c7e-a8a2-fa329cf779c9 alt="image" width="300" height="200"> |
+|--------------------------------|------------------------------------------------------------|
+| **Nombre:**                    | Gustavo Chinchay                                              |
+| **Edad:**                      | 30                                                         |
+| **Sexo:**                      | Masculino                                                  |
+| **Ocupación:**                 | Ingeniero de sonido                                      |
+| **Entrevista:**                | [Link](https://www.youtube.com/watch?v=ggIC9Cf1or4)       |
+| **Momento de inicio:**         | 0:01                                                       |
+| **Duración:**                  | 5:25                                                       |
 
 
 
