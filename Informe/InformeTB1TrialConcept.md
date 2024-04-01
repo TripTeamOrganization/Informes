@@ -1003,6 +1003,11 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
 |TripTeamOrganization/FrontEnd|Main|9e94cdadca756eea85b088f43f7957a31f876152|Update Section Convenios|-|29/03/2024| 
 |TripTeamOrganization/FrontEnd|Main|b283a9c34d352016200864fef0865c182fc4c755|Update index.html|-|29/03/2024| 
 |TripTeamOrganization/FrontEnd|Responsive|b30b72bb20a12c5afa243e91d11f1e78d33ba3b4|Responsive NavBar|-|30/03/2024| 
+|TripTeamOrganization/FrontEnd|Responsive|08008d5496aa8899b1e0b6e4dd0678b0a964ddbe|Update index.css|-|30/03/2024| 
+|TripTeamOrganization/FrontEnd|Responsive|5427a2b1714cac4c763eaf57e2e26fee8502842a|ResponsiveFooter|-|30/03/2024| 
+|TripTeamOrganization/FrontEnd|Responsive|b30b72bb20a12c5afa243e91d11f1e78d33ba3b4|Responsive NavBar|-|30/03/2024| 
+|TripTeamOrganization/FrontEnd|Responsive|b30b72bb20a12c5afa243e91d11f1e78d33ba3b4|Responsive NavBar|-|30/03/2024| 
+|TripTeamOrganization/FrontEnd|Responsive|b30b72bb20a12c5afa243e91d11f1e78d33ba3b4|Responsive NavBar|-|30/03/2024| 
 
 
   - 5.2.X.4. Testing Suite Evidence for Sprint Review
