@@ -1066,11 +1066,29 @@ El Sprint 3 fue otro éxito para el equipo, con importantes avances en el desarr
     - 5.2.X.7. Software Deployment Evidence for Sprint Review
     - 5.2.X.8. Team Collaboration Insights during Sprint
 
-**Conclusiones**
+# Conclusiones 🚀
 
-**Bibliografía**
+El proyecto de la *web app* busca abordar de manera **efectiva** el problema de la mala elección de servicios, gastos innecesarios y desorganización al planificar un viaje a un nuevo destino. Al proporcionar una plataforma centralizada que ofrece opciones personalizadas y filtradas según las preferencias y presupuestos del usuario, se simplifica y optimiza significativamente el proceso de planificación de viajes. Esto se traduce en un **ahorro de tiempo y dinero** para los viajeros, así como en una mayor satisfacción al encontrar las opciones más adecuadas para sus necesidades.
 
-**Anexos**
+La aplicación se centra en ofrecer una experiencia de usuario intuitiva y amigable, con características como:
+- Filtros precisos
+- Ingreso de presupuestos
+- Notificaciones anticipadas sobre cambios en los servicios seleccionados
+
+Estas funcionalidades están diseñadas para facilitar la búsqueda y selección de opciones de viaje, así como para evitar inconvenientes de última hora que puedan afectar negativamente la experiencia del usuario. Al priorizar la comodidad y la eficiencia, la *web app* busca garantizar que los viajeros tengan una experiencia agradable desde el momento en que comienzan a planificar su viaje hasta que regresan a casa.
+
+A través de un enfoque centrado en las necesidades del usuario y la diferenciación de la competencia, el proyecto de la *web app* busca destacarse en el mercado de aplicaciones de viajes. La inclusión de características únicas, como la generación de itinerarios personalizados y la selección de opciones de lujo para viajeros exigentes, se suma a su propuesta de valor. Además, la colaboración con empresas asociadas y la promoción de descuentos exclusivos pueden atraer a una base de usuarios más amplia y consolidar la posición de la aplicación en el mercado. En resumen, el proyecto se presenta como una solución innovadora y efectiva para mejorar la experiencia de viaje de los usuarios y competir con éxito en el mercado de aplicaciones de viajes.
+
+## Bibliografía 📚
+
+- Leiva, I. (2022). Esta es la cantidad de dinero que necesitas para viajar un año por el mundo. Recuperado de: [Yahoo Finanzas](https://es-us.finanzas.yahoo.com/noticias/esta-es-la-cantidad-de-dinero-que-necesitas-para-viajar-un-ano-por-el-mundo-161251049.html)
+- Asmar, S. (2023). Consejos para no endeudarse en sus próximos viajes y pagar la deuda en pocos meses. Recuperado de: [La República](https://www.larepublica.co/finanzas-personales/consejos-para-no-endeudarse-en-sus-proximos-viajes-y-pagar-la-deuda-en-pocos-meses-3598007) 
+
+## Anexos 📎
+
+- Repositorio GitHub Frontend: [TripTeamOrganization/FrontEnd](https://github.com/TripTeamOrganization/FrontEnd)
+- Repositorio GitHub Informe: [TripTeamOrganization/Informes](https://github.com/TripTeamOrganization/Informes)
+- Figma: [Diseño en Figma](https://www.figma.com/file/9P8ofdPg7ra5Q4hRaNfbiy/Untitled?type=design&node-id=0-1&mode=design&t=X9NqDuXiAid9yx61-0)
 
 
 
