@@ -532,6 +532,37 @@ Segmento objetivo 2: Martin Casanova
 
 - 2.4. Ubiquitous Language
 
+1. **Technical Interview** (Entrevista Técnica)  
+   A structured assessment process conducted by employers in the technology industry to evaluate a candidate's technical skills, problem-solving abilities, and suitability for a specific role or position within the organization. Technical interviews often involve a series of questions, coding exercises, and problem-solving scenarios.
+
+2. **Coding Exercise** (Ejercicio de Codificación)  
+   A practical task assigned to candidates during a technical interview to evaluate their programming proficiency, algorithmic thinking, and coding abilities. Coding exercises typically require candidates to write code to solve a specific problem or implement a given algorithm within a specified timeframe.
+
+3. **Mock Interview** (Simulacro de Entrevista)  
+   A simulated interview session designed to replicate the format and experience of a real technical interview. Mock interviews provide candidates with an opportunity to practice answering technical questions, solving coding challenges, and receiving feedback from experienced interviewers to improve their performance.
+
+4. **Frequently Asked Questions (FAQs)** (Preguntas Frecuentes)  
+   A compilation of common queries, topics, and concerns frequently encountered by candidates during technical interviews. FAQs provide candidates with valuable insights, tips, and strategies for navigating the interview process effectively and increasing their chances of success.
+
+5. **Tutorials** (Tutoriales)  
+   Comprehensive guides, tutorials, and instructional materials aimed at helping candidates improve their technical skills, enhance their understanding of core concepts, and prepare for technical interviews. Tutorials cover a wide range of topics, including data structures, algorithms, programming languages, and problem-solving techniques.
+
+6. **Exclusive Content** (Contenido Exclusivo)  
+   Specialized resources, content, or insights available only to members or subscribers of a particular platform or service. Exclusive content may include advanced tutorials, in-depth articles, insider tips from industry experts, and access to exclusive webinars or events.
+
+7. **Recruitment Opportunities** (Oportunidades de Reclutamiento)  
+   Job openings, internship positions, or networking opportunities provided by technology companies seeking to recruit talent from within the platform's user community. Recruitment opportunities enable candidates to explore career options, connect with potential employers, and pursue professional growth opportunities.
+
+8. **Premium Memberships** (Membresías Premium)  
+   Subscription-based access levels offering users enhanced features, benefits, and privileges beyond those available in the standard free version. Premium memberships may include access to exclusive content, personalized coaching sessions, priority support, and ad-free browsing.
+
+9. **Personalized Tutoring Sessions** (Sesiones de Tutoría Personalizada)  
+   Individualized coaching sessions tailored to meet the unique learning needs and goals of candidates preparing for technical interviews. Personalized tutoring sessions provide candidates with targeted guidance, feedback, and support to help them improve their skills, build confidence, and perform their best during interviews.
+
+10. **Money-Back Guarantee** (Garantía de Devolución de Dinero)  
+    A commitment or assurance provided to users that they will receive a full refund of their subscription fee or payment if they are not satisfied with the services or outcomes delivered by the platform. The money-back guarantee reflects the platform's confidence in its offerings and its commitment to customer satisfaction.
+
+
 ### Capítulo III: Requirements Specification
 - 3.1. To-Be Scenario Mapping
 
