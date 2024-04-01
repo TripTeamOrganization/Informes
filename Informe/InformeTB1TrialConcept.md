@@ -1000,7 +1000,6 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
 |TripTeamOrganization/FrontEnd|Main|b052271b0096a1149a3864ba181954029a4cdb96|More Cards and Better Button|-|29/03/2024| 
 |TripTeamOrganization/FrontEnd|Main|eba687cddf7d0b6dd8433e3e49276455c43286e9|Mejora del Footer|Mejorar el footer|29/03/2024| 
 |TripTeamOrganization/FrontEnd|Main|4d3d002997acb28a1ca0fed00b6f96db8197dd54|Prueba|-|29/03/2024| 
-|TripTeamOrganization/FrontEnd|Main|9e94cdadca756eea85b088f43f7957a31f876152|Update Section Convenios|-|29/03/2024| 
 |TripTeamOrganization/FrontEnd|Main|b283a9c34d352016200864fef0865c182fc4c755|Update index.html|-|29/03/2024| 
 |TripTeamOrganization/FrontEnd|Responsive|b30b72bb20a12c5afa243e91d11f1e78d33ba3b4|Responsive NavBar|-|30/03/2024| 
 |TripTeamOrganization/FrontEnd|Responsive|08008d5496aa8899b1e0b6e4dd0678b0a964ddbe|Update index.css|-|30/03/2024| 
@@ -1013,7 +1012,11 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
 |TripTeamOrganization/FrontEnd|Testimonios|df60b4b190f5ad459e66d243e49d60eb05040842|Add Buttons Styles|-|31/03/2024| 
 |TripTeamOrganization/FrontEnd|Testimonios|6948049460628bcafd5257997a5c084cc41873d1|add js|-|31/03/2024| 
 |TripTeamOrganization/FrontEnd|Testimonios|cffd774c830fa29804391aac5350d7c64044a76d|Remove Buttons css|-|31/03/2024|
-
+|TripTeamOrganization/FrontEnd|Convenios|012de9ab0aadc3973bc2c8750ca2daed5f5fb728|Add Images|-|29/03/2024| 
+|TripTeamOrganization/FrontEnd|Convenios|9e94cdadca756eea85b088f43f7957a31f876152|Update Section Convenios|-|29/03/2024|
+|TripTeamOrganization/FrontEnd|Acerca de Nosotros|560ef7a4a955b748e2f28626668f54fa19a817e5|About|-|29/03/2024|
+|TripTeamOrganization/FrontEnd|Acerca de Nosotros|37c73d7bc7dc4259fd831926e9906b9eab6c846e|Update index.css|-|31/03/2024|
+|TripTeamOrganization/FrontEnd|Acerca de Nosotros|c5fd37d7d3f3b8ff52eb8b4e48241011dd8376f7|Update index.css|-|31/03/2024|
 
   - 5.2.X.4. Testing Suite Evidence for Sprint Review
 En el proceso de desarrollo de la landing page, se aplicaron diversas estrategias de prueba para garantizar su correcto funcionamiento y adaptabilidad en diferentes entornos. A continuación se detallan las herramientas utilizadas y los enfoques adoptados:
