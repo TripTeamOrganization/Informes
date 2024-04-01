@@ -993,12 +993,12 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
 |TripTeamOrganization/FrontEnd|Main|f2dd6d87319d340e8b03afc44f7c9e50d8b7f2e0|Initial Commit|-|23/03/2024| 
 |TripTeamOrganization/FrontEnd|Main|674d37b56cda9ce92f21c58d15c551d434b4bf8c|Images|-|23/03/2024| 
 |TripTeamOrganization/FrontEnd|Main|47bef222912cdf116e49ae5a921929839d57804f|Button|-|23/03/2024| 
-|TripTeamOrganization/FrontEnd|Main|f2dd6d87319d340e8b03afc44f7c9e50d8b7f2e0|Initial Commit|-|23/03/2024| 
-|TripTeamOrganization/FrontEnd|Main|f2dd6d87319d340e8b03afc44f7c9e50d8b7f2e0|Initial Commit|-|23/03/2024| 
-|TripTeamOrganization/FrontEnd|Main|f2dd6d87319d340e8b03afc44f7c9e50d8b7f2e0|Initial Commit|-|23/03/2024| 
-|TripTeamOrganization/FrontEnd|Main|f2dd6d87319d340e8b03afc44f7c9e50d8b7f2e0|Initial Commit|-|23/03/2024| 
-|TripTeamOrganization/FrontEnd|Main|f2dd6d87319d340e8b03afc44f7c9e50d8b7f2e0|Initial Commit|-|23/03/2024| 
-|TripTeamOrganization/FrontEnd|Main|f2dd6d87319d340e8b03afc44f7c9e50d8b7f2e0|Initial Commit|-|23/03/2024| 
+|TripTeamOrganization/FrontEnd|Main|234f27e728f50dd38feabf348e8b815c01749286|Update index.hml|-|24/03/2024| 
+|TripTeamOrganization/FrontEnd|Main|2a836c499e33e210cd4d489c65024bd79bd56a07|Navbar|-|25/03/2024| 
+|TripTeamOrganization/FrontEnd|Main|d867e4d88ff0d400251e7229a427c7734d738577|Login y Register|-|28/03/2024| 
+|TripTeamOrganization/FrontEnd|Main|6b4ccba822cabaffc7288ce022b3eed91e4aa15f|Navbar Estatica|-|29/03/2024| 
+|TripTeamOrganization/FrontEnd|Main|b052271b0096a1149a3864ba181954029a4cdb96|More Cards and Better Button|-|29/03/2024| 
+|TripTeamOrganization/FrontEnd|Main|eba687cddf7d0b6dd8433e3e49276455c43286e9|Mejora del Footer|Mejorar el footer (numero de telefono y correo electronico y botones de redes sociales)|23/03/2024| 
 |TripTeamOrganization/FrontEnd|Main|f2dd6d87319d340e8b03afc44f7c9e50d8b7f2e0|Initial Commit|-|23/03/2024| 
 |TripTeamOrganization/FrontEnd|Main|f2dd6d87319d340e8b03afc44f7c9e50d8b7f2e0|Initial Commit|-|23/03/2024| 
 |TripTeamOrganization/FrontEnd|Main|f2dd6d87319d340e8b03afc44f7c9e50d8b7f2e0|Initial Commit|-|23/03/2024| 
