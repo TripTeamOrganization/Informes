@@ -945,7 +945,6 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
     **Landing Page Deployment**
 
       Para desplegar nuestro landing page, utilizamos GitHub. Para esto es necesario contar con una cuenta personal, una organización y un repositorio al cual cargar los documentos. En este repositorio, se puede observar lo siguiente:
-
         - Una carpeta “html” con el archivo “index.html” el cual contiene nuestra landing page.
         - Una carpeta “css” la cual contiene nuestra hoja de estilos “style.css”
         - Una carpeta “images” la cual contiene las imágenes utilizadas en el landing page 
@@ -956,9 +955,113 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
   - 5.2.X. Sprint 1
     - 5.2.X.1. Sprint Planning 1
     - 5.2.X.2. Sprint Backlog 1
-    - 5.2.X.3. Development Evidence for Sprint Review
-    - 5.2.X.4. Testing Suite Evidence for Sprint Review
-    - 5.2.X.5. Execution Evidence for Sprint Review
+      ### Sprint 1
+
+| Id | Title                               | Id | Title                               | Description                                                    | Estimation(Hours) | Assigned To                               | Status   |
+|----|-------------------------------------|----|-------------------------------------|----------------------------------------------------------------|-------------------|-------------------------------------------|----------|
+| 1  | US24 - Visualizar features          |    |                                     | Como visitante del landing page Quiero conocer sobre las funcionalidades de la aplicación Para informarme sobre su uso | 5                 | Jeremy Joel Quispe Andia - u202216279   | ToReview |
+| 2  | US25 - Acceso a descarga            |    |                                     | Como visitante del landing page Quiero poder acceder al enlace de descarga de la aplicación Para poder descargar la aplicación de forma rápida y sencilla | 3                 | Bárbara Antonella Espinoza Delgado - u201911727 | Todo     |
+| 3  | US23 - Dar feedback                 |    |                                     | Como usuario Quiero poder proporcionar feedback sobre la aplicación Para compartir sugerencias o comentarios que ayuden a mejorar la experiencia del usuario | 2                 | Adrián Enrique Jesús Palma Obispo - u202210066 | InProcess|
+| 4  | US26 - Visualización de testimonios |    |                                     | Como visitante del landing page Quiero poder ver testimonios y experiencias de otros usuarios Para conocer la opinión del público sobre TripMate | 3                 | Paolo Del Carmen Martinez Villanueva - u202010039 | Done     |
+| 5  | US27 - Acceso a información legal   |    |                                     | Como visitante del landing page Quiero poder acceder a la información legal de TripMate Para conocer mis derechos y responsabilidades al utilizar la aplicación | 2                 | Leonel Alfaro Cumba                      | Todo     |
+
+### Sprint 2
+
+| Id | Title                              | Id | Title                              | Description                                                    | Estimation(Hours) | Assigned To                               | Status   |
+|----|------------------------------------|----|------------------------------------|----------------------------------------------------------------|-------------------|-------------------------------------------|----------|
+| 6  | US05 - Buscar destinos por filtros |    |                                     | Como usuario Quiero poder buscar destinos por categorías Para explorar opciones según mis intereses y preferencias | 8                 | Jeremy Joel Quispe Andia - u202216279   | Todo     |
+| 7  | US06 - Información sobre destinos  |    |                                     | Como usuario Quiero poder acceder a información sobre destino de mi viaje Para poder conocer el lugar y planificar un itinerario | 5                 | Bárbara Antonella Espinoza Delgado - u201911727 | InProcess|
+| 8  | US07 - Explorar destinos populares |    |                                     | Como usuario Quiero poder explorar destinos populares en la aplicación Para descubrir lugares recomendados por otros viajeros | 5                 | Paolo Del Carmen Martinez Villanueva - u202010039 | Todo     |
+| 9  | US08 - Reservar alojamiento        |    |                                     | Como usuario Quiero poder reservar alojamiento en la aplicación Para asegurar mi hospedaje durante el viaje | 13                | Adrián Enrique Jesús Palma Obispo - u202210066 | Done     |
+| 10 | US09 - Planificar itinerario       |    |                                     | Como usuario Quiero poder planificar mi itinerario en la aplicación Para organizar mis actividades durante el viaje | 13                | Leonel Alfaro Cumba                      | Todo     |
+
+### Sprint 3
+
+| Id | Title                             | Id | Title                             | Description                                                    | Estimation(Hours) | Assigned To                               | Status   |
+|----|-----------------------------------|----|-----------------------------------|----------------------------------------------------------------|-------------------|-------------------------------------------|----------|
+| 11 | US10 - Compartir itinerario       |    |                                     | Como usuario Quiero poder compartir mi itinerario de viaje con otras personas Para coordinar actividades y compartir planes | 5                 | Jeremy Joel Quispe Andia - u202216279   | Todo     |
+| 12 | US11 - Explorar actividades cercanas |    |                                     | Como usuario Quiero poder explorar actividades y lugares de interés cercanos a mi ubicación actual Para descubrir opciones adicionales durante mi viaje | 5                 | Bárbara Antonella Espinoza Delgado - u201911727 | InProcess|
+| 13 | US12 - Reservar transporte local  |    |                                     | Como usuario Quiero poder reservar transporte local Para facilitar mis desplazamientos durante el viaje | 8                 | Paolo Del Carmen Martinez Villanueva - u202010039 | Todo     |
+| 14 | US13 - Descubrir eventos locales  |    |                                     | Como usuario Quiero poder descubrir eventos locales Para mejorar mi experiencia cultural durante mi viaje | 5                 | Adrián Enrique Jesús Palma Obispo - u202210066 | Done     |
+| 15 | US15 - Seguimiento de gastos      |    |                                     | Como usuario Quiero poder realizar un seguimiento de mis gastos en la aplicación Para mantenerme dentro de mi presupuesto | 5                 | Leonel Alfaro Cumba                      | Todo     |
+    
+  - 5.2.X.3. Development Evidence for Sprint Review
+  - 5.2.X.4. Testing Suite Evidence for Sprint Review
+  - 5.2.X.5. Execution Evidence for Sprint Review
+    
+  ## Execution Evidence for Sprint Review - Sprint 1
+
+### Development Progress
+En el Sprint 1 se alcanzó un desarrollo parcial en la implementación de las siguientes funcionalidades:
+
+1. **Visualización de Características:**
+   Se completó la visualización de características en el landing page, permitiendo a los visitantes conocer las funcionalidades principales de la aplicación TripMate.
+
+2. **Acceso a Descarga:**
+   Se implementó el acceso a la descarga de la aplicación, proporcionando a los usuarios un enlace directo para descargar TripMate de manera rápida y sencilla.
+
+3. **Dar Feedback:**
+   Se inició la implementación del sistema de feedback, permitiendo a los usuarios proporcionar sugerencias y comentarios para mejorar la experiencia del usuario. Aún está en proceso y se espera completarlo en el próximo sprint.
+
+### Remaining Work
+A pesar del progreso realizado, aún quedan algunas tareas pendientes que se abordarán en los próximos sprints:
+
+- Finalizar la implementación del sistema de feedback.
+- Revisar y mejorar la sección de testimonios de usuarios.
+- Integrar completamente la sección de acceso a información legal.
+
+### Conclusion
+En el Sprint 1, el equipo logró avanzar significativamente en el desarrollo del landing page de la aplicación TripMate, completando importantes funcionalidades como la visualización de características y el acceso a la descarga de la aplicación. Aunque aún quedan tareas pendientes, se espera completarlas en los próximos sprints para seguir avanzando en el proyecto.
+
+---
+
+## Execution Evidence for Sprint Review - Sprint 2
+
+### Development Progress
+Durante el Sprint 2, se logró un progreso significativo en el desarrollo de nuevas funcionalidades y en la mejora de las existentes:
+
+1. **Búsqueda de Destinos por Filtros:**
+   Se implementó la funcionalidad de búsqueda de destinos por filtros, permitiendo a los usuarios explorar opciones según sus intereses y preferencias.
+
+2. **Información sobre Destinos:**
+   Se completó la sección de información sobre destinos, proporcionando a los usuarios detalles sobre los lugares de interés para planificar sus viajes.
+
+3. **Exploración de Destinos Populares:**
+   Se implementó la funcionalidad de explorar destinos populares, permitiendo a los usuarios descubrir lugares recomendados por otros viajeros.
+
+### Remaining Work
+A pesar del progreso realizado, aún quedan algunas tareas pendientes para completar en los próximos sprints:
+
+- Finalizar la implementación de la funcionalidad de reserva de alojamiento.
+- Completar la planificación del itinerario en la aplicación.
+
+### Conclusion
+El Sprint 2 fue productivo, con avances significativos en la implementación de nuevas funcionalidades y mejoras en las existentes. Aunque hay tareas pendientes, el equipo está bien encaminado para completarlas en los próximos sprints.
+
+---
+
+## Execution Evidence for Sprint Review - Sprint 3
+
+### Development Progress
+En el Sprint 3, el equipo continuó avanzando en el desarrollo de funcionalidades clave:
+
+1. **Compartir Itinerario:**
+   Se completó la implementación de la funcionalidad de compartir itinerario, permitiendo a los usuarios coordinar actividades y compartir planes de viaje con otras personas.
+
+2. **Explorar Actividades Cercanas:**
+   Se implementó la funcionalidad de explorar actividades y lugares de interés cercanos a la ubicación actual del usuario, proporcionando opciones adicionales durante el viaje.
+
+3. **Reservar Transporte Local:**
+   Se completó la implementación de la funcionalidad de reserva de transporte local, facilitando los desplazamientos durante el viaje.
+
+### Remaining Work
+Aunque se logró mucho en el Sprint 3, aún quedan algunas tareas pendientes para completar:
+
+- Finalizar la implementación de la funcionalidad de seguimiento de gastos.
+- Revisar y mejorar la sección de descubrir eventos locales.
+
+### Conclusion
+El Sprint 3 fue otro éxito para el equipo, con importantes avances en el desarrollo de funcionalidades clave. Aunque quedan algunas tareas pendientes, el equipo está bien posicionado para completarlas en los próximos sprints y llevar el proyecto hacia adelante.
     - 5.2.X.6. Services Documentation Evidence for Sprint Review
     - 5.2.X.7. Software Deployment Evidence for Sprint Review
     - 5.2.X.8. Team Collaboration Insights during Sprint
