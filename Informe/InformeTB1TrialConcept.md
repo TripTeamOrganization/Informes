@@ -1005,9 +1005,9 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
 |TripTeamOrganization/FrontEnd|Responsive|b30b72bb20a12c5afa243e91d11f1e78d33ba3b4|Responsive NavBar|-|30/03/2024| 
 |TripTeamOrganization/FrontEnd|Responsive|08008d5496aa8899b1e0b6e4dd0678b0a964ddbe|Update index.css|-|30/03/2024| 
 |TripTeamOrganization/FrontEnd|Responsive|5427a2b1714cac4c763eaf57e2e26fee8502842a|ResponsiveFooter|-|30/03/2024| 
-|TripTeamOrganization/FrontEnd|Responsive|b30b72bb20a12c5afa243e91d11f1e78d33ba3b4|Responsive NavBar|-|30/03/2024| 
-|TripTeamOrganization/FrontEnd|Responsive|b30b72bb20a12c5afa243e91d11f1e78d33ba3b4|Responsive NavBar|-|30/03/2024| 
-|TripTeamOrganization/FrontEnd|Responsive|b30b72bb20a12c5afa243e91d11f1e78d33ba3b4|Responsive NavBar|-|30/03/2024| 
+|TripTeamOrganization/FrontEnd|Responsive|163aee97b6fa7a5698f67d74325ccb723e3193e8|Cambio de Fuente|-|31/03/2024| 
+|TripTeamOrganization/FrontEnd|Responsive|8cfe8d8f2181f4906a7d2ecc0267ac97daa3f087|Responsive Cards|-|31/03/2024| 
+|TripTeamOrganization/FrontEnd|Responsive|0e02db775d3c46bac114e2cf69db1211a65c78b3|Implementación Botón|-|31/03/2024| 
 
 
   - 5.2.X.4. Testing Suite Evidence for Sprint Review
