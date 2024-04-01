@@ -1111,6 +1111,7 @@ En el Sprint 3, se continuó avanzando en la mejora de la página de inicio con 
      
 2. **Sección de Convenios:**
    - Se agregaron detalles sobre los convenios establecidos con aerolíneas, hoteles y restaurantes.
+     
      ![image](https://github.com/TripTeamOrganization/Informes/assets/48342953/f5177359-cb89-4a3e-a236-71d4b161f8c3)
 
 3. **Sección de Testimonios:**
