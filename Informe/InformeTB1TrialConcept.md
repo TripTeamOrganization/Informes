@@ -955,6 +955,7 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
   - 5.2.X. Sprint 1
     - 5.2.X.1. Sprint Planning 1
     - 5.2.X.2. Sprint Backlog 1
+      
       ### Sprint 1
 
 | Id | Title                               | Id | Title                               | Description                                                    | Estimation(Hours) | Assigned To                               | Status   |
@@ -987,6 +988,52 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
     
   - 5.2.X.3. Development Evidence for Sprint Review
   - 5.2.X.4. Testing Suite Evidence for Sprint Review
+En el proceso de desarrollo de la landing page, se aplicaron diversas estrategias de prueba para garantizar su correcto funcionamiento y adaptabilidad en diferentes entornos. A continuación se detallan las herramientas utilizadas y los enfoques adoptados:
+
+---
+
+## **1. Utilización de Live Server de Microsoft Visual Studio Code** 🖥️
+
+### Propósito:
+Live Server se implementó para facilitar el desarrollo y la prueba de la landing page de manera local.
+
+### Descripción:
+Esta herramienta permitió la visualización dinámica de la landing page en el navegador web, lo que agilizó el proceso de desarrollo al mostrar los cambios en tiempo real sin necesidad de recargar manualmente la página.
+
+---
+
+## **2. Firefox Developer para Pruebas de Dimensiones Móviles** 📱
+
+### Propósito:
+Firefox Developer fue empleado para verificar la compatibilidad y el aspecto visual de la landing page en dispositivos móviles.
+
+### Descripción:
+Esta herramienta proporcionó un entorno de desarrollo amigable para simular diferentes dimensiones de pantalla y validar el diseño responsivo de la landing page en dispositivos móviles.
+
+---
+
+## **3. Uso Específico de Herramientas Únicas** 🛠️
+
+### Propósito:
+Se desarrollaron técnicas de prueba personalizadas para evaluar aspectos específicos de la landing page.
+
+### Descripción:
+Por ejemplo, se utilizó una herramienta personalizada para simular la carga y el rendimiento de la landing page en condiciones de ancho de banda variable. Además, se emplearon técnicas de auditoría de rendimiento para optimizar la velocidad de carga y la experiencia del usuario.
+
+---
+
+## **4. Aprovechamiento de las Propiedades del Navegador para Mejorar el Responsive** 🌐
+
+### Propósito:
+Se aprovecharon las características específicas del navegador para mejorar la compatibilidad con CSS Grid y el diseño responsivo.
+
+### Descripción:
+Se exploraron las capacidades de inspección de elementos del navegador para ajustar y optimizar el diseño de la landing page, especialmente en lo que respecta al uso de CSS Grid. Además, se utilizaron las herramientas de depuración del navegador para identificar y corregir cualquier problema de diseño responsivo.
+
+---
+
+Estas estrategias de prueba garantizaron la funcionalidad, la estética y la adaptabilidad de la landing page en diversos dispositivos y navegadores, contribuyendo así a una experiencia de usuario excepcional. ✨
+
   - 5.2.X.5. Execution Evidence for Sprint Review
     
 # Evidencia de Ejecución para Actualizaciones de la Página de Inicio - Sprint 1
@@ -1079,9 +1126,9 @@ La aplicación se centra en ofrecer una experiencia de usuario intuitiva y amiga
 - Ingreso de presupuestos
 - Notificaciones anticipadas sobre cambios en los servicios seleccionados
 
-Estas funcionalidades están diseñadas para facilitar la búsqueda y selección de opciones de viaje, así como para evitar inconvenientes de última hora que puedan afectar negativamente la experiencia del usuario. Al priorizar la comodidad y la eficiencia, la *web app* busca garantizar que los viajeros tengan una experiencia agradable desde el momento en que comienzan a planificar su viaje hasta que regresan a casa.
+Estas funcionalidades están diseñadas para facilitar la búsqueda y selección de opciones de viaje, así como para evitar inconvenientes de última hora que puedan afectar negativamente la experiencia del usuario. Al priorizar la comodidad y la eficiencia, la *landing page* busca garantizar que los viajeros tengan una experiencia agradable desde el momento en que visitan nuestro sitio web hasta que deciden explorar más a fondo nuestras ofertas.
 
-A través de un enfoque centrado en las necesidades del usuario y la diferenciación de la competencia, el proyecto de la *web app* busca destacarse en el mercado de aplicaciones de viajes. La inclusión de características únicas, como la generación de itinerarios personalizados y la selección de opciones de lujo para viajeros exigentes, se suma a su propuesta de valor. Además, la colaboración con empresas asociadas y la promoción de descuentos exclusivos pueden atraer a una base de usuarios más amplia y consolidar la posición de la aplicación en el mercado. En resumen, el proyecto se presenta como una solución innovadora y efectiva para mejorar la experiencia de viaje de los usuarios y competir con éxito en el mercado de aplicaciones de viajes.
+A través de un enfoque centrado en las necesidades del usuario y la diferenciación de la competencia, la *landing page* busca destacarse en el mercado de viajes en línea. La inclusión de características únicas, como la sección de galería para inspirar a los viajeros, la barra de navegación intuitiva y el fondo animado para captar la atención del usuario, se suma a su propuesta de valor. Además, la colaboración con empresas asociadas y la promoción de descuentos exclusivos pueden atraer a una base de usuarios más amplia y consolidar la posición de la página de inicio en el mercado. En resumen, la *landing page* se presenta como una solución atractiva y funcional para los viajeros, ofreciendo una experiencia de usuario fluida y diferenciada para planificar sus próximas aventuras.
 
 ## Bibliografía 📚
 
