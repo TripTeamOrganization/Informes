@@ -998,8 +998,8 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
 |TripTeamOrganization/FrontEnd|Main|d867e4d88ff0d400251e7229a427c7734d738577|Login y Register|-|28/03/2024| 
 |TripTeamOrganization/FrontEnd|Main|6b4ccba822cabaffc7288ce022b3eed91e4aa15f|Navbar Estatica|-|29/03/2024| 
 |TripTeamOrganization/FrontEnd|Main|b052271b0096a1149a3864ba181954029a4cdb96|More Cards and Better Button|-|29/03/2024| 
-|TripTeamOrganization/FrontEnd|Main|eba687cddf7d0b6dd8433e3e49276455c43286e9|Mejora del Footer|Mejorar el footer (numero de telefono y correo electronico y botones de redes sociales)|23/03/2024| 
-|TripTeamOrganization/FrontEnd|Main|f2dd6d87319d340e8b03afc44f7c9e50d8b7f2e0|Initial Commit|-|23/03/2024| 
+|TripTeamOrganization/FrontEnd|Main|eba687cddf7d0b6dd8433e3e49276455c43286e9|Mejora del Footer|Mejorar el footer (numero de telefono y correo electronico y botones de redes sociales)|29/03/2024| 
+|TripTeamOrganization/FrontEnd|Main|4d3d002997acb28a1ca0fed00b6f96db8197dd54|Prueba|-|29/03/2024| 
 |TripTeamOrganization/FrontEnd|Main|f2dd6d87319d340e8b03afc44f7c9e50d8b7f2e0|Initial Commit|-|23/03/2024| 
 |TripTeamOrganization/FrontEnd|Main|f2dd6d87319d340e8b03afc44f7c9e50d8b7f2e0|Initial Commit|-|23/03/2024| 
 
