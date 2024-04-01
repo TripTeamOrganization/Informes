@@ -1007,7 +1007,12 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
 |TripTeamOrganization/FrontEnd|Responsive|5427a2b1714cac4c763eaf57e2e26fee8502842a|ResponsiveFooter|-|30/03/2024| 
 |TripTeamOrganization/FrontEnd|Responsive|163aee97b6fa7a5698f67d74325ccb723e3193e8|Cambio de Fuente|-|31/03/2024| 
 |TripTeamOrganization/FrontEnd|Responsive|8cfe8d8f2181f4906a7d2ecc0267ac97daa3f087|Responsive Cards|-|31/03/2024| 
-|TripTeamOrganization/FrontEnd|Responsive|0e02db775d3c46bac114e2cf69db1211a65c78b3|Implementación Botón|-|31/03/2024| 
+|TripTeamOrganization/FrontEnd|Responsive|0e02db775d3c46bac114e2cf69db1211a65c78b3|Implementación Botón|-|31/03/2024|
+|TripTeamOrganization/FrontEnd|Testimonios|15640e5a70139e4bf67aaa7077e2bc772f8f7026|Update index.css|-|29/03/2024| 
+|TripTeamOrganization/FrontEnd|Testimonios|4524d2e6bdce66e14ca25c037b8c7ec113c5d8cf|Add Buttons|-|31/03/2024| 
+|TripTeamOrganization/FrontEnd|Testimonios|df60b4b190f5ad459e66d243e49d60eb05040842|Add Buttons Styles|-|31/03/2024| 
+|TripTeamOrganization/FrontEnd|Testimonios|6948049460628bcafd5257997a5c084cc41873d1|add js|-|31/03/2024| 
+|TripTeamOrganization/FrontEnd|Testimonios|cffd774c830fa29804391aac5350d7c64044a76d|Remove Buttons css|-|31/03/2024|
 
 
   - 5.2.X.4. Testing Suite Evidence for Sprint Review
