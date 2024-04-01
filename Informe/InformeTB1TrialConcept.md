@@ -952,9 +952,9 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
 
 
 - 5.2. Landing Page, Services & Applications Implementation
-  - 5.2.X. Sprint 1
-    - 5.2.X.1. Sprint Planning 1
-    - 5.2.X.2. Sprint Backlog 1
+  - 5.2.1. Sprint 1
+    - 5.2.1.1. Sprint Planning 1
+    - 5.2.1.2. Sprint Backlog 1
       
       ### Sprint 1
 
@@ -986,7 +986,7 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
 | 14 | US13 - Descubrir eventos locales  |    |                                     | Como usuario Quiero poder descubrir eventos locales Para mejorar mi experiencia cultural durante mi viaje | 5                 | Adrián Enrique Jesús Palma Obispo - u202210066 | Done     |
 | 15 | US15 - Seguimiento de gastos      |    |                                     | Como usuario Quiero poder realizar un seguimiento de mis gastos en la aplicación Para mantenerme dentro de mi presupuesto | 5                 | Leonel Alfaro Cumba                      | Todo     |
     
-  - 5.2.X.3. Development Evidence for Sprint Review
+  - 5.2.1.3. Development Evidence for Sprint Review  
   - 5.2.X.4. Testing Suite Evidence for Sprint Review
 En el proceso de desarrollo de la landing page, se aplicaron diversas estrategias de prueba para garantizar su correcto funcionamiento y adaptabilidad en diferentes entornos. A continuación se detallan las herramientas utilizadas y los enfoques adoptados:
 
