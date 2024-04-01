@@ -1043,15 +1043,18 @@ Durante el Sprint 1, se realizaron las siguientes implementaciones en la página
 
 1. **Sección de Galería:**
    - Se diseñó e implementó una sección de galería para mostrar imágenes relacionadas con los destinos y servicios ofrecidos cambiando cada cierto tiempo.
+     
      ![image](https://github.com/TripTeamOrganization/Informes/assets/48342953/4885c9b1-affd-4881-a972-317e93ab264c)
      ![image](https://github.com/TripTeamOrganization/Informes/assets/48342953/33b25947-0ec1-4252-8e93-2f0e9ba8f972)
 
 2. **Barra de Navegación (Navbar):**
-   - Se creó y configuró una barra de navegación para permitir la navegación fácil entre las diferentes secciones de la página.
+   - Se creó y configuró una barra de navegación para permitir la navegación fácil entre las diferentes secciones de la página
+     
      ![image](https://github.com/TripTeamOrganization/Informes/assets/48342953/3d31bf76-1433-44ff-b2ab-e5405a8df0e5)
 
 3. **Fondo Animado:**
    - Se agregó un fondo animado utilizando un video de fondo para mejorar la estética y la experiencia visual de la página.
+     
      ![image](https://github.com/TripTeamOrganization/Informes/assets/48342953/ab20dc42-f01b-4552-83fb-23f77e06b03f)
 
 ### Trabajo Restante
@@ -1066,21 +1069,24 @@ El Sprint 1 fue fundamental para establecer las bases de la página de inicio. L
 
 ---
 
-## Evidencia de Ejecución para Actualizaciones de la Página de Inicio - Sprint 2
+# Evidencia de Ejecución para Actualizaciones de la Página de Inicio - Sprint 2
 
 ### Progreso en el Desarrollo
 Durante el Sprint 2, se completaron las siguientes secciones y características en la página de inicio:
 
 1. **Sección del Héroe:**
    - Se diseñó y desarrolló la sección del héroe con un mensaje atractivo y convincente para los usuarios.
-     ![image](https://github.com/TripTeamOrganization/Informes/assets/48342953/e299d034-7a5f-4699-bac5-429aea84bee8)
+     
+     ![image](https://github.com/TripTeamOrganization/Informes/assets/48342953/e299d034-7a5f-4699-bac5-429aea84bee8)    
 
 2. **Botón de Empezar Ahora:**
    - Se implementó el botón "Empezar Ahora" para dirigir a los usuarios hacia la siguiente acción deseada.
+     
      ![image](https://github.com/TripTeamOrganization/Informes/assets/48342953/2ceca461-280f-4b96-af93-96eb6f1c1740)
 
 3. **Características Principales:**
    - Se agregaron seis características principales con iconos representativos y descripciones concisas.
+     
      ![image](https://github.com/TripTeamOrganization/Informes/assets/48342953/c0f3d4cb-d4e4-4476-8123-9b4e6d18053d)
 
 
@@ -1089,6 +1095,9 @@ A pesar del progreso realizado, aún hay algunas tareas pendientes para completa
 
 - Integrar la sección "Acerca de Nosotros" con información relevante sobre la empresa.
 - Configurar la sección de testimonios con comentarios de usuarios reales.
+
+### Conclusiones
+El Sprint 2 fue crucial para añadir elementos clave a la página de inicio, como la sección del héroe y el botón "Empezar Ahora". Estas adiciones fortalecieron la llamada a la acción y la identidad de la marca. Sin embargo, aún hay aspectos adicionales por completar en los próximos sprints para mejorar aún más la experiencia del usuario.
 
 ---
 
@@ -1112,7 +1121,9 @@ Aunque se logró mucho en el Sprint 3, aún quedan algunas tareas pendientes par
 
 - Integrar una galería de imágenes en la sección correspondiente.
 - Realizar pruebas de rendimiento y corrección de errores menores antes del lanzamiento final.
-  
+
+### Conclusiones
+El Sprint 3 marcó el final de la implementación de las características principales de la página de inicio. La inclusión de la sección "Acerca de Nosotros" y la integración de testimonios agregan credibilidad y confianza a la marca. Sin embargo, algunas tareas de refinamiento y optimización técnica aún deben abordarse antes del lanzamiento final.  
     - 5.2.X.6. Services Documentation Evidence for Sprint Review
     - 5.2.X.7. Software Deployment Evidence for Sprint Review
     - 5.2.X.8. Team Collaboration Insights during Sprint
