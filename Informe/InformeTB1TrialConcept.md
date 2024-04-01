@@ -991,6 +991,18 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
 |Repository|Branch|Commit ID|Commit Message|Commit Message Body|Commited On (Date)|  
 |----------|------|---------|--------------|-------------------|------------------|
 |TripTeamOrganization/FrontEnd|Main|f2dd6d87319d340e8b03afc44f7c9e50d8b7f2e0|Initial Commit|-|23/03/2024| 
+|TripTeamOrganization/FrontEnd|Main|674d37b56cda9ce92f21c58d15c551d434b4bf8c|Images|-|23/03/2024| 
+|TripTeamOrganization/FrontEnd|Main|47bef222912cdf116e49ae5a921929839d57804f|Button|-|23/03/2024| 
+|TripTeamOrganization/FrontEnd|Main|f2dd6d87319d340e8b03afc44f7c9e50d8b7f2e0|Initial Commit|-|23/03/2024| 
+|TripTeamOrganization/FrontEnd|Main|f2dd6d87319d340e8b03afc44f7c9e50d8b7f2e0|Initial Commit|-|23/03/2024| 
+|TripTeamOrganization/FrontEnd|Main|f2dd6d87319d340e8b03afc44f7c9e50d8b7f2e0|Initial Commit|-|23/03/2024| 
+|TripTeamOrganization/FrontEnd|Main|f2dd6d87319d340e8b03afc44f7c9e50d8b7f2e0|Initial Commit|-|23/03/2024| 
+|TripTeamOrganization/FrontEnd|Main|f2dd6d87319d340e8b03afc44f7c9e50d8b7f2e0|Initial Commit|-|23/03/2024| 
+|TripTeamOrganization/FrontEnd|Main|f2dd6d87319d340e8b03afc44f7c9e50d8b7f2e0|Initial Commit|-|23/03/2024| 
+|TripTeamOrganization/FrontEnd|Main|f2dd6d87319d340e8b03afc44f7c9e50d8b7f2e0|Initial Commit|-|23/03/2024| 
+|TripTeamOrganization/FrontEnd|Main|f2dd6d87319d340e8b03afc44f7c9e50d8b7f2e0|Initial Commit|-|23/03/2024| 
+|TripTeamOrganization/FrontEnd|Main|f2dd6d87319d340e8b03afc44f7c9e50d8b7f2e0|Initial Commit|-|23/03/2024| 
+
   - 5.2.X.4. Testing Suite Evidence for Sprint Review
 En el proceso de desarrollo de la landing page, se aplicaron diversas estrategias de prueba para garantizar su correcto funcionamiento y adaptabilidad en diferentes entornos. A continuación se detallan las herramientas utilizadas y los enfoques adoptados:
 
