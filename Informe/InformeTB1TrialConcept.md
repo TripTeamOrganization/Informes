@@ -989,86 +989,90 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
   - 5.2.X.4. Testing Suite Evidence for Sprint Review
   - 5.2.X.5. Execution Evidence for Sprint Review
     
-  ## Execution Evidence for Sprint Review - Sprint 1
+# Evidencia de Ejecución para Actualizaciones de la Página de Inicio - Sprint 1
 
-### Development Progress
-En el Sprint 1 se alcanzó un desarrollo parcial en la implementación de las siguientes funcionalidades:
+### Progreso en el Desarrollo
+Durante el Sprint 1, se realizaron las siguientes implementaciones en la página de inicio:
 
-1. **Visualización de Características:**
-   Se completó la visualización de características en el landing page, permitiendo a los visitantes conocer las funcionalidades principales de la aplicación TripMate.
+1. **Sección de Galería:**
+   - Se diseñó e implementó una sección de galería para mostrar imágenes relacionadas con los destinos y servicios ofrecidos cambiando cada cierto tiempo.
+     ![image](https://github.com/TripTeamOrganization/Informes/assets/48342953/4885c9b1-affd-4881-a972-317e93ab264c)
+     ![image](https://github.com/TripTeamOrganization/Informes/assets/48342953/33b25947-0ec1-4252-8e93-2f0e9ba8f972)
 
-2. **Acceso a Descarga:**
-   Se implementó el acceso a la descarga de la aplicación, proporcionando a los usuarios un enlace directo para descargar TripMate de manera rápida y sencilla.
+2. **Barra de Navegación (Navbar):**
+   - Se creó y configuró una barra de navegación para permitir la navegación fácil entre las diferentes secciones de la página.
+     ![image](https://github.com/TripTeamOrganization/Informes/assets/48342953/3d31bf76-1433-44ff-b2ab-e5405a8df0e5)
 
-3. **Dar Feedback:**
-   Se inició la implementación del sistema de feedback, permitiendo a los usuarios proporcionar sugerencias y comentarios para mejorar la experiencia del usuario. Aún está en proceso y se espera completarlo en el próximo sprint.
+3. **Fondo Animado:**
+   - Se agregó un fondo animado utilizando un video de fondo para mejorar la estética y la experiencia visual de la página.
+     ![image](https://github.com/TripTeamOrganization/Informes/assets/48342953/ab20dc42-f01b-4552-83fb-23f77e06b03f)
 
-### Remaining Work
-A pesar del progreso realizado, aún quedan algunas tareas pendientes que se abordarán en los próximos sprints:
+### Trabajo Restante
+A pesar del progreso realizado en el Sprint 1, hay algunas tareas pendientes para el próximo sprint:
 
-- Finalizar la implementación del sistema de feedback.
-- Revisar y mejorar la sección de testimonios de usuarios.
-- Integrar completamente la sección de acceso a información legal.
+- Implementar la sección del héroe con un mensaje atractivo para los usuarios.
+- Integrar características principales con iconos representativos y descripciones concisas.
+- Configurar un botón "Empezar Ahora" para dirigir a los usuarios hacia la siguiente acción deseada.
 
-### Conclusion
-En el Sprint 1, el equipo logró avanzar significativamente en el desarrollo del landing page de la aplicación TripMate, completando importantes funcionalidades como la visualización de características y el acceso a la descarga de la aplicación. Aunque aún quedan tareas pendientes, se espera completarlas en los próximos sprints para seguir avanzando en el proyecto.
-
----
-
-## Execution Evidence for Sprint Review - Sprint 2
-
-### Development Progress
-Durante el Sprint 2, se logró un progreso significativo en el desarrollo de nuevas funcionalidades y en la mejora de las existentes:
-
-1. **Búsqueda de Destinos por Filtros:**
-   Se implementó la funcionalidad de búsqueda de destinos por filtros, permitiendo a los usuarios explorar opciones según sus intereses y preferencias.
-
-2. **Información sobre Destinos:**
-   Se completó la sección de información sobre destinos, proporcionando a los usuarios detalles sobre los lugares de interés para planificar sus viajes.
-
-3. **Exploración de Destinos Populares:**
-   Se implementó la funcionalidad de explorar destinos populares, permitiendo a los usuarios descubrir lugares recomendados por otros viajeros.
-
-### Remaining Work
-A pesar del progreso realizado, aún quedan algunas tareas pendientes para completar en los próximos sprints:
-
-- Finalizar la implementación de la funcionalidad de reserva de alojamiento.
-- Completar la planificación del itinerario en la aplicación.
-
-### Conclusion
-El Sprint 2 fue productivo, con avances significativos en la implementación de nuevas funcionalidades y mejoras en las existentes. Aunque hay tareas pendientes, el equipo está bien encaminado para completarlas en los próximos sprints.
+### Conclusiones
+El Sprint 1 fue fundamental para establecer las bases de la página de inicio. La implementación de la sección de galería, la barra de navegación y el fondo animado agregó valor significativo a la experiencia del usuario. Con estos elementos en su lugar, estamos bien posicionados para avanzar hacia la implementación de características adicionales en el próximo sprint.
 
 ---
 
-## Execution Evidence for Sprint Review - Sprint 3
+## Evidencia de Ejecución para Actualizaciones de la Página de Inicio - Sprint 2
 
-### Development Progress
-En el Sprint 3, el equipo continuó avanzando en el desarrollo de funcionalidades clave:
+### Progreso en el Desarrollo
+Durante el Sprint 2, se completaron las siguientes secciones y características en la página de inicio:
 
-1. **Compartir Itinerario:**
-   Se completó la implementación de la funcionalidad de compartir itinerario, permitiendo a los usuarios coordinar actividades y compartir planes de viaje con otras personas.
+1. **Sección del Héroe:**
+   - Se diseñó y desarrolló la sección del héroe con un mensaje atractivo y convincente para los usuarios.
+     ![image](https://github.com/TripTeamOrganization/Informes/assets/48342953/e299d034-7a5f-4699-bac5-429aea84bee8)
 
-2. **Explorar Actividades Cercanas:**
-   Se implementó la funcionalidad de explorar actividades y lugares de interés cercanos a la ubicación actual del usuario, proporcionando opciones adicionales durante el viaje.
+2. **Botón de Empezar Ahora:**
+   - Se implementó el botón "Empezar Ahora" para dirigir a los usuarios hacia la siguiente acción deseada.
+     ![image](https://github.com/TripTeamOrganization/Informes/assets/48342953/2ceca461-280f-4b96-af93-96eb6f1c1740)
 
-3. **Reservar Transporte Local:**
-   Se completó la implementación de la funcionalidad de reserva de transporte local, facilitando los desplazamientos durante el viaje.
+3. **Características Principales:**
+   - Se agregaron seis características principales con iconos representativos y descripciones concisas.
+     ![image](https://github.com/TripTeamOrganization/Informes/assets/48342953/c0f3d4cb-d4e4-4476-8123-9b4e6d18053d)
 
-### Remaining Work
+
+### Trabajo Restante
+A pesar del progreso realizado, aún hay algunas tareas pendientes para completar en los próximos sprints:
+
+- Integrar la sección "Acerca de Nosotros" con información relevante sobre la empresa.
+- Configurar la sección de testimonios con comentarios de usuarios reales.
+
+---
+
+# Evidencia de Ejecución para Actualizaciones de la Página de Inicio - Sprint 3
+
+### Progreso en el Desarrollo
+En el Sprint 3, se continuó avanzando en la mejora de la página de inicio con las siguientes actualizaciones:
+
+1. **Sección "Acerca de Nosotros":**
+   - Se completó la sección "Acerca de Nosotros" con información sobre la empresa y su misión.
+     
+2. **Sección de Convenios:**
+   - Se agregaron detalles sobre los convenios establecidos con aerolíneas, hoteles y restaurantes.
+     ![image](https://github.com/TripTeamOrganization/Informes/assets/48342953/f5177359-cb89-4a3e-a236-71d4b161f8c3)
+
+3. **Sección de Testimonios:**
+   - Se implementó la sección de testimonios con comentarios positivos de usuarios.
+
+### Trabajo Restante
 Aunque se logró mucho en el Sprint 3, aún quedan algunas tareas pendientes para completar:
 
-- Finalizar la implementación de la funcionalidad de seguimiento de gastos.
-- Revisar y mejorar la sección de descubrir eventos locales.
-
-### Conclusion
-El Sprint 3 fue otro éxito para el equipo, con importantes avances en el desarrollo de funcionalidades clave. Aunque quedan algunas tareas pendientes, el equipo está bien posicionado para completarlas en los próximos sprints y llevar el proyecto hacia adelante.
+- Integrar una galería de imágenes en la sección correspondiente.
+- Realizar pruebas de rendimiento y corrección de errores menores antes del lanzamiento final.
+  
     - 5.2.X.6. Services Documentation Evidence for Sprint Review
     - 5.2.X.7. Software Deployment Evidence for Sprint Review
     - 5.2.X.8. Team Collaboration Insights during Sprint
 
 # Conclusiones 🚀
 
-El proyecto de la *web app* busca abordar de manera **efectiva** el problema de la mala elección de servicios, gastos innecesarios y desorganización al planificar un viaje a un nuevo destino. Al proporcionar una plataforma centralizada que ofrece opciones personalizadas y filtradas según las preferencias y presupuestos del usuario, se simplifica y optimiza significativamente el proceso de planificación de viajes. Esto se traduce en un **ahorro de tiempo y dinero** para los viajeros, así como en una mayor satisfacción al encontrar las opciones más adecuadas para sus necesidades.
+El proyecto de la *web app* **Tripmate** busca abordar de manera **efectiva** el problema de la mala elección de servicios, gastos innecesarios y desorganización al planificar un viaje a un nuevo destino. Al proporcionar una plataforma centralizada que ofrece opciones personalizadas y filtradas según las preferencias y presupuestos del usuario, se simplifica y optimiza significativamente el proceso de planificación de viajes. Esto se traduce en un **ahorro de tiempo y dinero** para los viajeros, así como en una mayor satisfacción al encontrar las opciones más adecuadas para sus necesidades.
 
 La aplicación se centra en ofrecer una experiencia de usuario intuitiva y amigable, con características como:
 - Filtros precisos
