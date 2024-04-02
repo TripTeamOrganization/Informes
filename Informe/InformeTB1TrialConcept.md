@@ -959,6 +959,23 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
 - 5.2. Landing Page, Services & Applications Implementation
   - 5.2.1. Sprint 1
     - 5.2.1.1. Sprint Planning 1
+    Un sprint representa un periodo corto y fijo de tiempo durante el cual se desarrolla un conjunto de tareas o actividades específicas en un proyecto, asociado con metodologías ágiles como Scrum. El Sprint #1 tiene como fecha de inicio el 25/03/2024 y plantea elaborar una landing page atractiva para TripMate que capte la atención de los usuarios visitantes y comunique los principales beneficios de nuestro producto.
+
+    |**Sprint #**|**Sprint 1**|
+    | :- | :- |
+    |Sprint Planning Background||
+    |Date|25/03/2024|
+    |Time|8:00 PM - 11:00 PM|
+    |Location|Discord|
+    |Prepared By||
+    |Attendees|<p>Adrian Palma</p><p>Bárbara Espinoza</p><p>Paolo Martinez</p><p>Jeremy Quispe</p><p>Leonel Alfaro</p>|
+    |Sprint 0 Review Summary|Diseño y desarrollo del Landing Page|
+    |Sprint 0 Retrospective Summary|Completar los diseños y estandarizar el lenguaje usado en el desarrollo y presentación del landing page|
+    |Sprint Goal & User Stories||
+    |Sprint 1 Goal|Elaborar, diseñar y desplegar una Landing Page atractiva e informativa para la aplicación TripMate|
+    |Sprint 1 Velocity|15|
+    |Sum of Story Points|15|
+    
     - 5.2.1.2. Sprint Backlog 1
       
       ### Sprint 1
