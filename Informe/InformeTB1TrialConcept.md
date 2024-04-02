@@ -690,7 +690,7 @@ Segmento Objetivo #2: Viajeros lujosos
 |28|US02|Inicio de sesión|<p>**Como** usuario registrado</p><p>**Quiero** poder iniciar sesión en la aplicación</p><p>**Para** acceder a mi cuenta</p>|<p></p><p>1</p>|
 |29|US03|Recuperación de contraseña|<p>**Como** usuario registrado</p><p>**Quiero** tener la opción de recuperación de contraseña</p><p>**Para** poder acceder a mi cuenta sin problemas</p>|<p></p><p>1</p>|
 |30|US04|Cambiar dirección de correo electrónico|<p>**Como** usuario</p><p>**Quiero** poder cambiar la dirección de correo electrónico asociada a mi cuenta</p><p>**Para** mantener mi información de contacto actualizada</p>|<p></p><p>1</p>|
-|31|US29|Eliminar cuenta|<p>**Como** usuario</p><p>**Quiero** tener la opción de eliminar permanentemente mi cuenta y todos los datos asociados</p><p>**Para** borrar la información de mi cuenta de la aplicación</p><p></p>|<p></p><p>1</p>|
+|31|US31|Eliminar cuenta|<p>**Como** usuario</p><p>**Quiero** tener la opción de eliminar permanentemente mi cuenta y todos los datos asociados</p><p>**Para** borrar la información de mi cuenta de la aplicación</p><p></p>|<p></p><p>1</p>|
 |27|TS01|Post User|<p>**Como** desarrollador que trabaja en la aplicación de TripMate</p><p>**Quiero** registrar a un nuevo usuario mediante una API</p><p>**Para** visualizar los usuarios afiliados a nuestra aplicación</p>|<p></p><p>3</p>|
 |28|TS02|Get User|<p>**Como** desarrollador que trabaja en la aplicación de TripMate</p><p>**Quiero** obtener la información de un usuario mediante una API</p><p>**Para** mostrarla en la aplicación cuando se solicite</p>|<p></p><p>3</p>|
 |29|TS03|Get User by Membership|<p>**Como** desarrollador que trabaja en la aplicación de TripMate</p><p>**Quiero** obtener la información de los usuarios por sus membresías</p><p>**Para** brindar la diferencia en las funcionalidades según su membresía</p>|<p></p><p>3</p>|
@@ -706,7 +706,6 @@ Segmento Objetivo #2: Viajeros lujosos
 |39|TS13|Get Expenses|<p>**Como** desarrollador que trabaja en la aplicación de TripMate</p><p>**Quiero** obtener información sobre los gastos por usuario mediante una API</p><p>**Para** mostrarla en la aplicación cuando se solicite</p>|<p></p><p>3</p>|
 |40|TS14|Post Review|<p>**Como** desarrollador que trabaja en la aplicación de TripMate</p><p>**Quiero** registrar reseñas de los usuarios mediante una API</p><p>**Para** mantener un registro de reseñas por usuario</p>|<p></p><p>5</p>|
 |41|TS15|Get Review|<p>**Como** desarrollador que trabaja en la aplicación de TripMate</p><p>**Quiero** obtener información sobre las reseñas de distintos lugares, alojamientos o actividades</p><p>**Para** mostrarlas en la aplicación cuando se solicite</p>|<p></p><p>3</p>|
-
 
 
 ### Capítulo IV: Product Design
