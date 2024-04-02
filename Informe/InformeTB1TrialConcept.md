@@ -968,14 +968,14 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
     |Time|8:00 PM - 11:00 PM|
     |Location|Discord|
     |Prepared By||
-    |Attendees|<p>Adrian Palma</p><p>Bárbara Espinoza</p><p>Paolo Martinez</p><p>Jeremy Quispe</p><p>Leonel Alfaro</p>|
+    |Attendees|<p>Adrián Enrique Jesús Palma Obispo - u202210066</p><p>Paolo Del Carmen Martinez Villanueva - u202010039</p><p>Bárbara Antonella Espinoza Delgado - u201911727</p><p>Jeremy Joel Quispe Andia - u202216279</p><p>Leonel Alfaro Cumba -u20201a930</p>|
     |Sprint 0 Review Summary|Diseño y desarrollo del Landing Page|
     |Sprint 0 Retrospective Summary|Completar los diseños y estandarizar el lenguaje usado en el desarrollo y presentación del landing page|
     |Sprint Goal & User Stories||
     |Sprint 1 Goal|Elaborar, diseñar y desplegar una Landing Page atractiva e informativa para la aplicación TripMate|
     |Sprint 1 Velocity|15|
     |Sum of Story Points|15|
-    
+
     - 5.2.1.2. Sprint Backlog 1
       
       ### Sprint 1
