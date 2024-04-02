@@ -677,7 +677,7 @@ Segmento Objetivo #2: Viajeros lujosos
 |15|US18|Publicar reseñas|<p>**Como** usuario</p><p>**Quiero** poder publicar mis propias reseñas de destinos y servicios en la aplicación</p><p>**Para** compartir mi experiencia a los demás usuarios</p>|<p></p><p>3</p>|
 |16|US21|Compartir experiencia en redes sociales|<p>**Como** usuario</p><p>**Quiero** poder compartir mi experiencia de viaje en mis redes sociales</p><p>**Para** compartir momentos memorables de mi viaje</p>|<p></p><p>3</p>|
 |17|US14|Realizar pago|<p>**Como** usuario</p><p>**Quiero** poder realizar los pagos dentro de la aplicación</p><p>**Para** poder terminar de planificar el viaje</p>|<p></p><p>5</p>|
-|18|US28|Suscripción a membresía premium|<p>**Como** usuario</p><p>**Quiero** poder suscribirme a una membresía en la aplicación</p><p>**Para** poder adquirir beneficios adicionales</p>|<p></p><p>3</p>|
+|18|US30|Suscripción a membresía premium|<p>**Como** usuario</p><p>**Quiero** poder suscribirme a una membresía en la aplicación</p><p>**Para** poder adquirir beneficios adicionales</p>|<p></p><p>3</p>|
 |19|US24|Visualizar una landing page atractiva|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar una landing page clara y atractiva</p><p>**Para** entender el propósito de la aplicación</p>|<p></p><p>3</p>|
 |20|US25|Visualizar features de la aplicación|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar todos las funcionalidades y servicios que brinda TripMate</p><p>**Para** entender el uso de la aplicación</p>|<p></p><p>3</p>|
 |21|US26|Sección “Acerca de nosotros”|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar una sección que me informe sobre el startup</p><p>**Para** conocer al equipo de TripMate y su propósito</p>|<p></p><p>3</p>|
