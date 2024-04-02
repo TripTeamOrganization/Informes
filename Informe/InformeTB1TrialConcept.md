@@ -660,35 +660,37 @@ Segmento Objetivo #2: Viajeros lujosos
 
 |**# Orden**|**User Story ID**|**Título**|**Descripción**|**Story Points (1 / 2 / 3 / 5 / 8)**|
 | :- | :- | :- | :- | :- |
-|1|US24|Visualizar features de la aplicación|<p>**Como** visitante del landing page</p><p>**Quiero** conocer sobre las funcionalidades de la **aplicación**</p><p>**Para** informarme sobre su uso</p>|<p></p><p>1</p>|
-|2|US25|Acceso a descarga de la aplicación|<p>**Como** visitante del landing page</p><p>**Quiero** poder acceder al enlace de descarga de la aplicación</p><p>**Para** poder descargar la aplicación de forma rápida y sencilla</p>|<p></p><p>1</p>|
-|3|US23|Dar feedback|<p>**Como** usuario</p><p>**Quiero** poder proporcionar feedback sobre la aplicación</p><p>**Para** compartir sugerencias o comentarios que ayuden a mejorar la experiencia del usuario</p>|<p></p><p>1</p>|
-|4|US26|Visualización de testimonios|<p>**Como** visitante del landing page</p><p>**Quiero** poder ver testimonios y experiencias de otros usuarios</p><p>**Para** conocer la opinión del público sobre TripMate</p>|<p></p><p>1</p>|
-|5|US27|Acceso a información legal|<p>**Como** visitante del landing page</p><p>**Quiero** poder acceder a la información legal de TripMate</p><p>**Para** conocer mis derechos y responsabilidades al utilizar la aplicación</p>|<p></p><p>1</p>|
-|6|US05|Buscar destinos por filtros|<p>**Como** usuario</p><p>**Quiero** poder buscar destinos por categorías</p><p>**Para** explorar opciones según mis intereses y preferencias</p>|<p></p><p>5</p>|
-|7|US06|Información sobre destinos|<p>**Como** usuario</p><p>**Quiero** poder acceder a información sobre destino de mi viaje</p><p>**Para pod**er conocer el lugar y planificar un itinerario</p>|<p></p><p>3</p>|
-|8|US07|Explorar destinos populares|<p>**Como** usuario</p><p>**Quiero** poder explorar destinos populares en la aplicación</p><p>**Para** descubrir lugares recomendados por otros viajeros</p>|<p></p><p>3</p>|
-|9|US08|Reservar alojamiento|<p>**Como** usuario </p><p>**Quiero** poder reservar alojamiento en la aplicación</p><p>**Para** asegurar mi hospedaje durante el viaje</p>|<p></p><p>8</p>|
-|10|US09|Planificar itinerario|<p>**Como** usuario</p><p>**Quiero** poder planificar mi itinerario en la aplicación</p><p>**Para** organizar mis actividades durante el viaje</p>|<p></p><p>8</p>|
-|11|US10|Compartir itinerario|<p>**Como** usuario</p><p>**Quiero** poder compartir mi itinerario de viaje** con otras personas</p><p>**Para** coordinar actividades y compartir planes</p>|<p></p><p>3</p>|
-|12|US11|Explorar actividades cercanas|<p>**Como** usuario</p><p>**Quiero** poder explorar actividades y lugares de interés cercanos a mi ubicación actual</p><p>**Para** descubrir opciones adicionales durante mi viaje</p>|<p></p><p>3</p>|
-|13|US12|Reservar transporte local|<p>**Como** usuario</p><p>**Quiero** poder reservar transporte local</p><p>**Para** facilitar mis desplazamientos durante el viaje</p>|<p></p><p>5</p>|
-|14|US13|Descubrir eventos locales|<p>**Como** usuario</p><p>**Quiero** poder descubrir eventos locales</p><p>**Para** mejorar mi experiencia cultural durante mi viaje</p>|<p></p><p>3</p>|
-|15|US15|Seguimiento de gastos|<p>**Como** usuario</p><p>**Quiero** poder realizar un seguimiento de mis gastos en la aplicación</p><p>**Para** mantenerme dentro de mi presupuesto</p>|<p></p><p>3</p>|
-|16|US16|Establecer presupuesto|<p>**Como** usuario</p><p>**Quiero** poder establecer un presupuesto para mi viaje en la aplicación</p><p>**Para** poder controlar mis gastos</p>|<p></p><p>5</p>|
-|17|US19|Explorar ofertas y descuentos|<p>**Como** usuario</p><p>**Quiero** poder explorar ofertas y descuentos en la aplicación</p><p>**Para** encontrar oportunidades de ahorro durante la planificación del viaje</p>|<p></p><p>3</p>|
-|18|US20|Aplicación de códigos promocionales|<p>**Como** usuario</p><p>**Quiero** tener la opción de ingresar códigos promocionales durante el proceso de pago</p><p>**Para** obtener descuentos adicionales en los servicios ofrecidos</p><p></p>|<p></p><p>3</p>|
-|19|US17|Ver reseñas|<p>**Como** usuario</p><p>**Quiero** poder ver reseñas de otros viajeros sobre destinos o actividades en la aplicación</p><p>**Para** poder tomar decisiones e informarme sobre mis viajes</p>|<p></p><p>3</p>|
-|20|US18|Publicar reseñas|<p>**Como** usuario</p><p>**Quiero** poder publicar mis propias reseñas de destinos y servicios en la aplicación</p><p>**Para** compartir mi experiencia a los demás usuarios</p>|<p></p><p>3</p>|
-|21|US21|Compartir experiencia en redes sociales|<p>**Como** usuario</p><p>**Quiero** poder compartir mi experiencia de viaje en mis redes sociales</p><p>**Para** compartir momentos memorables de mi viaje</p>|<p></p><p>3</p>|
-|22|US14|Realizar pago|<p>**Como** usuario</p><p>**Quiero** poder realizar los pagos dentro de la aplicación</p><p>**Para** poder terminar de planificar el viaje</p>|<p></p><p>5</p>|
-|23|US28|Suscripción a membresía premium|<p>**Como** usuario</p><p>**Quiero** poder suscribirme a una membresía en la aplicación</p><p>**Para** poder adquirir beneficios adicionales</p>|<p></p><p>3</p>|
-|24|US22|Contactar al soporte|<p>**Como** usuario</p><p>**Quiero** poder contactar al equipo de soporte de la aplicación</p><p>**Para** obtener ayuda con problemas técnicos</p>|<p></p><p>2</p>|
-|25|US01|Registro de usuario|<p>**Como** usuario nuevo</p><p>**Quiero** poder registrarme en TripMate** </p><p>**Para** poder acceder a todas las funcionalidades de la aplicación</p>|<p></p><p>1</p>|
-|26|US02|Inicio de sesión|<p>**Como** usuario registrado</p><p>**Quiero** poder iniciar sesión en la aplicación</p><p>**Para** acceder a mi cuenta</p>|<p></p><p>1</p>|
-|27|US03|Recuperación de contraseña|<p>**Como** usuario registrado</p><p>**Quiero** tener la opción de recuperación de contraseña</p><p>**Para** poder acceder a mi cuenta sin problemas</p>|<p></p><p>1</p>|
-|28|US04|Cambiar dirección de correo electrónico|<p>**Como** usuario</p><p>**Quiero** poder cambiar la dirección de correo electrónico asociada a mi cuenta</p><p>**Para** mantener mi información de contacto actualizada</p>|<p></p><p>1</p>|
-|29|US29|Eliminar cuenta|<p>**Como** usuario</p><p>**Quiero** tener la opción de eliminar permanentemente mi cuenta y todos los datos asociados</p><p>**Para** borrar la información de mi cuenta de la aplicación</p><p></p>|<p></p><p>1</p>|
+|1|US05|Buscar destinos por filtros|<p>**Como** usuario</p><p>**Quiero** poder buscar destinos por categorías</p><p>**Para** explorar opciones según mis intereses y preferencias</p>|<p></p><p>5</p>|
+|2|US06|Información sobre destinos|<p>**Como** usuario</p><p>**Quiero** poder acceder a información sobre destino de mi viaje</p><p>**Para pod**er conocer el lugar y planificar un itinerario</p>|<p></p><p>3</p>|
+|3|US07|Explorar destinos populares|<p>**Como** usuario</p><p>**Quiero** poder explorar destinos populares en la aplicación</p><p>**Para** descubrir lugares recomendados por otros viajeros</p>|<p></p><p>3</p>|
+|4|US08|Reservar alojamiento|<p>**Como** usuario </p><p>**Quiero** poder reservar alojamiento en la aplicación</p><p>**Para** asegurar mi hospedaje durante el viaje</p>|<p></p><p>8</p>|
+|5|US09|Planificar itinerario|<p>**Como** usuario</p><p>**Quiero** poder planificar mi itinerario en la aplicación</p><p>**Para** organizar mis actividades durante el viaje</p>|<p></p><p>8</p>|
+|6|US10|Compartir itinerario|<p>**Como** usuario</p><p>**Quiero** poder compartir mi itinerario de viaje** con otras personas</p><p>**Para** coordinar actividades y compartir planes</p>|<p></p><p>3</p>|
+|7|US11|Explorar actividades cercanas|<p>**Como** usuario</p><p>**Quiero** poder explorar actividades y lugares de interés cercanos a mi ubicación actual</p><p>**Para** descubrir opciones adicionales durante mi viaje</p>|<p></p><p>3</p>|
+|8|US12|Reservar transporte local|<p>**Como** usuario</p><p>**Quiero** poder reservar transporte local</p><p>**Para** facilitar mis desplazamientos durante el viaje</p>|<p></p><p>5</p>|
+|9|US13|Descubrir eventos locales|<p>**Como** usuario</p><p>**Quiero** poder descubrir eventos locales</p><p>**Para** mejorar mi experiencia cultural durante mi viaje</p>|<p></p><p>3</p>|
+|10|US15|Seguimiento de gastos|<p>**Como** usuario</p><p>**Quiero** poder realizar un seguimiento de mis gastos en la aplicación</p><p>**Para** mantenerme dentro de mi presupuesto</p>|<p></p><p>3</p>|
+|11|US16|Establecer presupuesto|<p>**Como** usuario</p><p>**Quiero** poder establecer un presupuesto para mi viaje en la aplicación</p><p>**Para** poder controlar mis gastos</p>|<p></p><p>5</p>|
+|12|US19|Explorar ofertas y descuentos|<p>**Como** usuario</p><p>**Quiero** poder explorar ofertas y descuentos en la aplicación</p><p>**Para** encontrar oportunidades de ahorro durante la planificación del viaje</p>|<p></p><p>3</p>|
+|13|US20|Aplicación de códigos promocionales|<p>**Como** usuario</p><p>**Quiero** tener la opción de ingresar códigos promocionales durante el proceso de pago</p><p>**Para** obtener descuentos adicionales en los servicios ofrecidos</p><p></p>|<p></p><p>3</p>|
+|14|US17|Ver reseñas|<p>**Como** usuario</p><p>**Quiero** poder ver reseñas de otros viajeros sobre destinos o actividades en la aplicación</p><p>**Para** poder tomar decisiones e informarme sobre mis viajes</p>|<p></p><p>3</p>|
+|15|US18|Publicar reseñas|<p>**Como** usuario</p><p>**Quiero** poder publicar mis propias reseñas de destinos y servicios en la aplicación</p><p>**Para** compartir mi experiencia a los demás usuarios</p>|<p></p><p>3</p>|
+|16|US21|Compartir experiencia en redes sociales|<p>**Como** usuario</p><p>**Quiero** poder compartir mi experiencia de viaje en mis redes sociales</p><p>**Para** compartir momentos memorables de mi viaje</p>|<p></p><p>3</p>|
+|17|US14|Realizar pago|<p>**Como** usuario</p><p>**Quiero** poder realizar los pagos dentro de la aplicación</p><p>**Para** poder terminar de planificar el viaje</p>|<p></p><p>5</p>|
+|18|US28|Suscripción a membresía premium|<p>**Como** usuario</p><p>**Quiero** poder suscribirme a una membresía en la aplicación</p><p>**Para** poder adquirir beneficios adicionales</p>|<p></p><p>3</p>|
+|19|US24|Visualizar una landing page atractiva|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar una landing page clara y atractiva</p><p>**Para** entender el propósito de la aplicación</p>|<p></p><p>3</p>|
+|20|US25|Visualizar features de la aplicación|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar todos las funcionalidades y servicios que brinda TripMate</p><p>**Para** entender el uso de la aplicación</p>|<p></p><p>3</p>|
+|21|US26|Sección “Acerca de nosotros”|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar una sección que me informe sobre el startup</p><p>**Para** conocer al equipo de TripMate y su propósito</p>|<p></p><p>3</p>|
+|22|US27|Sección “Convenios”|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar los convenios que tiene TripMate</p><p>**Para** conocer las distintas empresas asociadas</p>|<p></p><p>3</p>|
+|23|US28|Sección “Testimonios”|<p>**Como** visitante del landing page</p><p>**Quiero** poder ver testimonios y experiencias de otros usuarios</p><p>**Para** conocer la opinión del público sobre TripMate</p>|<p></p><p>3</p>|
+|24|US29|Acceder desde cualquier dispositivo a la landing page|<p>**Como** visitante del landing page</p><p>**Quiero** que sea accesible desde diferentes dispositivos </p><p>**Para** poder ingresar al sitio web desde cualquier dispositivo</p>|<p></p><p>3</p>|
+|25|US24|Visualizar una landing page atractiva|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar una landing page clara y atractiva</p><p>**Para** entender el propósito de la aplicación</p>|<p></p><p>3</p>|
+|26|US22|Contactar al soporte|<p>**Como** usuario</p><p>**Quiero** poder contactar al equipo de soporte de la aplicación</p><p>**Para** obtener ayuda con problemas técnicos</p>|<p></p><p>2</p>|
+|27|US01|Registro de usuario|<p>**Como** usuario nuevo</p><p>**Quiero** poder registrarme en TripMate** </p><p>**Para** poder acceder a todas las funcionalidades de la aplicación</p>|<p></p><p>1</p>|
+|28|US02|Inicio de sesión|<p>**Como** usuario registrado</p><p>**Quiero** poder iniciar sesión en la aplicación</p><p>**Para** acceder a mi cuenta</p>|<p></p><p>1</p>|
+|29|US03|Recuperación de contraseña|<p>**Como** usuario registrado</p><p>**Quiero** tener la opción de recuperación de contraseña</p><p>**Para** poder acceder a mi cuenta sin problemas</p>|<p></p><p>1</p>|
+|30|US04|Cambiar dirección de correo electrónico|<p>**Como** usuario</p><p>**Quiero** poder cambiar la dirección de correo electrónico asociada a mi cuenta</p><p>**Para** mantener mi información de contacto actualizada</p>|<p></p><p>1</p>|
+|31|US29|Eliminar cuenta|<p>**Como** usuario</p><p>**Quiero** tener la opción de eliminar permanentemente mi cuenta y todos los datos asociados</p><p>**Para** borrar la información de mi cuenta de la aplicación</p><p></p>|<p></p><p>1</p>|
 |27|TS01|Post User|<p>**Como** desarrollador que trabaja en la aplicación de TripMate</p><p>**Quiero** registrar a un nuevo usuario mediante una API</p><p>**Para** visualizar los usuarios afiliados a nuestra aplicación</p>|<p></p><p>3</p>|
 |28|TS02|Get User|<p>**Como** desarrollador que trabaja en la aplicación de TripMate</p><p>**Quiero** obtener la información de un usuario mediante una API</p><p>**Para** mostrarla en la aplicación cuando se solicite</p>|<p></p><p>3</p>|
 |29|TS03|Get User by Membership|<p>**Como** desarrollador que trabaja en la aplicación de TripMate</p><p>**Quiero** obtener la información de los usuarios por sus membresías</p><p>**Para** brindar la diferencia en las funcionalidades según su membresía</p>|<p></p><p>3</p>|
@@ -704,6 +706,8 @@ Segmento Objetivo #2: Viajeros lujosos
 |39|TS13|Get Expenses|<p>**Como** desarrollador que trabaja en la aplicación de TripMate</p><p>**Quiero** obtener información sobre los gastos por usuario mediante una API</p><p>**Para** mostrarla en la aplicación cuando se solicite</p>|<p></p><p>3</p>|
 |40|TS14|Post Review|<p>**Como** desarrollador que trabaja en la aplicación de TripMate</p><p>**Quiero** registrar reseñas de los usuarios mediante una API</p><p>**Para** mantener un registro de reseñas por usuario</p>|<p></p><p>5</p>|
 |41|TS15|Get Review|<p>**Como** desarrollador que trabaja en la aplicación de TripMate</p><p>**Quiero** obtener información sobre las reseñas de distintos lugares, alojamientos o actividades</p><p>**Para** mostrarlas en la aplicación cuando se solicite</p>|<p></p><p>3</p>|
+
+
 
 ### Capítulo IV: Product Design
 - 4.1. Style Guidelines
