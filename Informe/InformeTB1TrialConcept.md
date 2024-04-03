@@ -1057,7 +1057,7 @@ En el proceso de desarrollo de la landing page, se aplicaron diversas estrategia
 
 ---
 
-## **1. Utilización de Live Server de Microsoft Visual Studio Code** 🖥️
+## **1. Utilización de Live Server de Microsoft Visual Studio Code** 🖥
 
 ### Propósito:
 Live Server se implementó para facilitar el desarrollo y la prueba de la landing page de manera local.
@@ -1067,7 +1067,7 @@ Esta herramienta permitió la visualización dinámica de la landing page en el 
 
 ---
 
-## **2. Firefox Developer para Pruebas de Dimensiones Móviles** 📱
+## **2. Firefox Developer para Pruebas de Dimensiones Móviles** 
 
 ### Propósito:
 Firefox Developer fue empleado para verificar la compatibilidad y el aspecto visual de la landing page en dispositivos móviles.
@@ -1077,7 +1077,7 @@ Esta herramienta proporcionó un entorno de desarrollo amigable para simular dif
 
 ---
 
-## **3. Uso Específico de Herramientas Únicas** 🛠️
+## **3. Uso Específico de Herramientas Únicas** 🛠
 
 ### Propósito:
 Se desarrollaron técnicas de prueba personalizadas para evaluar aspectos específicos de la landing page.
@@ -1087,7 +1087,7 @@ Por ejemplo, se utilizó una herramienta personalizada para simular la carga y e
 
 ---
 
-## **4. Aprovechamiento de las Propiedades del Navegador para Mejorar el Responsive** 🌐
+## **4. Aprovechamiento de las Propiedades del Navegador para Mejorar el Responsive** 
 
 ### Propósito:
 Se aprovecharon las características específicas del navegador para mejorar la compatibilidad con CSS Grid y el diseño responsivo.
@@ -1097,7 +1097,7 @@ Se exploraron las capacidades de inspección de elementos del navegador para aju
 
 ---
 
-Estas estrategias de prueba garantizaron la funcionalidad, la estética y la adaptabilidad de la landing page en diversos dispositivos y navegadores, contribuyendo así a una experiencia de usuario excepcional. ✨
+Estas estrategias de prueba garantizaron la funcionalidad, la estética y la adaptabilidad de la landing page en diversos dispositivos y navegadores, contribuyendo así a una experiencia de usuario excepcional. 
 
   - 5.2.X.5. Execution Evidence for Sprint Review
     
@@ -1194,7 +1194,7 @@ El Sprint 3 marcó el final de la implementación de las características princi
     - 5.2.X.7. Software Deployment Evidence for Sprint Review
     - 5.2.X.8. Team Collaboration Insights during Sprint
 
-# Conclusiones 🚀
+# Conclusiones 
 
 El proyecto de la *web app* **Tripmate** busca abordar de manera **efectiva** el problema de la mala elección de servicios, gastos innecesarios y desorganización al planificar un viaje a un nuevo destino. Al proporcionar una plataforma centralizada que ofrece opciones personalizadas y filtradas según las preferencias y presupuestos del usuario, se simplifica y optimiza significativamente el proceso de planificación de viajes. Esto se traduce en un **ahorro de tiempo y dinero** para los viajeros, así como en una mayor satisfacción al encontrar las opciones más adecuadas para sus necesidades.
 
@@ -1207,7 +1207,7 @@ Estas funcionalidades están diseñadas para facilitar la búsqueda y selección
 
 A través de un enfoque centrado en las necesidades del usuario y la diferenciación de la competencia, la *landing page* busca destacarse en el mercado de viajes en línea. La inclusión de características únicas, como la sección de galería para inspirar a los viajeros, la barra de navegación intuitiva y el fondo animado para captar la atención del usuario, se suma a su propuesta de valor. Además, la colaboración con empresas asociadas y la promoción de descuentos exclusivos pueden atraer a una base de usuarios más amplia y consolidar la posición de la página de inicio en el mercado. En resumen, la *landing page* se presenta como una solución atractiva y funcional para los viajeros, ofreciendo una experiencia de usuario fluida y diferenciada para planificar sus próximas aventuras.
 
-## Bibliografía 📚
+## Bibliografía 
 
 - Leiva, I. (2022). Esta es la cantidad de dinero que necesitas para viajar un año por el mundo. Recuperado de: [Yahoo Finanzas](https://es-us.finanzas.yahoo.com/noticias/esta-es-la-cantidad-de-dinero-que-necesitas-para-viajar-un-ano-por-el-mundo-161251049.html)
 - Asmar, S. (2023). Consejos para no endeudarse en sus próximos viajes y pagar la deuda en pocos meses. Recuperado de: [La República](https://www.larepublica.co/finanzas-personales/consejos-para-no-endeudarse-en-sus-proximos-viajes-y-pagar-la-deuda-en-pocos-meses-3598007) 
