@@ -1183,6 +1183,7 @@ En el Sprint 3, se continuó avanzando en la mejora de la página de inicio con 
 
 3. **Sección de Testimonios:**
    - Se implementó la sección de testimonios con comentarios positivos de usuarios.
+     ![Imagen de WhatsApp 2024-04-02 a las 22 19 20_f75d955c](https://github.com/TripTeamOrganization/Informes/assets/48342953/60a57cf9-9db6-47b1-86d3-06c2045c6cf5)
      
 
 ### Trabajo Restante
