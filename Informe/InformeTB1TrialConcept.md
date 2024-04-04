@@ -1055,7 +1055,7 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
   - 5.2.X.4. Testing Suite Evidence for Sprint Review
 En el proceso de desarrollo de la landing page, se aplicaron diversas estrategias de prueba para garantizar su correcto funcionamiento y adaptabilidad en diferentes entornos. A continuación se detallan las herramientas utilizadas y los enfoques adoptados:
 
----
+
 
 ## **1. Utilización de Live Server de Microsoft Visual Studio Code** 🖥
 
@@ -1065,7 +1065,7 @@ Live Server se implementó para facilitar el desarrollo y la prueba de la landin
 ### Descripción:
 Esta herramienta permitió la visualización dinámica de la landing page en el navegador web, lo que agilizó el proceso de desarrollo al mostrar los cambios en tiempo real sin necesidad de recargar manualmente la página.
 
----
+
 
 ## **2. Firefox Developer para Pruebas de Dimensiones Móviles** 
 
@@ -1075,9 +1075,9 @@ Firefox Developer fue empleado para verificar la compatibilidad y el aspecto vis
 ### Descripción:
 Esta herramienta proporcionó un entorno de desarrollo amigable para simular diferentes dimensiones de pantalla y validar el diseño responsivo de la landing page en dispositivos móviles.
 
----
 
-## **3. Uso Específico de Herramientas Únicas** 🛠
+
+## **3. Uso Específico de Herramientas Únicas** 
 
 ### Propósito:
 Se desarrollaron técnicas de prueba personalizadas para evaluar aspectos específicos de la landing page.
