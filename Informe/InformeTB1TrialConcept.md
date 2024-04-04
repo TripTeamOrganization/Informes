@@ -395,7 +395,7 @@ Para el segmento objetivo de viajeros de lujo, nuestras preguntas exploran las p
 
 Segmento objetivo 1: Familias Viajeras y Aventureras
 
-| Entrevistado N°1: Sandro Quispesivana |<img src="https://github.com/TripTeamOrganization/Informes/assets/134337719/36f9bff8-5412-4069-a221-182eef515dbb" alt="Andrés Valle" style="width: 200px;">|
+| Entrevistado N°1: Sandro Quispesivana |<img src="https://github.com/TripTeamOrganization/Informes/assets/134337719/36f9bff8-5412-4069-a221-182eef515dbb" alt="Andrés Valle" style="width: 185px;">|
 |--------------------------------|------------------------------------------------------------|
 | **Nombre:**                    | Sandro Quispesivana                                               |
 | **Edad:**                      | 30                                                         |
@@ -407,8 +407,7 @@ Segmento objetivo 1: Familias Viajeras y Aventureras
 
 
 
-
-| Entrevistado N°2: Isabel Martinez |<img src="https://github.com/TripTeamOrganization/Informes/assets/89095594/9e5ec55e-d03d-4e64-99e8-82447b673027" alt="Andrés Valle" width="150" height="160">|
+| Entrevistado N°2: Isabel Martinez |<img src="https://github.com/TripTeamOrganization/Informes/assets/134337719/12f8c567-9528-4494-86cb-3fb749280fc4" alt="Andrés Valle" style="width: 220px;">|
 |--------------------------------|------------------------------------------------------------|
 | **Nombre:**                    | Isabel Martinez Quispe                                               |
 | **Edad:**                      | 35                                                         |
@@ -418,7 +417,9 @@ Segmento objetivo 1: Familias Viajeras y Aventureras
 | **Momento de inicio:**         | 0:02                                                       |
 | **Duración:**                  | 7:14                                                       |
 
-| Entrevistado N°3: Isaak Sánches | <img src="https://github.com/TripTeamOrganization/Informes/assets/89095594/3b50ca6d-dab8-4329-b6d6-7d142aecade1" alt="image" width="200" height="150"> |
+
+
+| Entrevistado N°3: Isaak Sánches | <img src="https://github.com/TripTeamOrganization/Informes/assets/134337719/d5c28126-a804-4c18-833c-a98db0a4f349" alt="Andrés Valle" style="width: 230px;"> |
 |--------------------------------|------------------------------------------------------------|
 | **Nombre:**                    | Isaak Sánches                                              |
 | **Edad:**                      | 28                                                        |
@@ -430,21 +431,20 @@ Segmento objetivo 1: Familias Viajeras y Aventureras
 
 
 
-
 Segmento objetivo 2: Viajeros de lujo
 
-| Entrevistado N°4: Andrés Valle |<img src="https://github.com/CodepaceOrganization/Informes/assets/134337719/8f336f70-40b0-4477-94eb-6e92b7917524" alt="Andrés Valle" style="width: 200px;">|
+| Entrevistado N°4: Andrés Valle |<img src="https://github.com/CodepaceOrganization/Informes/assets/134337719/8f336f70-40b0-4477-94eb-6e92b7917524" alt="Andrés Valle" style="width: 240px;">|
 |--------------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| Nombre:                    | Andrés Valle                                                                                                          |
-| Edad:                      | 32                                                                                                                    |
-| Sexo:                      | Masculino                                                                                                             |
-| Ocupación:                 | Ingeniero Aeronáutico                                                                                                 |
-| Entrevista:                | Link                                                                    |
-| Momento de inicio:         | 0:04                                                                                                                  |
-| Duración:                  | 3:50                                                                                                                  |
+| **Nombre:**                   | Andrés Valle                                                                                                          |
+| **Edad:**                     | 32                                                                                                                    |
+| **Sexo:**                    | Masculino                                                                                                             |
+|**Ocupación:**                | Ingeniero Aeronáutico                                                                                                 |
+| **Entrevista:**             | [Link](https://www.youtube.com/watch?v=DpATSL0ElpE)                                                                    |
+| **Momento de inicio:**         | 0:04                                                                                                                  |
+| **Duración:**               | 3:50                                                                                                                  |
 
 
-| Entrevistado N°5: Gustavo Chinchay | <img src=https://github.com/TripTeamOrganization/Informes/assets/89095594/bdda83a4-be1a-4c7e-a8a2-fa329cf779c9 alt="image" width="300" height="200"> |
+| Entrevistado N°5: Gustavo Chinchay | <img src=https://github.com/TripTeamOrganization/Informes/assets/89095594/bdda83a4-be1a-4c7e-a8a2-fa329cf779c9 alt="Andrés Valle" style="width: 200px;"> |
 |--------------------------------|------------------------------------------------------------|
 | **Nombre:**                    | Gustavo Chinchay                                              |
 | **Edad:**                      | 30                                                         |
