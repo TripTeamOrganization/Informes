@@ -395,7 +395,7 @@ Para el segmento objetivo de viajeros de lujo, nuestras preguntas exploran las p
 
 Segmento objetivo 1: Familias Viajeras y Aventureras
 
-| Entrevistado N°1: Sandro Quispesivana |<img src="https://github.com/TripTeamOrganization/Informes/assets/134337719/36f9bff8-5412-4069-a221-182eef515dbb" alt="Andrés Valle" style="width: 200px;">|
+| Entrevistado N°1: Sandro Quispesivana |<img src="https://github.com/TripTeamOrganization/Informes/assets/134337719/36f9bff8-5412-4069-a221-182eef515dbb" alt="Andrés Valle" style="width: 185px;">|
 |--------------------------------|------------------------------------------------------------|
 | **Nombre:**                    | Sandro Quispesivana                                               |
 | **Edad:**                      | 30                                                         |
@@ -407,8 +407,7 @@ Segmento objetivo 1: Familias Viajeras y Aventureras
 
 
 
-
-| Entrevistado N°2: Isabel Martinez |<img src="https://github.com/TripTeamOrganization/Informes/assets/89095594/9e5ec55e-d03d-4e64-99e8-82447b673027" alt="Andrés Valle" width="150" height="160">|
+| Entrevistado N°2: Isabel Martinez |<img src="https://github.com/TripTeamOrganization/Informes/assets/134337719/12f8c567-9528-4494-86cb-3fb749280fc4" alt="Andrés Valle" style="width: 220px;">|
 |--------------------------------|------------------------------------------------------------|
 | **Nombre:**                    | Isabel Martinez Quispe                                               |
 | **Edad:**                      | 35                                                         |
@@ -418,7 +417,9 @@ Segmento objetivo 1: Familias Viajeras y Aventureras
 | **Momento de inicio:**         | 0:02                                                       |
 | **Duración:**                  | 7:14                                                       |
 
-| Entrevistado N°3: Isaak Sánches | <img src="https://github.com/TripTeamOrganization/Informes/assets/89095594/3b50ca6d-dab8-4329-b6d6-7d142aecade1" alt="image" width="200" height="150"> |
+
+
+| Entrevistado N°3: Isaak Sánches | <img src="https://github.com/TripTeamOrganization/Informes/assets/134337719/d5c28126-a804-4c18-833c-a98db0a4f349" alt="Andrés Valle" style="width: 230px;"> |
 |--------------------------------|------------------------------------------------------------|
 | **Nombre:**                    | Isaak Sánches                                              |
 | **Edad:**                      | 28                                                        |
@@ -430,21 +431,31 @@ Segmento objetivo 1: Familias Viajeras y Aventureras
 
 
 
-
 Segmento objetivo 2: Viajeros de lujo
 
-| Entrevistado N°4: Andrés Valle |<img src="https://github.com/CodepaceOrganization/Informes/assets/134337719/8f336f70-40b0-4477-94eb-6e92b7917524" alt="Andrés Valle" style="width: 200px;">|
+| Entrevistado N°4: Andrés Valle |<img src="https://github.com/CodepaceOrganization/Informes/assets/134337719/8f336f70-40b0-4477-94eb-6e92b7917524" alt="Andrés Valle" style="width: 240px;">|
 |--------------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| Nombre:                    | Andrés Valle                                                                                                          |
-| Edad:                      | 32                                                                                                                    |
-| Sexo:                      | Masculino                                                                                                             |
-| Ocupación:                 | Ingeniero Aeronáutico                                                                                                 |
-| Entrevista:                | Link                                                                    |
-| Momento de inicio:         | 0:04                                                                                                                  |
-| Duración:                  | 3:50                                                                                                                  |
+| **Nombre:**                   | Andrés Valle                                                                                                          |
+| **Edad:**                     | 32                                                                                                                    |
+| **Sexo:**                    | Masculino                                                                                                             |
+|**Ocupación:**                | Ingeniero Aeronáutico                                                                                                 |
+| **Entrevista:**             | [Link](https://www.youtube.com/watch?v=DpATSL0ElpE)                                                                    |
+| **Momento de inicio:**         | 0:04                                                                                                                  |
+| **Duración:**               | 3:50                                                                                                                  |
 
 
-| Entrevistado N°5: Gustavo Chinchay | <img src=https://github.com/TripTeamOrganization/Informes/assets/89095594/bdda83a4-be1a-4c7e-a8a2-fa329cf779c9 alt="image" width="300" height="200"> |
+| Entrevistado N°5: Gustavo Chinchay | <img src=https://github.com/TripTeamOrganization/Informes/assets/89095594/bdda83a4-be1a-4c7e-a8a2-fa329cf779c9 alt="Andrés Valle" style="width: 200px;"> |
+|--------------------------------|------------------------------------------------------------|
+| **Nombre:**                    | Gustavo Chinchay                                              |
+| **Edad:**                      | 30                                                         |
+| **Sexo:**                      | Masculino                                                  |
+| **Ocupación:**                 | Ingeniero de sonido                                      |
+| **Entrevista:**                | [Link](https://www.youtube.com/watch?v=ggIC9Cf1or4)       |
+| **Momento de inicio:**         | 0:01                                                       |
+| **Duración:**                  | 5:25                                                       |
+
+
+| Entrevistado N°6: Jhan Caseres | <img src=https://github.com/TripTeamOrganization/Informes/assets/134337719/9da98916-6e6e-4b85-9d32-c8f2fd49c87a alt="Andrés Valle" style="width: 240px;"> |
 |--------------------------------|------------------------------------------------------------|
 | **Nombre:**                    | Gustavo Chinchay                                              |
 | **Edad:**                      | 30                                                         |
@@ -456,6 +467,26 @@ Segmento objetivo 2: Viajeros de lujo
 
 
 - 2.2.3. Análisis de entrevistas
+  
+
+Análisis de Entrevistas sobre Aplicación de Viajes Familiares:
+
+| **Entrevistado**                    | **Análisis**                                                                 |
+|------------------------------------|-----------------------------------------------------------------------------------------|
+| Sandro Quispesivana               | Apoya la idea de una aplicación para planificar viajes familiares. <br>Destaca la utilidad de características como la planificación de itinerarios personalizados y la seguridad. <br>Aboga por una combinación de características generales y opciones de personalización para mejorar la experiencia de viaje familiar. |
+|  Isabel Martinez                  | Considera que una aplicación para organizar viajes familiares es una excelente idea.<br>Destaca su utilidad, practicidad y capacidad para hacer los viajes más ordenados y agradables.<br>Menciona la importancia de la seguridad, la privacidad y la recepción de sugerencias para facilitar la planificación del itinerario. |
+| Isaak Sánches          | Expresa su respaldo a una aplicación para la planificación de viajes familiares.<br>Destaca la conveniencia y utilidad de la aplicación para hacer los viajes más organizados y placenteros.<br>Enfatiza la importancia de la veracidad de la información, la seguridad de los datos y la capacidad de recibir recomendaciones adaptadas. |
+
+
+Análisis de Entrevistas sobre Experiencias de Viaje de Lujo:
+
+| **Entrevistado**                    | **Análisis**                                                                 |
+|------------------------------------|-----------------------------------------------------------------------------------------|
+| Andrés Valle        | Busca experiencias lujosas que ofrezcan sofisticación y comodidad. Valora la capacidad de personalización, la seguridad de sus datos y la exclusividad en sus reservas.<br>Ha tenido experiencias tanto positivas como negativas al utilizar aplicaciones móviles para planificar sus viajes de lujo. |
+| Gustavo Chinchay                      | Reconoce en TripMate la posibilidad de enriquecer sus viajes de lujo por el Perú.<br>Valora la personalización, la seguridad de sus datos y la exclusividad en sus reservas.<br>Considera que la tecnología puede mejorar significativamente la experiencia de viaje de lujo. |
+| Jhan Caseres        | Reconoce en TripMate la oportunidad de elevar la calidad de sus travesías por el territorio peruano.<br>Aprecia la personalización, la seguridad de sus datos y la exclusividad en sus reservas.<br>Considera que la tecnología puede contribuir significativamente a mejorar la experiencia de viaje de lujo. |
+
+
 - 2.3. Needfinding
 - 2.3.1. User Personas
 
@@ -532,6 +563,37 @@ Segmento objetivo 2: Martin Casanova
 
 - 2.4. Ubiquitous Language
 
+1. **Technical Interview** (Entrevista Técnica)  
+   A structured assessment process conducted by employers in the technology industry to evaluate a candidate's technical skills, problem-solving abilities, and suitability for a specific role or position within the organization. Technical interviews often involve a series of questions, coding exercises, and problem-solving scenarios.
+
+2. **Coding Exercise** (Ejercicio de Codificación)  
+   A practical task assigned to candidates during a technical interview to evaluate their programming proficiency, algorithmic thinking, and coding abilities. Coding exercises typically require candidates to write code to solve a specific problem or implement a given algorithm within a specified timeframe.
+
+3. **Mock Interview** (Simulacro de Entrevista)  
+   A simulated interview session designed to replicate the format and experience of a real technical interview. Mock interviews provide candidates with an opportunity to practice answering technical questions, solving coding challenges, and receiving feedback from experienced interviewers to improve their performance.
+
+4. **Frequently Asked Questions (FAQs)** (Preguntas Frecuentes)  
+   A compilation of common queries, topics, and concerns frequently encountered by candidates during technical interviews. FAQs provide candidates with valuable insights, tips, and strategies for navigating the interview process effectively and increasing their chances of success.
+
+5. **Tutorials** (Tutoriales)  
+   Comprehensive guides, tutorials, and instructional materials aimed at helping candidates improve their technical skills, enhance their understanding of core concepts, and prepare for technical interviews. Tutorials cover a wide range of topics, including data structures, algorithms, programming languages, and problem-solving techniques.
+
+6. **Exclusive Content** (Contenido Exclusivo)  
+   Specialized resources, content, or insights available only to members or subscribers of a particular platform or service. Exclusive content may include advanced tutorials, in-depth articles, insider tips from industry experts, and access to exclusive webinars or events.
+
+7. **Recruitment Opportunities** (Oportunidades de Reclutamiento)  
+   Job openings, internship positions, or networking opportunities provided by technology companies seeking to recruit talent from within the platform's user community. Recruitment opportunities enable candidates to explore career options, connect with potential employers, and pursue professional growth opportunities.
+
+8. **Premium Memberships** (Membresías Premium)  
+   Subscription-based access levels offering users enhanced features, benefits, and privileges beyond those available in the standard free version. Premium memberships may include access to exclusive content, personalized coaching sessions, priority support, and ad-free browsing.
+
+9. **Personalized Tutoring Sessions** (Sesiones de Tutoría Personalizada)  
+   Individualized coaching sessions tailored to meet the unique learning needs and goals of candidates preparing for technical interviews. Personalized tutoring sessions provide candidates with targeted guidance, feedback, and support to help them improve their skills, build confidence, and perform their best during interviews.
+
+10. **Money-Back Guarantee** (Garantía de Devolución de Dinero)  
+    A commitment or assurance provided to users that they will receive a full refund of their subscription fee or payment if they are not satisfied with the services or outcomes delivered by the platform. The money-back guarantee reflects the platform's confidence in its offerings and its commitment to customer satisfaction.
+
+
 ### Capítulo III: Requirements Specification
 - 3.1. To-Be Scenario Mapping
 
@@ -553,43 +615,45 @@ Segmento Objetivo #2: Viajeros de lujo
 | :- | :- | :- | :- | :- |
 |EP01|Autenticación de usuario|<p>**Como** usuario</p><p>**Quiero** poder registrarme e iniciar sesión</p><p>**Para** acceder a la aplicación de TripMate</p>|Epic|EP01|
 |EP02|Gestión de cuentas|<p>**Como** usuario</p><p>**Quiero** poder administrar y personalizar mi cuenta</p><p>**Para** poder realizar** cambios en mi cuenta</p>|Epic|EP02|
-|EP03|Búsqueda y exploración de destinos|<p>**Como** usuario</p><p>**Quiero** poder buscar y explorar destinos</p><p>**Para** planificar mi viaje</p>|Epic|EP02|
-|EP04|Reservas y planificación de itinerarios|<p>**Como** usuario</p><p>**Quiero** poder realizar reservas y planificar itinerarios</p><p>**Para** preparar mi viaje</p>|Epic|EP03|
-|EP05|Gestión de presupuestos|<p>**Como** usuario</p><p>**Quiero** tener herramientas de gestión de presupuestos</p><p>**Para re**alizar un seguimiento de mis gastos</p>|Epic|EP04|
-|EP06|Ver y publicar reseñas|<p>**Como** usuario</p><p>**Quiero** poder compartir y ver reseñas de viajes** </p><p>**Para** descubrir destinos de viaje recomendados por otros usuarios</p>|Epic|EP05|
-|EP07|Contacto|<p>**Como** visitante del landing page</p><p>**Quiero** contar con una sección que me permita contactar con los desarrolladores de la aplicación</p><p>**Para** resolver algún problema o dar mi opinión sobre la aplicación </p>|Epic|EP06|
-|EP08|Información acerca de la aplicación|<p>**Como** visitante del landing page</p><p>**Quiero** contar con secciones que detallan los beneficios de la aplicación</p><p>**Para** tener información sobre el propósito del producto</p>|Epic|EP07|
-|EP09|Vínculo entre la landing page y la aplicación|<p>**Como** visitante del landing page</p><p>**Quiero** contar con componentes que me dirijan a la aplicación** </p><p>**Para** poder acceder de una forma sencilla</p>|Epic|EP08|
-|EP10|Descuentos|<p>**Como** usuario</p><p>**Quiero** poder acceder a descuentos en la aplicación</p><p>**Para** ahorrar dinero en mis viajes</p>|Epic|EP09|
+|EP03|Búsqueda y exploración de destinos|<p>**Como** usuario</p><p>**Quiero** poder buscar y explorar destinos</p><p>**Para** planificar mi viaje</p>|Epic|EP03|
+|EP04|Reservas y planificación de itinerarios|<p>**Como** usuario</p><p>**Quiero** poder realizar reservas y planificar itinerarios</p><p>**Para** preparar mi viaje</p>|Epic|EP04|
+|EP05|Gestión de presupuestos|<p>**Como** usuario</p><p>**Quiero** tener herramientas de gestión de presupuestos</p><p>**Para re**alizar un seguimiento de mis gastos</p>|Epic|EP05|
+|EP06|Ver y publicar reseñas|<p>**Como** usuario</p><p>**Quiero** poder compartir y ver reseñas de viajes** </p><p>**Para** descubrir destinos de viaje recomendados por otros usuarios</p>|Epic|EP06|
+|EP07|Contacto|<p>**Como** visitante del landing page</p><p>**Quiero** contar con una sección que me permita contactar con los desarrolladores de la aplicación</p><p>**Para** resolver algún problema o dar mi opinión sobre la aplicación </p>|Epic|EP07|
+|EP08|Optimización de la experiencia del usuario|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar una presentación atractiva</p><p>**Para** conocer los servicios y características que ofrece TripMate</p>|Epic|EP08|
+|EP9|Descuentos|<p>**Como** usuario</p><p>**Quiero** poder acceder a descuentos en la aplicación</p><p>**Para** ahorrar dinero en mis viajes</p>|Epic|EP09|
 |US01|Registro de usuario|<p>**Como** usuario nuevo</p><p>**Quiero** poder registrarme en TripMate** </p><p>**Para** poder acceder a todas las funcionalidades de la aplicación</p>|<p>**Escenario 1: Registro exitoso**</p><p>**Dado que** el usuario es nuevo</p><p>**Cuando** acceda a la página de registro</p><p>**Y** complete todos los campos requeridos</p><p>**Entonces** debería recibir una confirmación de registro</p><p></p><p>**Escenario 2: Registro fallido**</p><p>**Dado que** el usuario completó el formulario de registro</p><p>**Cuando** ingrese información inválida o incompleta</p><p>**Entonces** debería recibir un mensaje de error que indiquen los campos a corregir</p>|EP01|
-|US02|Inicio de sesión|<p>**Como** usuario registrado</p><p>**Quiero** poder iniciar sesión en la aplicación</p><p>**Para** acceder a mi cuenta</p>|<p>Escenario 1: Inicio de sesión exitoso</p><p>**Dado que** el usuario se ha registrado</p><p>**Cuando** ingrese su correo electrónico y contraseña</p><p>**Entonces** debería poder acceder a mi cuenta</p><p></p><p>Escenario 2: Inicio de sesión fallido</p><p></p><p>**Dado que** el usuario se ha registrado</p><p>**Cuando** ingrese una credencial incorrecta</p><p>**Entonces** debería recibir un mensaje de error</p>|EP01|
-|US03|Recuperación de contraseña|<p>**Como** usuario registrado</p><p>**Quiero** tener la opción de recuperación de contraseña</p><p>**Para** poder acceder a mi cuenta sin problemas</p>|<p>Escenario 1: Solicitud de recuperación de contraseña exitosa</p><p></p><p>**Dado que** el usuario ha olvidado su contraseña</p><p>**Cuando** acceda a la opción de recuperar contraseña</p><p>**Y** coloca el correo asociado a su cuenta</p><p>**Entonces** recibirá un correo electrónico con instrucciones para recuperar su contraseña</p><p></p><p>Escenario 2: Solicitud de recuperación de contraseña fallida</p><p></p><p>**Dado que** el usuario ha olvidado su contraseña</p><p>**Cuando** accede a la opción de recuperar contraseña</p><p>**Y** coloca un correo no asociado a su cuenta</p><p>**Entonces** mostrará un mensaje de error</p><p>**Y** deberá ingresar su correo nuevamente</p><p></p>|EP01|
-|US04|Cambiar dirección de correo electrónico|<p>**Como** usuario</p><p>**Quiero** poder cambiar la dirección de correo electrónico asociada a mi cuenta</p><p>**Para** mantener mi información de contacto actualizada</p>|<p>Escenario 1: Acceder a la configuración de la cuenta</p><p></p><p>Dado que el usuario está registrado y ha iniciado sesión en la aplicación</p><p>Cuando acceda a la configuración de su cuenta desde el menú de perfil</p><p>Entonces podrá encontrar una opción para cambiar su dirección de correo electrónico</p><p></p><p>Escenario 2: Verificación de la nueva dirección de correo electrónico</p><p></p><p>**Dado que** el usuario ha ingresado una nueva dirección de correo electrónico en la configuración de su cuenta</p><p>**Cuando** guarde los cambios y la aplicación solicite verificar la nueva dirección</p><p>**Entonces** recibirá un correo electrónico de verificación en la nueva dirección y seguirá un proceso para confirmar el cambio</p><p></p>|EP01|
-|US05|Buscar destinos por filtros|<p>**Como** usuario</p><p>**Quiero** poder buscar destinos por categorías</p><p>**Para** explorar opciones según mis intereses y preferencias</p>|<p>Escenario 1: Filtración de destinos</p><p></p><p>**Dado que** el usuario quiere planificar un viaje personalizado</p><p>**Cuando** utilice los filtros en la sección de búsqueda</p><p>**Entonces** debería ver una variedad de destinos según los filtros aplicados</p><p></p><p>Escenario 2: Selección de destino</p><p></p><p>**Dado que** el usuario quiere seleccionar un destino</p><p>**Cuando** encuentre su destino ideal</p><p>**Entonces** podrá seleccionarlo como destino del viaje</p>|EP03|
-|US06|Información sobre destinos|<p>**Como** usuario</p><p>**Quiero** poder acceder a información sobre destino de mi viaje</p><p>**Para pod**er conocer el lugar y planificar un itinerario</p>|<p>Escenario 1: Información sobre destino</p><p></p><p>**Dado que** el usuario seleccionó el destino de su viaje</p><p>**Cuando** ingrese al apartado de información</p><p>**Entonces** podrá leer acerca de mi destino turístico</p><p></p><p>Escenario 2: Observar fotos y videos</p><p></p><p>**Dado que** el usuario quiere conocer el destino de su viaje</p><p>**Cuando** ingrese al apartado de videos y fotografías</p><p>**Entonces** podrá ver una variedad de fotos y videos acerca de su destino</p>|EP03|
-|US07|Explorar destinos populares|<p>**Como** usuario</p><p>**Quiero** poder explorar destinos populares en la aplicación</p><p>**Para** descubrir lugares recomendados por otros viajeros</p>|<p>Escenario 1: Destino más visitado</p><p></p><p>**Dado que** el usuario quiere explorar destinos populares</p><p>**Cuando** acceda a la sección de destinos destacados</p><p>**Entonces** debería ver una lista de los destinos más visitados</p><p></p><p>Escenario 2: Recomendaciones de destinos</p><p></p><p>**Dado que** el usuario está interesado en recibir recomendaciones</p><p>**Cuando** complete su perfil con sus preferencias de viaje</p><p>**Entonces** debería ver sugerencias basadas en sus intereses</p>|EP03|
-|US08|Reservar alojamiento|<p>**Como** usuario </p><p>**Quiero** poder reservar alojamiento en la aplicación</p><p>**Para** asegurar mi hospedaje durante el viaje</p>|<p>Escenario 1: Selección de fecha y tipo de alojamiento</p><p></p><p>**Dado que** el usuario quiere reservar alojamiento para su viaje</p><p>**Cuando** seleccione las fechas de estadía y el tipo de alojamiento deseado</p><p>**Entonces** se mostrará una lista de opciones de alojamiento disponibles</p>|EP04|
-|US09|Planificar itinerario|<p>**Como** usuario</p><p>**Quiero** poder planificar mi itinerario en la aplicación</p><p>**Para** organizar mis actividades durante el viaje</p>|<p>Escenario 1: Agregar actividades</p><p></p><p>**Dado que** el usuario está planificando su viaje</p><p>**Cuando** explore las opciones de actividades </p><p>**Y** seleccione las que desea realizar</p><p>**Entonces** debería poder agregarlas a su itinerario con fecha y horario</p><p></p><p>Escenario 2: Visualizar itinerario</p><p></p><p>**Dado que** el usuario ha agregado actividades a su itinerario</p><p>**Cuando** acceda a la planificación de su viaje</p><p>**Entonces** podrá ver todas sus actividades organizadas por día y hora</p>|EP04|
-|US10|Compartir itinerario|<p>**Como** usuario</p><p>**Quiero** poder compartir mi itinerario de viaje** con otras personas</p><p>**Para** coordinar actividades y compartir planes</p>|<p>Escenario 1: Compartir itinerario</p><p></p><p>**Dado que** el usuario ha creado un itinerario en la aplicación</p><p>Cuando seleccione la opción de compartir itinerario</p><p>**Entonces** podrá enviar una invitación a otros usuarios para que vean su itinerario</p><p></p><p>Escenario 2: Aceptar invitación</p><p></p><p>**Dado que** el usuario ha recibido una invitación para un itinerario</p><p>**Cuando** acepte la invitación</p><p>**Entonces** podrá ver y colaborar en el itinerario compartido</p><p></p>|EP04|
-|US11|Explorar actividades cercanas|<p>**Como** usuario</p><p>**Quiero** poder explorar actividades y lugares de interés cercanos a mi ubicación actual</p><p>**Para** descubrir opciones adicionales durante mi viaje</p>|<p>Escenario 1: Búsqueda de actividades</p><p></p><p>**Dado que** el usuario se encuentra en una nueva ubicación durante su viaje</p><p>**Cuando** acceda a la función de explorar actividades cercanas</p><p>**Entonces** podrá ver una lista de actividades, restaurantes o lugares de interés recomendados en las cercanías</p><p></p><p>Escenario 2: Búsqueda por filtro</p><p></p><p>**Dado que** el usuario está buscando actividades personalizadas</p><p>**Cuando** explore las actividades cercanas por filtro</p><p>**Entonces** podrá encontrar fácilmente actividades adecuadas a sus preferencias</p>|EP04|
-|US12|Reservar transporte local|<p>**Como** usuario</p><p>**Quiero** poder reservar transporte local</p><p>**Para** facilitar mis desplazamientos durante el viaje</p>|<p>Escenario 1: Búsqueda de transporte</p><p></p><p>Dado que el usuario necesita un transporte desde su ubicación hasta un lugar específico</p><p>Cuando acceda a la sección de transporte en la aplicación</p><p>Entonces podrá ver opciones de transporte disponibles</p><p></p><p>Escenario 2: Reserva de transporte</p><p></p><p>**Dado que** el usuario desea alquilar un transporte</p><p>**Cuando** encuentre el transporte adecuado y seleccione la hora, fecha y punto de inicio y fin del viaje</p><p>**Entonces** podrá reservar un transporte según sus necesidades</p>|EP04|
-|US13|Descubrir eventos locales|<p>**Como** usuario</p><p>**Quiero** poder descubrir eventos locales</p><p>**Para** mejorar mi experiencia cultural durante mi viaje</p>|<p>Escenario 1: Búsqueda de eventos</p><p></p><p>**Dado que** el usuario está buscando eventos en su destino</p><p>**Cuando** use la función de buscar eventos locales</p><p>**Entonces** podrá visualizar todos los eventos locales que hay en su destino</p><p></p><p>Escenario 2: Selección de evento</p><p></p><p>**Dado que** el usuario está buscando eventos en su destino</p><p>**Cuando** use la función de buscar eventos locales</p><p>Y encuentre un evento que le llame la atención</p><p>**Entonces** podrá registrar ese evento como una actividad en su itinerario</p>|EP04|
-|US14|Realizar pago|<p>**Como** usuario</p><p>**Quiero** poder realizar los pagos dentro de la aplicación</p><p>**Para** poder terminar de planificar el viaje</p>|<p>Escenario 1: Pago exitoso</p><p>**Dado que** el usuario ha organizado su viaje</p><p>**Cuando** quiera realizar el pago</p><p>**Entonces** la aplicación lo redireccionará a la sección de pago</p><p>**Y** podrá pagar el total de su viaje</p><p></p><p>Escenario 2: Pago fallido</p><p></p><p>**Dado que** el usuario ha organizado su viaje</p><p>**Y** desea realizar el pago</p><p>**Cuando** ingrese credenciales incorrectas en la sección de pago</p><p>**Entonces** la aplicación mostrará un mensaje de error</p><p>**Y** le permitirá volver a ingresar sus datos</p>|EP04|
-|US15|Seguimiento de gastos|<p>**Como** usuario</p><p>**Quiero** poder realizar un seguimiento de mis gastos en la aplicación</p><p>**Para** mantenerme dentro de mi presupuesto</p>|<p>Escenario 1: Registro de gastos</p><p></p><p>**Dado que** el usuario está viajando</p><p>**Cuando** realice algún gasto relacionado con su viaje</p><p>**Entonces** podra registrar el monto en la aplicación</p><p></p><p>Escenario 2: Visualización de gastos</p><p></p><p>**Dado que** el usuario ha registrado varios gastos durante su viaje</p><p>**Cuando** acceda a la sección de seguimiento de gastos</p><p>**Entonces** podrá ver un resumen de sus gastos y un total acumulado</p>|EP05|
-|US16|Establecer presupuesto|<p>**Como** usuario</p><p>**Quiero** poder establecer un presupuesto para mi viaje en la aplicación</p><p>**Para** poder controlar mis gastos</p>|<p>Escenario 1: Configuración de presupuesto</p><p></p><p>**Dado que** el usuario está planeando su viaje</p><p>**Cuando** ingrese el presupuesto total que tiene disponible</p><p>**Entonces** podrá establecer un límite de gastos para su viaje</p><p></p><p>Escenario 2: Alertas de presupuesto</p><p></p><p>**Dado que** el usuario está gastando durante su viaje</p><p>**Cuando** se acerque al límite de su presupuesto o lo exceda</p><p>**Entonces** debería recibir una alerta para ayudarle a controlar sus gastos</p>|EP05|
-|US17|Ver reseñas|<p>**Como** usuario</p><p>**Quiero** poder ver reseñas de otros viajeros sobre destinos o actividades en la aplicación</p><p>**Para** poder tomar decisiones e informarme sobre mis viajes</p>|<p>Escenario 1: Explorar reseñas de destinos</p><p></p><p>**Dado que** el usuario está buscando reseñas sobre su destino</p><p>**Cuando** acceda a la página del destino</p><p>**Entonces** podrá ver las reseñas de otros usuarios junto con comentarios y calificaciones</p><p><br>Escenario 2: Explorar reseñas de actividades</p><p></p><p>**Dado que** el usuario está buscando reseñas sobre una actividad en particular</p><p>**Cuando** explore las opciones de actividades</p><p>**Entonces** podrá ver las reseñas de otros usuarios para esa actividad</p>|EP06|
-|US18|Publicar reseñas|<p>**Como** usuario</p><p>**Quiero** poder publicar mis propias reseñas de destinos y servicios en la aplicación</p><p>**Para** compartir mi experiencia a los demás usuarios</p>|<p>Escenario 1: Escribir reseña</p><p></p><p>**Dado que** el usuario ha tenido una experiencia positiva en su viaje incluyendo destino, hotel o actividades</p><p>**Cuando** visite la página de los servicios</p><p>**Entonces** podrá escribir una reseña detallada y calificar su experiencia</p>|EP06|
-|US19|Explorar ofertas y descuentos|<p>**Como** usuario</p><p>**Quiero** poder explorar ofertas y descuentos en la aplicación</p><p>**Para** encontrar oportunidades de ahorro durante la planificación del viaje</p>|<p>Escenario 1: Búsqueda de ofertas</p><p></p><p>**Dado que** el usuario está buscando descuentos</p><p>**Cuando** acceda a la sección de ofertas y descuentos</p><p>**Entonces** podrá ver descuentos especiales que brinda la aplicación</p><p></p><p>Escenario 2: Búsqueda de ofertas por filtros</p><p></p><p>**Dado que** el usuario está buscando descuentos para viajes, actividades o alojamientos específicos</p><p>**Cuando** acceda a la sección de ofertas y descuentos</p><p>Y aplique los filtros deseados</p><p>**Entonces** podrá encontrar descuentos especiales según los filtros ingresados</p>|EP010|
-|US20|Aplicación de códigos promocionales|<p>**Como** usuario</p><p>**Quiero** tener la opción de ingresar códigos promocionales durante el proceso de pago</p><p>**Para** obtener descuentos adicionales en los servicios ofrecidos</p><p></p>|<p>Escenario 1: Ingresar código promocional</p><p></p><p>**Dado que** el usuario tiene un código promocional válido</p><p>**Cuando** esté en la página de pago durante el proceso de reserva</p><p>**Entonces** debería poder ingresar el código promocional en un campo designado y ver el descuento reflejado en el precio total antes de confirmar la reserva.</p><p></p>|EP10|
-|US21|Compartir experiencia en redes sociales|<p>**Como** usuario</p><p>**Quiero** poder compartir mi experiencia de viaje en mis redes sociales</p><p>**Para** compartir momentos memorables de mi viaje</p>|<p>Escenario 1: Selección de red social</p><p></p><p>**Dado que** el usuario desea compartir la experiencia de su viaje en sus redes sociales</p><p>**Cuando** seleccione la opción de compartir</p><p>**Entonces** podrá ver todas las redes sociales disponibles que podrá vincular</p><p></p><p>Escenario 2: Compartir en red social</p><p></p><p>**Dado que** el usuario desea compartir la experiencia de su viaje en su red social preferida</p><p>**Cuando** seleccione la opción de compartir</p><p>Y elija su red social preferida</p><p>**Entonces** podrá compartir a su red social su experiencia de viaje</p>|EP06|
-|US22|Contactar al soporte|<p>**Como** usuario</p><p>**Quiero** poder contactar al equipo de soporte de la aplicación</p><p>**Para** obtener ayuda con problemas técnicos</p>|<p>Escenario 1: Envío de consulta</p><p></p><p>**Dado que** el usuario tiene una pregunta sobre el funcionamiento de la aplicación o desea realizar un reclamo</p><p>**Cuando** acceda a la sección de soporte</p><p>**Y** complete el formulario de contacto</p><p>**Entonces** podrá enviar su consulta al soporte</p><p></p><p>Escenario 2: Respuesta del soporte</p><p></p><p>**Dado que** el usuario ha enviado una consulta al soporte</p><p>**Cuando** reciba una respuesta</p><p>**Entonces** podrá recibir asistencia a su problema</p>|EP07|
-|US23|Dar feedback|<p>**Como** usuario</p><p>**Quiero** poder proporcionar feedback sobre la aplicación</p><p>**Para** compartir sugerencias o comentarios que ayuden a mejorar la experiencia del usuario</p>|<p>Escenario 1: Compartir sugerencias</p><p></p><p>**Dado que** el usuario tiene una idea para mejorar la aplicación</p><p>**Cuando** acceda a la sección de contacto</p><p>**Entonces** podrá enviar un correo al equipo de desarrollo para poder mejorar la aplicación</p>|EP07|
-|US24|Visualizar features de la aplicación|<p>**Como** visitante del landing page</p><p>**Quiero** conocer sobre las funcionalidades de la **aplicación**</p><p>**Para** informarme sobre su uso</p>|<p>Escenario 1: Visualización de los features</p><p></p><p>**Dado que** el usuario se encuentra en el landing page </p><p>**Cuando** visualice la sección de features</p><p>**Entonces** podrá visualizar las funcionalidades de la aplicación</p>|EP08|
-|US25|Acceso a descarga de la aplicación|<p>**Como** visitante del landing page</p><p>**Quiero** poder acceder al enlace de descarga de la aplicación</p><p>**Para** poder descargar la aplicación de forma rápida y sencilla</p>|<p>Escenario 1: Enlace directo</p><p></p><p>**Dado que** el usuario está interesado en usar la aplicación</p><p>**Cuando** haga clic en el enlace de descarga desde la landing page</p><p>**Entonces** la página redirigirá al usuario a la tienda o al sitio web para comenzar la descarga</p>|EP09|
-|US26|Visualización de testimonios|<p>**Como** visitante del landing page</p><p>**Quiero** poder ver testimonios y experiencias de otros usuarios</p><p>**Para** conocer la opinión del público sobre TripMate</p>|<p>Escenario 1: Acceso a la sección de testimonios</p><p></p><p>**Dado que** el usuario está explorando el landing page</p><p>**Cuando** acceda a la sección de testimonios</p><p>**Entonces** podrá leer experiencias de otras personas usando la aplicación</p>|<p>EP08</p><p></p>|
-|US27|Acceso a información legal|<p>**Como** visitante del landing page</p><p>**Quiero** poder acceder a la información legal de TripMate</p><p>**Para** conocer mis derechos y responsabilidades al utilizar la aplicación</p>|<p>Escenario 1: Visualizar información legal</p><p></p><p>**Dado que** el usuario está en el landing page</p><p>**Cuando** busque secciones que proporcionen información legal</p><p>**Entonces** podrá acceder a los términos de servicio y política de privacidad de TripMate</p>|EP09|
-|US28|Suscripción a membresía premium|<p>**Como** usuario</p><p>**Quiero** poder suscribirme a una membresía en la aplicación</p><p>**Para** poder adquirir beneficios adicionales</p>|<p>Escenario 1: Suscripción exitosa</p><p></p><p>**Dado** que el usuario está interesado en obtener beneficios adicionales en la aplicación</p><p>**Cuando** acceda a la sección de membresía premium</p><p>**Y** seleccione el plan premium</p><p>**Entonces** podrá completar el proceso de suscripción</p><p></p><p>Escenario 2: Error durante la suscripción</p><p></p><p>**Dado que** el usuario está interesado en obtener beneficios adicionales en la aplicación</p><p>**Cuando** intente suscribirse a la membresía premium</p><p>**Y** durante el proceso ingrese un método de pago incorrecto o haya un problema con el servicio de pago</p><p>**Entonces** recibirá un mensaje de error indicando la naturaleza del problema</p>|EP02|
-|US29|Eliminar cuenta|<p>**Como** usuario</p><p>**Quiero** tener la opción de eliminar permanentemente mi cuenta y todos los datos asociados</p><p>**Para** borrar la información de mi cuenta de la aplicación</p><p></p>|<p>Escenario 1: Eliminar cuenta</p><p></p><p>**Dado que** el usuario ha decidido eliminar su cuenta de TripMate</p><p>**Cuando** acceda a la configuración de su cuenta y seleccione la opción para eliminarla</p><p>**Entonces** recibirá una confirmación </p><p>**Y**, después de confirmar, su cuenta y todos los datos asociados serán eliminados permanentemente</p><p></p>|EP02|
+|US02|Inicio de sesión|<p>**Como** usuario registrado</p><p>**Quiero** poder iniciar sesión en la aplicación</p><p>**Para** acceder a mi cuenta</p>|<p>**Escenario 1:** Inicio de sesión exitoso</p><p>**Dado que** el usuario se ha registrado</p><p>**Cuando** ingrese su correo electrónico y contraseña</p><p>**Entonces** debería poder acceder a mi cuenta</p><p></p><p>**Escenario 2:** Inicio de sesión fallido</p><p></p><p>**Dado que** el usuario se ha registrado</p><p>**Cuando** ingrese una credencial incorrecta</p><p>**Entonces** debería recibir un mensaje de error</p>|EP01|
+|US03|Recuperación de contraseña|<p>**Como** usuario registrado</p><p>**Quiero** tener la opción de recuperación de contraseña</p><p>**Para** poder acceder a mi cuenta sin problemas</p>|<p>**Escenario 1:** Solicitud de recuperación de contraseña exitosa</p><p></p><p>**Dado que** el usuario ha olvidado su contraseña</p><p>**Cuando** acceda a la opción de recuperar contraseña</p><p>**Y** coloca el correo asociado a su cuenta</p><p>**Entonces** recibirá un correo electrónico con instrucciones para recuperar su contraseña</p><p></p><p>**Escenario 2:** Solicitud de recuperación de contraseña fallida</p><p></p><p>**Dado que** el usuario ha olvidado su contraseña</p><p>**Cuando** accede a la opción de recuperar contraseña</p><p>**Y** coloca un correo no asociado a su cuenta</p><p>**Entonces** mostrará un mensaje de error</p><p>**Y** deberá ingresar su correo nuevamente</p><p></p>|EP01|
+|US04|Cambiar dirección de correo electrónico|<p>**Como** usuario</p><p>**Quiero** poder cambiar la dirección de correo electrónico asociada a mi cuenta</p><p>**Para** mantener mi información de contacto actualizada</p>|<p>**Escenario 1:** Acceder a la configuración de la cuenta</p><p></p><p>Dado que el usuario está registrado y ha iniciado sesión en la aplicación</p><p>Cuando acceda a la configuración de su cuenta desde el menú de perfil</p><p>Entonces podrá encontrar una opción para cambiar su dirección de correo electrónico</p><p></p><p>**Escenario 2:** Verificación de la nueva dirección de correo electrónico</p><p></p><p>**Dado que** el usuario ha ingresado una nueva dirección de correo electrónico en la configuración de su cuenta</p><p>**Cuando** guarde los cambios y la aplicación solicite verificar la nueva dirección</p><p>**Entonces** recibirá un correo electrónico de verificación en la nueva dirección y seguirá un proceso para confirmar el cambio</p><p></p>|EP01|
+|US05|Buscar destinos por filtros|<p>**Como** usuario</p><p>**Quiero** poder buscar destinos por categorías</p><p>**Para** explorar opciones según mis intereses y preferencias</p>|<p>**Escenario 1:** Filtración de destinos</p><p></p><p>**Dado que** el usuario quiere planificar un viaje personalizado</p><p>**Cuando** utilice los filtros en la sección de búsqueda</p><p>**Entonces** debería ver una variedad de destinos según los filtros aplicados</p><p></p><p>**Escenario 2:** Selección de destino</p><p></p><p>**Dado que** el usuario quiere seleccionar un destino</p><p>**Cuando** encuentre su destino ideal</p><p>**Entonces** podrá seleccionarlo como destino del viaje</p>|EP03|
+|US06|Información sobre destinos|<p>**Como** usuario</p><p>**Quiero** poder acceder a información sobre destino de mi viaje</p><p>**Para pod**er conocer el lugar y planificar un itinerario</p>|<p>**Escenario 1:** Información sobre destino</p><p></p><p>**Dado que** el usuario seleccionó el destino de su viaje</p><p>**Cuando** ingrese al apartado de información</p><p>**Entonces** podrá leer acerca de mi destino turístico</p><p></p><p>**Escenario 2:** Observar fotos y videos</p><p></p><p>**Dado que** el usuario quiere conocer el destino de su viaje</p><p>**Cuando** ingrese al apartado de videos y fotografías</p><p>**Entonces** podrá ver una variedad de fotos y videos acerca de su destino</p>|EP03|
+|US07|Explorar destinos populares|<p>**Como** usuario</p><p>**Quiero** poder explorar destinos populares en la aplicación</p><p>**Para** descubrir lugares recomendados por otros viajeros</p>|<p>**Escenario 1:** Destino más visitado</p><p></p><p>**Dado que** el usuario quiere explorar destinos populares</p><p>**Cuando** acceda a la sección de destinos destacados</p><p>**Entonces** debería ver una lista de los destinos más visitados</p><p></p><p>**Escenario 2:** Recomendaciones de destinos</p><p></p><p>**Dado que** el usuario está interesado en recibir recomendaciones</p><p>**Cuando** complete su perfil con sus preferencias de viaje</p><p>**Entonces** debería ver sugerencias basadas en sus intereses</p>|EP03|
+|US08|Reservar alojamiento|<p>**Como** usuario </p><p>**Quiero** poder reservar alojamiento en la aplicación</p><p>**Para** asegurar mi hospedaje durante el viaje</p>|<p>**Escenario 1:** Selección de fecha y tipo de alojamiento</p><p></p><p>**Dado que** el usuario quiere reservar alojamiento para su viaje</p><p>**Cuando** seleccione las fechas de estadía y el tipo de alojamiento deseado</p><p>**Entonces** se mostrará una lista de opciones de alojamiento disponibles</p>|EP04|
+|US09|Planificar itinerario|<p>**Como** usuario</p><p>**Quiero** poder planificar mi itinerario en la aplicación</p><p>**Para** organizar mis actividades durante el viaje</p>|<p>**Escenario 1:** Agregar actividades</p><p></p><p>**Dado que** el usuario está planificando su viaje</p><p>**Cuando** explore las opciones de actividades </p><p>**Y** seleccione las que desea realizar</p><p>**Entonces** debería poder agregarlas a su itinerario con fecha y horario</p><p></p><p>**Escenario 2:** Visualizar itinerario</p><p></p><p>**Dado que** el usuario ha agregado actividades a su itinerario</p><p>**Cuando** acceda a la planificación de su viaje</p><p>**Entonces** podrá ver todas sus actividades organizadas por día y hora</p>|EP04|
+|US10|Compartir itinerario|<p>**Como** usuario</p><p>**Quiero** poder compartir mi itinerario de viaje** con otras personas</p><p>**Para** coordinar actividades y compartir planes</p>|<p>**Escenario 1:** Compartir itinerario</p><p></p><p>**Dado que** el usuario ha creado un itinerario en la aplicación</p><p>Cuando seleccione la opción de compartir itinerario</p><p>**Entonces** podrá enviar una invitación a otros usuarios para que vean su itinerario</p><p></p><p>**Escenario 2:** Aceptar invitación</p><p></p><p>**Dado que** el usuario ha recibido una invitación para un itinerario</p><p>**Cuando** acepte la invitación</p><p>**Entonces** podrá ver y colaborar en el itinerario compartido</p><p></p>|EP04|
+|US11|Explorar actividades cercanas|<p>**Como** usuario</p><p>**Quiero** poder explorar actividades y lugares de interés cercanos a mi ubicación actual</p><p>**Para** descubrir opciones adicionales durante mi viaje</p>|<p>**Escenario 1:** Búsqueda de actividades</p><p></p><p>**Dado que** el usuario se encuentra en una nueva ubicación durante su viaje</p><p>**Cuando** acceda a la función de explorar actividades cercanas</p><p>**Entonces** podrá ver una lista de actividades, restaurantes o lugares de interés recomendados en las cercanías</p><p></p><p>**Escenario 2:** Búsqueda por filtro</p><p></p><p>**Dado que** el usuario está buscando actividades personalizadas</p><p>**Cuando** explore las actividades cercanas por filtro</p><p>**Entonces** podrá encontrar fácilmente actividades adecuadas a sus preferencias</p>|EP04|
+|US12|Reservar transporte local|<p>**Como** usuario</p><p>**Quiero** poder reservar transporte local</p><p>**Para** facilitar mis desplazamientos durante el viaje</p>|<p>**Escenario 1:** Búsqueda de transporte</p><p></p><p>Dado que el usuario necesita un transporte desde su ubicación hasta un lugar específico</p><p>Cuando acceda a la sección de transporte en la aplicación</p><p>Entonces podrá ver opciones de transporte disponibles</p><p></p><p>**Escenario 2:** Reserva de transporte</p><p></p><p>**Dado que** el usuario desea alquilar un transporte</p><p>**Cuando** encuentre el transporte adecuado y seleccione la hora, fecha y punto de inicio y fin del viaje</p><p>**Entonces** podrá reservar un transporte según sus necesidades</p>|EP04|
+|US13|Descubrir eventos locales|<p>**Como** usuario</p><p>**Quiero** poder descubrir eventos locales</p><p>**Para** mejorar mi experiencia cultural durante mi viaje</p>|<p>**Escenario 1:** Búsqueda de eventos</p><p></p><p>**Dado que** el usuario está buscando eventos en su destino</p><p>**Cuando** use la función de buscar eventos locales</p><p>**Entonces** podrá visualizar todos los eventos locales que hay en su destino</p><p></p><p>**Escenario 2:** Selección de evento</p><p></p><p>**Dado que** el usuario está buscando eventos en su destino</p><p>**Cuando** use la función de buscar eventos locales</p><p>Y encuentre un evento que le llame la atención</p><p>**Entonces** podrá registrar ese evento como una actividad en su itinerario</p>|EP04|
+|US14|Realizar pago|<p>**Como** usuario</p><p>**Quiero** poder realizar los pagos dentro de la aplicación</p><p>**Para** poder terminar de planificar el viaje</p>|<p>**Escenario 1:** Pago exitoso</p><p>**Dado que** el usuario ha organizado su viaje</p><p>**Cuando** quiera realizar el pago</p><p>**Entonces** la aplicación lo redireccionará a la sección de pago</p><p>**Y** podrá pagar el total de su viaje</p><p></p><p>**Escenario 2:** Pago fallido</p><p></p><p>**Dado que** el usuario ha organizado su viaje</p><p>**Y** desea realizar el pago</p><p>**Cuando** ingrese credenciales incorrectas en la sección de pago</p><p>**Entonces** la aplicación mostrará un mensaje de error</p><p>**Y** le permitirá volver a ingresar sus datos</p>|EP04|
+|US15|Seguimiento de gastos|<p>**Como** usuario</p><p>**Quiero** poder realizar un seguimiento de mis gastos en la aplicación</p><p>**Para** mantenerme dentro de mi presupuesto</p>|<p>**Escenario 1:** Registro de gastos</p><p></p><p>**Dado que** el usuario está viajando</p><p>**Cuando** realice algún gasto relacionado con su viaje</p><p>**Entonces** podra registrar el monto en la aplicación</p><p></p><p>**Escenario 2:** Visualización de gastos</p><p></p><p>**Dado que** el usuario ha registrado varios gastos durante su viaje</p><p>**Cuando** acceda a la sección de seguimiento de gastos</p><p>**Entonces** podrá ver un resumen de sus gastos y un total acumulado</p>|EP05|
+|US16|Establecer presupuesto|<p>**Como** usuario</p><p>**Quiero** poder establecer un presupuesto para mi viaje en la aplicación</p><p>**Para** poder controlar mis gastos</p>|<p>**Escenario 1:** Configuración de presupuesto</p><p></p><p>**Dado que** el usuario está planeando su viaje</p><p>**Cuando** ingrese el presupuesto total que tiene disponible</p><p>**Entonces** podrá establecer un límite de gastos para su viaje</p><p></p><p>**Escenario 2:** Alertas de presupuesto</p><p></p><p>**Dado que** el usuario está gastando durante su viaje</p><p>**Cuando** se acerque al límite de su presupuesto o lo exceda</p><p>**Entonces** debería recibir una alerta para ayudarle a controlar sus gastos</p>|EP05|
+|US17|Ver reseñas|<p>**Como** usuario</p><p>**Quiero** poder ver reseñas de otros viajeros sobre destinos o actividades en la aplicación</p><p>**Para** poder tomar decisiones e informarme sobre mis viajes</p>|<p>**Escenario 1:** Explorar reseñas de destinos</p><p></p><p>**Dado que** el usuario está buscando reseñas sobre su destino</p><p>**Cuando** acceda a la página del destino</p><p>**Entonces** podrá ver las reseñas de otros usuarios junto con comentarios y calificaciones</p><p><br>**Escenario 2:** Explorar reseñas de actividades</p><p></p><p>**Dado que** el usuario está buscando reseñas sobre una actividad en particular</p><p>**Cuando** explore las opciones de actividades</p><p>**Entonces** podrá ver las reseñas de otros usuarios para esa actividad</p>|EP06|
+|US18|Publicar reseñas|<p>**Como** usuario</p><p>**Quiero** poder publicar mis propias reseñas de destinos y servicios en la aplicación</p><p>**Para** compartir mi experiencia a los demás usuarios</p>|<p>**Escenario 1:** Escribir reseña</p><p></p><p>**Dado que** el usuario ha tenido una experiencia positiva en su viaje incluyendo destino, hotel o actividades</p><p>**Cuando** visite la página de los servicios</p><p>**Entonces** podrá escribir una reseña detallada y calificar su experiencia</p>|EP06|
+|US19|Explorar ofertas y descuentos|<p>**Como** usuario</p><p>**Quiero** poder explorar ofertas y descuentos en la aplicación</p><p>**Para** encontrar oportunidades de ahorro durante la planificación del viaje</p>|<p>**Escenario 1:** Búsqueda de ofertas</p><p></p><p>**Dado que** el usuario está buscando descuentos</p><p>**Cuando** acceda a la sección de ofertas y descuentos</p><p>**Entonces** podrá ver descuentos especiales que brinda la aplicación</p><p></p><p>**Escenario 2:** Búsqueda de ofertas por filtros</p><p></p><p>**Dado que** el usuario está buscando descuentos para viajes, actividades o alojamientos específicos</p><p>**Cuando** acceda a la sección de ofertas y descuentos</p><p>Y aplique los filtros deseados</p><p>**Entonces** podrá encontrar descuentos especiales según los filtros ingresados</p>|EP09|
+|US20|Aplicación de códigos promocionales|<p>**Como** usuario</p><p>**Quiero** tener la opción de ingresar códigos promocionales durante el proceso de pago</p><p>**Para** obtener descuentos adicionales en los servicios ofrecidos</p><p></p>|<p>**Escenario 1:** Ingresar código promocional</p><p></p><p>**Dado que** el usuario tiene un código promocional válido</p><p>**Cuando** esté en la página de pago durante el proceso de reserva</p><p>**Entonces** debería poder ingresar el código promocional en un campo designado y ver el descuento reflejado en el precio total antes de confirmar la reserva.</p><p></p>|EP09|
+|US21|Compartir experiencia en redes sociales|<p>**Como** usuario</p><p>**Quiero** poder compartir mi experiencia de viaje en mis redes sociales</p><p>**Para** compartir momentos memorables de mi viaje</p>|<p>**Escenario 1:** Selección de red social</p><p></p><p>**Dado que** el usuario desea compartir la experiencia de su viaje en sus redes sociales</p><p>**Cuando** seleccione la opción de compartir</p><p>**Entonces** podrá ver todas las redes sociales disponibles que podrá vincular</p><p></p><p>**Escenario 2:** Compartir en red social</p><p></p><p>**Dado que** el usuario desea compartir la experiencia de su viaje en su red social preferida</p><p>**Cuando** seleccione la opción de compartir</p><p>Y elija su red social preferida</p><p>**Entonces** podrá compartir a su red social su experiencia de viaje</p>|EP06|
+|US22|Contactar al soporte|<p>**Como** usuario</p><p>**Quiero** poder contactar al equipo de soporte de la aplicación</p><p>**Para** obtener ayuda con problemas técnicos</p>|<p>**Escenario 1:** Envío de consulta</p><p></p><p>**Dado que** el usuario tiene una pregunta sobre el funcionamiento de la aplicación o desea realizar un reclamo</p><p>**Cuando** acceda a la sección de soporte</p><p>**Y** complete el formulario de contacto</p><p>**Entonces** podrá enviar su consulta al soporte</p><p></p><p>**Escenario 2:** Respuesta del soporte</p><p></p><p>**Dado que** el usuario ha enviado una consulta al soporte</p><p>**Cuando** reciba una respuesta</p><p>**Entonces** podrá recibir asistencia a su problema</p>|EP07|
+|US23|Dar feedback|<p>**Como** usuario</p><p>**Quiero** poder proporcionar feedback sobre la aplicación</p><p>**Para** compartir sugerencias o comentarios que ayuden a mejorar la experiencia del usuario</p>|<p>**Escenario 1:** Compartir sugerencias</p><p></p><p>**Dado que** el usuario tiene una idea para mejorar la aplicación</p><p>**Cuando** acceda a la sección de contacto</p><p>**Entonces** podrá enviar un correo al equipo de desarrollo para poder mejorar la aplicación</p>|EP07|
+|US24|Visualizar una landing page atractiva|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar una landing page clara y atractiva</p><p>**Para** entender el propósito de la aplicación</p>|<p>**Escenario 01:** Landing page clara y atractiva</p><p></p><p>**Dado que** el visitante ve la landing page con imágenes, videos e información relevante</p><p>**Cuando** complete el proceso de registro y login</p><p>**Entonces** será redirigido a la aplicación web</p>|EP08|
+|US25|Visualizar features de la aplicación|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar todos las funcionalidades y servicios que brinda TripMate</p><p>**Para** entender el uso de la aplicación</p>|<p>**Escenario 1:** Visualizar features</p><p></p><p>**Dado que** el usuario se encuentra en el landing page</p><p>**Cuando** visualice los features de la aplicación</p><p>**Entonces** entenderá el uso de la aplicación</p>|EP08|
+|US26|Sección “Acerca de nosotros”|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar una sección que me informe sobre el startup</p><p>**Para** conocer al equipo de TripMate y su propósito</p>|<p>**Escenario 1:** Visualiza sección sobre nosotros</p><p></p><p>**Dado que** el usuario se encuentra en el landing page</p><p>**Cuando** se dirija a la sección “Acerca de nosotros”</p><p>**Entonces** podrá visualizar a los miembros del startup y su propósito al crear TripMate</p>|EP08|
+|US27|Sección “Convenios”|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar los convenios que tiene TripMate</p><p>**Para** conocer las distintas empresas asociadas</p>|<p>**Escenario 1:** Acceso a la sección convenios</p><p></p><p>**Dado que** el usuario se encuentra en la landing page</p><p>**Cuando** acceda a la sección “Convenios”</p><p>**Entonces** visualizará las distintas empresas con las que trabaja TripMate</p>|EP08|
+|US28|Sección “Testimonios”|<p>**Como** visitante del landing page</p><p>**Quiero** poder ver testimonios y experiencias de otros usuarios</p><p>**Para** conocer la opinión del público sobre TripMate</p>|<p>**Escenario 1:** Acceso a la sección de testimonios</p><p></p><p>**Dado que** el usuario está explorando el landing page</p><p>**Cuando** acceda a la sección de testimonios</p><p>**Entonces** podrá leer experiencias de otras personas usando la aplicación</p>|<p>EP08</p><p></p>|
+|US29|Acceder desde cualquier dispositivo a la landing page|<p>**Como** visitante del landing page</p><p>**Quiero** que sea accesible desde diferentes dispositivos </p><p>**Para** poder ingresar al sitio web desde cualquier dispositivo</p>|<p>**Escenario 1:** Acceso al contenido del landing page desde cualquier dispositivo</p><p></p><p>**Dado que** la landing page es responsive</p><p>**Cuando** el usuario ingresa a nuestra landing page</p><p>**Entonces** podrá visualizar la información de manera organizada, adaptada al tamaño de pantalla que esté utilizando.</p><p></p><p>**Escenario 2:** Acceso al landing page, pero no es responsive con cualquier dispositivo</p><p></p><p>**Dado que** el usuario está ingresando al landing page desde otro dispositivo</p><p>**Cuando** revise la información y lo note desordenado y desagradable para la vista</p><p>**Entonces** cierra nuestra landing page y se dedica a seguir navegando por internet</p><p></p>|EP08|
+|US30|Suscripción a membresía premium|<p>**Como** usuario</p><p>**Quiero** poder suscribirme a una membresía en la aplicación</p><p>**Para** poder adquirir beneficios adicionales</p>|<p>**Escenario 1:** Suscripción exitosa</p><p></p><p>**Dado** que el usuario está interesado en obtener beneficios adicionales en la aplicación</p><p>**Cuando** acceda a la sección de membresía premium</p><p>**Y** seleccione el plan premium</p><p>**Entonces** podrá completar el proceso de suscripción</p><p></p><p>**Escenario 2:** Error durante la suscripción</p><p></p><p>**Dado que** el usuario está interesado en obtener beneficios adicionales en la aplicación</p><p>**Cuando** intente suscribirse a la membresía premium</p><p>**Y** durante el proceso ingrese un método de pago incorrecto o haya un problema con el servicio de pago</p><p>**Entonces** recibirá un mensaje de error indicando la naturaleza del problema</p>|EP02|
+|US31|Eliminar cuenta|<p>**Como** usuario</p><p>**Quiero** tener la opción de eliminar permanentemente mi cuenta y todos los datos asociados</p><p>**Para** borrar la información de mi cuenta de la aplicación</p><p></p>|<p>**Escenario 1:** Eliminar cuenta</p><p></p><p>**Dado que** el usuario ha decidido eliminar su cuenta de TripMate</p><p>**Cuando** acceda a la configuración de su cuenta y seleccione la opción para eliminarla</p><p>**Entonces** recibirá una confirmación </p><p>**Y**, después de confirmar, su cuenta y todos los datos asociados serán eliminados permanentemente</p><p></p>|EP02|
+
 
 **Technical User Stories**
 
@@ -627,50 +691,53 @@ Segmento Objetivo #2: Viajeros lujosos
 
 |**# Orden**|**User Story ID**|**Título**|**Descripción**|**Story Points (1 / 2 / 3 / 5 / 8)**|
 | :- | :- | :- | :- | :- |
-|1|US24|Visualizar features de la aplicación|<p>**Como** visitante del landing page</p><p>**Quiero** conocer sobre las funcionalidades de la **aplicación**</p><p>**Para** informarme sobre su uso</p>|<p></p><p>1</p>|
-|2|US25|Acceso a descarga de la aplicación|<p>**Como** visitante del landing page</p><p>**Quiero** poder acceder al enlace de descarga de la aplicación</p><p>**Para** poder descargar la aplicación de forma rápida y sencilla</p>|<p></p><p>1</p>|
-|3|US23|Dar feedback|<p>**Como** usuario</p><p>**Quiero** poder proporcionar feedback sobre la aplicación</p><p>**Para** compartir sugerencias o comentarios que ayuden a mejorar la experiencia del usuario</p>|<p></p><p>1</p>|
-|4|US26|Visualización de testimonios|<p>**Como** visitante del landing page</p><p>**Quiero** poder ver testimonios y experiencias de otros usuarios</p><p>**Para** conocer la opinión del público sobre TripMate</p>|<p></p><p>1</p>|
-|5|US27|Acceso a información legal|<p>**Como** visitante del landing page</p><p>**Quiero** poder acceder a la información legal de TripMate</p><p>**Para** conocer mis derechos y responsabilidades al utilizar la aplicación</p>|<p></p><p>1</p>|
-|6|US05|Buscar destinos por filtros|<p>**Como** usuario</p><p>**Quiero** poder buscar destinos por categorías</p><p>**Para** explorar opciones según mis intereses y preferencias</p>|<p></p><p>5</p>|
-|7|US06|Información sobre destinos|<p>**Como** usuario</p><p>**Quiero** poder acceder a información sobre destino de mi viaje</p><p>**Para pod**er conocer el lugar y planificar un itinerario</p>|<p></p><p>3</p>|
-|8|US07|Explorar destinos populares|<p>**Como** usuario</p><p>**Quiero** poder explorar destinos populares en la aplicación</p><p>**Para** descubrir lugares recomendados por otros viajeros</p>|<p></p><p>3</p>|
-|9|US08|Reservar alojamiento|<p>**Como** usuario </p><p>**Quiero** poder reservar alojamiento en la aplicación</p><p>**Para** asegurar mi hospedaje durante el viaje</p>|<p></p><p>8</p>|
-|10|US09|Planificar itinerario|<p>**Como** usuario</p><p>**Quiero** poder planificar mi itinerario en la aplicación</p><p>**Para** organizar mis actividades durante el viaje</p>|<p></p><p>8</p>|
-|11|US10|Compartir itinerario|<p>**Como** usuario</p><p>**Quiero** poder compartir mi itinerario de viaje** con otras personas</p><p>**Para** coordinar actividades y compartir planes</p>|<p></p><p>3</p>|
-|12|US11|Explorar actividades cercanas|<p>**Como** usuario</p><p>**Quiero** poder explorar actividades y lugares de interés cercanos a mi ubicación actual</p><p>**Para** descubrir opciones adicionales durante mi viaje</p>|<p></p><p>3</p>|
-|13|US12|Reservar transporte local|<p>**Como** usuario</p><p>**Quiero** poder reservar transporte local</p><p>**Para** facilitar mis desplazamientos durante el viaje</p>|<p></p><p>5</p>|
-|14|US13|Descubrir eventos locales|<p>**Como** usuario</p><p>**Quiero** poder descubrir eventos locales</p><p>**Para** mejorar mi experiencia cultural durante mi viaje</p>|<p></p><p>3</p>|
-|15|US15|Seguimiento de gastos|<p>**Como** usuario</p><p>**Quiero** poder realizar un seguimiento de mis gastos en la aplicación</p><p>**Para** mantenerme dentro de mi presupuesto</p>|<p></p><p>3</p>|
-|16|US16|Establecer presupuesto|<p>**Como** usuario</p><p>**Quiero** poder establecer un presupuesto para mi viaje en la aplicación</p><p>**Para** poder controlar mis gastos</p>|<p></p><p>5</p>|
-|17|US19|Explorar ofertas y descuentos|<p>**Como** usuario</p><p>**Quiero** poder explorar ofertas y descuentos en la aplicación</p><p>**Para** encontrar oportunidades de ahorro durante la planificación del viaje</p>|<p></p><p>3</p>|
-|18|US20|Aplicación de códigos promocionales|<p>**Como** usuario</p><p>**Quiero** tener la opción de ingresar códigos promocionales durante el proceso de pago</p><p>**Para** obtener descuentos adicionales en los servicios ofrecidos</p><p></p>|<p></p><p>3</p>|
-|19|US17|Ver reseñas|<p>**Como** usuario</p><p>**Quiero** poder ver reseñas de otros viajeros sobre destinos o actividades en la aplicación</p><p>**Para** poder tomar decisiones e informarme sobre mis viajes</p>|<p></p><p>3</p>|
-|20|US18|Publicar reseñas|<p>**Como** usuario</p><p>**Quiero** poder publicar mis propias reseñas de destinos y servicios en la aplicación</p><p>**Para** compartir mi experiencia a los demás usuarios</p>|<p></p><p>3</p>|
-|21|US21|Compartir experiencia en redes sociales|<p>**Como** usuario</p><p>**Quiero** poder compartir mi experiencia de viaje en mis redes sociales</p><p>**Para** compartir momentos memorables de mi viaje</p>|<p></p><p>3</p>|
-|22|US14|Realizar pago|<p>**Como** usuario</p><p>**Quiero** poder realizar los pagos dentro de la aplicación</p><p>**Para** poder terminar de planificar el viaje</p>|<p></p><p>5</p>|
-|23|US28|Suscripción a membresía premium|<p>**Como** usuario</p><p>**Quiero** poder suscribirme a una membresía en la aplicación</p><p>**Para** poder adquirir beneficios adicionales</p>|<p></p><p>3</p>|
-|24|US22|Contactar al soporte|<p>**Como** usuario</p><p>**Quiero** poder contactar al equipo de soporte de la aplicación</p><p>**Para** obtener ayuda con problemas técnicos</p>|<p></p><p>2</p>|
-|25|US01|Registro de usuario|<p>**Como** usuario nuevo</p><p>**Quiero** poder registrarme en TripMate** </p><p>**Para** poder acceder a todas las funcionalidades de la aplicación</p>|<p></p><p>1</p>|
-|26|US02|Inicio de sesión|<p>**Como** usuario registrado</p><p>**Quiero** poder iniciar sesión en la aplicación</p><p>**Para** acceder a mi cuenta</p>|<p></p><p>1</p>|
-|27|US03|Recuperación de contraseña|<p>**Como** usuario registrado</p><p>**Quiero** tener la opción de recuperación de contraseña</p><p>**Para** poder acceder a mi cuenta sin problemas</p>|<p></p><p>1</p>|
-|28|US04|Cambiar dirección de correo electrónico|<p>**Como** usuario</p><p>**Quiero** poder cambiar la dirección de correo electrónico asociada a mi cuenta</p><p>**Para** mantener mi información de contacto actualizada</p>|<p></p><p>1</p>|
-|29|US29|Eliminar cuenta|<p>**Como** usuario</p><p>**Quiero** tener la opción de eliminar permanentemente mi cuenta y todos los datos asociados</p><p>**Para** borrar la información de mi cuenta de la aplicación</p><p></p>|<p></p><p>1</p>|
-|27|TS01|Post User|<p>**Como** desarrollador que trabaja en la aplicación de TripMate</p><p>**Quiero** registrar a un nuevo usuario mediante una API</p><p>**Para** visualizar los usuarios afiliados a nuestra aplicación</p>|<p></p><p>3</p>|
-|28|TS02|Get User|<p>**Como** desarrollador que trabaja en la aplicación de TripMate</p><p>**Quiero** obtener la información de un usuario mediante una API</p><p>**Para** mostrarla en la aplicación cuando se solicite</p>|<p></p><p>3</p>|
-|29|TS03|Get User by Membership|<p>**Como** desarrollador que trabaja en la aplicación de TripMate</p><p>**Quiero** obtener la información de los usuarios por sus membresías</p><p>**Para** brindar la diferencia en las funcionalidades según su membresía</p>|<p></p><p>3</p>|
-|30|TS04|Post Reservation|<p>**Como** desarrollador que trabaja en la aplicación de TripMate</p><p>**Quiero** registrar una nueva reserva asociada a un usuario mediante una API</p><p>**Para** mantener el registro de reservas por usuario</p>|<p></p><p>5</p>|
-|31|TS05|Get Reservation|<p>**Como** desarrollador que trabaja en la aplicación de TripMate</p><p>**Quiero** obtener la información de las reservas por usuario mediante una API</p><p>**Para** mostrarla en la aplicación cuando se solicite</p>|<p></p><p>3</p>|
-|32|<p>TS06</p><p></p>|Post Itinerary|<p>**Como** desarrollador que trabaja en la aplicación de TripMate</p><p>**Quiero** registrar un nuevo itinerario asociado a un usuario mediante una API</p><p>**Para** mantener un registro de itinerarios por usuario</p>|<p></p><p>5</p>|
-|33|TS07|Get Itinerary|<p>**Como** desarrollador que trabaja en la aplicación de TripMate</p><p>**Quiero** obtener la información sobre itinerarios de viaje por usuario **mediante una API**</p><p>**Para** mostrarla en la aplicación cuando se solicite</p>|<p></p><p>3</p>|
-|34|TS08|Post Payment** Method|<p>**Como** desarrollador que trabaja en la aplicación de Tripmate</p><p>**Quiero** registrar un método de pago asociado a un usuario mediante una API</p><p>**Para** contar con la información para pagos futuros</p>|<p></p><p>3</p>|
-|35|TS09|Get Payment Method|<p>**Como** desarrollador que trabaja en la aplicación de TripMate</p><p>**Quiero** obtener información sobre métodos de pago por usuario mediante una API</p><p>**Para** mostrarla en la aplicación cuando se solicite</p>|<p></p><p>3</p>|
-|36|TS10|Get Information by Places|<p>**Como** desarrollador que trabaja en la aplicación de TripMate</p><p>**Quiero** obtener información de los destinos de viaje mediante una API</p><p>**Para** mostrarla en la aplicación cuando se solicite</p>|<p></p><p>3</p>|
-|37|TS11|Get Budget|<p>**Como** desarrollador que trabaja en la aplicación de TripMate</p><p>**Quiero** obtener información sobre el presupuesto de los usuarios mediante una API</p><p>**Para** mostrarla en la aplicación cuando se solicite</p>|<p></p><p>3</p>|
-|38|TS12|Post Expenses|<p>**Como** desarrollador que trabaja en la aplicación de TripMate</p><p>**Quiero** registrar pagos** realizados por los usuarios en sus viajes mediante una API</p><p>**Para** mantener un registro de los pagos por usuario</p>|<p></p><p>5</p>|
-|39|TS13|Get Expenses|<p>**Como** desarrollador que trabaja en la aplicación de TripMate</p><p>**Quiero** obtener información sobre los gastos por usuario mediante una API</p><p>**Para** mostrarla en la aplicación cuando se solicite</p>|<p></p><p>3</p>|
-|40|TS14|Post Review|<p>**Como** desarrollador que trabaja en la aplicación de TripMate</p><p>**Quiero** registrar reseñas de los usuarios mediante una API</p><p>**Para** mantener un registro de reseñas por usuario</p>|<p></p><p>5</p>|
-|41|TS15|Get Review|<p>**Como** desarrollador que trabaja en la aplicación de TripMate</p><p>**Quiero** obtener información sobre las reseñas de distintos lugares, alojamientos o actividades</p><p>**Para** mostrarlas en la aplicación cuando se solicite</p>|<p></p><p>3</p>|
+|1|US05|Buscar destinos por filtros|<p>**Como** usuario</p><p>**Quiero** poder buscar destinos por categorías</p><p>**Para** explorar opciones según mis intereses y preferencias</p>|<p></p><p>5</p>|
+|2|US06|Información sobre destinos|<p>**Como** usuario</p><p>**Quiero** poder acceder a información sobre destino de mi viaje</p><p>**Para pod**er conocer el lugar y planificar un itinerario</p>|<p></p><p>3</p>|
+|3|US07|Explorar destinos populares|<p>**Como** usuario</p><p>**Quiero** poder explorar destinos populares en la aplicación</p><p>**Para** descubrir lugares recomendados por otros viajeros</p>|<p></p><p>3</p>|
+|4|US08|Reservar alojamiento|<p>**Como** usuario </p><p>**Quiero** poder reservar alojamiento en la aplicación</p><p>**Para** asegurar mi hospedaje durante el viaje</p>|<p></p><p>8</p>|
+|5|US09|Planificar itinerario|<p>**Como** usuario</p><p>**Quiero** poder planificar mi itinerario en la aplicación</p><p>**Para** organizar mis actividades durante el viaje</p>|<p></p><p>8</p>|
+|6|US10|Compartir itinerario|<p>**Como** usuario</p><p>**Quiero** poder compartir mi itinerario de viaje** con otras personas</p><p>**Para** coordinar actividades y compartir planes</p>|<p></p><p>3</p>|
+|7|US11|Explorar actividades cercanas|<p>**Como** usuario</p><p>**Quiero** poder explorar actividades y lugares de interés cercanos a mi ubicación actual</p><p>**Para** descubrir opciones adicionales durante mi viaje</p>|<p></p><p>3</p>|
+|8|US12|Reservar transporte local|<p>**Como** usuario</p><p>**Quiero** poder reservar transporte local</p><p>**Para** facilitar mis desplazamientos durante el viaje</p>|<p></p><p>5</p>|
+|9|US13|Descubrir eventos locales|<p>**Como** usuario</p><p>**Quiero** poder descubrir eventos locales</p><p>**Para** mejorar mi experiencia cultural durante mi viaje</p>|<p></p><p>3</p>|
+|10|US15|Seguimiento de gastos|<p>**Como** usuario</p><p>**Quiero** poder realizar un seguimiento de mis gastos en la aplicación</p><p>**Para** mantenerme dentro de mi presupuesto</p>|<p></p><p>3</p>|
+|11|US16|Establecer presupuesto|<p>**Como** usuario</p><p>**Quiero** poder establecer un presupuesto para mi viaje en la aplicación</p><p>**Para** poder controlar mis gastos</p>|<p></p><p>5</p>|
+|12|US19|Explorar ofertas y descuentos|<p>**Como** usuario</p><p>**Quiero** poder explorar ofertas y descuentos en la aplicación</p><p>**Para** encontrar oportunidades de ahorro durante la planificación del viaje</p>|<p></p><p>3</p>|
+|13|US20|Aplicación de códigos promocionales|<p>**Como** usuario</p><p>**Quiero** tener la opción de ingresar códigos promocionales durante el proceso de pago</p><p>**Para** obtener descuentos adicionales en los servicios ofrecidos</p><p></p>|<p></p><p>3</p>|
+|14|US17|Ver reseñas|<p>**Como** usuario</p><p>**Quiero** poder ver reseñas de otros viajeros sobre destinos o actividades en la aplicación</p><p>**Para** poder tomar decisiones e informarme sobre mis viajes</p>|<p></p><p>3</p>|
+|15|US18|Publicar reseñas|<p>**Como** usuario</p><p>**Quiero** poder publicar mis propias reseñas de destinos y servicios en la aplicación</p><p>**Para** compartir mi experiencia a los demás usuarios</p>|<p></p><p>3</p>|
+|16|US21|Compartir experiencia en redes sociales|<p>**Como** usuario</p><p>**Quiero** poder compartir mi experiencia de viaje en mis redes sociales</p><p>**Para** compartir momentos memorables de mi viaje</p>|<p></p><p>3</p>|
+|17|US14|Realizar pago|<p>**Como** usuario</p><p>**Quiero** poder realizar los pagos dentro de la aplicación</p><p>**Para** poder terminar de planificar el viaje</p>|<p></p><p>5</p>|
+|18|US30|Suscripción a membresía premium|<p>**Como** usuario</p><p>**Quiero** poder suscribirme a una membresía en la aplicación</p><p>**Para** poder adquirir beneficios adicionales</p>|<p></p><p>3</p>|
+|19|US24|Visualizar una landing page atractiva|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar una landing page clara y atractiva</p><p>**Para** entender el propósito de la aplicación</p>|<p></p><p>3</p>|
+|20|US25|Visualizar features de la aplicación|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar todos las funcionalidades y servicios que brinda TripMate</p><p>**Para** entender el uso de la aplicación</p>|<p></p><p>3</p>|
+|21|US26|Sección “Acerca de nosotros”|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar una sección que me informe sobre el startup</p><p>**Para** conocer al equipo de TripMate y su propósito</p>|<p></p><p>3</p>|
+|22|US27|Sección “Convenios”|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar los convenios que tiene TripMate</p><p>**Para** conocer las distintas empresas asociadas</p>|<p></p><p>3</p>|
+|23|US28|Sección “Testimonios”|<p>**Como** visitante del landing page</p><p>**Quiero** poder ver testimonios y experiencias de otros usuarios</p><p>**Para** conocer la opinión del público sobre TripMate</p>|<p></p><p>3</p>|
+|24|US29|Acceder desde cualquier dispositivo a la landing page|<p>**Como** visitante del landing page</p><p>**Quiero** que sea accesible desde diferentes dispositivos </p><p>**Para** poder ingresar al sitio web desde cualquier dispositivo</p>|<p></p><p>3</p>|
+|25|US23|Dar feedback|<p>**Como** usuario</p><p>**Quiero** poder proporcionar feedback sobre la aplicación</p><p>**Para** compartir sugerencias o comentarios que ayuden a mejorar la experiencia del usuario</p>|<p></p><p>3</p>|
+|26|US22|Contactar al soporte|<p>**Como** usuario</p><p>**Quiero** poder contactar al equipo de soporte de la aplicación</p><p>**Para** obtener ayuda con problemas técnicos</p>|<p></p><p>2</p>|
+|27|US01|Registro de usuario|<p>**Como** usuario nuevo</p><p>**Quiero** poder registrarme en TripMate** </p><p>**Para** poder acceder a todas las funcionalidades de la aplicación</p>|<p></p><p>1</p>|
+|28|US02|Inicio de sesión|<p>**Como** usuario registrado</p><p>**Quiero** poder iniciar sesión en la aplicación</p><p>**Para** acceder a mi cuenta</p>|<p></p><p>1</p>|
+|29|US03|Recuperación de contraseña|<p>**Como** usuario registrado</p><p>**Quiero** tener la opción de recuperación de contraseña</p><p>**Para** poder acceder a mi cuenta sin problemas</p>|<p></p><p>1</p>|
+|30|US04|Cambiar dirección de correo electrónico|<p>**Como** usuario</p><p>**Quiero** poder cambiar la dirección de correo electrónico asociada a mi cuenta</p><p>**Para** mantener mi información de contacto actualizada</p>|<p></p><p>1</p>|
+|31|US31|Eliminar cuenta|<p>**Como** usuario</p><p>**Quiero** tener la opción de eliminar permanentemente mi cuenta y todos los datos asociados</p><p>**Para** borrar la información de mi cuenta de la aplicación</p><p></p>|<p></p><p>1</p>|
+|32|TS01|Post User|<p>**Como** desarrollador que trabaja en la aplicación de TripMate</p><p>**Quiero** registrar a un nuevo usuario mediante una API</p><p>**Para** visualizar los usuarios afiliados a nuestra aplicación</p>|<p></p><p>3</p>|
+|33|TS02|Get User|<p>**Como** desarrollador que trabaja en la aplicación de TripMate</p><p>**Quiero** obtener la información de un usuario mediante una API</p><p>**Para** mostrarla en la aplicación cuando se solicite</p>|<p></p><p>3</p>|
+|34|TS03|Get User by Membership|<p>**Como** desarrollador que trabaja en la aplicación de TripMate</p><p>**Quiero** obtener la información de los usuarios por sus membresías</p><p>**Para** brindar la diferencia en las funcionalidades según su membresía</p>|<p></p><p>3</p>|
+|35|TS04|Post Reservation|<p>**Como** desarrollador que trabaja en la aplicación de TripMate</p><p>**Quiero** registrar una nueva reserva asociada a un usuario mediante una API</p><p>**Para** mantener el registro de reservas por usuario</p>|<p></p><p>5</p>|
+|36|TS05|Get Reservation|<p>**Como** desarrollador que trabaja en la aplicación de TripMate</p><p>**Quiero** obtener la información de las reservas por usuario mediante una API</p><p>**Para** mostrarla en la aplicación cuando se solicite</p>|<p></p><p>3</p>|
+|37|<p>TS06</p><p></p>|Post Itinerary|<p>**Como** desarrollador que trabaja en la aplicación de TripMate</p><p>**Quiero** registrar un nuevo itinerario asociado a un usuario mediante una API</p><p>**Para** mantener un registro de itinerarios por usuario</p>|<p></p><p>5</p>|
+|38|TS07|Get Itinerary|<p>**Como** desarrollador que trabaja en la aplicación de TripMate</p><p>**Quiero** obtener la información sobre itinerarios de viaje por usuario **mediante una API**</p><p>**Para** mostrarla en la aplicación cuando se solicite</p>|<p></p><p>3</p>|
+|39|TS08|Post Payment** Method|<p>**Como** desarrollador que trabaja en la aplicación de Tripmate</p><p>**Quiero** registrar un método de pago asociado a un usuario mediante una API</p><p>**Para** contar con la información para pagos futuros</p>|<p></p><p>3</p>|
+|40|TS09|Get Payment Method|<p>**Como** desarrollador que trabaja en la aplicación de TripMate</p><p>**Quiero** obtener información sobre métodos de pago por usuario mediante una API</p><p>**Para** mostrarla en la aplicación cuando se solicite</p>|<p></p><p>3</p>|
+|41|TS10|Get Information by Places|<p>**Como** desarrollador que trabaja en la aplicación de TripMate</p><p>**Quiero** obtener información de los destinos de viaje mediante una API</p><p>**Para** mostrarla en la aplicación cuando se solicite</p>|<p></p><p>3</p>|
+|42|TS11|Get Budget|<p>**Como** desarrollador que trabaja en la aplicación de TripMate</p><p>**Quiero** obtener información sobre el presupuesto de los usuarios mediante una API</p><p>**Para** mostrarla en la aplicación cuando se solicite</p>|<p></p><p>3</p>|
+|43|TS12|Post Expenses|<p>**Como** desarrollador que trabaja en la aplicación de TripMate</p><p>**Quiero** registrar pagos** realizados por los usuarios en sus viajes mediante una API</p><p>**Para** mantener un registro de los pagos por usuario</p>|<p></p><p>5</p>|
+|44|TS13|Get Expenses|<p>**Como** desarrollador que trabaja en la aplicación de TripMate</p><p>**Quiero** obtener información sobre los gastos por usuario mediante una API</p><p>**Para** mostrarla en la aplicación cuando se solicite</p>|<p></p><p>3</p>|
+|45|TS14|Post Review|<p>**Como** desarrollador que trabaja en la aplicación de TripMate</p><p>**Quiero** registrar reseñas de los usuarios mediante una API</p><p>**Para** mantener un registro de reseñas por usuario</p>|<p></p><p>5</p>|
+|46|TS15|Get Review|<p>**Como** desarrollador que trabaja en la aplicación de TripMate</p><p>**Quiero** obtener información sobre las reseñas de distintos lugares, alojamientos o actividades</p><p>**Para** mostrarlas en la aplicación cuando se solicite</p>|<p></p><p>3</p>|
+
 
 ### Capítulo IV: Product Design
 - 4.1. Style Guidelines
@@ -937,7 +1004,6 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
     **Landing Page Deployment**
 
       Para desplegar nuestro landing page, utilizamos GitHub. Para esto es necesario contar con una cuenta personal, una organización y un repositorio al cual cargar los documentos. En este repositorio, se puede observar lo siguiente:
-
         - Una carpeta “html” con el archivo “index.html” el cual contiene nuestra landing page.
         - Una carpeta “css” la cual contiene nuestra hoja de estilos “style.css”
         - Una carpeta “images” la cual contiene las imágenes utilizadas en el landing page 
@@ -945,21 +1011,261 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
 
 
 - 5.2. Landing Page, Services & Applications Implementation
-  - 5.2.X. Sprint 1
-    - 5.2.X.1. Sprint Planning 1
-    - 5.2.X.2. Sprint Backlog 1
-    - 5.2.X.3. Development Evidence for Sprint Review
-    - 5.2.X.4. Testing Suite Evidence for Sprint Review
-    - 5.2.X.5. Execution Evidence for Sprint Review
+  - 5.2.1. Sprint 1
+    - 5.2.1.1. Sprint Planning 1
+    Un sprint representa un periodo corto y fijo de tiempo durante el cual se desarrolla un conjunto de tareas o actividades específicas en un proyecto, asociado con metodologías ágiles como Scrum. El Sprint #1 tiene como fecha de inicio el 25/03/2024 y plantea elaborar una landing page atractiva para TripMate que capte la atención de los usuarios visitantes y comunique los principales beneficios de nuestro producto.
+
+
+    |**Sprint #**|**Sprint 1**|
+    | :- | :- |
+    |Sprint Planning Background||
+    |Date|25/03/2024|
+    |Time|8:00 PM - 11:00 PM|
+    |Location|Discord|
+    |Prepared By||
+    |Attendees|<p>Adrián Enrique Jesús Palma Obispo - u202210066</p><p>Paolo Del Carmen Martinez Villanueva - u202010039</p><p>Bárbara Antonella Espinoza Delgado - u201911727</p><p>Jeremy Joel Quispe Andia - u202216279</p><p>Leonel Alfaro Cumba -u20201a930</p>|
+    |Sprint 0 Review Summary|Diseño y desarrollo del Landing Page|
+    |Sprint 0 Retrospective Summary|Completar los diseños y estandarizar el lenguaje usado en el desarrollo y presentación del landing page|
+    |Sprint Goal & User Stories||
+    |Sprint 1 Goal|Elaborar, diseñar y desplegar una Landing Page atractiva e informativa para la aplicación TripMate|
+    |Sprint 1 Velocity|15|
+    |Sum of Story Points|15|
+
+    - 5.2.1.2. Sprint Backlog 1
+
+
+    |**Sprint #**|**Sprint 1**|||||||
+    | :- | :- | :- | :- | :- | :- | :- | :- |
+    |User Story|Work-Item / Task|||||||
+    |Id|Title|Id|Title|Description|Estimation (Hours)|Assigned To|Status (To-do / In-Process / To-Review / Done)|
+    |US26|Visualizar features de la aplicación|W-01|Features|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar todos las funcionalidades y servicios que brinda TripMate</p><p>**Para** entender el uso de la aplicación</p>|3 hours|**Adrian Palma**|Done|
+    |US27|Sección “Acerca de nosotros”|W-02|Sección “Acerca de Nosotros**”**|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar una sección que me informe sobre el startup</p><p>**Para** conocer al equipo de TripMate y su propósito</p>|3 hours|**Leonel Alfaro**|Done|
+    |US28|Sección “Convenios”|W-03|Sección “Convenios”|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar los convenios que tiene TripMate</p><p>**Para** conocer las distintas empresas asociadas</p>|3 hours|**Jeremy Quispe**|Done|
+    |US29|Sección “Testimonios”|W-04|Sección “Testimonios”|<p>**Como** visitante del landing page</p><p>**Quiero** poder ver testimonios y experiencias de otros usuarios</p><p>**Para** conocer la opinión del público sobre TripMate</p>|3 hours|**Paolo Martinez**|Done|
+    |US30|Acceder desde cualquier dispositivo a la landing page|W-05|Accesibilidad|<p>**Como** visitante del landing page</p><p>**Quiero** que sea accesible desde diferentes dispositivos </p><p>**Para** poder ingresar al sitio web desde cualquier dispositivo</p>|3 hours|**Bárbara Espinoza**|Done|
+      
+      ### Sprint 1
+
+| Id | Title                               | Id | Title                               | Description                                                    | Estimation(Hours) | Assigned To                               | Status   |
+|----|-------------------------------------|----|-------------------------------------|----------------------------------------------------------------|-------------------|-------------------------------------------|----------|
+| 1  | US24 - Visualizar features          |    |                                     | Como visitante del landing page Quiero conocer sobre las funcionalidades de la aplicación Para informarme sobre su uso | 5                 | Jeremy Joel Quispe Andia - u202216279   | ToReview |
+| 2  | US25 - Acceso a descarga            |    |                                     | Como visitante del landing page Quiero poder acceder al enlace de descarga de la aplicación Para poder descargar la aplicación de forma rápida y sencilla | 3                 | Bárbara Antonella Espinoza Delgado - u201911727 | Todo     |
+| 3  | US23 - Dar feedback                 |    |                                     | Como usuario Quiero poder proporcionar feedback sobre la aplicación Para compartir sugerencias o comentarios que ayuden a mejorar la experiencia del usuario | 2                 | Adrián Enrique Jesús Palma Obispo - u202210066 | InProcess|
+| 4  | US26 - Visualización de testimonios |    |                                     | Como visitante del landing page Quiero poder ver testimonios y experiencias de otros usuarios Para conocer la opinión del público sobre TripMate | 3                 | Paolo Del Carmen Martinez Villanueva - u202010039 | Done     |
+| 5  | US27 - Acceso a información legal   |    |                                     | Como visitante del landing page Quiero poder acceder a la información legal de TripMate Para conocer mis derechos y responsabilidades al utilizar la aplicación | 2                 | Leonel Alfaro Cumba                      | Todo     |
+
+### Sprint 2
+
+| Id | Title                              | Id | Title                              | Description                                                    | Estimation(Hours) | Assigned To                               | Status   |
+|----|------------------------------------|----|------------------------------------|----------------------------------------------------------------|-------------------|-------------------------------------------|----------|
+| 6  | US05 - Buscar destinos por filtros |    |                                     | Como usuario Quiero poder buscar destinos por categorías Para explorar opciones según mis intereses y preferencias | 8                 | Jeremy Joel Quispe Andia - u202216279   | Todo     |
+| 7  | US06 - Información sobre destinos  |    |                                     | Como usuario Quiero poder acceder a información sobre destino de mi viaje Para poder conocer el lugar y planificar un itinerario | 5                 | Bárbara Antonella Espinoza Delgado - u201911727 | InProcess|
+| 8  | US07 - Explorar destinos populares |    |                                     | Como usuario Quiero poder explorar destinos populares en la aplicación Para descubrir lugares recomendados por otros viajeros | 5                 | Paolo Del Carmen Martinez Villanueva - u202010039 | Todo     |
+| 9  | US08 - Reservar alojamiento        |    |                                     | Como usuario Quiero poder reservar alojamiento en la aplicación Para asegurar mi hospedaje durante el viaje | 13                | Adrián Enrique Jesús Palma Obispo - u202210066 | Done     |
+| 10 | US09 - Planificar itinerario       |    |                                     | Como usuario Quiero poder planificar mi itinerario en la aplicación Para organizar mis actividades durante el viaje | 13                | Leonel Alfaro Cumba                      | Todo     |
+
+### Sprint 3
+
+| Id | Title                             | Id | Title                             | Description                                                    | Estimation(Hours) | Assigned To                               | Status   |
+|----|-----------------------------------|----|-----------------------------------|----------------------------------------------------------------|-------------------|-------------------------------------------|----------|
+| 11 | US10 - Compartir itinerario       |    |                                     | Como usuario Quiero poder compartir mi itinerario de viaje con otras personas Para coordinar actividades y compartir planes | 5                 | Jeremy Joel Quispe Andia - u202216279   | Todo     |
+| 12 | US11 - Explorar actividades cercanas |    |                                     | Como usuario Quiero poder explorar actividades y lugares de interés cercanos a mi ubicación actual Para descubrir opciones adicionales durante mi viaje | 5                 | Bárbara Antonella Espinoza Delgado - u201911727 | InProcess|
+| 13 | US12 - Reservar transporte local  |    |                                     | Como usuario Quiero poder reservar transporte local Para facilitar mis desplazamientos durante el viaje | 8                 | Paolo Del Carmen Martinez Villanueva - u202010039 | Todo     |
+| 14 | US13 - Descubrir eventos locales  |    |                                     | Como usuario Quiero poder descubrir eventos locales Para mejorar mi experiencia cultural durante mi viaje | 5                 | Adrián Enrique Jesús Palma Obispo - u202210066 | Done     |
+| 15 | US15 - Seguimiento de gastos      |    |                                     | Como usuario Quiero poder realizar un seguimiento de mis gastos en la aplicación Para mantenerme dentro de mi presupuesto | 5                 | Leonel Alfaro Cumba                      | Todo     |
+    
+  - 5.2.1.3. Development Evidence for Sprint Review
+    
+|Repository|Branch|Commit ID|Commit Message|Commit Message Body|Commited On (Date)|  
+|----------|------|---------|--------------|-------------------|------------------|
+|TripTeamOrganization/FrontEnd|Main|f2dd6d87319d340e8b03afc44f7c9e50d8b7f2e0|Initial Commit|-|23/03/2024| 
+|TripTeamOrganization/FrontEnd|Main|674d37b56cda9ce92f21c58d15c551d434b4bf8c|Images|-|23/03/2024| 
+|TripTeamOrganization/FrontEnd|Main|47bef222912cdf116e49ae5a921929839d57804f|Button|-|23/03/2024| 
+|TripTeamOrganization/FrontEnd|Main|234f27e728f50dd38feabf348e8b815c01749286|Update index.html|-|24/03/2024| 
+|TripTeamOrganization/FrontEnd|Main|2a836c499e33e210cd4d489c65024bd79bd56a07|Navbar|-|25/03/2024| 
+|TripTeamOrganization/FrontEnd|Main|d867e4d88ff0d400251e7229a427c7734d738577|Login y Register|-|28/03/2024| 
+|TripTeamOrganization/FrontEnd|Main|6b4ccba822cabaffc7288ce022b3eed91e4aa15f|Navbar Estatica|-|29/03/2024| 
+|TripTeamOrganization/FrontEnd|Main|b052271b0096a1149a3864ba181954029a4cdb96|More Cards and Better Button|-|29/03/2024| 
+|TripTeamOrganization/FrontEnd|Main|eba687cddf7d0b6dd8433e3e49276455c43286e9|Mejora del Footer|Mejorar el footer|29/03/2024| 
+|TripTeamOrganization/FrontEnd|Main|4d3d002997acb28a1ca0fed00b6f96db8197dd54|Prueba|-|29/03/2024| 
+|TripTeamOrganization/FrontEnd|Main|b283a9c34d352016200864fef0865c182fc4c755|Update index.html|-|29/03/2024| 
+|TripTeamOrganization/FrontEnd|Responsive|b30b72bb20a12c5afa243e91d11f1e78d33ba3b4|Responsive NavBar|-|30/03/2024| 
+|TripTeamOrganization/FrontEnd|Responsive|08008d5496aa8899b1e0b6e4dd0678b0a964ddbe|Update index.css|-|30/03/2024| 
+|TripTeamOrganization/FrontEnd|Responsive|5427a2b1714cac4c763eaf57e2e26fee8502842a|ResponsiveFooter|-|30/03/2024| 
+|TripTeamOrganization/FrontEnd|Responsive|163aee97b6fa7a5698f67d74325ccb723e3193e8|Cambio de Fuente|-|31/03/2024| 
+|TripTeamOrganization/FrontEnd|Responsive|8cfe8d8f2181f4906a7d2ecc0267ac97daa3f087|Responsive Cards|-|31/03/2024| 
+|TripTeamOrganization/FrontEnd|Responsive|0e02db775d3c46bac114e2cf69db1211a65c78b3|Implementación Botón|-|31/03/2024|
+|TripTeamOrganization/FrontEnd|Testimonios|15640e5a70139e4bf67aaa7077e2bc772f8f7026|Update index.css|-|29/03/2024| 
+|TripTeamOrganization/FrontEnd|Testimonios|4524d2e6bdce66e14ca25c037b8c7ec113c5d8cf|Add Buttons|-|31/03/2024| 
+|TripTeamOrganization/FrontEnd|Testimonios|df60b4b190f5ad459e66d243e49d60eb05040842|Add Buttons Styles|-|31/03/2024| 
+|TripTeamOrganization/FrontEnd|Testimonios|6948049460628bcafd5257997a5c084cc41873d1|add js|-|31/03/2024| 
+|TripTeamOrganization/FrontEnd|Testimonios|cffd774c830fa29804391aac5350d7c64044a76d|Remove Buttons css|-|31/03/2024|
+|TripTeamOrganization/FrontEnd|Convenios|012de9ab0aadc3973bc2c8750ca2daed5f5fb728|Add Images|-|29/03/2024| 
+|TripTeamOrganization/FrontEnd|Convenios|9e94cdadca756eea85b088f43f7957a31f876152|Update Section Convenios|-|29/03/2024|
+|TripTeamOrganization/FrontEnd|Acerca de Nosotros|560ef7a4a955b748e2f28626668f54fa19a817e5|About|-|29/03/2024|
+|TripTeamOrganization/FrontEnd|Acerca de Nosotros|37c73d7bc7dc4259fd831926e9906b9eab6c846e|Update index.css|-|31/03/2024|
+|TripTeamOrganization/FrontEnd|Acerca de Nosotros|c5fd37d7d3f3b8ff52eb8b4e48241011dd8376f7|Update index.css|-|31/03/2024|
+
+  - 5.2.X.4. Testing Suite Evidence for Sprint Review
+    
+En el proceso de desarrollo de la landing page, se aplicaron diversas estrategias de prueba para garantizar su correcto funcionamiento y adaptabilidad en diferentes entornos. A continuación se detallan las herramientas utilizadas y los enfoques adoptados:
+
+
+
+## **1. Utilización de Live Server de Microsoft Visual Studio Code** 🖥
+
+### Propósito:
+Live Server se implementó para facilitar el desarrollo y la prueba de la landing page de manera local.
+
+### Descripción:
+Esta herramienta permitió la visualización dinámica de la landing page en el navegador web, lo que agilizó el proceso de desarrollo al mostrar los cambios en tiempo real sin necesidad de recargar manualmente la página.
+
+
+
+## **2. Firefox Developer para Pruebas de Dimensiones Móviles** 
+
+### Propósito:
+Firefox Developer fue empleado para verificar la compatibilidad y el aspecto visual de la landing page en dispositivos móviles.
+
+### Descripción:
+Esta herramienta proporcionó un entorno de desarrollo amigable para simular diferentes dimensiones de pantalla y validar el diseño responsivo de la landing page en dispositivos móviles.
+
+
+
+## **3. Aprovechamiento de las Propiedades del Navegador para Mejorar el Responsive** 
+
+### Propósito:
+Se aprovecharon las características específicas del navegador para mejorar la compatibilidad con CSS Grid y el diseño responsivo.
+
+### Descripción:
+Se exploraron las capacidades de inspección de elementos del navegador para ajustar y optimizar el diseño de la landing page, especialmente en lo que respecta al uso de CSS Grid. Además, se utilizaron las herramientas de depuración del navegador para identificar y corregir cualquier problema de diseño responsivo.
+
+
+
+Estas estrategias de prueba garantizaron la funcionalidad, la estética y la adaptabilidad de la landing page en diversos dispositivos y navegadores, contribuyendo así a una experiencia de usuario excepcional. 
+
+  - 5.2.X.5. Execution Evidence for Sprint Review
+    
+# Evidencia de Ejecución para Actualizaciones de la Página de Inicio - Sprint 1
+
+### Progreso en el Desarrollo
+Durante el Sprint 1, se realizaron las siguientes implementaciones en la página de inicio:
+
+1. **Sección de Galería:**
+   - Se diseñó e implementó una sección de galería para mostrar imágenes relacionadas con los destinos y servicios ofrecidos cambiando cada cierto tiempo.
+     
+     ![image](https://github.com/TripTeamOrganization/Informes/assets/48342953/4885c9b1-affd-4881-a972-317e93ab264c)
+     ![image](https://github.com/TripTeamOrganization/Informes/assets/48342953/33b25947-0ec1-4252-8e93-2f0e9ba8f972)
+
+2. **Barra de Navegación (Navbar):**
+   - Se creó y configuró una barra de navegación para permitir la navegación fácil entre las diferentes secciones de la página
+     
+     ![image](https://github.com/TripTeamOrganization/Informes/assets/48342953/3d31bf76-1433-44ff-b2ab-e5405a8df0e5)
+
+3. **Fondo Animado:**
+   - Se agregó un fondo animado utilizando un video de fondo para mejorar la estética y la experiencia visual de la página.
+     
+     ![image](https://github.com/TripTeamOrganization/Informes/assets/48342953/ab20dc42-f01b-4552-83fb-23f77e06b03f)
+
+### Trabajo Restante
+A pesar del progreso realizado en el Sprint 1, hay algunas tareas pendientes para el próximo sprint:
+
+- Implementar la sección del héroe con un mensaje atractivo para los usuarios.
+- Integrar características principales con iconos representativos y descripciones concisas.
+- Configurar un botón "Empezar Ahora" para dirigir a los usuarios hacia la siguiente acción deseada.
+
+### Conclusiones
+El Sprint 1 fue fundamental para establecer las bases de la página de inicio. La implementación de la sección de galería, la barra de navegación y el fondo animado agregó valor significativo a la experiencia del usuario. Con estos elementos en su lugar, estamos bien posicionados para avanzar hacia la implementación de características adicionales en el próximo sprint.
+
+---
+
+# Evidencia de Ejecución para Actualizaciones de la Página de Inicio - Sprint 2
+
+### Progreso en el Desarrollo
+Durante el Sprint 2, se completaron las siguientes secciones y características en la página de inicio:
+
+1. **Sección del Héroe:**
+   - Se diseñó y desarrolló la sección del héroe con un mensaje atractivo y convincente para los usuarios.
+     
+     ![image](https://github.com/TripTeamOrganization/Informes/assets/48342953/e299d034-7a5f-4699-bac5-429aea84bee8)    
+
+2. **Botón de Empezar Ahora:**
+   - Se implementó el botón "Empezar Ahora" para dirigir a los usuarios hacia la siguiente acción deseada.
+     
+     ![image](https://github.com/TripTeamOrganization/Informes/assets/48342953/2ceca461-280f-4b96-af93-96eb6f1c1740)
+
+3. **Características Principales:**
+   - Se agregaron seis características principales con iconos representativos y descripciones concisas.
+     
+     ![image](https://github.com/TripTeamOrganization/Informes/assets/48342953/c0f3d4cb-d4e4-4476-8123-9b4e6d18053d)
+
+
+### Trabajo Restante
+A pesar del progreso realizado, aún hay algunas tareas pendientes para completar en los próximos sprints:
+
+- Integrar la sección "Acerca de Nosotros" con información relevante sobre la empresa.
+- Configurar la sección de testimonios con comentarios de usuarios reales.
+
+### Conclusiones
+El Sprint 2 fue crucial para añadir elementos clave a la página de inicio, como la sección del héroe y el botón "Empezar Ahora". Estas adiciones fortalecieron la llamada a la acción y la identidad de la marca. Sin embargo, aún hay aspectos adicionales por completar en los próximos sprints para mejorar aún más la experiencia del usuario.
+
+---
+
+# Evidencia de Ejecución para Actualizaciones de la Página de Inicio - Sprint 3
+
+### Progreso en el Desarrollo
+En el Sprint 3, se continuó avanzando en la mejora de la página de inicio con las siguientes actualizaciones:
+
+1. **Sección "Acerca de Nosotros":**
+   - Se completó la sección "Acerca de Nosotros" con información sobre la empresa y su misión.
+     
+     ![Imagen de WhatsApp 2024-04-01 a las 00 44 14_7411e807](https://github.com/TripTeamOrganization/Informes/assets/48342953/80816fce-d84b-4faf-a454-4cfcb7a9dee1)
+     
+2. **Sección de Convenios:**
+   - Se agregaron detalles sobre los convenios establecidos con aerolíneas, hoteles y restaurantes.
+          
+     ![image](https://github.com/TripTeamOrganization/Informes/assets/48342953/f5177359-cb89-4a3e-a236-71d4b161f8c3)
+
+3. **Sección de Testimonios:**
+   - Se implementó la sección de testimonios con comentarios positivos de usuarios.
+     ![Imagen de WhatsApp 2024-04-02 a las 22 19 20_f75d955c](https://github.com/TripTeamOrganization/Informes/assets/48342953/60a57cf9-9db6-47b1-86d3-06c2045c6cf5)
+     
+
+### Trabajo Restante
+Aunque se logró mucho en el Sprint 3, aún quedan algunas tareas pendientes para completar:
+
+- Integrar una galería de imágenes en la sección correspondiente.
+- Realizar pruebas de rendimiento y corrección de errores menores antes del lanzamiento final.
+
+### Conclusiones
+El Sprint 3 marcó el final de la implementación de las características principales de la página de inicio. La inclusión de la sección "Acerca de Nosotros" y la integración de testimonios agregan credibilidad y confianza a la marca. Sin embargo, algunas tareas de refinamiento y optimización técnica aún deben abordarse antes del lanzamiento final.  
     - 5.2.X.6. Services Documentation Evidence for Sprint Review
     - 5.2.X.7. Software Deployment Evidence for Sprint Review
     - 5.2.X.8. Team Collaboration Insights during Sprint
 
-**Conclusiones**
+# Conclusiones 
 
-**Bibliografía**
+El proyecto de la *web app* **Tripmate** busca abordar de manera **efectiva** el problema de la mala elección de servicios, gastos innecesarios y desorganización al planificar un viaje a un nuevo destino. Al proporcionar una plataforma centralizada que ofrece opciones personalizadas y filtradas según las preferencias y presupuestos del usuario, se simplifica y optimiza significativamente el proceso de planificación de viajes. Esto se traduce en un **ahorro de tiempo y dinero** para los viajeros, así como en una mayor satisfacción al encontrar las opciones más adecuadas para sus necesidades.
 
-**Anexos**
+La aplicación se centra en ofrecer una experiencia de usuario intuitiva y amigable, con características como:
+- Filtros precisos
+- Ingreso de presupuestos
+- Notificaciones anticipadas sobre cambios en los servicios seleccionados
+
+Estas funcionalidades están diseñadas para facilitar la búsqueda y selección de opciones de viaje, así como para evitar inconvenientes de última hora que puedan afectar negativamente la experiencia del usuario. Al priorizar la comodidad y la eficiencia, la *landing page* busca garantizar que los viajeros tengan una experiencia agradable desde el momento en que visitan nuestro sitio web hasta que deciden explorar más a fondo nuestras ofertas.
+
+A través de un enfoque centrado en las necesidades del usuario y la diferenciación de la competencia, la *landing page* busca destacarse en el mercado de viajes en línea. La inclusión de características únicas, como la sección de galería para inspirar a los viajeros, la barra de navegación intuitiva y el fondo animado para captar la atención del usuario, se suma a su propuesta de valor. Además, la colaboración con empresas asociadas y la promoción de descuentos exclusivos pueden atraer a una base de usuarios más amplia y consolidar la posición de la página de inicio en el mercado. En resumen, la *landing page* se presenta como una solución atractiva y funcional para los viajeros, ofreciendo una experiencia de usuario fluida y diferenciada para planificar sus próximas aventuras.
+
+## Bibliografía 
+
+- Leiva, I. (2022). Esta es la cantidad de dinero que necesitas para viajar un año por el mundo. Recuperado de: [Yahoo Finanzas](https://es-us.finanzas.yahoo.com/noticias/esta-es-la-cantidad-de-dinero-que-necesitas-para-viajar-un-ano-por-el-mundo-161251049.html)
+- Asmar, S. (2023). Consejos para no endeudarse en sus próximos viajes y pagar la deuda en pocos meses. Recuperado de: [La República](https://www.larepublica.co/finanzas-personales/consejos-para-no-endeudarse-en-sus-proximos-viajes-y-pagar-la-deuda-en-pocos-meses-3598007) 
+
+## Anexos 📎
+
+- Repositorio GitHub Frontend: [TripTeamOrganization/FrontEnd](https://github.com/TripTeamOrganization/FrontEnd)
+- Repositorio GitHub Informe: [TripTeamOrganization/Informes](https://github.com/TripTeamOrganization/Informes)
+- Figma: [Diseño en Figma](https://www.figma.com/file/9P8ofdPg7ra5Q4hRaNfbiy/Untitled?type=design&node-id=0-1&mode=design&t=X9NqDuXiAid9yx61-0)
 
 
 
