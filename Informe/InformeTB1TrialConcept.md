@@ -455,6 +455,17 @@ Segmento objetivo 2: Viajeros de lujo
 | **Duración:**                  | 5:25                                                       |
 
 
+| Entrevistado N°6: Jhan Caseres | <img src=https://github.com/TripTeamOrganization/Informes/assets/134337719/9da98916-6e6e-4b85-9d32-c8f2fd49c87a alt="Andrés Valle" style="width: 240px;"> |
+|--------------------------------|------------------------------------------------------------|
+| **Nombre:**                    | Gustavo Chinchay                                              |
+| **Edad:**                      | 30                                                         |
+| **Sexo:**                      | Masculino                                                  |
+| **Ocupación:**                 | Ingeniero de sonido                                      |
+| **Entrevista:**                | [Link](https://www.youtube.com/watch?v=ggIC9Cf1or4)       |
+| **Momento de inicio:**         | 0:01                                                       |
+| **Duración:**                  | 5:25                                                       |
+
+
 - 2.2.3. Análisis de entrevistas
   
 
