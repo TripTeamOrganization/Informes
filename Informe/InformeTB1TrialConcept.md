@@ -456,6 +456,26 @@ Segmento objetivo 2: Viajeros de lujo
 
 
 - 2.2.3. Análisis de entrevistas
+  
+
+Análisis de Entrevistas sobre Aplicación de Viajes Familiares:
+
+| **Entrevistado**                    | **Análisis**                                                                 |
+|------------------------------------|-----------------------------------------------------------------------------------------|
+| Sandro Quispesivana               | Apoya la idea de una aplicación para planificar viajes familiares. <br>Destaca la utilidad de características como la planificación de itinerarios personalizados y la seguridad. <br>Aboga por una combinación de características generales y opciones de personalización para mejorar la experiencia de viaje familiar. |
+|  Isabel Martinez                  | Considera que una aplicación para organizar viajes familiares es una excelente idea.<br>Destaca su utilidad, practicidad y capacidad para hacer los viajes más ordenados y agradables.<br>Menciona la importancia de la seguridad, la privacidad y la recepción de sugerencias para facilitar la planificación del itinerario. |
+| Isaak Sánches          | Expresa su respaldo a una aplicación para la planificación de viajes familiares.<br>Destaca la conveniencia y utilidad de la aplicación para hacer los viajes más organizados y placenteros.<br>Enfatiza la importancia de la veracidad de la información, la seguridad de los datos y la capacidad de recibir recomendaciones adaptadas. |
+
+
+Análisis de Entrevistas sobre Experiencias de Viaje de Lujo:
+
+| **Entrevistado**                    | **Análisis**                                                                 |
+|------------------------------------|-----------------------------------------------------------------------------------------|
+| Andrés Valle        | Busca experiencias lujosas que ofrezcan sofisticación y comodidad. Valora la capacidad de personalización, la seguridad de sus datos y la exclusividad en sus reservas.<br>Ha tenido experiencias tanto positivas como negativas al utilizar aplicaciones móviles para planificar sus viajes de lujo. |
+| Gustavo Chinchay                      | Reconoce en TripMate la posibilidad de enriquecer sus viajes de lujo por el Perú.<br>Valora la personalización, la seguridad de sus datos y la exclusividad en sus reservas.<br>Considera que la tecnología puede mejorar significativamente la experiencia de viaje de lujo. |
+| Jhan Caseres        | Reconoce en TripMate la oportunidad de elevar la calidad de sus travesías por el territorio peruano.<br>Aprecia la personalización, la seguridad de sus datos y la exclusividad en sus reservas.<br>Considera que la tecnología puede contribuir significativamente a mejorar la experiencia de viaje de lujo. |
+
+
 - 2.3. Needfinding
 - 2.3.1. User Personas
 
