@@ -717,19 +717,42 @@ Segmento Objetivo #2: Viajeros lujosos
     
   El Landing Page se desarrolló utilizando un prototipo en forma de Mock Up. A continuación, te presentamos una vista previa de nuestra propuesta:
     
-  ![Imagen6](https://github.com/TripTeamOrganization/Informes/assets/89095594/40303d5c-f56f-4473-8685-68f7986190fb)
-  ![Imagen7](https://github.com/TripTeamOrganization/Informes/assets/89095594/7ff446be-1c01-4f03-a9a1-cc6be9cccbae)
-  ![Imagen8](https://github.com/TripTeamOrganization/Informes/assets/89095594/8484a7b8-f6c5-468a-ae06-b8f905435d57)
-  ![Imagen9](https://github.com/TripTeamOrganization/Informes/assets/89095594/dd6deadb-cf22-44d5-8ff6-2c58c9fa4a99)
+   ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/60580ef7-89e3-40f9-a786-cd8282cf606d)
+   ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/c37dbae6-8b3b-4cf5-9883-3b6d473f8ff7)
+  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/d41d33eb-53b0-47df-b550-db3325648568)
+![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/eac83dbe-e95d-4649-8e37-33b5a61f8cc1)
+![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/0b5bba97-43d8-4ffd-858c-ea6783db8b0a)
+![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/4ba87251-818b-4f59-ab35-8b0c898363a5)
+![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/164978aa-0523-4ae7-a749-0852cb16f329)
+![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/31ae7127-5de0-48e9-aa24-9ff566bc6ef0)
+Desplazamiento de la barra hacia testimonios
+
+  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/743cca82-5667-480b-9c85-d86e96eca1f3)
+
+  Desplazamiento de la barra hacia Acerca
+
+
+   ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/295137c9-99e4-482c-87f7-0b2b6a6fac3d)
+
+   Versiones
+
+   ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/f8dfaf94-98d4-4603-8a10-6107a982204e)
+
   
-https://www.figma.com/file/9P8ofdPg7ra5Q4hRaNfbiy/Untitled?type=design&node-id=0-1&mode=design&t=X9NqDuXiAid9yx61-0
+  https://www.figma.com/file/2eL1Zj6N0ULup3L12N3imY/Leo%27s-team-library?type%3Ddesign%26node-id%3D0-1%26mode%3Ddesign%26t%3DCXLIiwbDD1OiPXhC-0
  
 
 - 4.4. Web Applications UX/UI Design
   - 4.4.1. Web Applications Wireframes
   - 4.4.2. Web Applications Wireflow Diagrams
   - 4.4.3. Web Applications Mock-ups
+
+
+  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/cc0f33ed-24b5-46bc-9428-60ab2d6dac1f)
+  
   - 4.4.4. Web Applications User Flow Diagrams
+
+
 - 4.5. Web Applications Prototyping
 - 4.6. Domain-Driven Software Architecture
   - 4.6.1. Software Architecture Context Diagram
