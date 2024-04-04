@@ -422,7 +422,7 @@ Segmento objetivo 1: Familias Viajeras y Aventureras
 | Entrevistado N°3: Isaak Sánches | <img src="https://github.com/TripTeamOrganization/Informes/assets/134337719/d5c28126-a804-4c18-833c-a98db0a4f349" alt="Andrés Valle" style="width: 230px;"> |
 |--------------------------------|------------------------------------------------------------|
 | **Nombre:**                    | Isaak Sánches                                              |
-| **Edad:**                      | 28                                                        |
+| **Edad:**                      | 31                                                        |
 | **Sexo:**                      | Masculino                                                  |
 | **Ocupación:**                 | Electrónico                                      |
 | **Entrevista:**                | [Link](https://www.youtube.com/watch?v=JSYodc8w27U)        |
@@ -457,13 +457,13 @@ Segmento objetivo 2: Viajeros de lujo
 
 | Entrevistado N°6: Jhan Caseres | <img src=https://github.com/TripTeamOrganization/Informes/assets/134337719/9da98916-6e6e-4b85-9d32-c8f2fd49c87a alt="Andrés Valle" style="width: 240px;"> |
 |--------------------------------|------------------------------------------------------------|
-| **Nombre:**                    | Gustavo Chinchay                                              |
+| **Nombre:**                    | Jhan Caseres                                              |
 | **Edad:**                      | 30                                                         |
 | **Sexo:**                      | Masculino                                                  |
-| **Ocupación:**                 | Ingeniero de sonido                                      |
-| **Entrevista:**                | [Link](https://www.youtube.com/watch?v=ggIC9Cf1or4)       |
+| **Ocupación:**                 | Ingeniero Mecánico                                        |
+| **Entrevista:**                | [Link](https://www.youtube.com/watch?v=eeLvMoP6shI)       |
 | **Momento de inicio:**         | 0:01                                                       |
-| **Duración:**                  | 5:25                                                       |
+| **Duración:**                  | 4:21                                                       |
 
 
 - 2.2.3. Análisis de entrevistas
