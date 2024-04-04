@@ -1078,17 +1078,7 @@ Esta herramienta proporcionó un entorno de desarrollo amigable para simular dif
 
 
 
-## **3. Uso Específico de Herramientas Únicas** 
-
-### Propósito:
-Se desarrollaron técnicas de prueba personalizadas para evaluar aspectos específicos de la landing page.
-
-### Descripción:
-Por ejemplo, se utilizó una herramienta personalizada para simular la carga y el rendimiento de la landing page en condiciones de ancho de banda variable. Además, se emplearon técnicas de auditoría de rendimiento para optimizar la velocidad de carga y la experiencia del usuario.
-
-
-
-## **4. Aprovechamiento de las Propiedades del Navegador para Mejorar el Responsive** 
+## **3. Aprovechamiento de las Propiedades del Navegador para Mejorar el Responsive** 
 
 ### Propósito:
 Se aprovecharon las características específicas del navegador para mejorar la compatibilidad con CSS Grid y el diseño responsivo.
