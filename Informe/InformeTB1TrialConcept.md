@@ -1053,6 +1053,7 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
 |TripTeamOrganization/FrontEnd|Acerca de Nosotros|c5fd37d7d3f3b8ff52eb8b4e48241011dd8376f7|Update index.css|-|31/03/2024|
 
   - 5.2.X.4. Testing Suite Evidence for Sprint Review
+    
 En el proceso de desarrollo de la landing page, se aplicaron diversas estrategias de prueba para garantizar su correcto funcionamiento y adaptabilidad en diferentes entornos. A continuación se detallan las herramientas utilizadas y los enfoques adoptados:
 
 
