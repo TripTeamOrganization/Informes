@@ -1085,7 +1085,7 @@ Se desarrollaron técnicas de prueba personalizadas para evaluar aspectos espec�
 ### Descripción:
 Por ejemplo, se utilizó una herramienta personalizada para simular la carga y el rendimiento de la landing page en condiciones de ancho de banda variable. Además, se emplearon técnicas de auditoría de rendimiento para optimizar la velocidad de carga y la experiencia del usuario.
 
----
+
 
 ## **4. Aprovechamiento de las Propiedades del Navegador para Mejorar el Responsive** 
 
@@ -1095,7 +1095,7 @@ Se aprovecharon las características específicas del navegador para mejorar la 
 ### Descripción:
 Se exploraron las capacidades de inspección de elementos del navegador para ajustar y optimizar el diseño de la landing page, especialmente en lo que respecta al uso de CSS Grid. Además, se utilizaron las herramientas de depuración del navegador para identificar y corregir cualquier problema de diseño responsivo.
 
----
+
 
 Estas estrategias de prueba garantizaron la funcionalidad, la estética y la adaptabilidad de la landing page en diversos dispositivos y navegadores, contribuyendo así a una experiencia de usuario excepcional. 
 
