@@ -1033,26 +1033,15 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
 
     - 5.2.1.2. Sprint Backlog 1
 
+### Sprint 1
 
-    |**Sprint #**|**Sprint 1**|||||||
-    | :- | :- | :- | :- | :- | :- | :- | :- |
-    |User Story|Work-Item / Task|||||||
-    |Id|Title|Id|Title|Description|Estimation (Hours)|Assigned To|Status (To-do / In-Process / To-Review / Done)|
-    |US26|Visualizar features de la aplicación|W-01|Features|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar todos las funcionalidades y servicios que brinda TripMate</p><p>**Para** entender el uso de la aplicación</p>|3 hours|**Adrian Palma**|Done|
-    |US27|Sección “Acerca de nosotros”|W-02|Sección “Acerca de Nosotros**”**|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar una sección que me informe sobre el startup</p><p>**Para** conocer al equipo de TripMate y su propósito</p>|3 hours|**Leonel Alfaro**|Done|
-    |US28|Sección “Convenios”|W-03|Sección “Convenios”|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar los convenios que tiene TripMate</p><p>**Para** conocer las distintas empresas asociadas</p>|3 hours|**Jeremy Quispe**|Done|
-    |US29|Sección “Testimonios”|W-04|Sección “Testimonios”|<p>**Como** visitante del landing page</p><p>**Quiero** poder ver testimonios y experiencias de otros usuarios</p><p>**Para** conocer la opinión del público sobre TripMate</p>|3 hours|**Paolo Martinez**|Done|
-    |US30|Acceder desde cualquier dispositivo a la landing page|W-05|Accesibilidad|<p>**Como** visitante del landing page</p><p>**Quiero** que sea accesible desde diferentes dispositivos </p><p>**Para** poder ingresar al sitio web desde cualquier dispositivo</p>|3 hours|**Bárbara Espinoza**|Done|
-      
-      ### Sprint 1
-
-| Id | Title                               | Id | Title                               | Description                                                    | Estimation(Hours) | Assigned To                               | Status   |
-|----|-------------------------------------|----|-------------------------------------|----------------------------------------------------------------|-------------------|-------------------------------------------|----------|
-| 1  | US24 - Sección de Galería          |    |                                     | Se diseñó e implementó una sección de galería para mostrar imágenes relacionadas con los destinos y servicios ofrecidos cambiando cada cierto tiempo. | 5                 | Jeremy Joel Quispe Andia - u202216279   | ToReview |
-| 2  | US25 - Barra de Navegación         |    |                                     | Se creó y configuró una barra de navegación para permitir la navegación fácil entre las diferentes secciones de la página | 3                 | Bárbara Antonella Espinoza Delgado - u201911727 | Todo     |
-| 3  | US23 - Fondo Animado               |    |                                     | Se agregó un fondo animado utilizando un video de fondo para mejorar la estética y la experiencia visual de la página. | 2                 | Adrián Enrique Jesús Palma Obispo - u202210066 | InProcess|
-| 4  | US26 - Sección del Héroe           |    |                                     | Se diseñó y desarrolló la sección del héroe con un mensaje atractivo y convincente para los usuarios. | 3                 | Paolo Del Carmen Martinez Villanueva - u202010039 | Done     |
-| 5  | US27 - Botón de Empezar Ahora      |    |                                     | Se implementó el botón "Empezar Ahora" para dirigir a los usuarios hacia la siguiente acción deseada. | 2                 | Leonel Alfaro Cumba                      | Todo     |
+| User Story | Work-Item / Task              | Description                                                                                                                                                           | Estimation (Hours) | Assigned To                               | Status      |
+|------------|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------------------------------------|-------------|
+| US24       | Sección de Galería            | Como usuario quiero poder ver una sección de galería que muestre imágenes relacionadas con los destinos y servicios ofrecidos, cambiando cada cierto tiempo.          | 5                  | Jeremy Joel Quispe Andia - u202216279   | ToReview    |
+| US25       | Barra de Navegación          | Como usuario quiero tener una barra de navegación para poder moverme fácilmente entre las diferentes secciones de la página.                                        | 3                  | Bárbara Antonella Espinoza Delgado - u201911727 | Todo        |
+| US23       | Fondo Animado                | Como usuario quiero experimentar un fondo animado utilizando un video de fondo para mejorar la estética y la experiencia visual de la página.                        | 2                  | Adrián Enrique Jesús Palma Obispo - u202210066 | InProcess   |
+| US26       | Sección del Héroe            | Como usuario quiero ver una sección del héroe con un mensaje atractivo y convincente para tener una experiencia agradable en la página.                              | 3                  | Paolo Del Carmen Martinez Villanueva - u202010039 | Done        |
+| US27       | Botón de Empezar Ahora       | Como usuario quiero tener un botón "Empezar Ahora" que me dirija hacia la siguiente acción deseada en la página.                                                      | 2                  | Leonel Alfaro Cumba                      | Todo        |
 
 ### Sprint 2
 
