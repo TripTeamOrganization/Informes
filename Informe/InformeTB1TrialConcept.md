@@ -1048,11 +1048,11 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
 
 | Id | Title                               | Id | Title                               | Description                                                    | Estimation(Hours) | Assigned To                               | Status   |
 |----|-------------------------------------|----|-------------------------------------|----------------------------------------------------------------|-------------------|-------------------------------------------|----------|
-| 1  | US24 - Visualizar features          |    |                                     | Como visitante del landing page Quiero conocer sobre las funcionalidades de la aplicación Para informarme sobre su uso | 5                 | Jeremy Joel Quispe Andia - u202216279   | ToReview |
-| 2  | US25 - Acceso a descarga            |    |                                     | Como visitante del landing page Quiero poder acceder al enlace de descarga de la aplicación Para poder descargar la aplicación de forma rápida y sencilla | 3                 | Bárbara Antonella Espinoza Delgado - u201911727 | Todo     |
-| 3  | US23 - Dar feedback                 |    |                                     | Como usuario Quiero poder proporcionar feedback sobre la aplicación Para compartir sugerencias o comentarios que ayuden a mejorar la experiencia del usuario | 2                 | Adrián Enrique Jesús Palma Obispo - u202210066 | InProcess|
-| 4  | US26 - Visualización de testimonios |    |                                     | Como visitante del landing page Quiero poder ver testimonios y experiencias de otros usuarios Para conocer la opinión del público sobre TripMate | 3                 | Paolo Del Carmen Martinez Villanueva - u202010039 | Done     |
-| 5  | US27 - Acceso a información legal   |    |                                     | Como visitante del landing page Quiero poder acceder a la información legal de TripMate Para conocer mis derechos y responsabilidades al utilizar la aplicación | 2                 | Leonel Alfaro Cumba                      | Todo     |
+| 1  | US24 - Sección de Galería          |    |                                     | Se diseñó e implementó una sección de galería para mostrar imágenes relacionadas con los destinos y servicios ofrecidos cambiando cada cierto tiempo. | 5                 | Jeremy Joel Quispe Andia - u202216279   | ToReview |
+| 2  | US25 - Barra de Navegación         |    |                                     | Se creó y configuró una barra de navegación para permitir la navegación fácil entre las diferentes secciones de la página | 3                 | Bárbara Antonella Espinoza Delgado - u201911727 | Todo     |
+| 3  | US23 - Fondo Animado               |    |                                     | Se agregó un fondo animado utilizando un video de fondo para mejorar la estética y la experiencia visual de la página. | 2                 | Adrián Enrique Jesús Palma Obispo - u202210066 | InProcess|
+| 4  | US26 - Sección del Héroe           |    |                                     | Se diseñó y desarrolló la sección del héroe con un mensaje atractivo y convincente para los usuarios. | 3                 | Paolo Del Carmen Martinez Villanueva - u202010039 | Done     |
+| 5  | US27 - Botón de Empezar Ahora      |    |                                     | Se implementó el botón "Empezar Ahora" para dirigir a los usuarios hacia la siguiente acción deseada. | 2                 | Leonel Alfaro Cumba                      | Todo     |
 
 ### Sprint 2
 
@@ -1146,7 +1146,7 @@ Estas estrategias de prueba garantizaron la funcionalidad, la estética y la ada
 
   - 5.2.X.5. Execution Evidence for Sprint Review
     
-# Evidencia de Ejecución para Actualizaciones de la Página de Inicio - Sprint 1
+# Sprint 1
 
 ### Progreso en el Desarrollo
 Durante el Sprint 1, se realizaron las siguientes implementaciones en la página de inicio:
@@ -1167,81 +1167,43 @@ Durante el Sprint 1, se realizaron las siguientes implementaciones en la página
      
      ![image](https://github.com/TripTeamOrganization/Informes/assets/48342953/ab20dc42-f01b-4552-83fb-23f77e06b03f)
 
-### Trabajo Restante
-A pesar del progreso realizado en el Sprint 1, hay algunas tareas pendientes para el próximo sprint:
-
-- Implementar la sección del héroe con un mensaje atractivo para los usuarios.
-- Integrar características principales con iconos representativos y descripciones concisas.
-- Configurar un botón "Empezar Ahora" para dirigir a los usuarios hacia la siguiente acción deseada.
-
-### Conclusiones
-El Sprint 1 fue fundamental para establecer las bases de la página de inicio. La implementación de la sección de galería, la barra de navegación y el fondo animado agregó valor significativo a la experiencia del usuario. Con estos elementos en su lugar, estamos bien posicionados para avanzar hacia la implementación de características adicionales en el próximo sprint.
-
----
-
-# Evidencia de Ejecución para Actualizaciones de la Página de Inicio - Sprint 2
-
-### Progreso en el Desarrollo
-Durante el Sprint 2, se completaron las siguientes secciones y características en la página de inicio:
-
-1. **Sección del Héroe:**
+4. **Sección del Héroe:**
    - Se diseñó y desarrolló la sección del héroe con un mensaje atractivo y convincente para los usuarios.
      
      ![image](https://github.com/TripTeamOrganization/Informes/assets/48342953/e299d034-7a5f-4699-bac5-429aea84bee8)    
 
-2. **Botón de Empezar Ahora:**
+5. **Botón de Empezar Ahora:**
    - Se implementó el botón "Empezar Ahora" para dirigir a los usuarios hacia la siguiente acción deseada.
      
      ![image](https://github.com/TripTeamOrganization/Informes/assets/48342953/2ceca461-280f-4b96-af93-96eb6f1c1740)
 
-3. **Características Principales:**
+6. **Características Principales:**
    - Se agregaron seis características principales con iconos representativos y descripciones concisas.
      
      ![image](https://github.com/TripTeamOrganization/Informes/assets/48342953/c0f3d4cb-d4e4-4476-8123-9b4e6d18053d)
 
-
-### Trabajo Restante
-A pesar del progreso realizado, aún hay algunas tareas pendientes para completar en los próximos sprints:
-
-- Integrar la sección "Acerca de Nosotros" con información relevante sobre la empresa.
-- Configurar la sección de testimonios con comentarios de usuarios reales.
-
-### Conclusiones
-El Sprint 2 fue crucial para añadir elementos clave a la página de inicio, como la sección del héroe y el botón "Empezar Ahora". Estas adiciones fortalecieron la llamada a la acción y la identidad de la marca. Sin embargo, aún hay aspectos adicionales por completar en los próximos sprints para mejorar aún más la experiencia del usuario.
-
----
-
-# Evidencia de Ejecución para Actualizaciones de la Página de Inicio - Sprint 3
-
-### Progreso en el Desarrollo
-En el Sprint 3, se continuó avanzando en la mejora de la página de inicio con las siguientes actualizaciones:
-
-1. **Sección "Acerca de Nosotros":**
+7. **Sección "Acerca de Nosotros":**
    - Se completó la sección "Acerca de Nosotros" con información sobre la empresa y su misión.
      
      ![Imagen de WhatsApp 2024-04-01 a las 00 44 14_7411e807](https://github.com/TripTeamOrganization/Informes/assets/48342953/80816fce-d84b-4faf-a454-4cfcb7a9dee1)
      
-2. **Sección de Convenios:**
+8. **Sección de Convenios:**
    - Se agregaron detalles sobre los convenios establecidos con aerolíneas, hoteles y restaurantes.
           
      ![image](https://github.com/TripTeamOrganization/Informes/assets/48342953/f5177359-cb89-4a3e-a236-71d4b161f8c3)
 
-3. **Sección de Testimonios:**
+9. **Sección de Testimonios:**
    - Se implementó la sección de testimonios con comentarios positivos de usuarios.
      ![Imagen de WhatsApp 2024-04-02 a las 22 19 20_f75d955c](https://github.com/TripTeamOrganization/Informes/assets/48342953/60a57cf9-9db6-47b1-86d3-06c2045c6cf5)
-     
 
 ### Trabajo Restante
-Aunque se logró mucho en el Sprint 3, aún quedan algunas tareas pendientes para completar:
+Aunque se logró mucho en el Sprint 1, aún quedan algunas tareas pendientes para completar:
 
 - Integrar una galería de imágenes en la sección correspondiente.
 - Realizar pruebas de rendimiento y corrección de errores menores antes del lanzamiento final.
 
 ### Conclusiones
-El Sprint 3 marcó el final de la implementación de las características principales de la página de inicio. La inclusión de la sección "Acerca de Nosotros" y la integración de testimonios agregan credibilidad y confianza a la marca. Sin embargo, algunas tareas de refinamiento y optimización técnica aún deben abordarse antes del lanzamiento final.  
-    - 5.2.X.6. Services Documentation Evidence for Sprint Review
-    - 5.2.X.7. Software Deployment Evidence for Sprint Review
-    - 5.2.X.8. Team Collaboration Insights during Sprint
+El Sprint 1 fue crucial para añadir elementos clave a la página de inicio, como la sección del héroe y el botón "Empezar Ahora". Estas adiciones fortalecieron la llamada a la acción y la identidad de la marca. Sin embargo, aún hay aspectos adicionales por completar en los próximos sprints para mejorar aún más la experiencia del usuario.
 
 # Conclusiones 
 
