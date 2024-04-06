@@ -1211,7 +1211,8 @@ A través de un enfoque centrado en las necesidades del usuario y la diferenciac
 ## Bibliografía 
 
 - Leiva, I. (2022). Esta es la cantidad de dinero que necesitas para viajar un año por el mundo. Recuperado de: [Yahoo Finanzas](https://es-us.finanzas.yahoo.com/noticias/esta-es-la-cantidad-de-dinero-que-necesitas-para-viajar-un-ano-por-el-mundo-161251049.html)
-- Asmar, S. (2023). Consejos para no endeudarse en sus próximos viajes y pagar la deuda en pocos meses. Recuperado de: [La República](https://www.larepublica.co/finanzas-personales/consejos-para-no-endeudarse-en-sus-proximos-viajes-y-pagar-la-deuda-en-pocos-meses-3598007) 
+- Asmar, S. (2023). Consejos para no endeudarse en sus próximos viajes y pagar la deuda en pocos meses. Recuperado de: [La República](https://www.larepublica.co/finanzas-personales/consejos-para-no-endeudarse-en-sus-proximos-viajes-y-pagar-la-deuda-en-pocos-meses-3598007)
+- Sousa, A. (1994). El ocio turistico en las sociedades industriales avanzadas. Bosch, Barcelona.
 
 ## Anexos 📎
 
