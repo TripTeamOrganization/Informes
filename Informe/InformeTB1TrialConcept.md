@@ -927,7 +927,7 @@ Desplazamiento de la barra hacia testimonios
 Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de datos. Se ha tomado esta decisión debido a que MySQL es una plataforma escalable y cuenta con una interfaz intuitiva y fácil de usar. Además, el equipo tiene experiencia previa con el motor de Microsoft SQL Server, lo que facilita la transición. MySQL permite expandir los recursos utilizados en la base de datos según las necesidades y requisitos del negocio, lo que lo hace una elección adecuada para nuestro proyecto.
 
   - 4.8.1. Database Diagram
-![image](https://github.com/TripTeamOrganization/Informes/assets/98995070/2c030260-e3db-485d-9a74-43e819a180e8)
+![image](https://github.com/TripTeamOrganization/Informes/assets/98995070/4a848495-a769-4721-a1ae-c31f7d4ac286)
 
 
 ### Capítulo V: Product Implementation, Validation & Deployment
