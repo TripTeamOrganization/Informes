@@ -779,7 +779,11 @@ Segmento Objetivo #2: Viajeros lujosos
   ![Imagen3](https://github.com/TripTeamOrganization/Informes/assets/89095594/b4fe9e16-b1bc-4913-be0f-e02589544def)
   ![Imagen4](https://github.com/TripTeamOrganization/Informes/assets/89095594/1cd39301-5502-4ad6-9c05-1ea10574c83c)
   ![Imagen5](https://github.com/TripTeamOrganization/Informes/assets/89095594/ac7a845e-1da5-4557-a76d-b1c7ea0d0df1)
+ ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/94b4e671-3c89-419b-8993-2faa3533e689)
+ ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/75dc159f-39e4-4fd6-9e56-f5d7d2b67c47)
  
+
+  https://www.figma.com/file/OVYa70f4Bnr66FnHXTdypf/Untitled?type=design&node-id=0-1&mode=design&t=1WBKr8R1ao8Fyo2E-0
 - 4.3.2. Landing Page Mock-up
     
   El Landing Page se desarrolló utilizando un prototipo en forma de Mock Up. A continuación, te presentamos una vista previa de nuestra propuesta:
@@ -791,22 +795,29 @@ Segmento Objetivo #2: Viajeros lujosos
 ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/0b5bba97-43d8-4ffd-858c-ea6783db8b0a)
 ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/4ba87251-818b-4f59-ab35-8b0c898363a5)
 ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/164978aa-0523-4ae7-a749-0852cb16f329)
+![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/9aecc8de-88ba-457f-a1b0-9e32b33fa5de)
+![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/6e5e2084-c384-40c2-831d-ceab39ec9847)
+
+
+  Desplazamiento de la barra hacia Acerca
 ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/31ae7127-5de0-48e9-aa24-9ff566bc6ef0)
 Desplazamiento de la barra hacia testimonios
 
   ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/743cca82-5667-480b-9c85-d86e96eca1f3)
 
-  Desplazamiento de la barra hacia Acerca
+  Desplazamiento de la barra hacia Convenios
 
 
-   ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/295137c9-99e4-482c-87f7-0b2b6a6fac3d)
+   ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/b6b6ae74-ff7d-4905-ae9a-15f283d65e2c)
+
 
    Versiones
 
-   ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/f8dfaf94-98d4-4603-8a10-6107a982204e)
+   ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/79970b8c-2f13-4ce7-b902-a52da5ed96ee)
+
 
   
-  https://www.figma.com/file/2eL1Zj6N0ULup3L12N3imY/Leo%27s-team-library?type%3Ddesign%26node-id%3D0-1%26mode%3Ddesign%26t%3DCXLIiwbDD1OiPXhC-0
+   https://www.figma.com/file/2eL1Zj6N0ULup3L12N3imY/Leo%27s-team-library?type%3Ddesign%26node-id%3D0-1%26mode%3Ddesign%26t%3DCXLIiwbDD1OiPXhC-0
  
 
 - 4.4. Web Applications UX/UI Design
@@ -823,6 +834,7 @@ Desplazamiento de la barra hacia testimonios
 - 4.5. Web Applications Prototyping
 - 4.6. Domain-Driven Software Architecture
   - 4.6.1. Software Architecture Context Diagram
+  
   
    ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/249ba48d-ab33-4e72-b479-43b4c6910565)
 
@@ -1223,8 +1235,13 @@ A través de un enfoque centrado en las necesidades del usuario y la diferenciac
 
 - Repositorio GitHub Frontend: [TripTeamOrganization/FrontEnd](https://github.com/TripTeamOrganization/FrontEnd)
 - Repositorio GitHub Informe: [TripTeamOrganization/Informes](https://github.com/TripTeamOrganization/Informes)
+- Figma: [Diseño en Figma para Page Wireframe](https://www.figma.com/file/OVYa70f4Bnr66FnHXTdypf/Untitled?type=design&node-id=0%3A1&mode=design&t=GWueqbqhuC88FRo8-1)
+
 - Figma: [Diseño en Figma](https://www.figma.com/file/2eL1Zj6N0ULup3L12N3imY/Leo's-team-library?type=design&node-id=0-1&mode=design&t=DZ3HGQCqkqiTAoWP-0)
 - Lucidspack: [Diseño ](https://lucid.app/lucidspark/e42b38ec-9f8c-4f10-8d31-03eefad55095/edit?beaconFlowId=CFC1390090154143&invitationId=inv_262b6d7f-b989-4b5d-8995-1fff1088f3b6&page=0_0#)
+
+
+
 
 
 
