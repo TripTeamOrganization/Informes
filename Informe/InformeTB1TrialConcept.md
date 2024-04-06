@@ -285,6 +285,7 @@ Creemos que con esta plataforma la expreriencia previa y posterior a un viaje se
                 <p>Identificar e investigar a las empresas que estén interesadas en ofrecer descuentos a cambio de poder vender sus servicios en nuestra plataforma.</p></td></tr>
           </table>
 - 1.3. Segmentos objetivo
+  Segun Sousa (1994) las personas que mas realizan viajes por motivo turistico con la clase alta, media-alta y personas que habitan zonas de tipo medio, por lo que hemos decidido orientar nuestro proyecto a familias de clase media y media-alta y a personas de clase alta.
     
 **Segmento objetivo 1: Familias Viajeras y Aventureras**
 
