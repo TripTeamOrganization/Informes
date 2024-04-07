@@ -741,34 +741,99 @@ Segmento Objetivo #2: Viajeros lujosos
 
 ### Capítulo IV: Product Design
 - 4.1. Style Guidelines
-  - 4.1.1. General Style Guidelines
-    Se prioriza, legibilidad, espaciado, consistencia visual y simplicidad
-- **Gráficos cohesivos:** Los íconos, botones, cajas de texto y otros agregados tendrán una estética similar para formar una identidad propia.
--**Main Font**: https://fonts.google.com/specimen/Roboto
-<p align="center">
-<img src="https://github.com/Jemisas/TripMate-Proyecto-Desarollo-de-Aplicaciones-Open-Source/assets/48342953/493ba2d5-e977-4495-965c-8aaab86e1ecc" width="350" height="250"></p>   
+  - 4.1.1. General Style Guidelines  
+**Paleta de colores:** 
+Nuestra aplicación web, al estar dirigida a viajeros, cuenta con colores que denoten confianza, sean sobrios y formales, por lo que los colores principales que usaremos para TripMate serán el blanco, azul claro, el negro y el gris. El blanco en representación del orden y limpieza, el azul la tranquilidad y relajación y el gris para la seriedad y modestia. El color principal de las letras será el negro para la formalidad pero también usaremos letras en color blano para un buen contraste con el fondo en donde se encuentra.  
+![image](https://github.com/TripTeamOrganization/Informes/assets/98995070/b303f2e4-e3a1-4c7d-b240-da7c12d46e12)
+
+**Tipografía:**
+La tipografía de nuestra aplicación será fácilmente legible y estética, por lo que se hará uso de la fuente Roboto para botones y títulos y Asap para textos, con interlineado 1.15 con tamaño base 18px para desktop y para móvil tamaño 16px, no obstante, decidimos hacer uso de la unidad de medida “em” para que las letras sean escalables y responsivas a la variedad de tamaños de pantalla. Los tamaños variarán según si son títulos principales, subtítulos o textos.
+
+Base: 18px  
+Tipografía: Roboto y Asap  
+Interlineado: 1.5   
+Pesos:  
+![image](https://github.com/TripTeamOrganization/Informes/assets/98995070/4a89864f-325a-4221-87b1-09d61a81b43a)
+
+**Tono de comunicación y lenguaje:**
+La aplicación tendrá un lenguaje divertido y llamativo para que las personas se sientan cómodas y familiarizadas con la plataforma, no obstante al ser una plataforma que tendrá convenios con hoteles y aerolíneas tendrá que tener un tono respetuoso y formal.
+
+**Branding y logo:**
+Para el logo de nuestra aplicación decidimos optar por la ilustración de un camino entre montañas minimalistas con el nombre "TripMate" para mostrar en una imagen simple la temática de nuestra aplicación.
+
   - 4.1.2. Web Style Guidelines
 
-- **Diseño Responsivo:** La aplicación debe ser compatible con diferentes dispositivos y tamaños de pantalla para una experiencia de usuario consistente en todos los dispositivos.
--**Navegación Intuitiva:** Estructura de navegación clara y fácil de usar que permita a los usuarios encontrar rápidamente la información que están buscando, se prioriza la simplicidad.
-- **Carga Rápida:** Optimización del rendimiento de la aplicación para tiempos de carga rápidos, lo que incluye la optimización de imágenes y el uso de técnicas de almacenamiento en caché así como los scripts cargados al inicio de la página.
-- **Diseño de Tarjetas:** Diseños de tarjetas para mostrar la información de manera visualmente atractiva y organizada, especialmente para la presentación de destinos y detalles de viajes.
-- 4.2. Information Architecture
-- 4.2.1. Organization Systems
-- **Organización Secuencial (Step-by-Step to Accomplish):** Se usa en el proceso de reserva de alojamiento y actividades, guiando a los usuarios paso a paso para completar la reserva de manera eficiente, de forma que se complete mediante una serie de pasos consecuentes y ordenados.
-- 4.2.2. Labeling Systems
-    Se procura evitar confusiones y que las etiquetas utilizadas sean descriptivas y simples:
-    - **Itinerarios:** "Aventura", "Cultura", "Relax", etc.
-    - **Actividades:** "Excursión en la naturaleza", "Visita cultural", "Cena gourmet", etc.
-    - **Alojamiento:** "Hotel", "Hostal", "Apartamento", etc.
-- 4.2.3. SEO Tags and Meta Tags
-- 4.2.4. Searching Systems
+**Paleta de colores:** Asignamos al color azul como el color mas representativo de la web a demás de los colores blanco y negro para mostrar una disminución en la recarga de colores para que la atención de los usuarios vaya hacia los servicios y no se desvíe a otra parte menos relevante.
 
-    Se expondrán los sistemas de búsqueda implementados para ayudar a nuestros usuarios a encontrar la información que están buscando.
-        - En el Landing Page, los sistemas de búsqueda son estáticos, ya que la barra de navegación guiará a los usuarios hacia la sección de su interés. Estos sistemas están diseñados para optimizar la experiencia del usuario, proporcionando acceso rápido y directo a la información relevante que están buscando. 
-- 4.2.5. Navigation Systems
-  
-     En cuanto a los sistemas de navegación, TripTeam ha implementado un enfoque intuitivo y fácil de usar para guiar a los usuarios a través de nuestra plataforma. Nuestra barra de navegación está diseñada para dirigir de manera eficiente a los usuarios hacia las secciones de su interés, facilitando la exploración y la búsqueda de información relevante.
+**Diseño Responsivo:** La aplicación debe ser compatible con diferentes dispositivos y tamaños de pantalla para una experiencia de usuario consistente en todos los dispositivos.
+
+**Navegación Intuitiva:** Estructura de navegación clara y fácil de usar que permita a los usuarios encontrar rápidamente la información que están buscando, se prioriza la simplicidad.
+
+**Carga Rápida:** Optimización del rendimiento de la aplicación para tiempos de carga rápidos, lo que incluye la optimización de imágenes y el uso de técnicas de almacenamiento en caché así como los scripts cargados al inicio de la página.
+
+**Diseño de Tarjetas:** Diseños de tarjetas para mostrar la información de manera visualmente atractiva y organizada, especialmente para la presentación de destinos y detalles de viajes.
+
+**Botones de la web:** Los botones utilizados para la web serán botones rectangulares con esquinas circulares, ademas de tener botones en forma de texto en la navbar para una mejor navegación en la aplicación. 
+![image](https://github.com/TripTeamOrganization/Informes/assets/98995070/f846f8c5-12d4-45f8-a6b6-66024cdd4306)  
+**Cajas de Texto:** Las cajas de texto permitirán a los usuarios hacer búsquedas manuales u serán fácilmente reconocibles.
+![image](https://github.com/TripTeamOrganization/Informes/assets/98995070/bc86d4aa-95d6-4524-bf6b-0cbd30591bd4)  
+- 4.2. Information Architecture
+- 4.2.1. Organization Systems  
+**Organización Secuencial (Step-by-Step to Accomplish):** Se usa en el proceso de reserva de alojamiento y actividades, guiando a los usuarios paso a paso para completar la reserva de manera eficiente, de forma que se complete mediante una serie de pasos consecuentes y ordenados.<br><br>
+- 4.2.2. Labeling Systems  
+Se procura evitar confusiones y que las etiquetas utilizadas sean descriptivas y simples:
+Etiquetas para la Navbar:
+
+**Actividades:** En esta sección se mostrarán las actividades y atractivos turísticos con una información sobre ellos que los usuarios pueden visitar en el destino elegido.
+
+**Alojamiento:** En esta sección se mostrarán los alojamientos/hospedajes disponibles en el destino elegido.
+
+**Vuelos:** En esta sección se mostrarán los vuelos disponibles al destino elegido de diversas aerolíneas.
+
+**Restaurantes:** En esta sección se mostrarán los restaurantes más conocidos y una información sobre ellos en el destino elegido.
+
+**Perfil:** En esta sección el usuario podrá ver su perfil con el que inició la sesión incluido el plan al que está suscrito y en caso no tenga ninguna se le pedirá crear una cuenta.
+
+**Notificaciones:** En esta sección el usuario podrá ver las notificaciones sobre cambios de horario o cancelaciones en algún servicio que haya seleccionado.
+
+**Itinerarios:** En esta sección el usuario podrá visualizar un itinerario generado por la aplicación con los restaurantes y actividades que el usuario puede visitar durante su viaje.
+
+Etiquetas para el cuerpo de la web:
+**Reseñas:** En esta sección se mostrarán las calificaciones y reseñas de los servicios que los usuarios hicieron luego de probarlos.
+
+- 4.2.3. SEO Tags and Meta Tags  
+A continuación se mostrarán las etiquetas que representarán el contenido de la Landing Page y de la aplicación web para que los usuarios las encuentren con mayor facilidad.
+
+**Landing Page:**
+Meta Tags de Titulo: TripMate.
+
+Meta Tags de Descripción: Landing Page oficial de TripMate-TripTeam.
+
+Meta Tags de Palabras Clave: Viajes organizados, crea una cuenta, adquiere una subscripción.
+
+Meta Tag de Autor: TripTeam.
+
+**Aplicación web:** 
+Meta Tags de Titulo: TripMate.
+
+Meta Tags de Descripción: Web oficial de TripMate-TripTeam .
+
+Meta Tags de Palabras Clave: Viajes organizados, plataforma de viajes, opciones de vuelos, hoteles recomendados, actividades de entretenimiento, mejores restaurantes, economizar en viajes.
+
+Meta Tag de Autor: TripTeam.
+
+- 4.2.4. Searching Systems  
+Se expondrán los sistemas de búsqueda implementados para ayudar a nuestros usuarios a encontrar la información que están buscando. En el Landing Page, los sistemas de búsqueda son estáticos, ya que la barra de navegación guiará a los usuarios hacia la sección de su interés. Estos sistemas están diseñados para optimizar la experiencia del usuario, proporcionando acceso rápido y directo a la información relevante que están buscando. Por otro lado en la aplicación web se tendrán los siguientes métodos de búsqueda y filtros:<br><br>
+**Método de búsqueda por barra:**
+- Por ubicación a la que se dirige<br><br>
+**Filtrado de búsqueda:**
+- Por rango de precios
+- Por calificación/estrellas
+- Por características específicas de cada servicio
+
+- 4.2.5. Navigation Systems    
+En cuanto a los sistemas de navegación, TripTeam ha implementado un enfoque intuitivo y fácil de usar para guiar a los usuarios a través de nuestra plataforma. Nuestra barra de navegación está diseñada para dirigir de manera eficiente a los usuarios hacia las secciones de su interés, facilitando la exploración y la búsqueda de información relevante.
+
 - 4.3. Landing Page UI Design
 - 4.3.1. Landing Page Wireframe
     
