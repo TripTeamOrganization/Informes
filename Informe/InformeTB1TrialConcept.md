@@ -1132,33 +1132,30 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
     
 |Repository|Branch|Commit ID|Commit Message|Commit Message Body|Commited On (Date)|  
 |----------|------|---------|--------------|-------------------|------------------|
-|TripTeamOrganization/FrontEnd|Main|f2dd6d87319d340e8b03afc44f7c9e50d8b7f2e0|Initial Commit|-|23/03/2024| 
-|TripTeamOrganization/FrontEnd|Main|674d37b56cda9ce92f21c58d15c551d434b4bf8c|Images|-|23/03/2024| 
-|TripTeamOrganization/FrontEnd|Main|47bef222912cdf116e49ae5a921929839d57804f|Button|-|23/03/2024| 
-|TripTeamOrganization/FrontEnd|Main|234f27e728f50dd38feabf348e8b815c01749286|Update index.html|-|24/03/2024| 
-|TripTeamOrganization/FrontEnd|Main|2a836c499e33e210cd4d489c65024bd79bd56a07|Navbar|-|25/03/2024| 
-|TripTeamOrganization/FrontEnd|Main|d867e4d88ff0d400251e7229a427c7734d738577|Login y Register|-|28/03/2024| 
-|TripTeamOrganization/FrontEnd|Main|6b4ccba822cabaffc7288ce022b3eed91e4aa15f|Navbar Estatica|-|29/03/2024| 
-|TripTeamOrganization/FrontEnd|Main|b052271b0096a1149a3864ba181954029a4cdb96|More Cards and Better Button|-|29/03/2024| 
-|TripTeamOrganization/FrontEnd|Main|eba687cddf7d0b6dd8433e3e49276455c43286e9|Mejora del Footer|Mejorar el footer|29/03/2024| 
-|TripTeamOrganization/FrontEnd|Main|4d3d002997acb28a1ca0fed00b6f96db8197dd54|Prueba|-|29/03/2024| 
-|TripTeamOrganization/FrontEnd|Main|b283a9c34d352016200864fef0865c182fc4c755|Update index.html|-|29/03/2024| 
-|TripTeamOrganization/FrontEnd|Responsive|b30b72bb20a12c5afa243e91d11f1e78d33ba3b4|Responsive NavBar|-|30/03/2024| 
-|TripTeamOrganization/FrontEnd|Responsive|08008d5496aa8899b1e0b6e4dd0678b0a964ddbe|Update index.css|-|30/03/2024| 
-|TripTeamOrganization/FrontEnd|Responsive|5427a2b1714cac4c763eaf57e2e26fee8502842a|ResponsiveFooter|-|30/03/2024| 
-|TripTeamOrganization/FrontEnd|Responsive|163aee97b6fa7a5698f67d74325ccb723e3193e8|Cambio de Fuente|-|31/03/2024| 
-|TripTeamOrganization/FrontEnd|Responsive|8cfe8d8f2181f4906a7d2ecc0267ac97daa3f087|Responsive Cards|-|31/03/2024| 
-|TripTeamOrganization/FrontEnd|Responsive|0e02db775d3c46bac114e2cf69db1211a65c78b3|Implementación Botón|-|31/03/2024|
-|TripTeamOrganization/FrontEnd|Testimonios|15640e5a70139e4bf67aaa7077e2bc772f8f7026|Update index.css|-|29/03/2024| 
-|TripTeamOrganization/FrontEnd|Testimonios|4524d2e6bdce66e14ca25c037b8c7ec113c5d8cf|Add Buttons|-|31/03/2024| 
-|TripTeamOrganization/FrontEnd|Testimonios|df60b4b190f5ad459e66d243e49d60eb05040842|Add Buttons Styles|-|31/03/2024| 
-|TripTeamOrganization/FrontEnd|Testimonios|6948049460628bcafd5257997a5c084cc41873d1|add js|-|31/03/2024| 
-|TripTeamOrganization/FrontEnd|Testimonios|cffd774c830fa29804391aac5350d7c64044a76d|Remove Buttons css|-|31/03/2024|
-|TripTeamOrganization/FrontEnd|Convenios|012de9ab0aadc3973bc2c8750ca2daed5f5fb728|Add Images|-|29/03/2024| 
-|TripTeamOrganization/FrontEnd|Convenios|9e94cdadca756eea85b088f43f7957a31f876152|Update Section Convenios|-|29/03/2024|
-|TripTeamOrganization/FrontEnd|Acerca de Nosotros|560ef7a4a955b748e2f28626668f54fa19a817e5|About|-|29/03/2024|
-|TripTeamOrganization/FrontEnd|Acerca de Nosotros|37c73d7bc7dc4259fd831926e9906b9eab6c846e|Update index.css|-|31/03/2024|
-|TripTeamOrganization/FrontEnd|Acerca de Nosotros|c5fd37d7d3f3b8ff52eb8b4e48241011dd8376f7|Update index.css|-|31/03/2024|
+|TripTeamOrganization<br>/FrontEnd|Main|f2dd6d87319d340e8b03afc44f7c9e50d8b7f2e0|feat: add Initial Commit|-|23/03/2024| 
+|TripTeamOrganization<br>/FrontEnd|Main|674d37b56cda9ce92f21c58d15c551d434b4bf8c|feat: add Images|-|23/03/2024| 
+|TripTeamOrganization<br>/FrontEnd|Main|47bef222912cdf116e49ae5a921929839d57804f|feat: add Button|-|23/03/2024| 
+|TripTeamOrganization<br>/FrontEnd|Main|2a836c499e33e210cd4d489c65024bd79bd56a07|feat: add Navbar|-|25/03/2024| 
+|TripTeamOrganization<br>/FrontEnd|Main|d867e4d88ff0d400251e7229a427c7734d738577|feat: add Login y Register|-|28/03/2024| 
+|TripTeamOrganization<br>/FrontEnd|Main|b3aabb1055508479209304f136c44a41c04791ce|fix: colors|-|30/03/2024| 
+|TripTeamOrganization<br>/FrontEnd|Testimonios|4524d2e6bdce66e14ca25c037b8c7ec113c5d8cf|feat: add Buttons|-|31/03/2024| 
+|TripTeamOrganization<br>/FrontEnd|Testimonios|df60b4b190f5ad459e66d243e49d60eb05040842|feat: add Buttons Styles|-|31/03/2024| 
+|TripTeamOrganization<br>/FrontEnd|Testimonios|6948049460628bcafd5257997a5c084cc41873d1|feat: add js|-|31/03/2024| 
+|TripTeamOrganization<br>/FrontEnd|Testimonios|cffd774c830fa29804391aac5350d7c64044a76d|feat: remove Buttons css|-|31/03/2024|
+|TripTeamOrganization<br>/FrontEnd|Testimonios|2518c2a9dd8be59e9a63fff89271a752ace36280|feat: add testimony|-|6/04/2024|
+|TripTeamOrganization<br>/FrontEnd|Testimonios|6347a2351d39558d3a5539f11a8862d4b56fb9ac|feat: add styles|-|6/04/2024| 
+|TripTeamOrganization<br>/FrontEnd|Main|a77086589464600a40ce276d90aeb042ef88de35|feat: add section convenios|-|6/04/2024|
+|TripTeamOrganization<br>/FrontEnd|Main|3da62d2b18d1292179f466032ad0f9c6ae2274a1|feat: add section Acerca de Nosotros|-|6/04/2024|
+|TripTeamOrganization<br>/FrontEnd|Main|2a64d8a75b7c39d4e0a67886b8223e74aea2b16a|feat: add photos|-|6/04/2024|
+|TripTeamOrganization<br>/FrontEnd|Main|70d9639e89c635d02a1460c8b08364291b182b0f|feat: add video|-|6/04/2024|
+|TripTeamOrganization<br>/FrontEnd|Main|515d75240244e20caf4a7e969ff69c926951f62a|feat: add deployment, convenios responsive|-|6/04/2024|
+|TripTeamOrganization<br>/FrontEnd|Responsive|b30b72bb20a12c5afa243e91d11f1e78d33ba3b4|feat: add Responsive NavBar|-|6/04/2024| 
+|TripTeamOrganization<br>/FrontEnd|Responsive|491f06fad2dc109137ac2ab8e5a5cf36b0d3afc6|fix: landing page|-|6/04/2024| 
+|TripTeamOrganization<br>/FrontEnd|Main|491f06fad2dc109137ac2ab8e5a5cf36b0d3afc6|feat: add colors|-|6/04/2024|
+|TripTeamOrganization<br>/FrontEnd|Main|491f06fad2dc109137ac2ab8e5a5cf36b0d3afc6|feat: add font styles|-|7/04/2024| 
+|TripTeamOrganization<br>/FrontEnd|Main|491f06fad2dc109137ac2ab8e5a5cf36b0d3afc6|feat: add font styles|-|7/04/2024|
+|TripTeamOrganization<br>/FrontEnd|Main|878f958fea77941d64fd0bb6b65d804523bf18fd|fix: change background login and register|-|7/04/2024|
+|TripTeamOrganization<br>/FrontEnd|Main|d600d2754e06949bb3622ded943b91967223cdef|feat: add logo on the navbar|-|7/04/2024|
 
   - 5.2.X.4. Testing Suite Evidence for Sprint Review
     
