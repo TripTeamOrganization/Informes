@@ -1154,7 +1154,6 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
 |TripTeamOrganization<br>/FrontEnd|Responsive|491f06fad2dc109137ac2ab8e5a5cf36b0d3afc6|fix: landing page|-|6/04/2024| 
 |TripTeamOrganization<br>/FrontEnd|Main|491f06fad2dc109137ac2ab8e5a5cf36b0d3afc6|feat: add colors|-|6/04/2024|
 |TripTeamOrganization<br>/FrontEnd|Main|491f06fad2dc109137ac2ab8e5a5cf36b0d3afc6|feat: add font styles|-|7/04/2024| 
-|TripTeamOrganization<br>/FrontEnd|Main|491f06fad2dc109137ac2ab8e5a5cf36b0d3afc6|feat: add font styles|-|7/04/2024|
 |TripTeamOrganization<br>/FrontEnd|Main|878f958fea77941d64fd0bb6b65d804523bf18fd|fix: change background login and register|-|7/04/2024|
 |TripTeamOrganization<br>/FrontEnd|Main|d600d2754e06949bb3622ded943b91967223cdef|feat: add logo on the navbar|-|7/04/2024|
 
