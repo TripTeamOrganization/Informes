@@ -799,7 +799,7 @@ Etiquetas para la Navbar:
 
 **Itinerarios:** En esta sección el usuario podrá visualizar un itinerario generado por la aplicación con los restaurantes y actividades que el usuario puede visitar durante su viaje.
 
-Etiquetas para el cuerpo de la web:
+Etiquetas para el cuerpo de la web:  
 **Reseñas:** En esta sección se mostrarán las calificaciones y reseñas de los servicios que los usuarios hicieron luego de probarlos.
 
 - 4.2.3. SEO Tags and Meta Tags  
