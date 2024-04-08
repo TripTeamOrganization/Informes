@@ -1281,6 +1281,7 @@ A través de un enfoque centrado en las necesidades del usuario y la diferenciac
 - Leiva, I. (2022). Esta es la cantidad de dinero que necesitas para viajar un año por el mundo. Recuperado de: [Yahoo Finanzas](https://es-us.finanzas.yahoo.com/noticias/esta-es-la-cantidad-de-dinero-que-necesitas-para-viajar-un-ano-por-el-mundo-161251049.html)
 
 - Sánchez Jiménez, M. Á., Fernández Alles, M. T., & Mier-Terán Franco, J. J. (2020). El uso y la importancia de las redes sociales en el sector hotelero desde la perspectiva de los responsables de su gestión. Recuperado de: [Rua](https://rua.ua.es/dspace/handle/10045/109744)
+- Sousa, A. (1994). El ocio turístico en las sociedades industriales avanzadas. Bosch, Barcelona.
 
 - Urvina Alejandro, M. A., Lastra‐Bravo, X. B., & Jaramillo-Moreno, C. (2022). Turismo y aplicaciones móviles. Preferencias de turistas y prestadores de servicios en el cantón Tena, Napo, Ecuador. Recuperado de: [RIULL](https://riull.ull.es/xmlui/handle/915/26221)
 
