@@ -805,7 +805,7 @@ Etiquetas para el cuerpo de la web:
 - 4.2.3. SEO Tags and Meta Tags  
 A continuación se mostrarán las etiquetas que representarán el contenido de la Landing Page y de la aplicación web para que los usuarios las encuentren con mayor facilidad.
 
-**Landing Page:**
+**Landing Page:**  
 Meta Tags de Titulo: TripMate.
 
 Meta Tags de Descripción: Landing Page oficial de TripMate-TripTeam.
@@ -814,7 +814,7 @@ Meta Tags de Palabras Clave: Viajes organizados, crea una cuenta, adquiere una s
 
 Meta Tag de Autor: TripTeam.
 
-**Aplicación web:** 
+**Aplicación web:**   
 Meta Tags de Titulo: TripMate.
 
 Meta Tags de Descripción: Web oficial de TripMate-TripTeam .
