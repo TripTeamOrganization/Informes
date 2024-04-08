@@ -758,6 +758,7 @@ La aplicación tendrá un lenguaje divertido y llamativo para que las personas s
 
 **Branding y logo:**
 Para el logo de nuestra aplicación decidimos optar por la ilustración de un camino entre montañas minimalistas con el nombre "TripMate" para mostrar en una imagen simple la temática de nuestra aplicación.
+![image](https://github.com/TripTeamOrganization/Informes/assets/98995070/255bec50-5b82-4a67-9dd5-6d5ba6b0d143)
 
   - 4.1.2. Web Style Guidelines
 
