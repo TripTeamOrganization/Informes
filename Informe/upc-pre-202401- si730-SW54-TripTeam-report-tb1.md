@@ -34,7 +34,7 @@
 
 </div>
 
-<div style="text-align: justify;">
+<div align="justify">
 
 
 ### Registro de Informes
