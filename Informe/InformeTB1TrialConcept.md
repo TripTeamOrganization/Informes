@@ -35,9 +35,16 @@
 | Versión   | Fecha       | Autor      | Descripción                                                                                      | Estado    |
 |-----------|-------------|------------|--------------------------------------------------------------------------------------------------|-----------|
 | 1.0       |  2024/03/22| Quispe Andia, Jeremy Joel | Creación del documento de trabajo en formato markdown. | Completo  |
-| 1.1       |  2024/03/22    | |ante la fase de diseño, arquitectura propuesta y diseños de interfaz.               | Completo  |
+| 1.1       |  2024/03/22    |   |Redacción del startup profile y solution profile, delimitación de segmentos objetivo, redacción de preguntas para el diseño de entrevistas |Completo|
 | 1.2       |  2024/03/22    | Adrián Palma |implementación de funcionalidades, obstáculos encontrados y decisiones tomadas.     | En Proceso|
 | 1.3       |  2024/03/22    | |de la entrega final del proyecto, implementación completa y pruebas realizadas.    | Pendiente |
+| 1.4       |  2024/03/22    | |de la entrega final del proyecto, implementación completa y pruebas realizadas.    | Pendiente |
+| 1.5       |  2024/03/22    | |de la entrega final del proyecto, implementación completa y pruebas realizadas.    | Pendiente |
+| 1.6       |  2024/03/22    | |de la entrega final del proyecto, implementación completa y pruebas realizadas.    | Pendiente |
+| 1.7       |  2024/03/22    | |de la entrega final del proyecto, implementación completa y pruebas realizadas.    | Pendiente |
+| 1.8       |  2024/03/22    | |de la entrega final del proyecto, implementación completa y pruebas realizadas.    | Pendiente |
+| 1.9       |  2024/03/22    | |de la entrega final del proyecto, implementación completa y pruebas realizadas.    | Pendiente |
+| 2.0       |  2024/03/22    | |de la entrega final del proyecto, implementación completa y pruebas realizadas.    | Pendiente |
 
 
 ### Project Report Collaboration Insights
@@ -1264,6 +1271,22 @@ Aunque se logró mucho en el Sprint 1, aún quedan algunas tareas pendientes par
 - Integrar una galería de imágenes en la sección correspondiente.
 - Realizar pruebas de rendimiento y corrección de errores menores antes del lanzamiento final.
 
+
+- 5.2.X.6. Services Documentation Evidence for Sprint Review
+    - 5.2.X.7. Software Deployment Evidence for Sprint Review
+      Para la entrega del Sprint N1, se desplego la primera versión de nuestra LandingPage, donde mostramos lo que nuestros usuarios podrán ver dentro de nuestra aplicación web, todo bug       y error presentando en esta landing será adecuadamente corregido en futuras entregas.
+      ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/07a71b67-c4b5-451b-8374-56648000e121)
+      ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/7eb2023b-34b1-4338-9137-822aeb84c5ca)
+      ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/980ae330-56e9-49fd-ae40-c28b966cf5ca)
+      ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/f05dc1f8-c256-4747-8d3d-e2a30680910d)
+      ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/e0daf212-ab9f-4bab-a1c5-fceaeddb1c44)
+      ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/093b9ccb-f2d6-43a1-bd79-14d54a01b9d9)
+      ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/78d0b9a4-af1c-41dd-940a-080ac39a8ea0)
+      ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/da33b279-d2e0-4ff0-a44e-ef2a57111975)
+      ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/c2ffb243-94b4-41f6-a04b-8bbecc8f38c5)
+
+    - 5.2.X.8. Team Collaboration Insights during Sprint
+
 ### Conclusiones
 El Sprint 1 fue crucial para añadir elementos clave a la página de inicio, como la sección del héroe y el botón "Empezar Ahora". Estas adiciones fortalecieron la llamada a la acción y la identidad de la marca. Sin embargo, aún hay aspectos adicionales por completar en los próximos sprints para mejorar aún más la experiencia del usuario.
 
@@ -1298,7 +1321,6 @@ A través de un enfoque centrado en las necesidades del usuario y la diferenciac
 - Repositorio GitHub Frontend: [TripTeamOrganization/FrontEnd](https://github.com/TripTeamOrganization/FrontEnd)
 - Repositorio GitHub Informe: [TripTeamOrganization/Informes](https://github.com/TripTeamOrganization/Informes)
 - Figma: [Diseño en Figma para Page Wireframe](https://www.figma.com/file/OVYa70f4Bnr66FnHXTdypf/Untitled?type=design&node-id=0%3A1&mode=design&t=GWueqbqhuC88FRo8-1)
-
 - Figma: [Diseño en Figma](https://www.figma.com/file/2eL1Zj6N0ULup3L12N3imY/Leo's-team-library?type=design&node-id=0-1&mode=design&t=DZ3HGQCqkqiTAoWP-0)
 - Lucidspack: [Diseño ](https://lucid.app/lucidspark/e42b38ec-9f8c-4f10-8d31-03eefad55095/edit?beaconFlowId=CFC1390090154143&invitationId=inv_262b6d7f-b989-4b5d-8995-1fff1088f3b6&page=0_0#)
 
