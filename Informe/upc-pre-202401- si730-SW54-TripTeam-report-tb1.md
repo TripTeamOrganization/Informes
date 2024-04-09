@@ -942,6 +942,28 @@ Desplazamiento de la barra hacia testimonios
 ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/8efc680a-c372-4b89-972b-af2d05ea8a09)
   
   - 4.4.4. Web Applications User Flow Diagrams
+  
+  User Goal: Como usuario registrado, quiero poder iniciar sesión en la aplicación para acceder a mi cuenta.
+
+  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/5434f6be-9df0-4f23-8dec-51d26b9f8744)
+ 
+  User Goal: Como usuario nuevo, quiero poder registrarme en TripMate para poder acceder a todas las funcionalidades de la aplicación.
+
+
+  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/659ec9a8-c82b-4654-865a-22ba8a300bd3)
+
+  User Goal: Como usuario, quiero poder planificar mi itinerario en la aplicación para organizar mis actividades durante el viaje.
+
+  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/645fb602-fec0-4a19-9751-c232a7116729)
+
+  User Goal: Como usuario, quiero poder reservar alojamiento en la aplicación para asegurar mi hospedaje durante el viaje.
+
+  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/0bc410ee-c3ee-4f4f-aa28-f507008f3e47)
+
+  User Goal: Como usuario, quiero poder explorar opciones según mis intereses y preferencias al buscar destinos por categorías en la aplicación.
+
+  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/ef275ea5-f559-445d-a4a7-953d01e3375c)
+
 
 
 - 4.5. Web Applications Prototyping
