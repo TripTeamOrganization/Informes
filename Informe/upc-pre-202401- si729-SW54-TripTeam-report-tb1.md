@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/4bb7c9be-9271-4803-82a8-4f78d9702aba)<div align="center">
 
 # Universidad Peruana de Ciencias Aplicadas  
 ### INFORME DEL TRABAJO 1 (TB1)
@@ -1179,7 +1179,7 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
 
     - 5.2.1.2. Sprint Backlog 1
 
-### Sprint 1
+**Sprint 1**
 
 | User Story | Work-Item / Task              | Description                                                                                                                                                           | Estimation (Hours) | Assigned To                               | Status      |
 |------------|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------------------------------------|-------------|
@@ -1189,26 +1189,7 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
 | US26       | Sección del Héroe            | Como usuario quiero ver una sección del héroe con un mensaje atractivo y convincente para tener una experiencia agradable en la página.                              | 3                  | Paolo Del Carmen Martinez Villanueva - u202010039 | Done        |
 | US27       | Botón de Empezar Ahora       | Como usuario quiero tener un botón "Empezar Ahora" que me dirija hacia la siguiente acción deseada en la página.                                                      | 2                  | Leonel Alfaro Cumba -  U20201A930          | Todo        |
 
-### Sprint 2
 
-| Id | Title                              | Id | Title                              | Description                                                    | Estimation(Hours) | Assigned To                               | Status   |
-|----|------------------------------------|----|------------------------------------|----------------------------------------------------------------|-------------------|-------------------------------------------|----------|
-| 6  | US05 - Buscar destinos por filtros |    |                                     | Como usuario Quiero poder buscar destinos por categorías Para explorar opciones según mis intereses y preferencias | 8                 | Jeremy Joel Quispe Andia - u202216279   | Todo     |
-| 7  | US06 - Información sobre destinos  |    |                                     | Como usuario Quiero poder acceder a información sobre destino de mi viaje Para poder conocer el lugar y planificar un itinerario | 5                 | Bárbara Antonella Espinoza Delgado - u201911727 | InProcess|
-| 8  | US07 - Explorar destinos populares |    |                                     | Como usuario Quiero poder explorar destinos populares en la aplicación Para descubrir lugares recomendados por otros viajeros | 5                 | Paolo Del Carmen Martinez Villanueva - u202010039 | Todo     |
-| 9  | US08 - Reservar alojamiento        |    |                                     | Como usuario Quiero poder reservar alojamiento en la aplicación Para asegurar mi hospedaje durante el viaje | 13                | Adrián Enrique Jesús Palma Obispo - u202210066 | Done     |
-| 10 | US09 - Planificar itinerario       |    |                                     | Como usuario Quiero poder planificar mi itinerario en la aplicación Para organizar mis actividades durante el viaje | 13                | Leonel Alfaro Cumba -  U20201A930                   | Todo     |
-
-### Sprint 3
-
-| Id | Title                             | Id | Title                             | Description                                                    | Estimation(Hours) | Assigned To                               | Status   |
-|----|-----------------------------------|----|-----------------------------------|----------------------------------------------------------------|-------------------|-------------------------------------------|----------|
-| 11 | US10 - Compartir itinerario       |    |                                     | Como usuario Quiero poder compartir mi itinerario de viaje con otras personas Para coordinar actividades y compartir planes | 5                 | Jeremy Joel Quispe Andia - u202216279   | Todo     |
-| 12 | US11 - Explorar actividades cercanas |    |                                     | Como usuario Quiero poder explorar actividades y lugares de interés cercanos a mi ubicación actual Para descubrir opciones adicionales durante mi viaje | 5                 | Bárbara Antonella Espinoza Delgado - u201911727 | InProcess|
-| 13 | US12 - Reservar transporte local  |    |                                     | Como usuario Quiero poder reservar transporte local Para facilitar mis desplazamientos durante el viaje | 8                 | Paolo Del Carmen Martinez Villanueva - u202010039 | Todo     |
-| 14 | US13 - Descubrir eventos locales  |    |                                     | Como usuario Quiero poder descubrir eventos locales Para mejorar mi experiencia cultural durante mi viaje | 5                 | Adrián Enrique Jesús Palma Obispo - u202210066 | Done     |
-| 15 | US15 - Seguimiento de gastos      |    |                                     | Como usuario Quiero poder realizar un seguimiento de mis gastos en la aplicación Para mantenerme dentro de mi presupuesto | 5                 | Leonel Alfaro Cumba  -  U20201A930         | Todo     |
-    
   - 5.2.1.3. Development Evidence for Sprint Review
     
 |Repository|Branch|Commit ID|Commit Message|Commit Message Body|Commited On (Date)|  
@@ -1277,7 +1258,7 @@ Estas estrategias de prueba garantizaron la funcionalidad, la estética y la ada
 
   - 5.2.X.5. Execution Evidence for Sprint Review
     
-# Sprint 1
+ **Sprint 1**
 
 ### Progreso en el Desarrollo
 Durante el Sprint 1, se realizaron las siguientes implementaciones en la página de inicio:
@@ -1355,9 +1336,31 @@ Aunque se logró mucho en el Sprint 1, aún quedan algunas tareas pendientes par
       | Quispe Andia, Jeremy Joel      | Implementación de la sección hero, plans y contact      |
       | Martinez Villanueva, Paolo Del Carmen 	| Implementación de la sección testimonos           |
       | Alfaro Cumba, Leonel| Implementación de la sección footer y about us       |
+ 
+      Hemos desarrollado en conjunto un total de 108 commits para el desarrollo de nuestra landing page, tanto en creación de secciones, corrección de bugs, entre otras cosas.
+ 
+      Tabla para poder identificarnos:
+
+      | Username (Github)                           | Nombre                                                  |
+      |-------------------------------------|------------------------------------------------------------|
+      | APOgamer  | Palma Obispo, Adrián Enrique Jesús      |
+      | mesSobble       | Espinoza Delgado, Bárbara Antonella  |
+      | Jemisas      | Quispe Andia, Jeremy Joel      |
+      | paolomv02 	| Martinez Villanueva, Paolo Del Carmen           |
+      | Leonel-Alfaro | Leonel-Alfaro    |
+      
+        
+      ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/75214625-7e44-4ca3-8f06-403131deb1a8)
+      
+      ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/aca423c7-a88f-42eb-949b-e4e69344786b)
+ 
+      ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/febe29a8-9e90-4a78-9c4f-5908cabe5b04)
+
+      ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/c4063587-dd4d-4e3e-be66-9daf8769e946)
 
 
-# Conclusiones 
+
+**Conclusiones** 
 
 El proyecto de la *web app* **Tripmate** busca abordar de manera **efectiva** el problema de la mala elección de servicios, gastos innecesarios y desorganización al planificar un viaje a un nuevo destino. Al proporcionar una plataforma centralizada que ofrece opciones personalizadas y filtradas según las preferencias y presupuestos del usuario, se simplifica y optimiza significativamente el proceso de planificación de viajes. Esto se traduce en un **ahorro de tiempo y dinero** para los viajeros, así como en una mayor satisfacción al encontrar las opciones más adecuadas para sus necesidades.
 
@@ -1370,7 +1373,7 @@ Estas funcionalidades están diseñadas para facilitar la búsqueda y selección
 
 A través de un enfoque centrado en las necesidades del usuario y la diferenciación de la competencia, la *landing page* busca destacarse en el mercado de viajes en línea. La inclusión de características únicas, como la sección de galería para inspirar a los viajeros, la barra de navegación intuitiva y el fondo animado para captar la atención del usuario, se suma a su propuesta de valor. Además, la colaboración con empresas asociadas y la promoción de descuentos exclusivos pueden atraer a una base de usuarios más amplia y consolidar la posición de la página de inicio en el mercado. En resumen, la *landing page* se presenta como una solución atractiva y funcional para los viajeros, ofreciendo una experiencia de usuario fluida y diferenciada para planificar sus próximas aventuras.
 
-## Bibliografía 
+**Bibliografía**
 
 - Asmar, S. (2023). Consejos para no endeudarse en sus próximos viajes y pagar la deuda en pocos meses. Recuperado de: [La República](https://www.larepublica.co/finanzas-personales/consejos-para-no-endeudarse-en-sus-proximos-viajes-y-pagar-la-deuda-en-pocos-meses-3598007) 
 
@@ -1383,7 +1386,7 @@ A través de un enfoque centrado en las necesidades del usuario y la diferenciac
 
 - Urvina Alejandro, M. A., Lastra‐Bravo, X. B., & Jaramillo-Moreno, C. (2022). Turismo y aplicaciones móviles. Preferencias de turistas y prestadores de servicios en el cantón Tena, Napo, Ecuador. Recuperado de: [RIULL](https://riull.ull.es/xmlui/handle/915/26221)
 
-## Anexos 📎
+ **Anexos**
 
 - Repositorio GitHub Frontend: [TripTeamOrganization/FrontEnd](https://github.com/TripTeamOrganization/FrontEnd)
 - Repositorio GitHub Informe: [TripTeamOrganization/Informes](https://github.com/TripTeamOrganization/Informes)
