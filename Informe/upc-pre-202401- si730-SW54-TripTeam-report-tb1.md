@@ -1,4 +1,4 @@
-<div style="text-align: justify;">
+<div style="text-align: center;">
 
 # Universidad Peruana de Ciencias Aplicadas  
 ### INFORME DEL TRABAJO 1 (TB1)
@@ -20,15 +20,25 @@
 
 ### Integrantes:
 
-| Nombre                            | Código       |
-|-----------------------------------|--------------|
-| Adrián Enrique Jesús Palma Obispo| u202210066   |
-| Bárbara Antonella Espinoza Delgado| u201911727 |
-| Jeremy Joel Quispe Andia         | u202216279   |
-| Leonel Alfaro Cumba         | u20201A930   |
-| Paolo Del Carmen Martinez Villanueva | 202010039 |
+<center>
+
+| Nombre                              | Código       |
+|-------------------------------------|--------------|
+| Adrián Enrique Jesús Palma Obispo   | u202210066   |
+| Bárbara Antonella Espinoza Delgado  | u201911727   |
+| Jeremy Joel Quispe Andia            | u202216279   |
+| Leonel Alfaro Cumba                 | u20201A930   |
+| Paolo Del Carmen Martinez Villanueva| 202010039    |
+
+</center>
+
+
 
 ### Marzo del 2024
+
+</div>
+
+<div style="text-align: justify;">
 
 ### Registro de Informes
 
@@ -1322,11 +1332,13 @@ Aunque se logró mucho en el Sprint 1, aún quedan algunas tareas pendientes par
     - 5.2.X.8. Team Collaboration Insights during Sprint
       | Alumno                              | Actividad                                                  |
       |-------------------------------------|------------------------------------------------------------|
-      | Soto Kong Requena, Andres Eduardo  | Implementación de la sección header de la landing page     |
-      | Galavis Du Bois, Alan Enrique      | Implementación de la sección FAQ y valores de la empresa   |
-      | Seminario Garvín, Carlo Luca       | Implementación de la sección hero, benefits y contact      |
-      | Espinoza Rodriguez, Nicolas Antonio| Implementación de la sección learn                         |
-      | Comettant Rubiños, Jessica Elizabeth| Implementación de la sección footer y colaboradores       |
+      | Palma Obispo, Adrián Enrique Jesús   | Implementación de la sección header de la landing page     |
+      | Espinoza Delgado, Bárbara Antonella       | Implementación de la sección de Feautures de la empresa   |
+      | Quispe Andia, Jeremy Joel      | Implementación de la sección hero, plans y contact      |
+      | Martinez Villanueva, Paolo Del Carmen 	| Implementación de la sección testimonos           |
+      | Alfaro Cumba, Leonel| Implementación de la sección footer y about us       |
+
+
 
 
 
@@ -1369,6 +1381,7 @@ A través de un enfoque centrado en las necesidades del usuario y la diferenciac
 - Lucidspack: [Diseño ](https://lucid.app/lucidspark/e42b38ec-9f8c-4f10-8d31-03eefad55095/edit?beaconFlowId=CFC1390090154143&invitationId=inv_262b6d7f-b989-4b5d-8995-1fff1088f3b6&page=0_0#)
 
 
+</div>
 
 
 
