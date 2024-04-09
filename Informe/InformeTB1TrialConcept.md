@@ -851,16 +851,17 @@ En cuanto a los sistemas de navegación, TripTeam ha implementado un enfoque int
 - 4.3.2. Landing Page Mock-up
     
   El Landing Page se desarrolló utilizando un prototipo en forma de Mock Up. A continuación, te presentamos una vista previa de nuestra propuesta:
-    
-   ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/60580ef7-89e3-40f9-a786-cd8282cf606d)
-   ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/c37dbae6-8b3b-4cf5-9883-3b6d473f8ff7)
-  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/d41d33eb-53b0-47df-b550-db3325648568)
-![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/eac83dbe-e95d-4649-8e37-33b5a61f8cc1)
-![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/0b5bba97-43d8-4ffd-858c-ea6783db8b0a)
-![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/4ba87251-818b-4f59-ab35-8b0c898363a5)
-![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/164978aa-0523-4ae7-a749-0852cb16f329)
-![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/9aecc8de-88ba-457f-a1b0-9e32b33fa5de)
-![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/6e5e2084-c384-40c2-831d-ceab39ec9847)
+
+   ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/5ed5292e-a254-4646-aaf1-848a8897a199)
+![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/a8c0384d-870c-48cf-96fe-df2d09b9684b)
+![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/eab00d04-605b-4068-a58e-88a7a641da03)
+![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/15be29e7-c2db-48c2-8455-6bd250d6d6c4)
+![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/70b9339e-edb8-449c-96cb-c004ab223c18)
+![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/82f64340-cf6c-441b-9e8a-5e9f12744d7f)
+![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/77e49a54-e8fe-4f44-b794-6b61c1102a0b)
+
+   ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/bdaa721f-9525-48bf-b075-5034b634ebb7)
+![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/1f523661-c6ac-44c5-a5f4-58e26405c9df)
 
 
   Desplazamiento de la barra hacia Acerca
