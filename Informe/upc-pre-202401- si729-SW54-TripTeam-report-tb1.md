@@ -1,4 +1,4 @@
-![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/4bb7c9be-9271-4803-82a8-4f78d9702aba)<div align="center">
+<div align="center">
 
 # Universidad Peruana de Ciencias Aplicadas  
 ### INFORME DEL TRABAJO 1 (TB1)
