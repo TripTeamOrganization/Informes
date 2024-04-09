@@ -1072,8 +1072,8 @@ En cuanto a los sistemas de navegación, TripTeam ha implementado un enfoque int
   
 Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de datos. Se ha tomado esta decisión debido a que MySQL es una plataforma escalable y cuenta con una interfaz intuitiva y fácil de usar. Además, el equipo tiene experiencia previa con el motor de Microsoft SQL Server, lo que facilita la transición. MySQL permite expandir los recursos utilizados en la base de datos según las necesidades y requisitos del negocio, lo que lo hace una elección adecuada para nuestro proyecto.
 
-  - 4.8.1. Database Diagram
-![image](https://github.com/TripTeamOrganization/Informes/assets/98995070/4a848495-a769-4721-a1ae-c31f7d4ac286)
+  - 4.8.1. Database Diagram  
+![image](https://github.com/TripTeamOrganization/Informes/assets/98995070/2ae91601-cc3f-4659-89ec-2caeee8f99a8)
 
 
 ### Capítulo V: Product Implementation, Validation & Deployment
@@ -1390,7 +1390,7 @@ A través de un enfoque centrado en las necesidades del usuario y la diferenciac
 - Figma: [Diseño en Figma para Page Wireframe](https://www.figma.com/file/OVYa70f4Bnr66FnHXTdypf/Untitled?type=design&node-id=0%3A1&mode=design&t=GWueqbqhuC88FRo8-1)
 - Figma: [Diseño en Figma](https://www.figma.com/file/2eL1Zj6N0ULup3L12N3imY/Leo's-team-library?type=design&node-id=0-1&mode=design&t=DZ3HGQCqkqiTAoWP-0)
 - Lucidspack: [Diseño ](https://lucid.app/lucidspark/e42b38ec-9f8c-4f10-8d31-03eefad55095/edit?beaconFlowId=CFC1390090154143&invitationId=inv_262b6d7f-b989-4b5d-8995-1fff1088f3b6&page=0_0#)
-
+- Vertabelo: [Database Diagram](https://my.vertabelo.com/doc/GhFMgdkWDIc5djSsQZ1gCi9SJtg1Yyj7)
 
 </div>
 
