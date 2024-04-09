@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
 
 # Universidad Peruana de Ciencias Aplicadas  
 ### INFORME DEL TRABAJO 1 (TB1)
@@ -20,7 +20,9 @@
 
 ### Integrantes:
 
-<center>
+</div>
+
+<div align="center">
 
 | Nombre                              | Código       |
 |-------------------------------------|--------------|
@@ -30,15 +32,10 @@
 | Leonel Alfaro Cumba                 | u20201A930   |
 | Paolo Del Carmen Martinez Villanueva| 202010039    |
 
-</center>
-
-
-
-### Marzo del 2024
-
 </div>
 
 <div style="text-align: justify;">
+
 
 ### Registro de Informes
 
