@@ -712,7 +712,7 @@ Segmento Objetivo #2: Viajeros lujosos
 |5|US09|Planificar itinerario|<p>**Como** usuario</p><p>**Quiero** poder planificar mi itinerario en la aplicación</p><p>**Para** organizar mis actividades durante el viaje</p>|<p></p><p>8</p>|
 |6|US10|Compartir itinerario|<p>**Como** usuario</p><p>**Quiero** poder compartir mi itinerario de viaje** con otras personas</p><p>**Para** coordinar actividades y compartir planes</p>|<p></p><p>3</p>|
 |7|US11|Explorar actividades cercanas|<p>**Como** usuario</p><p>**Quiero** poder explorar actividades y lugares de interés cercanos a mi ubicación actual</p><p>**Para** descubrir opciones adicionales durante mi viaje</p>|<p></p><p>3</p>|
-|8|US12|Reservar transporte local|<p>**Como** usuario</p><p>**Quiero** poder reservar transporte local</p><p>**Para** facilitar mis desplazamientos durante el viaje</p>|<p></p><p>5</p>|
+|8|US12|Reservar vuelos|<p>**Como** usuario</p><p>**Quiero** poder reservar vuelos en la aplicación</p><p>**Para** poder planificar mi viaje de manera eficiente</p>|<p></p><p>5</p>|
 |9|US13|Descubrir eventos locales|<p>**Como** usuario</p><p>**Quiero** poder descubrir eventos locales</p><p>**Para** mejorar mi experiencia cultural durante mi viaje</p>|<p></p><p>3</p>|
 |10|US15|Seguimiento de gastos|<p>**Como** usuario</p><p>**Quiero** poder realizar un seguimiento de mis gastos en la aplicación</p><p>**Para** mantenerme dentro de mi presupuesto</p>|<p></p><p>3</p>|
 |11|US16|Establecer presupuesto|<p>**Como** usuario</p><p>**Quiero** poder establecer un presupuesto para mi viaje en la aplicación</p><p>**Para** poder controlar mis gastos</p>|<p></p><p>5</p>|
