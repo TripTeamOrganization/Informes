@@ -1187,7 +1187,7 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
 | US25       | Barra de Navegación          | Como usuario quiero tener una barra de navegación para poder moverme fácilmente entre las diferentes secciones de la página.                                        | 3                  | Bárbara Antonella Espinoza Delgado - u201911727 | Todo        |
 | US23       | Fondo Animado                | Como usuario quiero experimentar un fondo animado utilizando un video de fondo para mejorar la estética y la experiencia visual de la página.                        | 2                  | Adrián Enrique Jesús Palma Obispo - u202210066 | InProcess   |
 | US26       | Sección del Héroe            | Como usuario quiero ver una sección del héroe con un mensaje atractivo y convincente para tener una experiencia agradable en la página.                              | 3                  | Paolo Del Carmen Martinez Villanueva - u202010039 | Done        |
-| US27       | Botón de Empezar Ahora       | Como usuario quiero tener un botón "Empezar Ahora" que me dirija hacia la siguiente acción deseada en la página.                                                      | 2                  | Leonel Alfaro Cumba                      | Todo        |
+| US27       | Botón de Empezar Ahora       | Como usuario quiero tener un botón "Empezar Ahora" que me dirija hacia la siguiente acción deseada en la página.                                                      | 2                  | Leonel Alfaro Cumba -  U20201A930          | Todo        |
 
 ### Sprint 2
 
@@ -1197,7 +1197,7 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
 | 7  | US06 - Información sobre destinos  |    |                                     | Como usuario Quiero poder acceder a información sobre destino de mi viaje Para poder conocer el lugar y planificar un itinerario | 5                 | Bárbara Antonella Espinoza Delgado - u201911727 | InProcess|
 | 8  | US07 - Explorar destinos populares |    |                                     | Como usuario Quiero poder explorar destinos populares en la aplicación Para descubrir lugares recomendados por otros viajeros | 5                 | Paolo Del Carmen Martinez Villanueva - u202010039 | Todo     |
 | 9  | US08 - Reservar alojamiento        |    |                                     | Como usuario Quiero poder reservar alojamiento en la aplicación Para asegurar mi hospedaje durante el viaje | 13                | Adrián Enrique Jesús Palma Obispo - u202210066 | Done     |
-| 10 | US09 - Planificar itinerario       |    |                                     | Como usuario Quiero poder planificar mi itinerario en la aplicación Para organizar mis actividades durante el viaje | 13                | Leonel Alfaro Cumba                      | Todo     |
+| 10 | US09 - Planificar itinerario       |    |                                     | Como usuario Quiero poder planificar mi itinerario en la aplicación Para organizar mis actividades durante el viaje | 13                | Leonel Alfaro Cumba -  U20201A930                   | Todo     |
 
 ### Sprint 3
 
@@ -1207,7 +1207,7 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
 | 12 | US11 - Explorar actividades cercanas |    |                                     | Como usuario Quiero poder explorar actividades y lugares de interés cercanos a mi ubicación actual Para descubrir opciones adicionales durante mi viaje | 5                 | Bárbara Antonella Espinoza Delgado - u201911727 | InProcess|
 | 13 | US12 - Reservar transporte local  |    |                                     | Como usuario Quiero poder reservar transporte local Para facilitar mis desplazamientos durante el viaje | 8                 | Paolo Del Carmen Martinez Villanueva - u202010039 | Todo     |
 | 14 | US13 - Descubrir eventos locales  |    |                                     | Como usuario Quiero poder descubrir eventos locales Para mejorar mi experiencia cultural durante mi viaje | 5                 | Adrián Enrique Jesús Palma Obispo - u202210066 | Done     |
-| 15 | US15 - Seguimiento de gastos      |    |                                     | Como usuario Quiero poder realizar un seguimiento de mis gastos en la aplicación Para mantenerme dentro de mi presupuesto | 5                 | Leonel Alfaro Cumba                      | Todo     |
+| 15 | US15 - Seguimiento de gastos      |    |                                     | Como usuario Quiero poder realizar un seguimiento de mis gastos en la aplicación Para mantenerme dentro de mi presupuesto | 5                 | Leonel Alfaro Cumba  -  U20201A930         | Todo     |
     
   - 5.2.1.3. Development Evidence for Sprint Review
     
