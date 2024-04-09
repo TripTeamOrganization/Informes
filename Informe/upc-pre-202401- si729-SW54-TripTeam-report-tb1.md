@@ -865,9 +865,9 @@ En cuanto a los sistemas de navegación, TripTeam ha implementado un enfoque int
   https://www.figma.com/file/OVYa70f4Bnr66FnHXTdypf/Untitled?type=design&node-id=0-1&mode=design&t=1WBKr8R1ao8Fyo2E-0
 - 4.3.2. Landing Page Mock-up
     
-  El Landing Page se desarrolló utilizando un prototipo en forma de Mock Up. A continuación, te presentamos una vista previa de nuestra propuesta:
+  El Landing Page se desarrolló utilizando un prototipo en forma de mock up. A continuación, te presentamos una vista previa de nuestra propuesta:
 
-   ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/5ed5292e-a254-4646-aaf1-848a8897a199)
+   ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/47f5e0de-adf3-47b6-885e-6edb2cec8342)
 ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/a8c0384d-870c-48cf-96fe-df2d09b9684b)
 ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/eab00d04-605b-4068-a58e-88a7a641da03)
 ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/15be29e7-c2db-48c2-8455-6bd250d6d6c4)
@@ -875,14 +875,15 @@ En cuanto a los sistemas de navegación, TripTeam ha implementado un enfoque int
 ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/82f64340-cf6c-441b-9e8a-5e9f12744d7f)
 ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/77e49a54-e8fe-4f44-b794-6b61c1102a0b)
 
-   ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/bdaa721f-9525-48bf-b075-5034b634ebb7)
-![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/1f523661-c6ac-44c5-a5f4-58e26405c9df)
+   ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/445c0f14-ce2b-44f6-b5ad-8f3164c4dd61)
+![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/e279c915-0df4-44e6-82c4-5b74e9929243)
 
 
   Desplazamiento de la barra hacia Acerca
-![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/295c044b-ce07-45fb-a639-a2120c1ba0be)
 
-Desplazamiento de la barra hacia testimonios
+  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/295c044b-ce07-45fb-a639-a2120c1ba0be)
+
+  Desplazamiento de la barra hacia testimonios
 
   ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/9ca5242f-d3c7-47fc-92a5-f78bd0aa6512)
   
@@ -892,9 +893,7 @@ Desplazamiento de la barra hacia testimonios
    ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/b6b6ae74-ff7d-4905-ae9a-15f283d65e2c)
 
 
-   Versiones
-
-   ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/79970b8c-2f13-4ce7-b902-a52da5ed96ee)
+   
 
 
   
