@@ -1,4 +1,4 @@
-
+<div style="text-align: justify;">
 
 # Universidad Peruana de Ciencias Aplicadas  
 ### INFORME DEL TRABAJO 1 (TB1)
@@ -34,17 +34,18 @@
 
 | Versión   | Fecha       | Autor      | Descripción                                                                                      | Estado    |
 |-----------|-------------|------------|--------------------------------------------------------------------------------------------------|-----------|
-| 1.0       |  2024/03/22| Quispe Andia, Jeremy Joel | Creación del documento de trabajo en formato markdown. | Completo  |
-| 1.1       |  2024/03/22    |   |Redacción del startup profile y solution profile, delimitación de segmentos objetivo, redacción de preguntas para el diseño de entrevistas |Completo|
-| 1.2       |  2024/03/22    | Adrián Palma |implementación de funcionalidades, obstáculos encontrados y decisiones tomadas.     | En Proceso|
-| 1.3       |  2024/03/22    | |de la entrega final del proyecto, implementación completa y pruebas realizadas.    | Pendiente |
-| 1.4       |  2024/03/22    | |de la entrega final del proyecto, implementación completa y pruebas realizadas.    | Pendiente |
-| 1.5       |  2024/03/22    | |de la entrega final del proyecto, implementación completa y pruebas realizadas.    | Pendiente |
-| 1.6       |  2024/03/22    | |de la entrega final del proyecto, implementación completa y pruebas realizadas.    | Pendiente |
-| 1.7       |  2024/03/22    | |de la entrega final del proyecto, implementación completa y pruebas realizadas.    | Pendiente |
-| 1.8       |  2024/03/22    | |de la entrega final del proyecto, implementación completa y pruebas realizadas.    | Pendiente |
-| 1.9       |  2024/03/22    | |de la entrega final del proyecto, implementación completa y pruebas realizadas.    | Pendiente |
-| 2.0       |  2024/03/22    | |de la entrega final del proyecto, implementación completa y pruebas realizadas.    | Pendiente |
+| 1.0       |  2024/03/22| Quispe Andia, Jeremy Joel | Creación del documento de trabajo en formato markdown. | Completado  |
+| 1.1       |  2024/03/22    |   |Redacción del startup profile y solution profile, delimitación de segmentos objetivo, redacción de preguntas para el diseño de entrevistas |Completado|
+| 1.2       |  2024/03/22    | Quispe Andia, Jeremy Joel |Elaboración y registro de entrevistas a segmentos objetivo, análisis de entrevistas    | Completado|
+| 1.3       |  2024/03/22    | Quispe Andia, Jeremy Joel |Elaboración de user personas, impact mapping, as-is y to-be | Completado |
+| 1.4       |  2024/03/22    | |Elaboración de user stories, product backlog | Pendiente |
+| 1.5       |  2024/03/22    | |Elaboración de prototipos de wireframes y mockups  | Pendiente |
+| 1.6       |  2024/03/22    | |Redacción de style guidelines e information architecture| Pendiente |
+| 1.7       |  2024/03/22    |Quispe Andia, Jeremy Joel |Elaboración de diagrama de base de datos,diagrama de clases, diccionario de clases, diagramas de contenedores, diagramas de contexto, diagramas de componentes | Completado |
+| 1.8       |  2024/03/22    | |Registro de evidencias del Sprint 1 | Pendiente |
+| 1.9       |  2024/03/22    | |Rediseño de mockups. Elaboración de wireflows y user-flows| Pendiente |
+| 2.0       |  2024/03/22    | | Redacción de software configuration management y conclusiones| Pendiente |
+| 2.1       |  2024/03/22    | Quispe Andia, Jeremy Joel | Redacción de Collaboration Insights| Completado |
 
 
 ### Project Report Collaboration Insights
@@ -1286,6 +1287,16 @@ Aunque se logró mucho en el Sprint 1, aún quedan algunas tareas pendientes par
       ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/c2ffb243-94b4-41f6-a04b-8bbecc8f38c5)
 
     - 5.2.X.8. Team Collaboration Insights during Sprint
+      | Alumno                              | Actividad                                                  |
+      |-------------------------------------|------------------------------------------------------------|
+      | Soto Kong Requena, Andres Eduardo  | Implementación de la sección header de la landing page     |
+      | Galavis Du Bois, Alan Enrique      | Implementación de la sección FAQ y valores de la empresa   |
+      | Seminario Garvín, Carlo Luca       | Implementación de la sección hero, benefits y contact      |
+      | Espinoza Rodriguez, Nicolas Antonio| Implementación de la sección learn                         |
+      | Comettant Rubiños, Jessica Elizabeth| Implementación de la sección footer y colaboradores       |
+
+
+
 
 ### Conclusiones
 El Sprint 1 fue crucial para añadir elementos clave a la página de inicio, como la sección del héroe y el botón "Empezar Ahora". Estas adiciones fortalecieron la llamada a la acción y la identidad de la marca. Sin embargo, aún hay aspectos adicionales por completar en los próximos sprints para mejorar aún más la experiencia del usuario.
