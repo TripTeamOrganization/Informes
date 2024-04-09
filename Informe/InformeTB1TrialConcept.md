@@ -872,11 +872,12 @@ En cuanto a los sistemas de navegación, TripTeam ha implementado un enfoque int
 
 
   Desplazamiento de la barra hacia Acerca
-![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/31ae7127-5de0-48e9-aa24-9ff566bc6ef0)
+![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/295c044b-ce07-45fb-a639-a2120c1ba0be)
+
 Desplazamiento de la barra hacia testimonios
 
-  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/743cca82-5667-480b-9c85-d86e96eca1f3)
-
+  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/9ca5242f-d3c7-47fc-92a5-f78bd0aa6512)
+  
   Desplazamiento de la barra hacia Convenios
 
 
@@ -898,7 +899,39 @@ Desplazamiento de la barra hacia testimonios
   - 4.4.3. Web Applications Mock-ups
 
 
-  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/cc0f33ed-24b5-46bc-9428-60ab2d6dac1f)
+   Resgistro
+
+  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/1c91d3f1-6bac-490d-a480-fc5a902e7e46)
+  
+  inicio de sesión
+  
+  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/fb839c6a-d889-4351-b502-6f78edf2bfab)
+  
+  Restaurantes
+
+  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/25391ee0-7ac7-45ac-8e99-60d544087657)
+
+  Alojamientos
+
+  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/97e5028c-491c-4c35-ab81-a4c919044835)
+
+  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/91234afa-b48b-4297-965e-5f04f2707c6f)
+
+  Lugares 
+
+
+  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/38c1cafe-a351-4d16-b8b5-49ea974b1fa9)
+
+
+  Itinerario 
+
+  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/e552abdc-029f-4418-87f7-6a03b6602d90)
+ 
+  
+  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/d8420c17-3091-4615-bd9a-f8f30cf65028)
+  
+  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/872517ad-9385-4000-9717-0e3813a87d52)
+![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/8efc680a-c372-4b89-972b-af2d05ea8a09)
   
   - 4.4.4. Web Applications User Flow Diagrams
 
