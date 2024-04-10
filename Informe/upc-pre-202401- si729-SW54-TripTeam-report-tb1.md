@@ -311,11 +311,11 @@ Creemos que con esta plataforma la expreriencia previa y posterior a un viaje se
 - 1.3. Segmentos objetivo  
   Segun Sousa (1994) las personas que mas realizan viajes por motivo turistico con la clase alta, media-alta y personas que habitan zonas de tipo medio, por lo que hemos decidido orientar nuestro proyecto a familias de clase media y media-alta y a personas de clase alta.
 
-Asimismo, de de acuerdo a El Comercio (2018) nos muestra estadísticamente las edades de las personas que mas vacacionan y viajan en el país:
-
-![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/5a8aee35-499c-440d-abc6-aa94e533a2c7)
-
-Fuente: [El Comercio](https://elcomercio.pe/economia/peru/mincetur-1-7-millones-peruanos-viajan-vacaciones-207532-noticia/?foto=1)
+  Asimismo, de de acuerdo a El Comercio (2018) nos muestra estadísticamente las edades de las personas que mas vacacionan y viajan en el país, lo cual nos ayudó a poder elegir nuestros segmentos objetivos.
+  
+  ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/5a8aee35-499c-440d-abc6-aa94e533a2c7)
+  
+  Fuente: [El Comercio](https://elcomercio.pe/economia/peru/mincetur-1-7-millones-peruanos-viajan-vacaciones-207532-noticia/?foto=1)
 
 **Segmento objetivo 1: Familias Viajeras y Aventureras**
 
