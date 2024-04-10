@@ -1266,8 +1266,8 @@ Durante el Sprint 1, se realizaron las siguientes implementaciones en la página
 1. **Sección de Galería:**
    - Se diseñó e implementó una sección de galería para mostrar imágenes relacionadas con los destinos y servicios ofrecidos cambiando cada cierto tiempo.
      
-     ![image](https://github.com/TripTeamOrganization/Informes/assets/48342953/4885c9b1-affd-4881-a972-317e93ab264c)
-     ![image](https://github.com/TripTeamOrganization/Informes/assets/48342953/33b25947-0ec1-4252-8e93-2f0e9ba8f972)
+![image](https://github.com/TripTeamOrganization/Informes/assets/48342953/0dc2e2bb-0f09-4260-a0cc-fefe3b0f114d)
+![image](https://github.com/TripTeamOrganization/Informes/assets/48342953/97367ec2-b492-42ca-82b3-2302755b0507)
 
 2. **Barra de Navegación (Navbar):**
    - Se creó y configuró una barra de navegación para permitir la navegación fácil entre las diferentes secciones de la página
@@ -1282,22 +1282,22 @@ Durante el Sprint 1, se realizaron las siguientes implementaciones en la página
 4. **Sección del Héroe:**
    - Se diseñó y desarrolló la sección del héroe con un mensaje atractivo y convincente para los usuarios.
      
-     ![image](https://github.com/TripTeamOrganization/Informes/assets/48342953/e299d034-7a5f-4699-bac5-429aea84bee8)    
+     ![image](https://github.com/TripTeamOrganization/Informes/assets/48342953/294f51e5-b28b-4468-9c0b-ea65a11071f1)  
 
 5. **Botón de Empezar Ahora:**
    - Se implementó el botón "Empezar Ahora" para dirigir a los usuarios hacia la siguiente acción deseada.
      
-     ![image](https://github.com/TripTeamOrganization/Informes/assets/48342953/2ceca461-280f-4b96-af93-96eb6f1c1740)
+![image](https://github.com/TripTeamOrganization/Informes/assets/48342953/a7fb23fe-2dbf-4bd0-b701-e5eb86c021ac)
 
 6. **Características Principales:**
    - Se agregaron seis características principales con iconos representativos y descripciones concisas.
      
-     ![image](https://github.com/TripTeamOrganization/Informes/assets/48342953/c0f3d4cb-d4e4-4476-8123-9b4e6d18053d)
+![image](https://github.com/TripTeamOrganization/Informes/assets/48342953/24b2d90e-0a38-4d09-8a4c-7ecb5b659ba2)
 
 7. **Sección "Acerca de Nosotros":**
    - Se completó la sección "Acerca de Nosotros" con información sobre la empresa y su misión.
      
-     ![Imagen de WhatsApp 2024-04-01 a las 00 44 14_7411e807](https://github.com/TripTeamOrganization/Informes/assets/48342953/80816fce-d84b-4faf-a454-4cfcb7a9dee1)
+![image](https://github.com/TripTeamOrganization/Informes/assets/48342953/7d4fc779-6fb8-430f-867f-c340318c5c5f)
      
 8. **Sección de Convenios:**
    - Se agregaron detalles sobre los convenios establecidos con aerolíneas, hoteles y restaurantes.
