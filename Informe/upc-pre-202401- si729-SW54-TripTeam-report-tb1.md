@@ -419,9 +419,9 @@ Segmento objetivo 1: Familias Viajeras y Aventureras
 | **Edad:**                      | 30                                                         |
 | **Sexo:**                      | Masculino                                                  |
 | **Ocupación:**                 | Docente                                     |
-| **Entrevista:**                | [Link](https://youtu.be/DzOgJiNWUvI)       |
-| **Momento de inicio:**         | 0:03                                                       |
-| **Duración:**                  | 3:59                                                       |
+| **Entrevista:**                | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYB28shB_7290argsBfrRbPHg?e=zzCQ9c&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)       |
+| **Momento de inicio:**         | 0:02                                                       |
+| **Momento Fin:**                  | 3:58                                                       |
 
 
 
@@ -431,9 +431,9 @@ Segmento objetivo 1: Familias Viajeras y Aventureras
 | **Edad:**                      | 35                                                         |
 | **Sexo:**                      | Femenino                                                  |
 | **Ocupación:**                 | Cosmetóloga                                      |
-| **Entrevista:**                | [Link](https://www.youtube.com/watch?v=pdUGOwDCa0Y)       |
-| **Momento de inicio:**         | 0:02                                                       |
-| **Duración:**                  | 7:14                                                       |
+| **Entrevista:**                | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYB28shB_7290argsBfrRbPHg?e=zzCQ9c&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)       |
+| **Momento de inicio:**         | 3:59                                                       |
+| **Momento Fin:**                  | 8:18                                                       |
 
 
 
@@ -443,9 +443,9 @@ Segmento objetivo 1: Familias Viajeras y Aventureras
 | **Edad:**                      | 31                                                        |
 | **Sexo:**                      | Masculino                                                  |
 | **Ocupación:**                 | Electrónico                                      |
-| **Entrevista:**                | [Link](https://www.youtube.com/watch?v=JSYodc8w27U)        |
-| **Momento de inicio:**         | 0:02                                                       |
-| **Duración:**                  | 8:21                                                       |
+| **Entrevista:**                | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYB28shB_7290argsBfrRbPHg?e=zzCQ9c&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)     |
+| **Momento de inicio:**         | 8:19                                                       |
+| **Momento Fin:**                | 13:23                                                       |
 
 
 
@@ -457,9 +457,9 @@ Segmento objetivo 2: Viajeros de lujo
 | **Edad:**                     | 32                                                                                                                    |
 | **Sexo:**                    | Masculino                                                                                                             |
 |**Ocupación:**                | Ingeniero Aeronáutico                                                                                                 |
-| **Entrevista:**             | [Link](https://www.youtube.com/watch?v=DpATSL0ElpE)                                                                    |
-| **Momento de inicio:**         | 0:04                                                                                                                  |
-| **Duración:**               | 3:50                                                                                                                  |
+| **Entrevista:**             | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYB28shB_7290argsBfrRbPHg?e=zzCQ9c&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)                                                                   |
+| **Momento de inicio:**         | 13:24                                                                                                                  |
+| **Momento Fin:**                | 17:12                                                                                                                  |
 
 
 | Entrevistado N°5: Gustavo Chinchay | <img src=https://github.com/TripTeamOrganization/Informes/assets/89095594/bdda83a4-be1a-4c7e-a8a2-fa329cf779c9 alt="Andrés Valle" style="width: 200px;"> |
@@ -468,9 +468,9 @@ Segmento objetivo 2: Viajeros de lujo
 | **Edad:**                      | 30                                                         |
 | **Sexo:**                      | Masculino                                                  |
 | **Ocupación:**                 | Ingeniero de sonido                                      |
-| **Entrevista:**                | [Link](https://www.youtube.com/watch?v=ggIC9Cf1or4)       |
-| **Momento de inicio:**         | 0:01                                                       |
-| **Duración:**                  | 5:25                                                       |
+| **Entrevista:**                | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYB28shB_7290argsBfrRbPHg?e=zzCQ9c&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)       |
+| **Momento de inicio:**         | 17:13                                                       |
+| **Momento Fin:**                  | 22:27                                                       |
 
 
 | Entrevistado N°6: Jhan Caseres | <img src=https://github.com/TripTeamOrganization/Informes/assets/134337719/9da98916-6e6e-4b85-9d32-c8f2fd49c87a alt="Andrés Valle" style="width: 240px;"> |
@@ -479,9 +479,9 @@ Segmento objetivo 2: Viajeros de lujo
 | **Edad:**                      | 30                                                         |
 | **Sexo:**                      | Masculino                                                  |
 | **Ocupación:**                 | Ingeniero Mecánico                                        |
-| **Entrevista:**                | [Link](https://www.youtube.com/watch?v=eeLvMoP6shI)       |
-| **Momento de inicio:**         | 0:01                                                       |
-| **Duración:**                  | 4:21                                                       |
+| **Entrevista:**                | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYB28shB_7290argsBfrRbPHg?e=zzCQ9c&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)      |
+| **Momento de inicio:**         | 22:28                                                       |
+| **Momento Fin:**                  | 26:59                                                       |
 
 
 - 2.2.3. Análisis de entrevistas
