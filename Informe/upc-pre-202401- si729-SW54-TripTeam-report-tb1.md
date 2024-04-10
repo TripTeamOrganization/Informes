@@ -969,6 +969,11 @@ En cuanto a los sistemas de navegación, TripTeam ha implementado un enfoque int
 
 
 - 4.5. Web Applications Prototyping
+
+   ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/d372f674-6206-48b9-a65b-75a04b0b9e74)
+
+   https://www.figma.com/file/0Y5muw10u8AJ8yd0atXYWb/Web-App-TripMate?type=design&node-id=0-1&mode=design&t=t3QYABOFRd1TQ2aw-0
+   
 - 4.6. Domain-Driven Software Architecture
   - 4.6.1. Software Architecture Context Diagram
   
