@@ -733,8 +733,8 @@ Segmento Objetivo #2: Viajeros lujosos
 |34|TS07|Post Payment** Method|<p>**Como** desarrollador que trabaja en la aplicación de Tripmate</p><p>**Quiero** registrar un método de pago asociado a un usuario mediante una API</p><p>**Para** que esté disponible para crear funcionalidades en mi aplicación</p>|<p></p><p>3</p>|
 |35|TS08|Get Payment Method|<p>**Como** desarrollador que trabaja en la aplicación de TripMate</p><p>**Quiero** obtener información sobre métodos de pago por usuario mediante una API</p><p>**Para** mostrarla en la aplicación cuando se solicite</p>|<p></p><p>3</p>|
 |36|TS09|Get Information by Places|<p>**Como** desarrollador que trabaja en la aplicación de TripMate</p><p>**Quiero** obtener información de los destinos de viaje mediante una API</p><p>**Para** mostrarla en la aplicación cuando se solicite</p>|<p></p><p>3</p>|
-|37|TS13|Post Review|<p>**Como** desarrollador que trabaja en la aplicación de TripMate</p><p>**Quiero** registrar reseñas de los usuarios mediante una API</p><p>**Para** que esté disponible para crear funcionalidades en mi aplicación</p>|<p></p><p>5</p>|
-|38|TS14|Get Review|<p>**Como** desarrollador que trabaja en la aplicación de TripMate</p><p>**Quiero** obtener información sobre las reseñas de distintos lugares, alojamientos o actividades</p><p>**Para** mostrarlas en la aplicación cuando se solicite</p>|<p></p><p>3</p>|
+|37|TS10|Post Review|<p>**Como** desarrollador que trabaja en la aplicación de TripMate</p><p>**Quiero** registrar reseñas de los usuarios mediante una API</p><p>**Para** que esté disponible para crear funcionalidades en mi aplicación</p>|<p></p><p>5</p>|
+|38|TS11|Get Review|<p>**Como** desarrollador que trabaja en la aplicación de TripMate</p><p>**Quiero** obtener información sobre las reseñas de distintos lugares, alojamientos o actividades</p><p>**Para** mostrarlas en la aplicación cuando se solicite</p>|<p></p><p>3</p>|
 
 
 ### Capítulo IV: Product Design
