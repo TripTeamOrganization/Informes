@@ -776,9 +776,6 @@ Para el logo de nuestra aplicación decidimos optar por la ilustración de un ca
 ![image](https://github.com/TripTeamOrganization/Informes/assets/98995070/f846f8c5-12d4-45f8-a6b6-66024cdd4306)  
 **Cajas de Texto:** Las cajas de texto permitirán a los usuarios hacer búsquedas manuales u serán fácilmente reconocibles.
 ![image](https://github.com/TripTeamOrganization/Informes/assets/98995070/bc86d4aa-95d6-4524-bf6b-0cbd30591bd4)  
-
-   - 4.1.3. Mobile Style Guidelines
-
      
 - 4.2. Information Architecture
 - 4.2.1. Organization Systems  
