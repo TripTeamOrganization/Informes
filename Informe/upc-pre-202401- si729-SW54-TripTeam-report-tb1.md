@@ -84,6 +84,7 @@ Nuesta misión es crear plataformas web con el proposito de facilitar y organiza
 Como startup hemos notado que aun con todos los avances tecnologicos existentes y la variedad de plataformas dirigidas a viajeros, aun existen problemas de optimización de tiempo al planear un viaje y de insatisfaccion posterior al viaje realizado, por lo que en esta oportunidad hemos realizado una plataforma web que busca ayudar a las personas viajeras con
   los problemas de la desorganización, gastos innecesarios, pérdida de tiempo y no optar por las mejores opciones. Por ese motivo, nuestro objetivo como startup
   se enfoca en ayudar a los viajeros a tener un viaje organizado y satisfactorio.
+
   Para lograrlo, contamos con una plataforma que, mediante filtros, mostrará a los usuarios las aerolíneas, hoteles, restaurantes y actividades de
   entretenimiento que más se adecuen a sus preferencias y presupuestos, se mostrará más de una opción con imágenes, una descripción y los precios, los cuales
   serán igual o menores al que se indique para que la persona y así pueda elegir el que más le guste sin necesidad de entrar a varias páginas, investigar por
@@ -121,6 +122,13 @@ Creemos que con esta plataforma la expreriencia previa y posterior a un viaje se
     El problema se le presenta a las personas que quieren o necesitan viajar y desconocen de las mejores opciones para tener un viaje organizado y satisfactorio.
     Nuestro público objetivo son las familias que quieran pasar sus vacaciones viajando pero sin gastar dinero de más y los viajeros de clase alta que buscan las
     opciones de más alto lujo y calidad.
+
+    De acuerdo al foro Web "SyleCycle", se nos muestra una gráfica que resalta el abandono del turismo online por falta de facilidades en la gestión de viajes:
+
+    ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/89828127-be11-4377-8f5e-1ae8f68721d6)
+
+    Fuente: [Link](https://www.salecycle.com/es/blog/estadisticas/estadisticas-turismo-online/)
+
 
     **¿Por qué sucede el problema? ¿Qué situación ocasiona el problema?**  
     El problema sucede porque las personas muchas veces no tienen el tiempo para ver una por una a cada empresa y comparar todas las opciones manualmente, esto
