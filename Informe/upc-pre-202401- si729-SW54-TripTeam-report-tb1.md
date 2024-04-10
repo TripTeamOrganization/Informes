@@ -443,7 +443,7 @@ Segmento objetivo 1: Familias Viajeras y Aventureras
 | **Edad:**                      | 31                                                        |
 | **Sexo:**                      | Masculino                                                  |
 | **Ocupación:**                 | Electrónico                                      |
-| **Entrevista:**                | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYB28shB_7290argsBfrRbPHg?e=zzCQ9c&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)     |
+| **Entrevista:**                | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYBkLLrqb1nS8vDVTedop1PgQ)     |
 | **Momento de inicio:**         | 8:19                                                       |
 | **Momento Fin:**                | 13:23                                                       |
 
@@ -457,7 +457,7 @@ Segmento objetivo 2: Viajeros de lujo
 | **Edad:**                     | 32                                                                                                                    |
 | **Sexo:**                    | Masculino                                                                                                             |
 |**Ocupación:**                | Ingeniero Aeronáutico                                                                                                 |
-| **Entrevista:**             | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYB28shB_7290argsBfrRbPHg?e=zzCQ9c&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)                                                                   |
+| **Entrevista:**             | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYBkLLrqb1nS8vDVTedop1PgQ)                                                                   |
 | **Momento de inicio:**         | 13:24                                                                                                                  |
 | **Momento Fin:**                | 17:12                                                                                                                  |
 
@@ -468,7 +468,7 @@ Segmento objetivo 2: Viajeros de lujo
 | **Edad:**                      | 30                                                         |
 | **Sexo:**                      | Masculino                                                  |
 | **Ocupación:**                 | Ingeniero de sonido                                      |
-| **Entrevista:**                | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYB28shB_7290argsBfrRbPHg?e=zzCQ9c&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)       |
+| **Entrevista:**                | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYBkLLrqb1nS8vDVTedop1PgQ)       |
 | **Momento de inicio:**         | 17:13                                                       |
 | **Momento Fin:**                  | 22:27                                                       |
 
@@ -479,7 +479,7 @@ Segmento objetivo 2: Viajeros de lujo
 | **Edad:**                      | 30                                                         |
 | **Sexo:**                      | Masculino                                                  |
 | **Ocupación:**                 | Ingeniero Mecánico                                        |
-| **Entrevista:**                | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYB28shB_7290argsBfrRbPHg?e=zzCQ9c&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)      |
+| **Entrevista:**                | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYBkLLrqb1nS8vDVTedop1PgQ)      |
 | **Momento de inicio:**         | 22:28                                                       |
 | **Momento Fin:**                  | 26:59                                                       |
 
@@ -1383,9 +1383,10 @@ A través de un enfoque centrado en las necesidades del usuario y la diferenciac
 - Urvina Alejandro, M. A., Lastra‐Bravo, X. B., & Jaramillo-Moreno, C. (2022). Turismo y aplicaciones móviles. Preferencias de turistas y prestadores de servicios en el cantón Tena, Napo, Ecuador. Recuperado de: [RIULL](https://riull.ull.es/xmlui/handle/915/26221)
 
  **Anexos**
-
-- Repositorio GitHub Frontend: [TripTeamOrganization/FrontEnd](https://github.com/TripTeamOrganization/FrontEnd)
-- Repositorio GitHub Informe: [TripTeamOrganization/Informes](https://github.com/TripTeamOrganization/Informes)
+- Enlace para acceder a la landing page: [Ver enlace](https://getwork.netlify.app/)
+- Video de todas las entrevistas subido a stream: [Ver enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYBkLLrqb1nS8vDVTedop1PgQ)
+- Repositorio GitHub LandingPage: [Ver enlace](https://github.com/TripTeamOrganization/FrontEnd)
+- Repositorio GitHub Informe: [Ver enlace](https://github.com/TripTeamOrganization/Informes)
 - Figma: [Diseño en Figma para Page Wireframe](https://www.figma.com/file/OVYa70f4Bnr66FnHXTdypf/Untitled?type=design&node-id=0%3A1&mode=design&t=GWueqbqhuC88FRo8-1)
 - Figma: [Diseño en Figma](https://www.figma.com/file/2eL1Zj6N0ULup3L12N3imY/Leo's-team-library?type=design&node-id=0-1&mode=design&t=DZ3HGQCqkqiTAoWP-0)
 - Lucidspack: [Diseño ](https://lucid.app/lucidspark/e42b38ec-9f8c-4f10-8d31-03eefad55095/edit?beaconFlowId=CFC1390090154143&invitationId=inv_262b6d7f-b989-4b5d-8995-1fff1088f3b6&page=0_0#)
