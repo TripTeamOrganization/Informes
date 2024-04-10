@@ -43,18 +43,19 @@
 |-----------|-------------|------------|--------------------------------------------------------------------------------------------------|-----------|
 | 1.0       |  2024/03/25    | | Creación del documento de trabajo en formato markdown. | Completado  |
 | 1.1       |  2024/03/26    | Quispe Andia, Jeremy Joel | Agregar la plantilla del reporte en markdown | Completado  |
-| 1.2       |  2024/03/22    |  Espinoza Delgado, Bárbara Antonella  |Redacción del startup profile y solution profile, delimitación de segmentos objetivo, redacción de preguntas para el diseño de entrevistas |Completado|
+| 1.2       |  2024/03/29    |  Espinoza Delgado, Bárbara Antonella  |Redacción del startup profile y solution profile, delimitación de segmentos objetivo, redacción de preguntas para el diseño de entrevistas |Completado|
 | 1.3       |  2024/03/22    | Quispe Andia, Jeremy Joel |Elaboración y registro de entrevistas a segmentos objetivo, análisis de entrevistas    | Completado|
 | 1.4       |  2024/03/22    | Quispe Andia, Jeremy Joel |Elaboración de user personas, user task matrix, user journey mapping, empathy mapping, as-is   | Completado |
 | 1.5       |  2024/03/24    | Martinez Villanueva, Paolo Del Carmen |Elaboración de to-be, impact mapping   | Completado |
 | 1.6       |  2024/03/25    | Martinez Villanueva, Paolo Del Carmen |Elaboración de user stories, product backlog | Completado |
 | 1.7       |  2024/03/22    | |Elaboración de prototipos de wireframes y mockups  | Pendiente |
-| 1.8       |  2024/03/22    | |Redacción de style guidelines e information architecture| Pendiente |
-| 1.9       |  2024/03/22    | Quispe Andia, Jeremy Joel |Elaboración de diagrama de base de datos,diagrama de clases, diccionario de clases, diagramas de contenedores, diagramas de contexto, diagramas de componentes | Completado |
-| 2.0       |  2024/03/22    | |Registro de evidencias del Sprint 1 | Pendiente |
-| 2.1       |  2024/03/22    | |Rediseño de mockups. Elaboración de wireflows y user-flows| Pendiente |
-| 2.2       |  2024/04/01    | Martinez Villanueva, Paolo Del Carmen | Redacción de software configuration management, sprint planning 1, sprint backlog 1 | Completado |
-| 2.3       |  2024/03/22    | Quispe Andia, Jeremy Joel | Redacción de Collaboration Insights| Completado |
+| 1.8       |  2024/04/02    | Espinoza Delgado, Bárbara Antonella |Redacción de style guidelines e information architecture| Completado |
+| 1.9       |  2024/03/22    | Quispe Andia, Jeremy Joel |Elaboración de diagrama de clases, diccionario de clases, diagramas de contenedores, diagramas de contexto, diagramas de componentes | Completado |
+| 2.0       |  2024/04/01    | Espinoza Delgado, Bárbara Antonella |Elaboración de diagrama de base de datos | Completado |
+| 2.1       |  2024/03/22    | |Registro de evidencias del Sprint 1 | Pendiente |
+| 2.2       |  2024/03/22    | |Rediseño de mockups. Elaboración de wireflows y user-flows| Pendiente |
+| 2.3       |  2024/04/01    | Martinez Villanueva, Paolo Del Carmen | Redacción de software configuration management, sprint planning 1, sprint backlog 1 | Completado |
+| 2.4       |  2024/03/22    | Quispe Andia, Jeremy Joel | Redacción de Collaboration Insights| Completado |
 
 
 ### Project Report Collaboration Insights
@@ -69,7 +70,10 @@
 - [Capítulo IV: Product Design](#cap%C3%ADtulo-iv-product-design)
 - [Capítulo V: Product Implementation, Validation & Deployment](#cap%C3%ADtulo-v-product-implementation-validation--deployment)
 
-### Studen Outcome
+### Studen Outcome  
+El curso contribuye al cumplimiento del Student Outcome ABET: ABET – EAC - Student Outcome 3
+Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias.
+En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
 
 | Criterio específico | Acciones Realizadas | Conclusiones |
 |---------------------|----------------------|--------------|
@@ -1201,31 +1205,31 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
 
   - 5.2.1.3. Development Evidence for Sprint Review
     
-|Repository|Branch|Commit ID|Commit Message|Commit Message Body|Commited On (Date)|  
+|Repository|Branch|Commit ID|Commit Message|Commit Message <br> Body|Commited On (Date)|  
 |----------|------|---------|--------------|-------------------|------------------|
-|TripTeamOrganization<br>/FrontEnd|Main|f2dd6d87319d340e8b03afc44f7c9e50d8b7f2e0|feat: add Initial Commit|-|23/03/2024| 
-|TripTeamOrganization<br>/FrontEnd|Main|674d37b56cda9ce92f21c58d15c551d434b4bf8c|feat: add Images|-|23/03/2024| 
-|TripTeamOrganization<br>/FrontEnd|Main|47bef222912cdf116e49ae5a921929839d57804f|feat: add Button|-|23/03/2024| 
-|TripTeamOrganization<br>/FrontEnd|Main|2a836c499e33e210cd4d489c65024bd79bd56a07|feat: add Navbar|-|25/03/2024| 
-|TripTeamOrganization<br>/FrontEnd|Main|d867e4d88ff0d400251e7229a427c7734d738577|feat: add Login y Register|-|28/03/2024| 
-|TripTeamOrganization<br>/FrontEnd|Main|b3aabb1055508479209304f136c44a41c04791ce|fix: colors|-|30/03/2024| 
-|TripTeamOrganization<br>/FrontEnd|Testimonios|4524d2e6bdce66e14ca25c037b8c7ec113c5d8cf|feat: add Buttons|-|31/03/2024| 
-|TripTeamOrganization<br>/FrontEnd|Testimonios|df60b4b190f5ad459e66d243e49d60eb05040842|feat: add Buttons Styles|-|31/03/2024| 
-|TripTeamOrganization<br>/FrontEnd|Testimonios|6948049460628bcafd5257997a5c084cc41873d1|feat: add js|-|31/03/2024| 
-|TripTeamOrganization<br>/FrontEnd|Testimonios|cffd774c830fa29804391aac5350d7c64044a76d|feat: remove Buttons css|-|31/03/2024|
-|TripTeamOrganization<br>/FrontEnd|Testimonios|2518c2a9dd8be59e9a63fff89271a752ace36280|feat: add testimony|-|6/04/2024|
-|TripTeamOrganization<br>/FrontEnd|Testimonios|6347a2351d39558d3a5539f11a8862d4b56fb9ac|feat: add styles|-|6/04/2024| 
-|TripTeamOrganization<br>/FrontEnd|Main|a77086589464600a40ce276d90aeb042ef88de35|feat: add section convenios|-|6/04/2024|
-|TripTeamOrganization<br>/FrontEnd|Main|3da62d2b18d1292179f466032ad0f9c6ae2274a1|feat: add section Acerca de Nosotros|-|6/04/2024|
-|TripTeamOrganization<br>/FrontEnd|Main|2a64d8a75b7c39d4e0a67886b8223e74aea2b16a|feat: add photos|-|6/04/2024|
-|TripTeamOrganization<br>/FrontEnd|Main|70d9639e89c635d02a1460c8b08364291b182b0f|feat: add video|-|6/04/2024|
-|TripTeamOrganization<br>/FrontEnd|Main|515d75240244e20caf4a7e969ff69c926951f62a|feat: add deployment, convenios responsive|-|6/04/2024|
-|TripTeamOrganization<br>/FrontEnd|Responsive|b30b72bb20a12c5afa243e91d11f1e78d33ba3b4|feat: add Responsive NavBar|-|6/04/2024| 
-|TripTeamOrganization<br>/FrontEnd|Responsive|491f06fad2dc109137ac2ab8e5a5cf36b0d3afc6|fix: landing page|-|6/04/2024| 
-|TripTeamOrganization<br>/FrontEnd|Main|491f06fad2dc109137ac2ab8e5a5cf36b0d3afc6|feat: add colors|-|6/04/2024|
-|TripTeamOrganization<br>/FrontEnd|Main|491f06fad2dc109137ac2ab8e5a5cf36b0d3afc6|feat: add font styles|-|7/04/2024| 
-|TripTeamOrganization<br>/FrontEnd|Main|878f958fea77941d64fd0bb6b65d804523bf18fd|fix: change background login and register|-|7/04/2024|
-|TripTeamOrganization<br>/FrontEnd|Main|d600d2754e06949bb3622ded943b91967223cdef|feat: add logo on the navbar|-|7/04/2024|
+|Jemisas/TripTeamOrganization<br>/FrontEnd|Main|f2dd6d8731|feat: add Initial Commit|-|23/03/2024| 
+|Jemisas/TripTeamOrganization<br>/FrontEnd|Main|674d37b56c|feat: add Images|-|23/03/2024| 
+|APOGamer/TripTeamOrganization<br>/FrontEnd|Main|47bef22291|feat: add Button|-|23/03/2024| 
+|APOGamer/TripTeamOrganization<br>/FrontEnd|Main|2a836c499e|feat: add Navbar|-|25/03/2024| 
+|Jemisas/TripTeamOrganization<br>/FrontEnd|Main|d867e4d88f|feat: add Login y Register|-|28/03/2024| 
+|MesSobble/TripTeamOrganization<br>/FrontEnd|Main|b3aabb1055|fix: colors|-|30/03/2024| 
+|Jemisas/TripTeamOrganization<br>/FrontEnd|Testimonios|4524d2e6bd|feat: add Buttons|-|31/03/2024| 
+|Paolovm02/TripTeamOrganization<br>/FrontEnd|Testimonios|df60b4b190|feat: add Buttons Styles|-|31/03/2024| 
+|Paolovm02/TripTeamOrganization<br>/FrontEnd|Testimonios|6948049460|feat: add js|-|31/03/2024| 
+|Paolovm02/TripTeamOrganization<br>/FrontEnd|Testimonios|cffd774c83|feat: remove Buttons css|-|31/03/2024|
+|Paolovm02/TripTeamOrganization<br>/FrontEnd|Testimonios|2518c2a9dd|feat: add testimony|-|6/04/2024|
+|Paolovm02/TripTeamOrganization<br>/FrontEnd|Testimonios|6347a2351d|feat: add styles|-|6/04/2024| 
+|Jemisas/TripTeamOrganization<br>/FrontEnd|Main|a770865894|feat: add section convenios|-|6/04/2024|
+|Leonel-Alfaro/TripTeamOrganization<br>/FrontEnd|Main|3da62d2b18|feat: add section Acerca de Nosotros|-|6/04/2024|
+|APOGamer/TripTeamOrganization<br>/FrontEnd|Main|2a64d8a75b|feat: add photos|-|6/04/2024|
+|APOGamer/TripTeamOrganization<br>/FrontEnd|Main|70d9639e89|feat: add video|-|6/04/2024|
+|APOGamer/TripTeamOrganization<br>/FrontEnd|Main|515d752402|feat: add deployment, convenios responsive|-|6/04/2024|
+|MesSobble/TripTeamOrganization<br>/FrontEnd|Responsive|b30b72bb20|feat: add Responsive NavBar|-|6/04/2024| 
+|MesSobble/TripTeamOrganization<br>/FrontEnd|Responsive|491f06fad2|fix: landing page|-|6/04/2024| 
+|MesSobble/TripTeamOrganization<br>/FrontEnd|Main|491f06fad2|feat: add colors|-|6/04/2024|
+|MesSobble/TripTeamOrganization<br>/FrontEnd|Main|6359222392|feat: add font styles|-|7/04/2024| 
+|Jemisas/TripTeamOrganization<br>/FrontEnd|Main|878f958fea|fix: change background login and register|-|7/04/2024|
+|Jemisas/TripTeamOrganization<br>/FrontEnd|Main|d600d2754e|feat: add logo on the navbar|-|7/04/2024|
 
   - 5.2.X.4. Testing Suite Evidence for Sprint Review
     
