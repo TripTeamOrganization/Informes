@@ -1224,33 +1224,33 @@ En el proceso de desarrollo de la landing page, se aplicaron diversas estrategia
 
 
 
-## **1. Utilización de Live Server de Microsoft Visual Studio Code** 
+**1. Utilización de Live Server de Microsoft Visual Studio Code** 
 
-### Propósito:
-Live Server se implementó para facilitar el desarrollo y la prueba de la landing page de manera local.
+Propósito:
+- Live Server se implementó para facilitar el desarrollo y la prueba de la landing page de manera local.
 
-### Descripción:
-Esta herramienta permitió la visualización dinámica de la landing page en el navegador web, lo que agilizó el proceso de desarrollo al mostrar los cambios en tiempo real sin necesidad de recargar manualmente la página.
-
-
-
-## **2. Firefox Developer para Pruebas de Dimensiones Móviles** 
-
-### Propósito:
-Firefox Developer fue empleado para verificar la compatibilidad y el aspecto visual de la landing page en dispositivos móviles.
-
-### Descripción:
-Esta herramienta proporcionó un entorno de desarrollo amigable para simular diferentes dimensiones de pantalla y validar el diseño responsivo de la landing page en dispositivos móviles.
+Descripción:
+- Esta herramienta permitió la visualización dinámica de la landing page en el navegador web, lo que agilizó el proceso de desarrollo al mostrar los cambios en tiempo real sin necesidad de recargar manualmente la página.
 
 
 
-## **3. Aprovechamiento de las Propiedades del Navegador para Mejorar el Responsive** 
+**2. Firefox Developer para Pruebas de Dimensiones Móviles** 
 
-### Propósito:
-Se aprovecharon las características específicas del navegador para mejorar la compatibilidad con CSS Grid y el diseño responsivo.
+Propósito:
+- Firefox Developer fue empleado para verificar la compatibilidad y el aspecto visual de la landing page en dispositivos móviles.
 
-### Descripción:
-Se exploraron las capacidades de inspección de elementos del navegador para ajustar y optimizar el diseño de la landing page, especialmente en lo que respecta al uso de CSS Grid. Además, se utilizaron las herramientas de depuración del navegador para identificar y corregir cualquier problema de diseño responsivo.
+Descripción:
+- Esta herramienta proporcionó un entorno de desarrollo amigable para simular diferentes dimensiones de pantalla y validar el diseño responsivo de la landing page en dispositivos móviles.
+
+
+
+**3. Aprovechamiento de las Propiedades del Navegador para Mejorar el Responsive** 
+
+Propósito:
+- Se aprovecharon las características específicas del navegador para mejorar la compatibilidad con CSS Grid y el diseño responsivo.
+
+Descripción:
+- Se exploraron las capacidades de inspección de elementos del navegador para ajustar y optimizar el diseño de la landing page, especialmente en lo que respecta al uso de CSS Grid. Además, se utilizaron las herramientas de depuración del navegador para identificar y corregir cualquier problema de diseño responsivo.
 
 
 
@@ -1260,8 +1260,8 @@ Estas estrategias de prueba garantizaron la funcionalidad, la estética y la ada
     
  **Sprint 1**
 
-### Progreso en el Desarrollo
-Durante el Sprint 1, se realizaron las siguientes implementaciones en la página de inicio:
+Progreso en el Desarrollo
+- Durante el Sprint 1, se realizaron las siguientes implementaciones en la página de inicio:
 
 1. **Sección de Galería:**
    - Se diseñó e implementó una sección de galería para mostrar imágenes relacionadas con los destinos y servicios ofrecidos cambiando cada cierto tiempo.
