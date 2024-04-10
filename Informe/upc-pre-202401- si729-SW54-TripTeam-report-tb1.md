@@ -123,13 +123,6 @@ Creemos que con esta plataforma la expreriencia previa y posterior a un viaje se
     Nuestro público objetivo son las familias que quieran pasar sus vacaciones viajando pero sin gastar dinero de más y los viajeros de clase alta que buscan las
     opciones de más alto lujo y calidad.
 
-    De acuerdo al foro Web "SyleCycle", se nos muestra una gráfica que resalta el abandono del turismo online por falta de facilidades en la gestión de viajes:
-
-    ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/89828127-be11-4377-8f5e-1ae8f68721d6)
-
-    Fuente: [Link](https://www.salecycle.com/es/blog/estadisticas/estadisticas-turismo-online/)
-
-
     **¿Por qué sucede el problema? ¿Qué situación ocasiona el problema?**  
     El problema sucede porque las personas muchas veces no tienen el tiempo para ver una por una a cada empresa y comparar todas las opciones manualmente, esto
     puede ocasionar que las personas se guíen por la popularidad o publicidad de las empresas y terminen optando por una mala opción, y revisar uno por uno llega
@@ -137,6 +130,12 @@ Creemos que con esta plataforma la expreriencia previa y posterior a un viaje se
     debido a desconocimiento de sus cambios de hora. La situación que ocasiona este problema es que existen miles de empresas que están relacionadas con el
     turismo, como las aerolíneas, hoteles y restaurantes, todos con diversos precios, horarios y calidades que resulta muy difícil poder comparar todas esas
     opciones manualmente y elegir la mejor de todas.
+    
+    De acuerdo al foro Web "SyleCycle", se nos muestra una gráfica que resalta el abandono del turismo online por falta de facilidades en la gestión de viajes:
+
+    ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/89828127-be11-4377-8f5e-1ae8f68721d6)
+
+    Fuente: [SyleCycle](https://www.salecycle.com/es/blog/estadisticas/estadisticas-turismo-online/)
 
     **¿Cómo sucede el problema? ¿Cuáles son las precondiciones para que se presente el problema?**
     El problema ocurre en situaciones en las que las personas deben organizar un viaje pero al desconocer de todas las opciones que hay para los vuelos,
@@ -311,7 +310,13 @@ Creemos que con esta plataforma la expreriencia previa y posterior a un viaje se
           </table>
 - 1.3. Segmentos objetivo  
   Segun Sousa (1994) las personas que mas realizan viajes por motivo turistico con la clase alta, media-alta y personas que habitan zonas de tipo medio, por lo que hemos decidido orientar nuestro proyecto a familias de clase media y media-alta y a personas de clase alta.
-    
+
+Asimismo, de de acuerdo a El Comercio (2018) nos muestra estadísticamente las edades de las personas que mas vacacionan y viajan en el país:
+
+![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/5a8aee35-499c-440d-abc6-aa94e533a2c7)
+
+Fuente: [El Comercio](https://elcomercio.pe/economia/peru/mincetur-1-7-millones-peruanos-viajan-vacaciones-207532-noticia/?foto=1)
+
 **Segmento objetivo 1: Familias Viajeras y Aventureras**
 
 **Aspectos demográficos:**
