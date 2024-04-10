@@ -1224,7 +1224,7 @@ En el proceso de desarrollo de la landing page, se aplicaron diversas estrategia
 
 
 
-## **1. Utilización de Live Server de Microsoft Visual Studio Code** 🖥
+## **1. Utilización de Live Server de Microsoft Visual Studio Code** 
 
 ### Propósito:
 Live Server se implementó para facilitar el desarrollo y la prueba de la landing page de manera local.
