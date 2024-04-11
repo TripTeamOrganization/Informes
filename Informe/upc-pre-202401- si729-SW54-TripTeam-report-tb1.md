@@ -1135,7 +1135,7 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
 
       4. **PivotalTracker**: Herramienta de gestión de proyectos basada en tableros. En este caso, utilizamos PivotalTracker para visualizar y actualizar el estado de las tareas e historias de usuario pertenecientes al sprint a desarrollar.
 
-      ![image](https://github.com/TripTeamOrganization/Informes/assets/164519824/b8baf981-2eff-44b4-9300-c8100ec70350)
+      ![image](https://github.com/TripTeamOrganization/Informes/assets/164519824/0b140fca-5e55-4f15-ab6a-3b0a2aff2291)
 
       **Software Development**
 
