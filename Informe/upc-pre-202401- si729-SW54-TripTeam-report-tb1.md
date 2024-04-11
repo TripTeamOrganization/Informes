@@ -907,6 +907,15 @@ En cuanto a los sistemas de navegación, TripTeam ha implementado un enfoque int
 
 - 4.4. Web Applications UX/UI Design
   - 4.4.1. Web Applications Wireframes
+
+  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/4916b432-0c5a-41c6-a9f7-7ff8ff272317)
+![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/bfec9a23-537b-4ae8-aa61-d46007c7a8da)
+![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/3041123f-6f2c-4bd3-a8a8-3b793a15b01c)
+![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/9aa62b96-32a8-4b91-bbf6-fc2c90802c3a)
+![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/3b947f3b-5ede-47bc-bb4d-5951f00715eb)
+![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/419976a5-4ff3-4e97-8bb2-bd733c32a6ae)
+![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/0b51a713-fe53-4a3d-8eb8-d8f39e98c4ef)
+![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/dba943ce-1173-4d8c-aa97-8be44dabcf38)
   - 4.4.2. Web Applications Wireflow Diagrams
   - 4.4.3. Web Applications Mock-ups
 
@@ -939,6 +948,7 @@ En cuanto a los sistemas de navegación, TripTeam ha implementado un enfoque int
 
   ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/e552abdc-029f-4418-87f7-6a03b6602d90)
  
+  Carro de compras
   
   ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/d8420c17-3091-4615-bd9a-f8f30cf65028)
   
