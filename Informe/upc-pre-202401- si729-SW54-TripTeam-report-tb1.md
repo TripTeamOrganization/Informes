@@ -647,6 +647,7 @@ Segmento Objetivo #2: Viajeros de lujo
 ![image](https://github.com/TripTeamOrganization/Informes/assets/164519824/679a00be-c59e-4110-8267-1ced4b2d2114)
 
 - 3.2. User Stories
+- Epics
 
 |**Epic / Story ID**|**Título**|**Descripción**|**Criterios de aceptación**|**Relacionado con (Epic ID)**|
 | :- | :- | :- | :- | :- |
@@ -658,6 +659,9 @@ Segmento Objetivo #2: Viajeros de lujo
 |EP06|Contacto|<p>**Como** visitante del landing page</p><p>**Quiero** contar con una sección que me permita contactar con los desarrolladores de la aplicación</p><p>**Para** resolver algún problema o dar mi opinión sobre la aplicación </p>|Epic|EP07|
 |EP07|Optimización de la experiencia del usuario|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar una presentación atractiva</p><p>**Para** conocer los servicios y características que ofrece TripMate</p>|Epic|EP08|
 |EP08|Descuentos|<p>**Como** usuario</p><p>**Quiero** poder acceder a descuentos en la aplicación</p><p>**Para** ahorrar dinero en mis viajes</p>|Epic|EP09|
+
+|**Epic / Story ID**|**Título**|**Descripción**|**Criterios de aceptación**|**Relacionado con (Epic ID)**|
+| :- | :- | :- | :- | :- |
 |US01|Registro de usuario|<p>**Como** usuario nuevo</p><p>**Quiero** poder registrarme en TripMate** </p><p>**Para** poder acceder a todas las funcionalidades de la aplicación</p>|<p>**Escenario 1: Registro exitoso**</p><p>**Dado que** el usuario es nuevo</p><p>**Cuando** acceda a la página de registro</p><p>**Y** complete todos los campos requeridos</p><p>**Entonces** debería recibir una confirmación de registro</p><p></p><p>**Escenario 2: Registro fallido**</p><p>**Dado que** el usuario completó el formulario de registro</p><p>**Cuando** ingrese información inválida o incompleta</p><p>**Entonces** debería recibir un mensaje de error que indiquen los campos a corregir</p>|EP01|
 |US02|Inicio de sesión|<p>**Como** usuario registrado</p><p>**Quiero** poder iniciar sesión en la aplicación</p><p>**Para** acceder a mi cuenta</p>|<p>**Escenario 1:** Inicio de sesión exitoso</p><p>**Dado que** el usuario se ha registrado</p><p>**Cuando** ingrese su correo electrónico y contraseña</p><p>**Entonces** debería poder acceder a mi cuenta</p><p></p><p>**Escenario 2:** Inicio de sesión fallido</p><p></p><p>**Dado que** el usuario se ha registrado</p><p>**Cuando** ingrese una credencial incorrecta</p><p>**Entonces** debería recibir un mensaje de error</p>|EP01|
 |US03|Recuperación de contraseña|<p>**Como** usuario registrado</p><p>**Quiero** tener la opción de recuperación de contraseña</p><p>**Para** poder acceder a mi cuenta sin problemas</p>|<p>**Escenario 1:** Solicitud de recuperación de contraseña exitosa</p><p></p><p>**Dado que** el usuario ha olvidado su contraseña</p><p>**Cuando** acceda a la opción de recuperar contraseña</p><p>**Y** coloca el correo asociado a su cuenta</p><p>**Entonces** recibirá un correo electrónico con instrucciones para recuperar su contraseña</p><p></p><p>**Escenario 2:** Solicitud de recuperación de contraseña fallida</p><p></p><p>**Dado que** el usuario ha olvidado su contraseña</p><p>**Cuando** accede a la opción de recuperar contraseña</p><p>**Y** coloca un correo no asociado a su cuenta</p><p>**Entonces** mostrará un mensaje de error</p><p>**Y** deberá ingresar su correo nuevamente</p><p></p>|EP01|
