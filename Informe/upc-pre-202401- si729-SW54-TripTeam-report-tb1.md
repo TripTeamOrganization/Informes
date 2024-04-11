@@ -1458,7 +1458,7 @@ Aunque se logró mucho en el Sprint 1, aún quedan algunas tareas pendientes par
       | mesSobble       | Espinoza Delgado, Bárbara Antonella  |
       | Jemisas      | Quispe Andia, Jeremy Joel      |
       | paolomv02 	| Martinez Villanueva, Paolo Del Carmen           |
-      | Leonel-Alfaro | Leonel-Alfaro    |
+      | Leonel-Alfaro | Alfaro Cumba, Leonel    |
       
         
       ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/75214625-7e44-4ca3-8f06-403131deb1a8)
