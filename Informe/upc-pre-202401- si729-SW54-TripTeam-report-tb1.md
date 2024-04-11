@@ -1255,39 +1255,80 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
 
   ```gherkin
 Feature: US-26: Visualizar features de la aplicación
+  Como visitante del landing page
+  Debo poder visualizar todos las funcionalidades y servicios que brinda TripMate
+  Para entender el uso de la aplicación
 
-Scenario: Como visitante del landing page
-    Given que soy un visitante del landing page
-    When visualizo todas las funcionalidades y servicios que brinda TripMate
-    Then puedo entender el uso de la aplicación
+  Scenario: Ver todas las funcionalidades y servicios
+    Given Soy un visitante del landing page
+    When Accedo al sitio web de TripMate
+    Then Debería ver todas las funcionalidades y servicios que ofrece TripMate
+
+  Scenario: Entender el uso de la aplicación
+    Given Soy un visitante del landing page
+    When Exploro las secciones de la página
+    Then Debería comprender cómo utilizar la aplicación TripMate
 
 Feature: US-27: Sección “Acerca de nosotros”
+  Como visitante del landing page
+  Debo poder visualizar una sección que me informe sobre el startup
+  Para conocer al equipo de TripMate y su propósito
 
-Scenario: Como visitante del landing page
-    Given que soy un visitante del landing page
-    When visualizo la sección "Acerca de Nosotros"
-    Then puedo conocer al equipo de TripMate y su propósito
+  Scenario: Información sobre el startup
+    Given Soy un visitante del landing page
+    When Navego hacia la sección "Acerca de nosotros"
+    Then Debería ver información detallada sobre el startup TripMate y su propósito
+
+  Scenario: Conocer al equipo de TripMate
+    Given Soy un visitante del landing page
+    When Accedo a la sección "Acerca de nosotros"
+    Then Debería encontrar detalles sobre el equipo de TripMate
 
 Feature: US-28: Sección “Convenios”
+  Como visitante del landing page
+  Debo poder visualizar los convenios que tiene TripMate
+  Para conocer las distintas empresas asociadas
 
-Scenario: Como visitante del landing page
-    Given que soy un visitante del landing page
-    When visualizo la sección "Convenios"
-    Then puedo conocer los convenios que tiene TripMate y las distintas empresas asociadas
+  Scenario: Ver los convenios de TripMate
+    Given Soy un visitante del landing page
+    When Navego hacia la sección "Convenios"
+    Then Debería visualizar los convenios que tiene TripMate con distintas empresas asociadas
+
+  Scenario: Conocer empresas asociadas
+    Given Soy un visitante del landing page
+    When Accedo a la sección "Convenios"
+    Then Debería encontrar información sobre las empresas asociadas con TripMate
 
 Feature: US-29: Sección “Testimonios”
+  Como visitante del landing page
+  Debo poder ver testimonios y experiencias de otros usuarios
+  Para conocer la opinión del público sobre TripMate
 
-Scenario: Como visitante del landing page
-    Given que soy un visitante del landing page
-    When visualizo la sección "Testimonios"
-    Then puedo ver testimonios y experiencias de otros usuarios para conocer la opinión del público sobre TripMate
+  Scenario: Ver testimonios de otros usuarios
+    Given Soy un visitante del landing page
+    When Accedo a la sección "Testimonios"
+    Then Debería poder ver testimonios y experiencias de otros usuarios sobre TripMate
+
+  Scenario: Conocer la opinión del público
+    Given Soy un visitante del landing page
+    When Navego hacia la sección "Testimonios"
+    Then Debería poder formarme una opinión sobre TripMate a partir de los testimonios de otros usuarios
 
 Feature: US-30: Acceder desde cualquier dispositivo a la landing page
+  Como visitante del landing page
+  Debo poder acceder al sitio web desde diferentes dispositivos
+  Para poder ingresar al sitio web desde cualquier dispositivo
 
-Scenario: Como visitante del landing page
-    Given que soy un visitante del landing page
-    When intento acceder al sitio web desde cualquier dispositivo
-    Then la landing page es accesible desde diferentes dispositivos
+  Scenario: Accesibilidad desde diferentes dispositivos
+    Given Soy un visitante del landing page
+    When Accedo al sitio web desde un dispositivo diferente (móvil, tablet, PC)
+    Then Debería poder visualizar la página correctamente en cualquier dispositivo
+
+  Scenario: Acceso fácil desde cualquier lugar
+    Given Soy un visitante del landing page
+    When Intento acceder al sitio web desde mi dispositivo habitual
+    Then Debería poder ingresar a la página de TripMate desde cualquier lugar y dispositivo
+
  ```
     
 En el proceso de desarrollo de la landing page, se aplicaron diversas estrategias de prueba para garantizar su correcto funcionamiento y adaptabilidad en diferentes entornos. A continuación se detallan las herramientas utilizadas y los enfoques adoptados:
