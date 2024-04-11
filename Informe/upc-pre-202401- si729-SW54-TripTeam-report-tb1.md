@@ -1190,8 +1190,8 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
 - 5.2. Landing Page, Services & Applications Implementation
   - 5.2.1. Sprint 1
     - 5.2.1.1. Sprint Planning 1
+      
     Un sprint representa un periodo corto y fijo de tiempo durante el cual se desarrolla un conjunto de tareas o actividades específicas en un proyecto, asociado con metodologías ágiles como Scrum. El Sprint #1 tiene como fecha de inicio el 25/03/2024 y plantea elaborar una landing page atractiva para TripMate que capte la atención de los usuarios visitantes y comunique los principales beneficios de nuestro producto.
-
 
     |**Sprint #**|**Sprint 1**|
     | :- | :- |
@@ -1200,7 +1200,7 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
     |Time|8:00 PM - 11:00 PM|
     |Location|Discord|
     |Prepared By||
-    |Attendees|<p>Adrián Enrique Jesús Palma Obispo - u202210066</p><p>Paolo Del Carmen Martinez Villanueva - u202010039</p><p>Bárbara Antonella Espinoza Delgado - u201911727</p><p>Jeremy Joel Quispe Andia - u202216279</p><p>Leonel Alfaro Cumba -u20201a930</p>|
+    |Attendees|<p>Cachis Gonzales, Sebastian Nicolas - u202210846</p><p> Cruz Palomino, Adriano Sebastian - u202210697</p><p>Castillo Castillo, Alexander Jair - u202211390</p><p>Jeremy Joel Quispe Andia - u202216279</p><p>Cabanillas Gora, Andrea Milagros-u202211711</p><p>Yauri Paucar, Elias-u202211817</p>|
     |Sprint 0 Review Summary|Diseño y desarrollo del Landing Page|
     |Sprint 0 Retrospective Summary|Completar los diseños y estandarizar el lenguaje usado en el desarrollo y presentación del landing page|
     |Sprint Goal & User Stories||
@@ -1424,7 +1424,6 @@ Aunque se logró mucho en el Sprint 1, aún quedan algunas tareas pendientes par
 
 - Integrar una galería de imágenes en la sección correspondiente.
 - Realizar pruebas de rendimiento y corrección de errores menores antes del lanzamiento final.
-
 
 - 5.2.X.6. Services Documentation Evidence for Sprint Review
     - 5.2.X.7. Software Deployment Evidence for Sprint Review
