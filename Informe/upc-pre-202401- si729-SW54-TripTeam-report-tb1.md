@@ -1515,6 +1515,7 @@ A través de un enfoque centrado en las necesidades del usuario y la diferenciac
 - Figma: [Diseño en Figma](https://www.figma.com/file/2eL1Zj6N0ULup3L12N3imY/Leo's-team-library?type=design&node-id=0-1&mode=design&t=DZ3HGQCqkqiTAoWP-0)
 - Lucidspack: [Diseño ](https://lucid.app/lucidspark/e42b38ec-9f8c-4f10-8d31-03eefad55095/edit?beaconFlowId=CFC1390090154143&invitationId=inv_262b6d7f-b989-4b5d-8995-1fff1088f3b6&page=0_0#)
 - Vertabelo: [Database Diagram](https://my.vertabelo.com/doc/GhFMgdkWDIc5djSsQZ1gCi9SJtg1Yyj7)
+- PivotalTracker: [Product Backlog](https://www.pivotaltracker.com/n/projects/2700998)
 
 </div>
 
