@@ -647,14 +647,15 @@ Segmento Objetivo #2: Viajeros de lujo
 ![image](https://github.com/TripTeamOrganization/Informes/assets/164519824/679a00be-c59e-4110-8267-1ced4b2d2114)
 
 - 3.2. User Stories
-- Epics
+  
+  Epics
 
 |**Epic / Story ID**|**Título**|**Descripción**|**Relacionado con (User Story ID)**|
 | :- | :- | :- | :- |
 |EP01|Autenticación de usuario|<p>**Como** usuario</p><p>**Quiero** poder registrarme e iniciar sesión</p><p>**Para** acceder a la aplicación de TripMate</p>|<p>- US01 – Registro de usuario</p><p>- US02 – Inicio de sesión</p>|
 |EP02|Gestión de cuentas|<p>**Como** usuario</p><p>**Quiero** poder administrar y personalizar mi cuenta</p><p>**Para** poder realizar** cambios en mi cuenta</p>|<p>- US03 – Recuperación de contraseña</p><p>- US04 – Cambiar dirección de correo electrónico</p><p>- US03 – Recuperación de contraseña</p><p>- US25 – Suscripción a membresía premium</p><p>- US26 – Eliminar cuenta</p>|
 |EP03|Búsqueda y exploración de destinos|<p>**Como** usuario</p><p>**Quiero** poder buscar y explorar destinos</p><p>**Para** planificar mi viaje</p>|<p>- US05 – Buscar destinos por filtros</p><p>- US06 – Información sobre destinos</p><p>- US07 – Explorar destinos populares</p>|
-|EP04|Reservas y planificación de itinerarios|<p>**Como** usuario</p><p>**Quiero** poder realizar reservas y planificar itinerarios</p><p>**Para** preparar mi viaje</p>|<p>- US08 – Reservar alojamiento</p><p>- US11 – Reservar vuelos</p><p>- US12 – Realizar pago</p>|
+|EP04|Reservas y planificación de itinerarios|<p>**Como** usuario</p><p>**Quiero** poder realizar reservas y planificar itinerarios</p><p>**Para** preparar mi viaje</p>|<p>- US08 – Reservar alojamiento</p><p>- US09 – Planificar itinerario</p><p>- US10 – Compartir itinerario</p><p>- US11 – Reservar vuelos</p><p>- US12 – Realizar pago</p>|
 |EP05|Ver y publicar reseñas|<p>**Como** usuario</p><p>**Quiero** poder compartir y ver reseñas de viajes** </p><p>**Para** descubrir destinos de viaje recomendados por otros usuarios</p>|<p>- US13 – Ver reseñas</p><p>- US14 – Publicar reseñas</p><p>- US16 – Compartir experiencia en redes sociales</p>|
 |EP06|Contacto|<p>**Como** visitante del landing page</p><p>**Quiero** contar con una sección que me permita contactar con los desarrolladores de la aplicación</p><p>**Para** resolver algún problema o dar mi opinión sobre la aplicación </p>|<p>- US17 – Contactar al soporte</p><p>- US18 – Dar feedback</p>|
 |EP07|Optimización de la experiencia del usuario|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar una presentación atractiva</p><p>**Para** conocer los servicios y características que ofrece TripMate</p>|<p>- US19 – Visualizar una landing page atractiva</p><p>- US20 – Visualizar features de la aplicación</p><p>- US21 – Sección "Acerca de nosotros"</p><p>- US22 – Sección "Convenios"</p><p>- US23 – Sección "Testimonios"</p><p>- US24 – Acceder desde cualquier dispositivo a la landing page</p>|
