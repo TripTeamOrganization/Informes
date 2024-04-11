@@ -1133,9 +1133,9 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
 
       ![image](https://github.com/TripTeamOrganization/Informes/assets/164519824/c4a55064-caee-464b-bdd8-908578c23e5f)
 
-      4. **Trello**: Herramienta de gestión de proyectos basada en tableros. En este caso, utilizamos Trello para visualizar y actualizar el estado de las tareas e historias de usuario pertenecientes al sprint a desarrollar.
+      4. **PivotalTracker**: Herramienta de gestión de proyectos basada en tableros. En este caso, utilizamos PivotalTracker para visualizar y actualizar el estado de las tareas e historias de usuario pertenecientes al sprint a desarrollar.
 
-      ![image](https://github.com/TripTeamOrganization/Informes/assets/164519824/6710a4bb-bc36-4e42-8417-57057bed3146)
+      ![image](https://github.com/TripTeamOrganization/Informes/assets/164519824/b8baf981-2eff-44b4-9300-c8100ec70350)
 
       **Software Development**
 
