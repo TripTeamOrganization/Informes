@@ -1220,15 +1220,7 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
     |US29|Sección “Testimonios”|W-04|Sección “Testimonios”|<p>**Como** visitante del landing page</p><p>**Quiero** poder ver testimonios y experiencias de otros usuarios</p><p>**Para** conocer la opinión del público sobre TripMate</p>|3 hours|**Paolo Martinez**|Done|
     |US30|Acceder desde cualquier dispositivo a la landing page|W-05|Accesibilidad|<p>**Como** visitante del landing page</p><p>**Quiero** que sea accesible desde diferentes dispositivos </p><p>**Para** poder ingresar al sitio web desde cualquier dispositivo</p>|3 hours|**Bárbara Espinoza**|Done|
 
-**Sprint 1**
 
-| User Story | Work-Item / Task              | Description                                                                                                                                                           | Estimation (Hours) | Assigned To                               | Status      |
-|------------|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------------------------------------|-------------|
-| US24       | Sección de Galería            | Como usuario quiero poder ver una sección de galería que muestre imágenes relacionadas con los destinos y servicios ofrecidos, cambiando cada cierto tiempo.          | 5                  | Jeremy Joel Quispe Andia - u202216279   | ToReview    |
-| US25       | Barra de Navegación          | Como usuario quiero tener una barra de navegación para poder moverme fácilmente entre las diferentes secciones de la página.                                        | 3                  | Bárbara Antonella Espinoza Delgado - u201911727 | Todo        |
-| US23       | Fondo Animado                | Como usuario quiero experimentar un fondo animado utilizando un video de fondo para mejorar la estética y la experiencia visual de la página.                        | 2                  | Adrián Enrique Jesús Palma Obispo - u202210066 | InProcess   |
-| US26       | Sección del Héroe            | Como usuario quiero ver una sección del héroe con un mensaje atractivo y convincente para tener una experiencia agradable en la página.                              | 3                  | Paolo Del Carmen Martinez Villanueva - u202010039 | Done        |
-| US27       | Botón de Empezar Ahora       | Como usuario quiero tener un botón "Empezar Ahora" que me dirija hacia la siguiente acción deseada en la página.                                                      | 2                  | Leonel Alfaro Cumba -  U20201A930          | Todo        |
 
 
   - 5.2.1.3. Development Evidence for Sprint Review
@@ -1260,6 +1252,43 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
 |Jemisas/TripTeamOrganization<br>/FrontEnd|Main|d600d2754e|feat: add logo on the navbar|-|7/04/2024|
 
   - 5.2.X.4. Testing Suite Evidence for Sprint Review
+
+  ```gherkin
+Feature: US-26: Visualizar features de la aplicación
+
+Scenario: Como visitante del landing page
+    Given que soy un visitante del landing page
+    When visualizo todas las funcionalidades y servicios que brinda TripMate
+    Then puedo entender el uso de la aplicación
+
+Feature: US-27: Sección “Acerca de nosotros”
+
+Scenario: Como visitante del landing page
+    Given que soy un visitante del landing page
+    When visualizo la sección "Acerca de Nosotros"
+    Then puedo conocer al equipo de TripMate y su propósito
+
+Feature: US-28: Sección “Convenios”
+
+Scenario: Como visitante del landing page
+    Given que soy un visitante del landing page
+    When visualizo la sección "Convenios"
+    Then puedo conocer los convenios que tiene TripMate y las distintas empresas asociadas
+
+Feature: US-29: Sección “Testimonios”
+
+Scenario: Como visitante del landing page
+    Given que soy un visitante del landing page
+    When visualizo la sección "Testimonios"
+    Then puedo ver testimonios y experiencias de otros usuarios para conocer la opinión del público sobre TripMate
+
+Feature: US-30: Acceder desde cualquier dispositivo a la landing page
+
+Scenario: Como visitante del landing page
+    Given que soy un visitante del landing page
+    When intento acceder al sitio web desde cualquier dispositivo
+    Then la landing page es accesible desde diferentes dispositivos
+ ```
     
 En el proceso de desarrollo de la landing page, se aplicaron diversas estrategias de prueba para garantizar su correcto funcionamiento y adaptabilidad en diferentes entornos. A continuación se detallan las herramientas utilizadas y los enfoques adoptados:
 
