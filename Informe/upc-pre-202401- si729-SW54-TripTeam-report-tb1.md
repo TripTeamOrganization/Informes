@@ -650,7 +650,7 @@ Segmento Objetivo #2: Viajeros de lujo
 - Epics
 
 |**Epic / Story ID**|**Título**|**Descripción**|**Relacionado con (User Story ID)**|
-| :- | :- | :- | :- | :- |
+| :- | :- | :- | :- |
 |EP01|Autenticación de usuario|<p>**Como** usuario</p><p>**Quiero** poder registrarme e iniciar sesión</p><p>**Para** acceder a la aplicación de TripMate</p>|<p>- US01 – Registro de usuario</p><p>- US02 – Inicio de sesión</p>|
 |EP02|Gestión de cuentas|<p>**Como** usuario</p><p>**Quiero** poder administrar y personalizar mi cuenta</p><p>**Para** poder realizar** cambios en mi cuenta</p>|<p>- US03 – Recuperación de contraseña</p><p>- US04 – Cambiar dirección de correo electrónico</p><p>- US03 – Recuperación de contraseña</p><p>- US25 – Suscripción a membresía premium</p><p>- US26 – Eliminar cuenta</p>|
 |EP03|Búsqueda y exploración de destinos|<p>**Como** usuario</p><p>**Quiero** poder buscar y explorar destinos</p><p>**Para** planificar mi viaje</p>|<p>- US05 – Buscar destinos por filtros</p><p>- US06 – Información sobre destinos</p><p>- US07 – Explorar destinos populares</p>|
