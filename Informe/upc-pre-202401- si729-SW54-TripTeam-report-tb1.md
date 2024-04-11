@@ -1495,8 +1495,12 @@ A través de un enfoque centrado en las necesidades del usuario y la diferenciac
 
 **Bibliografía**
 
-- Asmar, S. (2023). Consejos para no endeudarse en sus próximos viajes y pagar la deuda en pocos meses. Recuperado de: [La República](https://www.larepublica.co/finanzas-personales/consejos-para-no-endeudarse-en-sus-proximos-viajes-y-pagar-la-deuda-en-pocos-meses-3598007) 
+- Asmar, S. (2023). Consejos para no endeudarse en sus próximos viajes y pagar la deuda en pocos meses. Recuperado de: [La República](https://www.larepublica.co/finanzas-personales/consejos-para-no-endeudarse-en-sus-proximos-viajes-y-pagar-la-deuda-en-pocos-meses-3598007)
 
+- Cruz, D. (2015). Mincetur: Solo 1,7 millones de peruanos viajan por vacaciones. Recuperado de: [El Comercio](https://elcomercio.pe/economia/peru/mincetur-1-7-millones-peruanos-viajan-vacaciones-207532-noticia/?foto=1)
+
+- Forgas, E. (2023). 12 Tendencias, Datos y Estadísticas del Turismo online. Recuperado de: [SaleCycle](https://www.salecycle.com/es/blog/estadisticas/estadisticas-turismo-online/)
+  
 - Hernández, S. J. (2021). El turismo en la era digital: las aplicaciones móviles como herramienta de innovación. Recuperado de: [Unsam](https://ri.unsam.edu.ar/handle/123456789/1497)
 
 - Leiva, I. (2022). Esta es la cantidad de dinero que necesitas para viajar un año por el mundo. Recuperado de: [Yahoo Finanzas](https://es-us.finanzas.yahoo.com/noticias/esta-es-la-cantidad-de-dinero-que-necesitas-para-viajar-un-ano-por-el-mundo-161251049.html)
