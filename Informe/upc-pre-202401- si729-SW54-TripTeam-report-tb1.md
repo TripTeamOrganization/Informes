@@ -916,6 +916,8 @@ En cuanto a los sistemas de navegación, TripTeam ha implementado un enfoque int
 ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/419976a5-4ff3-4e97-8bb2-bd733c32a6ae)
 ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/0b51a713-fe53-4a3d-8eb8-d8f39e98c4ef)
 ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/dba943ce-1173-4d8c-aa97-8be44dabcf38)
+![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/a970f4df-ea68-4217-a0d4-dd8789fb0f72)
+![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/31007ef2-7452-482b-97aa-42821200ed95)
   - 4.4.2. Web Applications Wireflow Diagrams
   - 4.4.3. Web Applications Mock-ups
 
@@ -946,11 +948,18 @@ En cuanto a los sistemas de navegación, TripTeam ha implementado un enfoque int
 
   Itinerario 
 
-  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/e552abdc-029f-4418-87f7-6a03b6602d90)
+  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/13d3c34c-b234-4db2-b5ed-fa3d3c12f1f4)
+  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/5a36687e-ad9d-4a96-88df-e6aba849d8f1)
+
+  Vuelos
+
+  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/3593b618-66e1-464f-b030-a957ec1a543d)
  
   Carro de compras
-  
+
   ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/d8420c17-3091-4615-bd9a-f8f30cf65028)
+
+  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/8df3dffe-6db5-43d6-a524-e24b6ad181ad)
   
   ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/872517ad-9385-4000-9717-0e3813a87d52)
 ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/8efc680a-c372-4b89-972b-af2d05ea8a09)
@@ -972,11 +981,13 @@ En cuanto a los sistemas de navegación, TripTeam ha implementado un enfoque int
 
   User Goal: Como usuario, quiero poder reservar alojamiento en la aplicación para asegurar mi hospedaje durante el viaje.
 
-  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/0bc410ee-c3ee-4f4f-aa28-f507008f3e47)
+  
+  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/b1410d54-9627-44b7-bc60-a820dfd1db95)
+
 
   User Goal: Como usuario, quiero poder explorar opciones según mis intereses y preferencias al buscar destinos por categorías en la aplicación.
 
-  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/ef275ea5-f559-445d-a4a7-953d01e3375c)
+  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/65debaa4-895f-4ab1-8de2-85e3000a211f)
 
 
 
