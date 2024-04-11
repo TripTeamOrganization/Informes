@@ -41,7 +41,7 @@
 
 | Versión   | Fecha       | Autor      | Descripción                                                                                      | Estado    |
 |-----------|-------------|------------|--------------------------------------------------------------------------------------------------|-----------|
-| 1.0       |  2024/03/25    | | Creación del documento de trabajo en formato markdown. | Completado  |
+| 1.0       |  2024/03/25    |Palma Obispo, Adrián Enrique Jesús | Creación del documento de trabajo en formato markdown. | Completado  |
 | 1.1       |  2024/03/26    | Quispe Andia, Jeremy Joel | Agregar la plantilla del reporte en markdown | Completado  |
 | 1.2       |  2024/03/29    |  Espinoza Delgado, Bárbara Antonella  |Redacción del startup profile y solution profile, delimitación de segmentos objetivo, redacción de preguntas para el diseño de entrevistas |Completado|
 | 1.3       |  2024/03/22    | Quispe Andia, Jeremy Joel |Elaboración y registro de entrevistas a segmentos objetivo, análisis de entrevistas    | Completado|
@@ -52,10 +52,12 @@
 | 1.8       |  2024/04/02    | Espinoza Delgado, Bárbara Antonella |Redacción de style guidelines e information architecture| Completado |
 | 1.9       |  2024/03/22    | Quispe Andia, Jeremy Joel |Elaboración de diagrama de clases, diccionario de clases, diagramas de contenedores, diagramas de contexto, diagramas de componentes | Completado |
 | 2.0       |  2024/04/01    | Espinoza Delgado, Bárbara Antonella |Elaboración de diagrama de base de datos | Completado |
-| 2.1       |  2024/03/22    | |Registro de evidencias del Sprint 1 | Pendiente |
+| 2.1       |  2024/03/22    |Palma Obispo, Adrián Enrique Jesús |Registro de evidencias del Sprint 1 | Pendiente |
 | 2.2       |  2024/03/22    | |Rediseño de mockups. Elaboración de wireflows y user-flows| Pendiente |
 | 2.3       |  2024/04/01    | Martinez Villanueva, Paolo Del Carmen | Redacción de software configuration management, sprint planning 1, sprint backlog 1 | Completado |
-| 2.4       |  2024/03/22    | Quispe Andia, Jeremy Joel | Redacción de Collaboration Insights| Completado |
+| 2.4       |  2024/03/22    | Quispe Andia, Jeremy Joel | Redacción de Collaboration Insights| Completado | 
+| 2.5       |  2024/03/22    | Palma Obispo, Adrián Enrique Jesús | Conclusiones| Completado |
+
 
 
 ### Project Report Collaboration Insights
