@@ -1513,7 +1513,13 @@ Feature: US-24: Acceder desde cualquier dispositivo a la landing page
     Then Debería poder ingresar a la página de TripMate desde cualquier lugar y dispositivo
 
  ```
-    
+|Repository|Branch|Commit ID|Commit Message|Commit Message <br> Body|Commited On (Date)|  
+|----------|------|---------|--------------|-------------------|------------------|
+|Jemisas/TripTeamOrganization<br>/AcceptanceTest|Main|ba88a30|feat: added US-27: Acceso a la sección de "Convenios"|-|23/03/2024| 
+|APOGamer/TripTeamOrganization<br>/AcceptanceTest|Main|2824ff0|Fix: US26.feature|-|23/03/2024| 
+|Leonel-Alfaro/TripTeamOrganization<br>/AcceptanceTest|Main|47bef22291|feat: add feature|-|23/03/2024| 
+|MesSobble/TripTeamOrganization<br>/AcceptanceTest|Main|7518970|fix: US-24|-|25/03/2024| 
+|paolomv02/TripTeamOrganization<br>/AcceptanceTest|Main|6f728c9|fix: update US-23|-|28/03/2024| 
 En el proceso de desarrollo de la landing page, se aplicaron diversas estrategias de prueba para garantizar su correcto funcionamiento y adaptabilidad en diferentes entornos. A continuación se detallan las herramientas utilizadas y los enfoques adoptados:
 
 
