@@ -1520,9 +1520,9 @@ Feature: US-24: Acceder desde cualquier dispositivo a la landing page
 |Leonel-Alfaro/TripTeamOrganization<br>/AcceptanceTest|Main|47bef22291|feat: add feature|-|23/03/2024| 
 |MesSobble/TripTeamOrganization<br>/AcceptanceTest|Main|7518970|fix: US-24|-|25/03/2024| 
 |paolomv02/TripTeamOrganization<br>/AcceptanceTest|Main|6f728c9|fix: update US-23|-|28/03/2024| 
-En el proceso de desarrollo de la landing page, se aplicaron diversas estrategias de prueba para garantizar su correcto funcionamiento y adaptabilidad en diferentes entornos. A continuación se detallan las herramientas utilizadas y los enfoques adoptados:
 
 
+En el proceso de desarrollo de la landing page, se aplicaron diversas estrategias de prueba para garantizar su correcto funcionamiento y adaptabilidad en diferentes entornos. A continuación se detallan las herramientas utilizadas y los enfoques adoptados
 
 **1. Uso de Live Server de Microsoft Visual Studio Code** 
 
