@@ -1224,11 +1224,11 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
     | :- | :- | :- | :- | :- | :- | :- | :- |
     |User Story|Work-Item / Task|||||||
     |Id|Title|Id|Title|Description|Estimation (Hours)|Assigned To|Status (To-do / In-Process / To-Review / Done)|
-    |US26|Visualizar features de la aplicación|W-01|Features|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar todos las funcionalidades y servicios que brinda TripMate</p><p>**Para** entender el uso de la aplicación</p>|3 hours|**Adrian Palma**|Done|
-    |US27|Sección “Acerca de nosotros”|W-02|Sección “Acerca de Nosotros**”**|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar una sección que me informe sobre el startup</p><p>**Para** conocer al equipo de TripMate y su propósito</p>|3 hours|**Leonel Alfaro**|Done|
-    |US28|Sección “Convenios”|W-03|Sección “Convenios”|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar los convenios que tiene TripMate</p><p>**Para** conocer las distintas empresas asociadas</p>|3 hours|**Jeremy Quispe**|Done|
-    |US29|Sección “Testimonios”|W-04|Sección “Testimonios”|<p>**Como** visitante del landing page</p><p>**Quiero** poder ver testimonios y experiencias de otros usuarios</p><p>**Para** conocer la opinión del público sobre TripMate</p>|3 hours|**Paolo Martinez**|Done|
-    |US30|Acceder desde cualquier dispositivo a la landing page|W-05|Accesibilidad|<p>**Como** visitante del landing page</p><p>**Quiero** que sea accesible desde diferentes dispositivos </p><p>**Para** poder ingresar al sitio web desde cualquier dispositivo</p>|3 hours|**Bárbara Espinoza**|Done|
+    |US20|Visualizar features de la aplicación|W-01|Features|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar todos las funcionalidades y servicios que brinda TripMate</p><p>**Para** entender el uso de la aplicación</p>|3 hours|**Adrian Palma**|Done|
+    |US21|Sección “Acerca de nosotros”|W-02|Sección “Acerca de Nosotros**”**|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar una sección que me informe sobre el startup</p><p>**Para** conocer al equipo de TripMate y su propósito</p>|3 hours|**Leonel Alfaro**|Done|
+    |US22|Sección “Convenios”|W-03|Sección “Convenios”|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar los convenios que tiene TripMate</p><p>**Para** conocer las distintas empresas asociadas</p>|3 hours|**Jeremy Quispe**|Done|
+    |US23|Sección “Testimonios”|W-04|Sección “Testimonios”|<p>**Como** visitante del landing page</p><p>**Quiero** poder ver testimonios y experiencias de otros usuarios</p><p>**Para** conocer la opinión del público sobre TripMate</p>|3 hours|**Paolo Martinez**|Done|
+    |US24|Acceder desde cualquier dispositivo a la landing page|W-05|Accesibilidad|<p>**Como** visitante del landing page</p><p>**Quiero** que sea accesible desde diferentes dispositivos </p><p>**Para** poder ingresar al sitio web desde cualquier dispositivo</p>|3 hours|**Bárbara Espinoza**|Done|
 
 
 
@@ -1345,7 +1345,7 @@ En el proceso de desarrollo de la landing page, se aplicaron diversas estrategia
 
 
 
-**1. Utilización de Live Server de Microsoft Visual Studio Code** 
+**1. Uso de Live Server de Microsoft Visual Studio Code** 
 
 Propósito:
 - Live Server se implementó para facilitar el desarrollo y la prueba de la landing page de manera local.
@@ -1464,7 +1464,7 @@ Aunque se logró mucho en el Sprint 1, aún quedan algunas tareas pendientes par
       | Username (Github)                           | Nombre                                                  |
       |-------------------------------------|------------------------------------------------------------|
       | APOgamer  | Palma Obispo, Adrián Enrique Jesús      |
-      | mesSobble       | Espinoza Delgado, Bárbara Antonella  |
+      | MesSobble       | Espinoza Delgado, Bárbara Antonella  |
       | Jemisas      | Quispe Andia, Jeremy Joel      |
       | paolomv02 	| Martinez Villanueva, Paolo Del Carmen           |
       | Leonel-Alfaro | Alfaro Cumba, Leonel    |
