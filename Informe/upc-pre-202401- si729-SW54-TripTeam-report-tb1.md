@@ -1410,29 +1410,29 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
     
 |Repository|Branch|Commit ID|Commit Message|Commit Message <br> Body|Commited On (Date)|  
 |----------|------|---------|--------------|-------------------|------------------|
-|Jemisas/TripTeamOrganization<br>/FrontEnd|Main|f2dd6d8731|feat: add Initial Commit|-|23/03/2024| 
-|Jemisas/TripTeamOrganization<br>/FrontEnd|Main|674d37b56c|feat: add Images|-|23/03/2024| 
-|APOGamer/TripTeamOrganization<br>/FrontEnd|Main|47bef22291|feat: add Button|-|23/03/2024| 
-|APOGamer/TripTeamOrganization<br>/FrontEnd|Main|2a836c499e|feat: add Navbar|-|25/03/2024| 
-|Jemisas/TripTeamOrganization<br>/FrontEnd|Main|d867e4d88f|feat: add Login y Register|-|28/03/2024| 
-|MesSobble/TripTeamOrganization<br>/FrontEnd|Main|b3aabb1055|fix: colors|-|30/03/2024| 
-|Jemisas/TripTeamOrganization<br>/FrontEnd|Testimonios|4524d2e6bd|feat: add Buttons|-|31/03/2024| 
-|Paolovm02/TripTeamOrganization<br>/FrontEnd|Testimonios|df60b4b190|feat: add Buttons Styles|-|31/03/2024| 
-|Paolovm02/TripTeamOrganization<br>/FrontEnd|Testimonios|6948049460|feat: add js|-|31/03/2024| 
-|Paolovm02/TripTeamOrganization<br>/FrontEnd|Testimonios|cffd774c83|feat: remove Buttons css|-|31/03/2024|
-|Paolovm02/TripTeamOrganization<br>/FrontEnd|Testimonios|2518c2a9dd|feat: add testimony|-|6/04/2024|
-|Paolovm02/TripTeamOrganization<br>/FrontEnd|Testimonios|6347a2351d|feat: add styles|-|6/04/2024| 
-|Jemisas/TripTeamOrganization<br>/FrontEnd|Main|a770865894|feat: add section convenios|-|6/04/2024|
-|Leonel-Alfaro/TripTeamOrganization<br>/FrontEnd|Main|3da62d2b18|feat: add section Acerca de Nosotros|-|6/04/2024|
-|APOGamer/TripTeamOrganization<br>/FrontEnd|Main|2a64d8a75b|feat: add photos|-|6/04/2024|
-|APOGamer/TripTeamOrganization<br>/FrontEnd|Main|70d9639e89|feat: add video|-|6/04/2024|
-|APOGamer/TripTeamOrganization<br>/FrontEnd|Main|515d752402|feat: add deployment, convenios responsive|-|6/04/2024|
-|MesSobble/TripTeamOrganization<br>/FrontEnd|Responsive|b30b72bb20|feat: add Responsive NavBar|-|6/04/2024| 
-|MesSobble/TripTeamOrganization<br>/FrontEnd|Responsive|491f06fad2|fix: landing page|-|6/04/2024| 
-|MesSobble/TripTeamOrganization<br>/FrontEnd|Main|491f06fad2|feat: add colors|-|6/04/2024|
-|MesSobble/TripTeamOrganization<br>/FrontEnd|Main|6359222392|feat: add font styles|-|7/04/2024| 
-|Jemisas/TripTeamOrganization<br>/FrontEnd|Main|878f958fea|fix: change background login and register|-|7/04/2024|
-|Jemisas/TripTeamOrganization<br>/FrontEnd|Main|d600d2754e|feat: add logo on the navbar|-|7/04/2024|
+|Jemisas/<br>TripTeamOrganization/<br>FrontEnd|Main|f2dd6d8731|feat: add Initial Commit|-|23/03/2024| 
+|Jemisas/<br>TripTeamOrganization/<br>FrontEnd|Main|674d37b56c|feat: add Images|-|23/03/2024| 
+|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|47bef22291|feat: add Button|-|23/03/2024| 
+|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|2a836c499e|feat: add Navbar|-|25/03/2024| 
+|Jemisas/<br>TripTeamOrganization/<br>FrontEnd|Main|d867e4d88f|feat: add Login y Register|-|28/03/2024| 
+|MesSobble/<br>TripTeamOrganization/<br>FrontEnd|Main|b3aabb1055|fix: colors|-|30/03/2024| 
+|Jemisas/<br>TripTeamOrganization/<br>FrontEnd|Testimonios|4524d2e6bd|feat: add Buttons|-|31/03/2024| 
+|paolovm02/<br>TripTeamOrganization/<br>FrontEnd|Testimonios|df60b4b190|feat: add Buttons Styles|-|31/03/2024| 
+|ppaolovm02/<br>TripTeamOrganization/<br>FrontEnd|Testimonios|6948049460|feat: add js|-|31/03/2024| 
+|paolovm02/<br>TripTeamOrganization/<br>FrontEnd|Testimonios|cffd774c83|feat: remove Buttons css|-|31/03/2024|
+|paolovm02/<br>TripTeamOrganization/<br>FrontEnd|Testimonios|2518c2a9dd|feat: add testimony|-|6/04/2024|
+|paolovm02/<br>TripTeamOrganization/<br>FrontEnd|Testimonios|6347a2351d|feat: add styles|-|6/04/2024| 
+|Jemisas/<br>TripTeamOrganization/<br>FrontEnd|Main|a770865894|feat: add section convenios|-|6/04/2024|
+|Leonel-Alfaro/<br>TripTeamOrganization/<br>FrontEnd|Main|3da62d2b18|feat: add section Acerca de Nosotros|-|6/04/2024|
+|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|2a64d8a75b|feat: add photos|-|6/04/2024|
+|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|70d9639e89|feat: add video|-|6/04/2024|
+|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|515d752402|feat: add deployment, convenios responsive|-|6/04/2024|
+|MesSobble/<br>TripTeamOrganization/<br>FrontEnd|Responsive|b30b72bb20|feat: add Responsive NavBar|-|6/04/2024| 
+|MesSobble/<br>TripTeamOrganization/<br>FrontEnd|Responsive|491f06fad2|fix: landing page|-|6/04/2024| 
+|MesSobble/<br>TripTeamOrganization/<br>FrontEnd|Main|491f06fad2|feat: add colors|-|6/04/2024|
+|MesSobble/<br>TripTeamOrganization/<br>FrontEnd|Main|6359222392|feat: add font styles|-|7/04/2024| 
+|Jemisas/<br>TripTeamOrganization/<br>FrontEnd|Main|878f958fea|fix: change background login and register|-|7/04/2024|
+|Jemisas/<br>TripTeamOrganization/<br>FrontEnd|Main|d600d2754e|feat: add logo on the navbar|-|7/04/2024|
 
   - 5.2.1.4. Testing Suite Evidence for Sprint Review
 
