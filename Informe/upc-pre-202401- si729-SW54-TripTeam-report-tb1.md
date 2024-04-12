@@ -587,7 +587,7 @@ Segmento objetivo 1: Familias Viajeras y Aventureras
 | **Edad:**                      | 30                                                         |
 | **Sexo:**                      | Masculino                                                  |
 | **Ocupación:**                 | Docente                                     |
-| **Entrevista:**                | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYB28shB_7290argsBfrRbPHg?e=zzCQ9c&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)       |
+| **Entrevista:**                | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYBYnfWGmR6cUkaSo8Og_I99g?e=RIgaXC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)       |
 | **Momento de inicio:**         | 0:02                                                       |
 | **Momento Fin:**                  | 3:58                                                       |
 
@@ -599,7 +599,7 @@ Segmento objetivo 1: Familias Viajeras y Aventureras
 | **Edad:**                      | 35                                                         |
 | **Sexo:**                      | Femenino                                                  |
 | **Ocupación:**                 | Cosmetóloga                                      |
-| **Entrevista:**                | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYB28shB_7290argsBfrRbPHg?e=zzCQ9c&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)       |
+| **Entrevista:**                | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYBYnfWGmR6cUkaSo8Og_I99g?e=RIgaXC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)       |
 | **Momento de inicio:**         | 3:59                                                       |
 | **Momento Fin:**                  | 8:18                                                       |
 
@@ -611,7 +611,7 @@ Segmento objetivo 1: Familias Viajeras y Aventureras
 | **Edad:**                      | 31                                                        |
 | **Sexo:**                      | Masculino                                                  |
 | **Ocupación:**                 | Electrónico                                      |
-| **Entrevista:**                | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYBkLLrqb1nS8vDVTedop1PgQ)     |
+| **Entrevista:**                | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYBYnfWGmR6cUkaSo8Og_I99g?e=RIgaXC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)     |
 | **Momento de inicio:**         | 8:19                                                       |
 | **Momento Fin:**                | 13:23                                                       |
 
@@ -625,7 +625,7 @@ Segmento objetivo 2: Viajeros de lujo
 | **Edad:**                     | 32                                                                                                                    |
 | **Sexo:**                    | Masculino                                                                                                             |
 |**Ocupación:**                | Ingeniero Aeronáutico                                                                                                 |
-| **Entrevista:**             | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYBkLLrqb1nS8vDVTedop1PgQ)                                                                   |
+| **Entrevista:**             | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYBYnfWGmR6cUkaSo8Og_I99g?e=RIgaXC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)                                                                   |
 | **Momento de inicio:**         | 13:24                                                                                                                  |
 | **Momento Fin:**                | 17:12                                                                                                                  |
 
@@ -636,7 +636,7 @@ Segmento objetivo 2: Viajeros de lujo
 | **Edad:**                      | 30                                                         |
 | **Sexo:**                      | Masculino                                                  |
 | **Ocupación:**                 | Ingeniero de sonido                                      |
-| **Entrevista:**                | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYBkLLrqb1nS8vDVTedop1PgQ)       |
+| **Entrevista:**                | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYBYnfWGmR6cUkaSo8Og_I99g?e=RIgaXC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)       |
 | **Momento de inicio:**         | 17:13                                                       |
 | **Momento Fin:**                  | 22:27                                                       |
 
@@ -647,7 +647,7 @@ Segmento objetivo 2: Viajeros de lujo
 | **Edad:**                      | 30                                                         |
 | **Sexo:**                      | Masculino                                                  |
 | **Ocupación:**                 | Ingeniero Mecánico                                        |
-| **Entrevista:**                | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYBkLLrqb1nS8vDVTedop1PgQ)      |
+| **Entrevista:**                | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYBYnfWGmR6cUkaSo8Og_I99g?e=RIgaXC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)      |
 | **Momento de inicio:**         | 22:28                                                       |
 | **Momento Fin:**                  | 26:59                                                       |
 
