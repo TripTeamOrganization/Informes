@@ -1015,12 +1015,14 @@ En cuanto a los sistemas de navegación, TripTeam ha implementado un enfoque int
     
   En este apartado, se describe la estructura del sitio de nuestro proyecto. Con el fin de proporcionar una visión más clara del contenido que estará disponible en la plataforma. Esta es una representación en forma de bosquejo para Tripmate. 
 
-  ![Imagen1](https://github.com/TripTeamOrganization/Informes/assets/89095594/c07127af-579d-4eb6-a24b-0c540b2abe0d)
-  ![Imagen2](https://github.com/TripTeamOrganization/Informes/assets/89095594/b696399b-4eec-45c6-85e2-c282b092591d)
-  ![Imagen3](https://github.com/TripTeamOrganization/Informes/assets/89095594/b4fe9e16-b1bc-4913-be0f-e02589544def)
-  ![Imagen4](https://github.com/TripTeamOrganization/Informes/assets/89095594/1cd39301-5502-4ad6-9c05-1ea10574c83c)
-  ![Imagen5](https://github.com/TripTeamOrganization/Informes/assets/89095594/ac7a845e-1da5-4557-a76d-b1c7ea0d0df1)
- ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/94b4e671-3c89-419b-8993-2faa3533e689)
+  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/292dab98-49af-41b9-af14-9b1a046fbc12)
+![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/13220fbf-25a1-47f0-9343-705c3feabd03)
+![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/b43fc739-3541-434e-8a97-08cc99d6fe8b)
+![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/fbd590ec-f83d-432c-9e0f-381077d92042)
+
+  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/a023201d-7164-4561-b81c-fb71e43e19e7)
+  
+  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/94b4e671-3c89-419b-8993-2faa3533e689)
  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/75dc159f-39e4-4fd6-9e56-f5d7d2b67c47)
  
 
@@ -1076,6 +1078,28 @@ En cuanto a los sistemas de navegación, TripTeam ha implementado un enfoque int
 ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/a970f4df-ea68-4217-a0d4-dd8789fb0f72)
 ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/31007ef2-7452-482b-97aa-42821200ed95)
   - 4.4.2. Web Applications Wireflow Diagrams
+  
+  User Goal: Como usuario nuevo, quiero poder registrarme
+
+  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/7da3ce70-c025-49ef-b9c0-df0da879d559)
+
+  User Goal: Como usuario registrado, quiero poder iniciar sesión .
+
+  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/56dda470-2af8-4f3c-9e9a-d7395d8fd0af)
+
+  User Goal: Como usuario, quiero poder planificar mi itinerario en la aplicación.
+
+  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/e5a7f786-1ba8-4708-a174-10818dd7eac6)
+
+  User Goal: Como usuario, quiero poder reservar alojamiento en la aplicación.
+
+  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/e3078681-c418-43ee-b679-ed3677b7b5f6)
+
+  User Goal: Como usuario, quiero poder explorar opciones según mis intereses y preferencias .
+
+  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/fb6d7840-9d7a-444c-a7d7-c171a891f767)
+
+
   - 4.4.3. Web Applications Mock-ups
 
 
