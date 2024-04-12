@@ -1434,7 +1434,7 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
 |Jemisas/TripTeamOrganization<br>/FrontEnd|Main|878f958fea|fix: change background login and register|-|7/04/2024|
 |Jemisas/TripTeamOrganization<br>/FrontEnd|Main|d600d2754e|feat: add logo on the navbar|-|7/04/2024|
 
-  - 5.2.X.4. Testing Suite Evidence for Sprint Review
+  - 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 
 |Repository|Branch|Commit ID|Commit Message|Commit Message <br> Body|Commited On (Date)|  
@@ -1480,7 +1480,7 @@ Descripción:
 
 Estas estrategias de prueba garantizaron la funcionalidad, la estética y la adaptabilidad de la landing page en diversos dispositivos y navegadores, contribuyendo así a una experiencia de usuario excepcional. 
 
-  - 5.2.X.5. Execution Evidence for Sprint Review
+  - 5.2.1.5. Execution Evidence for Sprint Review
     
  **Sprint 1**
 
@@ -1538,8 +1538,8 @@ Aunque se logró mucho en el Sprint 1, aún quedan algunas tareas pendientes par
 - Integrar una galería de imágenes en la sección correspondiente.
 - Realizar pruebas de rendimiento y corrección de errores menores antes del lanzamiento final.
 
-- 5.2.X.6. Services Documentation Evidence for Sprint Review
-    - 5.2.X.7. Software Deployment Evidence for Sprint Review
+- 5.2.1.6. Services Documentation Evidence for Sprint Review
+    - 5.2.1.7. Software Deployment Evidence for Sprint Review
       Para la entrega del Sprint N1, se desplego la primera versión de nuestra LandingPage, donde mostramos lo que nuestros usuarios podrán ver dentro de nuestra aplicación web, todo bug       y error presentando en esta landing será adecuadamente corregido en futuras entregas.
       ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/07a71b67-c4b5-451b-8374-56648000e121)
       ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/7eb2023b-34b1-4338-9137-822aeb84c5ca)
@@ -1551,7 +1551,7 @@ Aunque se logró mucho en el Sprint 1, aún quedan algunas tareas pendientes par
       ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/da33b279-d2e0-4ff0-a44e-ef2a57111975)
       ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/c2ffb243-94b4-41f6-a04b-8bbecc8f38c5)
 
-    - 5.2.X.8. Team Collaboration Insights during Sprint
+    - 5.2.1.8. Team Collaboration Insights during Sprint
       | Alumno                              | Actividad                                                  |
       |-------------------------------------|------------------------------------------------------------|
       | Palma Obispo, Adrián Enrique Jesús   | Implementación de la sección header de la landing page     |
