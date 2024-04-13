@@ -37,40 +37,195 @@
 <div align="justify">
 
 
-### Registro de Informes
+### Registro de versiones del informe
 
-| Versión   | Fecha       | Autor      | Descripción                                                                                      | Estado    |
-|-----------|-------------|------------|--------------------------------------------------------------------------------------------------|-----------|
-| 1.0       |  2024/03/25    |Palma Obispo, Adrián Enrique Jesús | Creación del documento de trabajo en formato markdown. | Completado  |
-| 1.1       |  2024/03/26    | Quispe Andia, Jeremy Joel | Agregar la plantilla del reporte en markdown | Completado  |
-| 1.2       |  2024/03/29    |  Espinoza Delgado, Bárbara Antonella  |Redacción del startup profile y solution profile, delimitación de segmentos objetivo, redacción de preguntas para el diseño de entrevistas |Completado|
-| 1.3       |  2024/03/22    | Quispe Andia, Jeremy Joel |Elaboración y registro de entrevistas a segmentos objetivo, análisis de entrevistas    | Completado|
-| 1.4       |  2024/03/22    | Quispe Andia, Jeremy Joel |Elaboración de user personas, user task matrix, user journey mapping, empathy mapping, as-is   | Completado |
-| 1.5       |  2024/03/24    | Martinez Villanueva, Paolo Del Carmen |Elaboración de to-be, impact mapping   | Completado |
-| 1.6       |  2024/03/25    | Martinez Villanueva, Paolo Del Carmen |Elaboración de user stories, product backlog | Completado |
-| 1.7       |  2024/03/22    | |Elaboración de prototipos de wireframes y mockups  | Pendiente |
-| 1.8       |  2024/04/02    | Espinoza Delgado, Bárbara Antonella |Redacción de style guidelines e information architecture| Completado |
-| 1.9       |  2024/03/22    | Quispe Andia, Jeremy Joel |Elaboración de diagrama de clases, diccionario de clases, diagramas de contenedores, diagramas de contexto, diagramas de componentes | Completado |
-| 2.0       |  2024/04/01    | Espinoza Delgado, Bárbara Antonella |Elaboración de diagrama de base de datos | Completado |
-| 2.1       |  2024/03/22    |Palma Obispo, Adrián Enrique Jesús |Registro de evidencias del Sprint 1 | Pendiente |
-| 2.2       |  2024/03/22    | |Rediseño de mockups. Elaboración de wireflows y user-flows| Pendiente |
-| 2.3       |  2024/04/01    | Martinez Villanueva, Paolo Del Carmen | Redacción de software configuration management, sprint planning 1, sprint backlog 1 | Completado |
-| 2.4       |  2024/03/22    | Quispe Andia, Jeremy Joel | Redacción de Collaboration Insights| Completado | 
-| 2.5       |  2024/03/22    | Palma Obispo, Adrián Enrique Jesús | Conclusiones| Completado |
+| Versión   | Fecha       | Autor      | Descripción                                                                                      | 
+|-----------|-------------|------------|--------------------------------------------------------------------------------------------------|
+| 1.0       |  2024/03/25    |Palma Obispo, Adrián Enrique Jesús | Creación del documento de trabajo en formato markdown. | 
+| 1.1       |  2024/03/26    | Quispe Andia, Jeremy Joel | Agregar la plantilla del reporte en markdown | 
+| 1.2       |  2024/03/29    |  Espinoza Delgado, Bárbara Antonella  |Redacción del startup profile y solution profile, delimitación de segmentos objetivo, redacción de preguntas para el diseño de entrevistas |
+| 1.3       |  2024/03/22    | Quispe Andia, Jeremy Joel |Elaboración y registro de entrevistas a segmentos objetivo, análisis de entrevistas    |
+| 1.4       |  2024/03/22    | Quispe Andia, Jeremy Joel |Elaboración de user personas, user task matrix, user journey mapping, empathy mapping, as-is   |
+| 1.5       |  2024/03/24    | Martinez Villanueva, Paolo Del Carmen |Elaboración de to-be, impact mapping   |
+| 1.6       |  2024/03/25    | Martinez Villanueva, Paolo Del Carmen |Elaboración de user stories, product backlog |
+| 1.7       |  2024/03/22    | Alfaro Cumba, Leonel |Elaboración de prototipos de wireframes y mockups  |
+| 1.8       |  2024/04/02    | Espinoza Delgado, Bárbara Antonella |Redacción de style guidelines e information architecture|
+| 1.9       |  2024/03/22    | Quispe Andia, Jeremy Joel |Elaboración de diagrama de clases, diccionario de clases, diagramas de contenedores, diagramas de contexto, diagramas de componentes |
+| 2.0       |  2024/04/01    | Espinoza Delgado, Bárbara Antonella |Elaboración de diagrama de base de datos |
+| 2.1       |  2024/03/22    |Palma Obispo, Adrián Enrique Jesús |Registro de evidencias del Sprint 1 |
+| 2.2       |  2024/03/22    |Alfaro Cumba, Leonel|Rediseño de mockups. Elaboración de wireflows y user-flows|
+| 2.3       |  2024/04/01    | Martinez Villanueva, Paolo Del Carmen | Redacción de software configuration management, sprint planning 1, sprint backlog 1 |
+| 2.4       |  2024/03/22    | Quispe Andia, Jeremy Joel | Redacción de Collaboration Insights| 
+| 2.5       |  2024/03/22    | Palma Obispo, Adrián Enrique Jesús | Conclusiones|
 
 
 
 ### Project Report Collaboration Insights
 
-
+| Integrante                            | Tareas Designadas       |
+|-----------------------------------|--------------|
+| Adrián Enrique Jesús Palma Obispo| Creación de la base de la Landing, Capítulo V, Conclusiones y Tabla de Testing Evidence |
+| Bárbara Antonella Espinoza Delgado | Capitulo I, Capitulo V, Diagrama BDD, Bibliografía, Implementar Responsive y Guia de estilos|
+| Jeremy Joel Quispe Andia         | Capitulo V, Capitulo II, Implementar Convenios a la landing page, elaborar figma, anexos, acceptance test e informe de participación|
+| Leonel Alfaro Cumba    | Capitulo IV, implementación de la sección Acerca de, video explicativo del prototipo|
+| Paolo Del Carmen Martinez Villanueva | Capitulo III, implementar sección de testimonios, Capitulo V y elaboracion de seccion de itinerario y carrito en Figma|
 
 
 ### Tabla de contenidos
+
 - [Capítulo I: Introducción](#cap%C3%ADtulo-i-introducci%C3%B3n)
+  
+  - 1.1. Startup Profile
+  
+  - 1.1.1. Descripción de la Startup
+  
+  - 1.1.2. Perfiles de integrantes del equipo
+  
+  - 1.2. Solution Profile
+  
+  - 1.2.1 Antecedentes y problemática
+  
+  - 1.2.2 Lean UX Process.
+  
+  - 1.2.2.1. Lean UX Problem Statements.
+  
+  - 1.2.2.2. Lean UX Assumptions.
+  
+  - 1.2.2.3. Lean UX Hypothesis Statements.
+  
+  - 1.2.2.4. Lean UX Canvas.
+  
+  - 1.3. Segmentos objetivo.
+
 - [Capítulo II: Requirements Elicitation & Analysis](#cap%C3%ADtulo-ii-requirements-elicitation--analysis)
+
+  - 2.1. Competidores.
+  
+  - 2.1.1. Análisis competitivo.
+  
+  - 2.1.2. Estrategias y tácticas frente a competidores.
+  
+  - 2.2. Entrevistas.
+  
+  - 2.2.1. Diseño de entrevistas.
+  
+  - 2.2.2. Registro de entrevistas.
+  
+  - 2.2.3. Análisis de entrevistas.
+  
+  - 2.3. Needfinding.
+  
+  - 2.3.1. User Personas.
+  
+  - 2.3.2. User Task Matrix.
+  
+  - 2.3.3. User Journey Mapping.
+  
+  - 2.3.4. Empathy Mapping.
+  
+  - 2.3.5. As-is Scenario Mapping.
+  
+  - 2.4. Ubiquitous Language.
+  
 - [Capítulo III: Requirements Specification](#cap%C3%ADtulo-iii-requirements-specification)
+
+  - 3.1. To-Be Scenario Mapping.
+  
+  - 3.2. User Stories.
+  
+  - 3.3. Impact Mapping.
+  
+  - 3.4. Product Backlog.
+  
 - [Capítulo IV: Product Design](#cap%C3%ADtulo-iv-product-design)
+
+  - 4.1. Style Guidelines.
+  
+  - 4.1.1. General Style Guidelines.
+  
+  - 4.1.2. Web Style Guidelines.
+  
+  - 4.2. Information Architecture.
+  
+  - 4.2.1. Organization Systems.
+  
+  - 4.2.2. Labeling Systems.
+  
+  - 4.2.3. SEO Tags and Meta Tags.
+  
+  - 4.2.4. Searching Systems.
+  
+  - 4.2.5. Navigation Systems.
+  
+  - 4.3. Landing Page UI Design.
+  
+  - 4.3.1. Landing Page Wireframe.
+  
+  - 4.3.2. Landing Page Mock-up.
+  
+  - 4.4. Web Applications UX/UI Design.
+  
+  - 4.4.1. Web Applications Wireframes.
+  
+  - 4.4.2. Web Applications Wireflow Diagrams.
+  
+  - 4.4.2. Web Applications Mock-ups.
+  
+  - 4.4.3. Web Applications User Flow Diagrams.
+  
+  - 4.5. Web Applications Prototyping.
+  
+  - 4.6. Domain-Driven Software Architecture.
+  
+  - 4.6.1. Software Architecture Context Diagram.
+  
+  - 4.6.2. Software Architecture Container Diagrams.
+  
+  - 4.6.3. Software Architecture Components Diagrams.
+  
+  - 4.7. Software Object-Oriented Design.
+  
+  - 4.7.1. Class Diagrams.
+  
+  - 4.7.2. Class Dictionary.
+  
+  - 4.8. Database Design.
+  
+  - 4.8.1. Database Diagram.
+  
 - [Capítulo V: Product Implementation, Validation & Deployment](#cap%C3%ADtulo-v-product-implementation-validation--deployment)
+
+  - 5.1. Software Configuration Management.
+  
+  - 5.1.1. Software Development Environment Configuration.
+  
+  - 5.1.2. Source Code Management.
+  
+  - 5.1.3. Source Code Style Guide & Conventions.
+  
+  - 5.1.4. Software Deployment Configuration.
+  
+  - 5.2. Landing Page, Services & Applications Implementation.
+  
+  - 5.2.1. Sprint 1
+  
+  - 5.2.1.1. Sprint Planning 1.
+  
+  - 5.2.1.2. Sprint Backlog 1.
+  
+  - 5.2.1.3. Development Evidence for Sprint Review.
+  
+  - 5.2.1.4. Testing Suite Evidence for Sprint Review.
+  
+  - 5.2.1.5. Execution Evidence for Sprint Review.
+  
+  - 5.2.1.6. Services Documentation Evidence for Sprint Review.
+  
+  - 5.2.1.7. Software Deployment Evidence for Sprint Review.
+  
+  - 5.2.1.8. Team Collaboration Insights during Sprint.
+    
+  - Avance de Conclusiones, Bibliografía y Anexos.
 
 ### Student Outcome  
 El curso contribuye al cumplimiento del Student Outcome ABET: ABET – EAC - Student Outcome 3
@@ -373,6 +528,7 @@ Estos competidores, al igual que TripMate, están enfocados en proporcionar solu
   - 2.1.1. Análisis competitivo
         
 <table><tr><th colspan="2" valign="top">Nombre</th><th valign="top"><b>TripMate</b></th><th valign="top">TripIt</th><th valign="top">Expedia</th><th valign="top">Airbnb</th></tr>
+<tr><td colspan="2" valign="top"><p>Logo</p><p> </p></td><td valign="top"><img src="https://github.com/TripTeamOrganization/Informes/assets/134337719/48281f8a-7867-4761-82e6-e572d58b9847" alt="Imagen" style="width: 200px;"></td><td valign="top"><img src="https://github.com/TripTeamOrganization/Informes/assets/134337719/2b34d567-90b6-4dcf-bcf9-06a830fcd63a" alt="Imagen" style="width: 200px;"></td><td valign="top"><img src="https://github.com/TripTeamOrganization/Informes/assets/134337719/f9ed2fea-e379-444a-afc5-e0e46bcb5ca3" alt="Imagen" style="width: 200px;"> </td><td valign="top"><img src="https://github.com/TripTeamOrganization/Informes/assets/134337719/0c1bf934-65fc-4994-8653-418d219af603" alt="Imagen" style="width: 200px;"> </td></tr>
 <tr><td rowspan="2" valign="top">Perfil</td><td valign="top">Overview</td><td valign="top"><p>TripMate es una aplicación móvil innovadora que simplifica la planificación y gestión de viajes. Permite crear itinerarios personalizados con recomendaciones locales, reservar alojamiento y actividades fácilmente, y acceder a descuentos exclusivos. </p><p></p></td><td valign="top">TripIt es una aplicación que simplifica la organización de viajes al consolidar todos los detalles del mismo, como vuelos, alojamiento y actividades, en un solo lugar. Automáticamente crea itinerarios detallados a partir de los correos electrónicos de confirmación de reserva que los usuarios envían, facilitando la planificación del viaje. </td><td valign="top">Expedia es una plataforma líder para reservar vuelos, alojamiento, alquiler de coches y actividades en todo el mundo. Ofrece una amplia gama de opciones y precios competitivos, junto con ofertas exclusivas para usuarios registrados. </td><td valign="top">Airbnb es una plataforma de alojamiento que brinda una diversa selección de hospedaje, desde apartamentos y casas privadas hasta habitaciones compartidas y experiencias únicas. Los usuarios pueden buscar y reservar alojamiento en todo el mundo, y también participar en experiencias locales organizadas por anfitriones.</td></tr>
 <tr><td valign="top">Ventaja competitiva ¿Que valor ofrecemos a los clientes?</td><td valign="top">La ventaja competitiva de TripMate se basa en su enfoque integral y eficiente para la planificación de viajes, que ofrece itinerarios personalizados con recomendaciones locales, reserva fácil de alojamiento y actividades, descuentos exclusivos, notificaciones en tiempo real y una función de compartir experiencias.</td><td valign="top">La ventaja competitiva de TripIt es su capacidad para simplificar la organización de viajes al consolidar todos los detalles en un solo lugar. Su característica distintiva de crear itinerarios automáticos a partir de correos electrónicos de confirmación de reserva ahorra tiempo y esfuerzo al usuario. </td><td valign="top">Expedia ofrece a los clientes la conveniencia de buscar y reservar vuelos, alojamiento, alquiler de coches y actividades en un solo lugar, con una amplia gama de opciones y precios competitivos. Además, proporciona ofertas exclusivas para usuarios registrados y una función de itinerario de viaje para organizar y gestionar todos los aspectos del viaje desde una sola plataforma.</td><td valign="top">La ventaja competitiva de Airbnb radica en ofrecer a los clientes una amplia gama de opciones de alojamiento únicas y auténticas, desde apartamentos y casas privadas hasta habitaciones compartidas y experiencias locales.</td></tr>
 <tr><td valign="top">Plan de marketing</td><td valign="top">Mercado objetivo</td><td valign="top"><p>` `Familias Viajeras y Aventureras y viajeros de lujo</p><p></p><p></p></td><td valign="top">Viajeros frecuentes, tanto de negocios como de placer.</td><td valign="top">Turistas que buscan vacaciones como a viajeros de negocios que necesitan organizar sus desplazamientos.</td><td valign="top">El mercado objetivo de Airbnb son viajeros que buscan experiencias de alojamiento únicas y auténticas en destinos de todo el mundo.</td></tr>
@@ -438,7 +594,7 @@ Segmento objetivo 1: Familias Viajeras y Aventureras
 | **Edad:**                      | 30                                                         |
 | **Sexo:**                      | Masculino                                                  |
 | **Ocupación:**                 | Docente                                     |
-| **Entrevista:**                | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYB28shB_7290argsBfrRbPHg?e=zzCQ9c&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)       |
+| **Entrevista:**                | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYBYnfWGmR6cUkaSo8Og_I99g?e=RIgaXC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)       |
 | **Momento de inicio:**         | 0:02                                                       |
 | **Momento Fin:**                  | 3:58                                                       |
 
@@ -450,7 +606,7 @@ Segmento objetivo 1: Familias Viajeras y Aventureras
 | **Edad:**                      | 35                                                         |
 | **Sexo:**                      | Femenino                                                  |
 | **Ocupación:**                 | Cosmetóloga                                      |
-| **Entrevista:**                | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYB28shB_7290argsBfrRbPHg?e=zzCQ9c&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)       |
+| **Entrevista:**                | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYBYnfWGmR6cUkaSo8Og_I99g?e=RIgaXC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)       |
 | **Momento de inicio:**         | 3:59                                                       |
 | **Momento Fin:**                  | 8:18                                                       |
 
@@ -462,7 +618,7 @@ Segmento objetivo 1: Familias Viajeras y Aventureras
 | **Edad:**                      | 31                                                        |
 | **Sexo:**                      | Masculino                                                  |
 | **Ocupación:**                 | Electrónico                                      |
-| **Entrevista:**                | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYBkLLrqb1nS8vDVTedop1PgQ)     |
+| **Entrevista:**                | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYBYnfWGmR6cUkaSo8Og_I99g?e=RIgaXC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)     |
 | **Momento de inicio:**         | 8:19                                                       |
 | **Momento Fin:**                | 13:23                                                       |
 
@@ -476,7 +632,7 @@ Segmento objetivo 2: Viajeros de lujo
 | **Edad:**                     | 32                                                                                                                    |
 | **Sexo:**                    | Masculino                                                                                                             |
 |**Ocupación:**                | Ingeniero Aeronáutico                                                                                                 |
-| **Entrevista:**             | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYBkLLrqb1nS8vDVTedop1PgQ)                                                                   |
+| **Entrevista:**             | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYBYnfWGmR6cUkaSo8Og_I99g?e=RIgaXC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)                                                                   |
 | **Momento de inicio:**         | 13:24                                                                                                                  |
 | **Momento Fin:**                | 17:12                                                                                                                  |
 
@@ -487,7 +643,7 @@ Segmento objetivo 2: Viajeros de lujo
 | **Edad:**                      | 30                                                         |
 | **Sexo:**                      | Masculino                                                  |
 | **Ocupación:**                 | Ingeniero de sonido                                      |
-| **Entrevista:**                | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYBkLLrqb1nS8vDVTedop1PgQ)       |
+| **Entrevista:**                | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYBYnfWGmR6cUkaSo8Og_I99g?e=RIgaXC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)       |
 | **Momento de inicio:**         | 17:13                                                       |
 | **Momento Fin:**                  | 22:27                                                       |
 
@@ -498,7 +654,7 @@ Segmento objetivo 2: Viajeros de lujo
 | **Edad:**                      | 30                                                         |
 | **Sexo:**                      | Masculino                                                  |
 | **Ocupación:**                 | Ingeniero Mecánico                                        |
-| **Entrevista:**                | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYBkLLrqb1nS8vDVTedop1PgQ)      |
+| **Entrevista:**                | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYBYnfWGmR6cUkaSo8Og_I99g?e=RIgaXC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)      |
 | **Momento de inicio:**         | 22:28                                                       |
 | **Momento Fin:**                  | 26:59                                                       |
 
@@ -578,12 +734,15 @@ Segmento objetivo 2: Martin Casanova
 ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/7baacfc6-3819-4067-ae7d-e808e68230fd)
 
 - 2.3.4. Empathy Mapping
+  
 En esta sección se expone el Mapeo de Empatía de nuestros dos segmentos objetivos. Esta técnica se empleó para identificar a nuestra audiencia objetivo, comprender su contexto y sus necesidades, lo que nos permite entender su perspectiva y visión del mundo.
 
 Segmento objetivo 1: Julia Nuñez
+
 ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/96253bbc-28eb-46b1-badc-9b08939d9da4)
 
 Segmento objetivo 2: Martin Casanova
+
 ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/0b9d748d-d567-4210-a2fe-86e4f829b8db)
 
 
@@ -866,12 +1025,14 @@ En cuanto a los sistemas de navegación, TripTeam ha implementado un enfoque int
     
   En este apartado, se describe la estructura del sitio de nuestro proyecto. Con el fin de proporcionar una visión más clara del contenido que estará disponible en la plataforma. Esta es una representación en forma de bosquejo para Tripmate. 
 
-  ![Imagen1](https://github.com/TripTeamOrganization/Informes/assets/89095594/c07127af-579d-4eb6-a24b-0c540b2abe0d)
-  ![Imagen2](https://github.com/TripTeamOrganization/Informes/assets/89095594/b696399b-4eec-45c6-85e2-c282b092591d)
-  ![Imagen3](https://github.com/TripTeamOrganization/Informes/assets/89095594/b4fe9e16-b1bc-4913-be0f-e02589544def)
-  ![Imagen4](https://github.com/TripTeamOrganization/Informes/assets/89095594/1cd39301-5502-4ad6-9c05-1ea10574c83c)
-  ![Imagen5](https://github.com/TripTeamOrganization/Informes/assets/89095594/ac7a845e-1da5-4557-a76d-b1c7ea0d0df1)
- ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/94b4e671-3c89-419b-8993-2faa3533e689)
+  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/292dab98-49af-41b9-af14-9b1a046fbc12)
+![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/13220fbf-25a1-47f0-9343-705c3feabd03)
+![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/b43fc739-3541-434e-8a97-08cc99d6fe8b)
+![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/fbd590ec-f83d-432c-9e0f-381077d92042)
+
+  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/a023201d-7164-4561-b81c-fb71e43e19e7)
+  
+  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/94b4e671-3c89-419b-8993-2faa3533e689)
  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/75dc159f-39e4-4fd6-9e56-f5d7d2b67c47)
  
 
@@ -905,12 +1066,8 @@ En cuanto a los sistemas de navegación, TripTeam ha implementado un enfoque int
 
    ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/b6b6ae74-ff7d-4905-ae9a-15f283d65e2c)
 
-
-   
-
-
   
-   https://www.figma.com/file/2eL1Zj6N0ULup3L12N3imY/Leo%27s-team-library?type%3Ddesign%26node-id%3D0-1%26mode%3Ddesign%26t%3DCXLIiwbDD1OiPXhC-0
+   Link del figma: [Ver enlace](https://www.figma.com/file/2eL1Zj6N0ULup3L12N3imY/Leo%27s-team-library?type%3Ddesign%26node-id%3D0-1%26mode%3Ddesign%26t%3DCXLIiwbDD1OiPXhC-0)
  
 
 - 4.4. Web Applications UX/UI Design
@@ -927,6 +1084,28 @@ En cuanto a los sistemas de navegación, TripTeam ha implementado un enfoque int
 ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/a970f4df-ea68-4217-a0d4-dd8789fb0f72)
 ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/31007ef2-7452-482b-97aa-42821200ed95)
   - 4.4.2. Web Applications Wireflow Diagrams
+  
+  User Goal: Como usuario nuevo, quiero poder registrarme
+
+  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/7da3ce70-c025-49ef-b9c0-df0da879d559)
+
+  User Goal: Como usuario registrado, quiero poder iniciar sesión .
+
+  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/56dda470-2af8-4f3c-9e9a-d7395d8fd0af)
+
+  User Goal: Como usuario, quiero poder planificar mi itinerario en la aplicación.
+
+  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/e5a7f786-1ba8-4708-a174-10818dd7eac6)
+
+  User Goal: Como usuario, quiero poder reservar alojamiento en la aplicación.
+
+  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/e3078681-c418-43ee-b679-ed3677b7b5f6)
+
+  User Goal: Como usuario, quiero poder explorar opciones según mis intereses y preferencias .
+
+  ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/fb6d7840-9d7a-444c-a7d7-c171a891f767)
+
+
   - 4.4.3. Web Applications Mock-ups
 
 
@@ -1003,25 +1182,39 @@ En cuanto a los sistemas de navegación, TripTeam ha implementado un enfoque int
 
    ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/d372f674-6206-48b9-a65b-75a04b0b9e74)
 
-   https://www.figma.com/file/0Y5muw10u8AJ8yd0atXYWb/Web-App-TripMate?type=design&node-id=0-1&mode=design&t=t3QYABOFRd1TQ2aw-0
+   Link del figma: [Ver enlace](https://www.figma.com/file/0Y5muw10u8AJ8yd0atXYWb/Web-App-TripMate?type=design&node-id=0-1&mode=design&t=t3QYABOFRd1TQ2aw-0)
+
+  Link del video de explicación: [Ver enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EUuGU8D42A9Hts47QaVwvuAB-oC-0f1mD9HXSP7yvrRq1Q?e=Xf6lwj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+  ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/bc1fd366-3445-4cd8-8223-a0a9e38a4f13)
+
+
    
-- 4.6. Domain-Driven Software Architecture
+  **4.6. Domain-Driven Software Architecture**
   - 4.6.1. Software Architecture Context Diagram
   
   
-   ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/249ba48d-ab33-4e72-b479-43b4c6910565)
+ ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/249ba48d-ab33-4e72-b479-43b4c6910565)
 
-  - 4.6.2. Software Architecture Container Diagrams
+- 4.6.2. Software Architecture Container Diagrams
+
+ **Container Diagram elaborado para los usuarios:**
+
+![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/e4781115-cfae-4325-820f-dd383101304d)
+
+Enlace para acceder al Diagram [Ver enlace](https://structurizr.com/dsl)
   
-   **Container Diagram elaborado para los usuarios:**
-  ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/e4781115-cfae-4325-820f-dd383101304d)
-  
-   **Container Diagram elaborado para los administradores:**
-  ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/29eb4b8d-08b2-4c6a-bdee-2baa9b084e3f)
+**Container Diagram elaborado para los administradores:**
+
+![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/29eb4b8d-08b2-4c6a-bdee-2baa9b084e3f)
+
+Enlace para acceder al Diagram [Ver enlace](https://structurizr.com/dsl)
 
   - 4.6.3. Software Architecture Components Diagrams
 
-![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/f2877233-5baf-4816-a7c6-57337817b2dc)
+  ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/f2877233-5baf-4816-a7c6-57337817b2dc)
+
+   Enlace para acceder al Diagram [Ver enlace](https://structurizr.com/dsl)
 
 - 4.7. Software Object-Oriented Design
   - 4.7.1. Class Diagrams
@@ -1119,48 +1312,68 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
 - 5.1. Software Configuration Management
   - 5.1.1. Software Development Environment Configuration
 
-    **Requirements Management**
+**Requirements Management**
 
-      1. **Miro:** Plataforma en línea que permite la colaboración en tiempo real a través de pizarras digitales. Ofrece herramientas para la creación de diagramas, mapas mentales, diagramas de flujo, y más. En este caso, utilizamos Miro para la elaboración de As-Is y To-Be Scenarios Mapping.
+1. **Miro:** Plataforma en línea que permite la colaboración en tiempo real a través de pizarras digitales. Ofrece herramientas para la creación de diagramas, mapas mentales, diagramas de flujo, y más. En este caso, utilizamos Miro para la elaboración de As-Is y To-Be Scenarios Mapping.
 
-      ![image](https://github.com/TripTeamOrganization/Informes/assets/164519824/c6a157d4-5891-4df6-9a52-4155c04d3c37)
+    <p align="center">
+        <img src="https://github.com/TripTeamOrganization/Informes/assets/164519824/c6a157d4-5891-4df6-9a52-4155c04d3c37" alt="image" width="150" height="150">
+    </p>
 
-      2. **UXPressia:** Herramienta especializada en la creación de mapas de impacto de experiencia de usuario (UX). En este caso, utilizamos UXPressia para la elaboración del Impact Mapping para cada segmento objetivo.
+2. **UXPressia:** Herramienta especializada en la creación de mapas de impacto de experiencia de usuario (UX). En este caso, utilizamos UXPressia para la elaboración del Impact Mapping para cada segmento objetivo.
 
-      ![image](https://github.com/TripTeamOrganization/Informes/assets/164519824/8337a3ad-5689-4f7c-9a67-1b7f6df8d95b)
+    <p align="center">
+        <img src="https://github.com/TripTeamOrganization/Informes/assets/164519824/8337a3ad-5689-4f7c-9a67-1b7f6df8d95b" alt="image" width="150" height="150">
+    </p>
 
-      3. **Figma:** Herramienta de diseño de interfaces de usuario (UI) y prototipado colaborativo basada en la nube. En este caso, utilizamos Figma para la elaboración del prototipo de la aplicación.
+3. **Figma:** Herramienta de diseño de interfaces de usuario (UI) y prototipado colaborativo basada en la nube. En este caso, utilizamos Figma para la elaboración del prototipo de la aplicación.
 
-      ![image](https://github.com/TripTeamOrganization/Informes/assets/164519824/c4a55064-caee-464b-bdd8-908578c23e5f)
+    <p align="center">
+        <img src="https://github.com/TripTeamOrganization/Informes/assets/164519824/c4a55064-caee-464b-bdd8-908578c23e5f" alt="image" width="150" height="150">
+    </p>
 
-      4. **PivotalTracker**: Herramienta de gestión de proyectos basada en tableros. En este caso, utilizamos PivotalTracker para visualizar y actualizar el estado de las tareas e historias de usuario pertenecientes al sprint a desarrollar.
+4. **PivotalTracker:** Herramienta de gestión de proyectos basada en tableros. En este caso, utilizamos PivotalTracker para visualizar y actualizar el estado de las tareas e historias de usuario pertenecientes al sprint a desarrollar.
 
-      ![image](https://github.com/TripTeamOrganization/Informes/assets/164519824/0b140fca-5e55-4f15-ab6a-3b0a2aff2291)
+    <p align="center">
+        <img src="https://github.com/TripTeamOrganization/Informes/assets/164519824/0b140fca-5e55-4f15-ab6a-3b0a2aff2291" alt="image" width="150" height="150">
+    </p>
 
-      **Software Development**
+**Software Development**
 
-      1. **Visual Studio Code:** Editor de código fuente desarrollado por Microsoft que ofrece una amplia gama de funcionalidades para programadores. En este caso, utilizamos Visual Studio Code como nuestro entorno de desarrollo integrado principal para escribir, editar y depurar el código HTML y CSS de nuestro proyecto.
+1. **Visual Studio Code:** Editor de código fuente desarrollado por Microsoft que ofrece una amplia gama de funcionalidades para programadores. En este caso, utilizamos Visual Studio Code como nuestro entorno de desarrollo integrado principal para escribir, editar y depurar el código HTML y CSS de nuestro proyecto.
 
-      ![image](https://github.com/TripTeamOrganization/Informes/assets/164519824/4e2f9613-5067-4294-89e2-e3426ca7605a)
+    <p align="center">
+        <img src="https://github.com/TripTeamOrganization/Informes/assets/164519824/4e2f9613-5067-4294-89e2-e3426ca7605a" alt="image" width="150" height="150">
+    </p>
 
-      2. **HTML:** HTML (Hypertext Markup Language) es el lenguaje estándar utilizado para crear y diseñar páginas web. En este caso, utilizamos el lenguaje HTML para la creación y presentación de nuestra página web.
+2. **HTML:** HTML (Hypertext Markup Language) es el lenguaje estándar utilizado para crear y diseñar páginas web. En este caso, utilizamos el lenguaje HTML para la creación y presentación de nuestra página web.
 
-      ![image](https://github.com/TripTeamOrganization/Informes/assets/164519824/d4a632ca-5dc9-4c77-b51a-3d1839e5476b)
+    <p align="center">
+        <img src="https://github.com/TripTeamOrganization/Informes/assets/164519824/d4a632ca-5dc9-4c77-b51a-3d1839e5476b" alt="image" width="150" height="150">
+    </p>
 
-      3. **CSS:** CSS (Cascading Style Sheets) es un lenguaje de diseño utilizado para estilizar la presentación de documentos HTML.
+3. **CSS:** CSS (Cascading Style Sheets) es un lenguaje de diseño utilizado para estilizar la presentación de documentos HTML.
 
-      ![image](https://github.com/TripTeamOrganization/Informes/assets/164519824/2ff3321a-5c8f-4dc9-804e-cd6fa4027417)
+    <p align="center">
+        <img src="https://github.com/TripTeamOrganization/Informes/assets/164519824/2ff3321a-5c8f-4dc9-804e-cd6fa4027417" alt="image" width="150" height="150">
+    </p>
 
-      4. **GitHub:** Plataforma de desarrollo colaborativo basada en la nube que utiliza el sistema de control de versiones Git. Permite a los desarrolladores alojar, revisar y colaborar en proyectos de software. En este caso, utilizamos GitHub como un repositorio remoto para almacenar y gestionar el código fuente de nuestro proyecto.
+4. **GitHub:** Plataforma de desarrollo colaborativo basada en la nube que utiliza el sistema de control de versiones Git. Permite a los desarrolladores alojar, revisar y colaborar en proyectos de software. En este caso, utilizamos GitHub como un repositorio remoto para almacenar y gestionar el código fuente de nuestro proyecto.
 
-      ![image](https://github.com/TripTeamOrganization/Informes/assets/164519824/80bc9459-2cdd-40de-851b-d23d9eb62d4b)
+    <p align="center">
+        <img src="https://github.com/TripTeamOrganization/Informes/assets/164519824/80bc9459-2cdd-40de-851b-d23d9eb62d4b" alt="image" width="150" height="150">
+    </p>
 
+5. **Netlify:** Plataforma de alojamiento y despliegue web que simplifica el proceso de implementación de sitios y aplicaciones web. Con Netlify, podemos implementar nuestra aplicación directamente desde nuestro repositorio de GitHub con solo unos pocos clics, lo que facilita la implementación continua y la administración del ciclo de vida de nuestra aplicación web.
 
-  - 5.1.2. Source Code Management
+    <p align="center">
+        <img src="https://github.com/TripTeamOrganization/Informes/assets/48342953/6380c8be-fa87-4b5a-a5a7-f93a75fc7aec" alt="image" width="150" height="150">
+    </p>
+Source Code Management
 
-    Para todo el ciclo de vida de nuestro proyecto, utilizaremos el sistema de control de versiones Git donde la evidencia será visualizada y registrada en la plataforma de GitHub de nuestra organización. Se podrá visualizar todos los cambios y modificaciones hechos por cada uno de los miembros del grupo. 
+Para todo el ciclo de vida de nuestro proyecto, utilizaremos el sistema de control de versiones Git donde la evidencia será visualizada y registrada en la plataforma de GitHub de nuestra organización. Se podrá visualizar todos los cambios y modificaciones hechos por cada uno de los miembros del grupo. 
 
-    GitHub URL: https://github.com/TripTeamOrganization 
+GitHub URL: https://github.com/TripTeamOrganization 
 
   - 5.1.3. Source Code Style Guide & Conventions
   
@@ -1224,128 +1437,58 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
     | :- | :- | :- | :- | :- | :- | :- | :- |
     |User Story|Work-Item / Task|||||||
     |Id|Title|Id|Title|Description|Estimation (Hours)|Assigned To|Status (To-do / In-Process / To-Review / Done)|
-    |US26|Visualizar features de la aplicación|W-01|Features|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar todos las funcionalidades y servicios que brinda TripMate</p><p>**Para** entender el uso de la aplicación</p>|3 hours|**Adrian Palma**|Done|
-    |US27|Sección “Acerca de nosotros”|W-02|Sección “Acerca de Nosotros**”**|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar una sección que me informe sobre el startup</p><p>**Para** conocer al equipo de TripMate y su propósito</p>|3 hours|**Leonel Alfaro**|Done|
-    |US28|Sección “Convenios”|W-03|Sección “Convenios”|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar los convenios que tiene TripMate</p><p>**Para** conocer las distintas empresas asociadas</p>|3 hours|**Jeremy Quispe**|Done|
-    |US29|Sección “Testimonios”|W-04|Sección “Testimonios”|<p>**Como** visitante del landing page</p><p>**Quiero** poder ver testimonios y experiencias de otros usuarios</p><p>**Para** conocer la opinión del público sobre TripMate</p>|3 hours|**Paolo Martinez**|Done|
-    |US30|Acceder desde cualquier dispositivo a la landing page|W-05|Accesibilidad|<p>**Como** visitante del landing page</p><p>**Quiero** que sea accesible desde diferentes dispositivos </p><p>**Para** poder ingresar al sitio web desde cualquier dispositivo</p>|3 hours|**Bárbara Espinoza**|Done|
+    |US20|Visualizar features de la aplicación|W-01|Features|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar todos las funcionalidades y servicios que brinda TripMate</p><p>**Para** entender el uso de la aplicación</p>|3 hours|**Adrian Palma**|Done|
+    |US21|Sección “Acerca de nosotros”|W-02|Sección “Acerca de Nosotros**”**|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar una sección que me informe sobre el startup</p><p>**Para** conocer al equipo de TripMate y su propósito</p>|3 hours|**Leonel Alfaro**|Done|
+    |US22|Sección “Convenios”|W-03|Sección “Convenios”|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar los convenios que tiene TripMate</p><p>**Para** conocer las distintas empresas asociadas</p>|3 hours|**Jeremy Quispe**|Done|
+    |US23|Sección “Testimonios”|W-04|Sección “Testimonios”|<p>**Como** visitante del landing page</p><p>**Quiero** poder ver testimonios y experiencias de otros usuarios</p><p>**Para** conocer la opinión del público sobre TripMate</p>|3 hours|**Paolo Martinez**|Done|
+    |US24|Acceder desde cualquier dispositivo a la landing page|W-05|Accesibilidad|<p>**Como** visitante del landing page</p><p>**Quiero** que sea accesible desde diferentes dispositivos </p><p>**Para** poder ingresar al sitio web desde cualquier dispositivo</p>|3 hours|**Bárbara Espinoza**|Done|
 
 
 
 
   - 5.2.1.3. Development Evidence for Sprint Review
     
-|Repository|Branch|Commit ID|Commit Message|Commit Message <br> Body|Commited On (Date)|  
+|Repository|Branch|Commit ID|Commit Message|Commit Message <br> Body|Commited<br>On (Date)|  
 |----------|------|---------|--------------|-------------------|------------------|
-|Jemisas/TripTeamOrganization<br>/FrontEnd|Main|f2dd6d8731|feat: add Initial Commit|-|23/03/2024| 
-|Jemisas/TripTeamOrganization<br>/FrontEnd|Main|674d37b56c|feat: add Images|-|23/03/2024| 
-|APOGamer/TripTeamOrganization<br>/FrontEnd|Main|47bef22291|feat: add Button|-|23/03/2024| 
-|APOGamer/TripTeamOrganization<br>/FrontEnd|Main|2a836c499e|feat: add Navbar|-|25/03/2024| 
-|Jemisas/TripTeamOrganization<br>/FrontEnd|Main|d867e4d88f|feat: add Login y Register|-|28/03/2024| 
-|MesSobble/TripTeamOrganization<br>/FrontEnd|Main|b3aabb1055|fix: colors|-|30/03/2024| 
-|Jemisas/TripTeamOrganization<br>/FrontEnd|Testimonios|4524d2e6bd|feat: add Buttons|-|31/03/2024| 
-|Paolovm02/TripTeamOrganization<br>/FrontEnd|Testimonios|df60b4b190|feat: add Buttons Styles|-|31/03/2024| 
-|Paolovm02/TripTeamOrganization<br>/FrontEnd|Testimonios|6948049460|feat: add js|-|31/03/2024| 
-|Paolovm02/TripTeamOrganization<br>/FrontEnd|Testimonios|cffd774c83|feat: remove Buttons css|-|31/03/2024|
-|Paolovm02/TripTeamOrganization<br>/FrontEnd|Testimonios|2518c2a9dd|feat: add testimony|-|6/04/2024|
-|Paolovm02/TripTeamOrganization<br>/FrontEnd|Testimonios|6347a2351d|feat: add styles|-|6/04/2024| 
-|Jemisas/TripTeamOrganization<br>/FrontEnd|Main|a770865894|feat: add section convenios|-|6/04/2024|
-|Leonel-Alfaro/TripTeamOrganization<br>/FrontEnd|Main|3da62d2b18|feat: add section Acerca de Nosotros|-|6/04/2024|
-|APOGamer/TripTeamOrganization<br>/FrontEnd|Main|2a64d8a75b|feat: add photos|-|6/04/2024|
-|APOGamer/TripTeamOrganization<br>/FrontEnd|Main|70d9639e89|feat: add video|-|6/04/2024|
-|APOGamer/TripTeamOrganization<br>/FrontEnd|Main|515d752402|feat: add deployment, convenios responsive|-|6/04/2024|
-|MesSobble/TripTeamOrganization<br>/FrontEnd|Responsive|b30b72bb20|feat: add Responsive NavBar|-|6/04/2024| 
-|MesSobble/TripTeamOrganization<br>/FrontEnd|Responsive|491f06fad2|fix: landing page|-|6/04/2024| 
-|MesSobble/TripTeamOrganization<br>/FrontEnd|Main|491f06fad2|feat: add colors|-|6/04/2024|
-|MesSobble/TripTeamOrganization<br>/FrontEnd|Main|6359222392|feat: add font styles|-|7/04/2024| 
-|Jemisas/TripTeamOrganization<br>/FrontEnd|Main|878f958fea|fix: change background login and register|-|7/04/2024|
-|Jemisas/TripTeamOrganization<br>/FrontEnd|Main|d600d2754e|feat: add logo on the navbar|-|7/04/2024|
+|Jemisas/<br>TripTeamOrganization/<br>FrontEnd|Main|f2dd6d8731|feat: add Initial Commit|-|23/03/2024| 
+|Jemisas/<br>TripTeamOrganization/<br>FrontEnd|Main|674d37b56c|feat: add Images|-|23/03/2024| 
+|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|47bef22291|feat: add Button|-|23/03/2024| 
+|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|2a836c499e|feat: add Navbar|-|25/03/2024| 
+|Jemisas/<br>TripTeamOrganization/<br>FrontEnd|Main|d867e4d88f|feat: add Login y Register|-|28/03/2024| 
+|MesSobble/<br>TripTeamOrganization/<br>FrontEnd|Main|b3aabb1055|fix: colors|-|30/03/2024| 
+|Jemisas/<br>TripTeamOrganization/<br>FrontEnd|Testimonios|4524d2e6bd|feat: add Buttons|-|31/03/2024| 
+|paolovm02/<br>TripTeamOrganization/<br>FrontEnd|Testimonios|df60b4b190|feat: add Buttons Styles|-|31/03/2024| 
+|ppaolovm02/<br>TripTeamOrganization/<br>FrontEnd|Testimonios|6948049460|feat: add js|-|31/03/2024| 
+|paolovm02/<br>TripTeamOrganization/<br>FrontEnd|Testimonios|cffd774c83|feat: remove Buttons css|-|31/03/2024|
+|paolovm02/<br>TripTeamOrganization/<br>FrontEnd|Testimonios|2518c2a9dd|feat: add testimony|-|6/04/2024|
+|paolovm02/<br>TripTeamOrganization/<br>FrontEnd|Testimonios|6347a2351d|feat: add styles|-|6/04/2024| 
+|Jemisas/<br>TripTeamOrganization/<br>FrontEnd|Main|a770865894|feat: add section convenios|-|6/04/2024|
+|Leonel-Alfaro/<br>TripTeamOrganization/<br>FrontEnd|Main|3da62d2b18|feat: add section Acerca de Nosotros|-|6/04/2024|
+|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|2a64d8a75b|feat: add photos|-|6/04/2024|
+|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|70d9639e89|feat: add video|-|6/04/2024|
+|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|515d752402|feat: add deployment, convenios responsive|-|6/04/2024|
+|MesSobble/<br>TripTeamOrganization/<br>FrontEnd|Responsive|b30b72bb20|feat: add Responsive NavBar|-|6/04/2024| 
+|MesSobble/<br>TripTeamOrganization/<br>FrontEnd|Responsive|491f06fad2|fix: landing page|-|6/04/2024| 
+|MesSobble/<br>TripTeamOrganization/<br>FrontEnd|Main|491f06fad2|feat: add colors|-|6/04/2024|
+|MesSobble/<br>TripTeamOrganization/<br>FrontEnd|Main|6359222392|feat: add font styles|-|7/04/2024| 
+|Jemisas/<br>TripTeamOrganization/<br>FrontEnd|Main|878f958fea|fix: change background login and register|-|7/04/2024|
+|Jemisas/<br>TripTeamOrganization/<br>FrontEnd|Main|d600d2754e|feat: add logo on the navbar|-|7/04/2024|
 
-  - 5.2.X.4. Testing Suite Evidence for Sprint Review
-
-  ```gherkin
-Feature: US-20: Visualizar features de la aplicación
-  Como visitante del landing page
-  Debo poder visualizar todos las funcionalidades y servicios que brinda TripMate
-  Para entender el uso de la aplicación
-
-  Scenario: Ver todas las funcionalidades y servicios
-    Given Soy un visitante del landing page
-    When Accedo al sitio web de TripMate
-    Then Debería ver todas las funcionalidades y servicios que ofrece TripMate
-
-  Scenario: Entender el uso de la aplicación
-    Given Soy un visitante del landing page
-    When Exploro las secciones de la página
-    Then Debería comprender cómo utilizar la aplicación TripMate
-
-Feature: US-21: Sección “Acerca de nosotros”
-  Como visitante del landing page
-  Debo poder visualizar una sección que me informe sobre el startup
-  Para conocer al equipo de TripMate y su propósito
-
-  Scenario: Información sobre el startup
-    Given Soy un visitante del landing page
-    When Navego hacia la sección "Acerca de nosotros"
-    Then Debería ver información detallada sobre el startup TripMate y su propósito
-
-  Scenario: Conocer al equipo de TripMate
-    Given Soy un visitante del landing page
-    When Accedo a la sección "Acerca de nosotros"
-    Then Debería encontrar detalles sobre el equipo de TripMate
-
-Feature: US-22: Sección “Convenios”
-  Como visitante del landing page
-  Debo poder visualizar los convenios que tiene TripMate
-  Para conocer las distintas empresas asociadas
-
-  Scenario: Ver los convenios de TripMate
-    Given Soy un visitante del landing page
-    When Navego hacia la sección "Convenios"
-    Then Debería visualizar los convenios que tiene TripMate con distintas empresas asociadas
-
-  Scenario: Conocer empresas asociadas
-    Given Soy un visitante del landing page
-    When Accedo a la sección "Convenios"
-    Then Debería encontrar información sobre las empresas asociadas con TripMate
-
-Feature: US-23: Sección “Testimonios”
-  Como visitante del landing page
-  Debo poder ver testimonios y experiencias de otros usuarios
-  Para conocer la opinión del público sobre TripMate
-
-  Scenario: Ver testimonios de otros usuarios
-    Given Soy un visitante del landing page
-    When Accedo a la sección "Testimonios"
-    Then Debería poder ver testimonios y experiencias de otros usuarios sobre TripMate
-
-  Scenario: Conocer la opinión del público
-    Given Soy un visitante del landing page
-    When Navego hacia la sección "Testimonios"
-    Then Debería poder formarme una opinión sobre TripMate a partir de los testimonios de otros usuarios
-
-Feature: US-24: Acceder desde cualquier dispositivo a la landing page
-  Como visitante del landing page
-  Debo poder acceder al sitio web desde diferentes dispositivos
-  Para poder ingresar al sitio web desde cualquier dispositivo
-
-  Scenario: Accesibilidad desde diferentes dispositivos
-    Given Soy un visitante del landing page
-    When Accedo al sitio web desde un dispositivo diferente (móvil, tablet, PC)
-    Then Debería poder visualizar la página correctamente en cualquier dispositivo
-
-  Scenario: Acceso fácil desde cualquier lugar
-    Given Soy un visitante del landing page
-    When Intento acceder al sitio web desde mi dispositivo habitual
-    Then Debería poder ingresar a la página de TripMate desde cualquier lugar y dispositivo
-
- ```
-    
-En el proceso de desarrollo de la landing page, se aplicaron diversas estrategias de prueba para garantizar su correcto funcionamiento y adaptabilidad en diferentes entornos. A continuación se detallan las herramientas utilizadas y los enfoques adoptados:
+  - 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 
+|Repository|Branch|Commit ID|Commit Message|Commit Message <br> Body|Commited<br>On (Date)|  
+|----------|------|---------|--------------|-------------------|------------------|
+|Jemisas/<br>TripTeamOrganization<br>/AcceptanceTest|Main|ba88a30|feat: added US-27: Acceso a la sección de "Convenios"|-|11/04/2024| 
+|APOGamer/<br>TripTeamOrganization<br>/AcceptanceTest|Main|2824ff0|Fix: US26.feature|-|11/04/2024| 
+|Leonel-Alfaro/<br>TripTeamOrganization<br>/AcceptanceTest|Main|47bef22291|feat: add feature|-|12/04/2024| 
+|MesSobble/<br>TripTeamOrganization<br>/AcceptanceTest|Main|7518970|fix: US-24|-|11/04/2024| 
+|paolomv02/<br>TripTeamOrganization<br>/AcceptanceTest|Main|6f728c9|fix: update US-23|-|11/04/2024| 
 
-**1. Utilización de Live Server de Microsoft Visual Studio Code** 
+
+En el proceso de desarrollo de la landing page, se aplicaron diversas estrategias de prueba para garantizar su correcto funcionamiento y adaptabilidad en diferentes entornos. A continuación se detallan las herramientas utilizadas y los enfoques adoptados
+
+**1. Uso de Live Server de Microsoft Visual Studio Code** 
 
 Propósito:
 - Live Server se implementó para facilitar el desarrollo y la prueba de la landing page de manera local.
@@ -1377,7 +1520,7 @@ Descripción:
 
 Estas estrategias de prueba garantizaron la funcionalidad, la estética y la adaptabilidad de la landing page en diversos dispositivos y navegadores, contribuyendo así a una experiencia de usuario excepcional. 
 
-  - 5.2.X.5. Execution Evidence for Sprint Review
+  - 5.2.1.5. Execution Evidence for Sprint Review
     
  **Sprint 1**
 
@@ -1427,7 +1570,7 @@ Progreso en el Desarrollo
 
 9. **Sección de Testimonios:**
    - Se implementó la sección de testimonios con comentarios positivos de usuarios.
-     ![Imagen de WhatsApp 2024-04-02 a las 22 19 20_f75d955c](https://github.com/TripTeamOrganization/Informes/assets/48342953/60a57cf9-9db6-47b1-86d3-06c2045c6cf5)
+     ![image](https://github.com/TripTeamOrganization/Informes/assets/48342953/60a57cf9-9db6-47b1-86d3-06c2045c6cf5)
 
 ### Trabajo Restante
 Aunque se logró mucho en el Sprint 1, aún quedan algunas tareas pendientes para completar:
@@ -1435,20 +1578,13 @@ Aunque se logró mucho en el Sprint 1, aún quedan algunas tareas pendientes par
 - Integrar una galería de imágenes en la sección correspondiente.
 - Realizar pruebas de rendimiento y corrección de errores menores antes del lanzamiento final.
 
-- 5.2.X.6. Services Documentation Evidence for Sprint Review
-    - 5.2.X.7. Software Deployment Evidence for Sprint Review
-      Para la entrega del Sprint N1, se desplego la primera versión de nuestra LandingPage, donde mostramos lo que nuestros usuarios podrán ver dentro de nuestra aplicación web, todo bug       y error presentando en esta landing será adecuadamente corregido en futuras entregas.
-      ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/07a71b67-c4b5-451b-8374-56648000e121)
-      ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/7eb2023b-34b1-4338-9137-822aeb84c5ca)
-      ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/980ae330-56e9-49fd-ae40-c28b966cf5ca)
-      ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/f05dc1f8-c256-4747-8d3d-e2a30680910d)
-      ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/e0daf212-ab9f-4bab-a1c5-fceaeddb1c44)
-      ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/093b9ccb-f2d6-43a1-bd79-14d54a01b9d9)
-      ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/78d0b9a4-af1c-41dd-940a-080ac39a8ea0)
-      ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/da33b279-d2e0-4ff0-a44e-ef2a57111975)
-      ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/c2ffb243-94b4-41f6-a04b-8bbecc8f38c5)
+- 5.2.1.6. Services Documentation Evidence for Sprint Review
+    - 5.2.1.7. Software Deployment Evidence for Sprint Review
+      Para la entrega del Sprint N1, se desplego la primera versión de nuestra LandingPage en netlify, donde mostramos lo que nuestros usuarios podrán ver dentro de nuestra aplicación web, todo bug       y error presentando en esta landing será adecuadamente corregido en futuras entregas.
+      ![netlify](https://github.com/TripTeamOrganization/Informes/assets/48342953/ac8c994c-5e52-43fb-84a6-7d4b6dee1be3)
 
-    - 5.2.X.8. Team Collaboration Insights during Sprint
+
+    - 5.2.1.8. Team Collaboration Insights during Sprint
       | Alumno                              | Actividad                                                  |
       |-------------------------------------|------------------------------------------------------------|
       | Palma Obispo, Adrián Enrique Jesús   | Implementación de la sección header de la landing page     |
@@ -1464,7 +1600,7 @@ Aunque se logró mucho en el Sprint 1, aún quedan algunas tareas pendientes par
       | Username (Github)                           | Nombre                                                  |
       |-------------------------------------|------------------------------------------------------------|
       | APOgamer  | Palma Obispo, Adrián Enrique Jesús      |
-      | mesSobble       | Espinoza Delgado, Bárbara Antonella  |
+      | MesSobble       | Espinoza Delgado, Bárbara Antonella  |
       | Jemisas      | Quispe Andia, Jeremy Joel      |
       | paolomv02 	| Martinez Villanueva, Paolo Del Carmen           |
       | Leonel-Alfaro | Alfaro Cumba, Leonel    |
@@ -1519,6 +1655,7 @@ A través de un enfoque centrado en las necesidades del usuario y la diferenciac
 - Figma: [Diseño en Figma](https://www.figma.com/file/2eL1Zj6N0ULup3L12N3imY/Leo's-team-library?type=design&node-id=0-1&mode=design&t=DZ3HGQCqkqiTAoWP-0)
 - Lucidspack: [Diseño ](https://lucid.app/lucidspark/e42b38ec-9f8c-4f10-8d31-03eefad55095/edit?beaconFlowId=CFC1390090154143&invitationId=inv_262b6d7f-b989-4b5d-8995-1fff1088f3b6&page=0_0#)
 - Vertabelo: [Database Diagram](https://my.vertabelo.com/doc/GhFMgdkWDIc5djSsQZ1gCi9SJtg1Yyj7)
+- Link del video de explicación: [Web Application Prototyping](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EUuGU8D42A9Hts47QaVwvuAB-oC-0f1mD9HXSP7yvrRq1Q?e=Xf6lwj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - PivotalTracker: [Product Backlog](https://www.pivotaltracker.com/n/projects/2700998)
 
 </div>
