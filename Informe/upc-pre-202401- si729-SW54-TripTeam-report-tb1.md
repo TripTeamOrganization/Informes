@@ -1339,7 +1339,9 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
       4. **GitHub:** Plataforma de desarrollo colaborativo basada en la nube que utiliza el sistema de control de versiones Git. Permite a los desarrolladores alojar, revisar y colaborar en proyectos de software. En este caso, utilizamos GitHub como un repositorio remoto para almacenar y gestionar el código fuente de nuestro proyecto.
 
       ![image](https://github.com/TripTeamOrganization/Informes/assets/164519824/80bc9459-2cdd-40de-851b-d23d9eb62d4b)
-
+    
+      5. **Netlify:** Plataforma de alojamiento y despliegue web que simplifica el proceso de implementación de sitios y aplicaciones web. Con Netlify, podemos implementar nuestra aplicación directamente desde nuestro repositorio de GitHub con solo unos pocos clics, lo que facilita la implementación continua y la administración del ciclo de vida de nuestra aplicación web.
+      ![image](https://github.com/TripTeamOrganization/Informes/assets/48342953/6380c8be-fa87-4b5a-a5a7-f93a75fc7aec)
 
   - 5.1.2. Source Code Management
 
@@ -1542,7 +1544,7 @@ Progreso en el Desarrollo
 
 9. **Sección de Testimonios:**
    - Se implementó la sección de testimonios con comentarios positivos de usuarios.
-     ![Imagen de WhatsApp 2024-04-02 a las 22 19 20_f75d955c](https://github.com/TripTeamOrganization/Informes/assets/48342953/60a57cf9-9db6-47b1-86d3-06c2045c6cf5)
+     ![image](https://github.com/TripTeamOrganization/Informes/assets/48342953/60a57cf9-9db6-47b1-86d3-06c2045c6cf5)
 
 ### Trabajo Restante
 Aunque se logró mucho en el Sprint 1, aún quedan algunas tareas pendientes para completar:
