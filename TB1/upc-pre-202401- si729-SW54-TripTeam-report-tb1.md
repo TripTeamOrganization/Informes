@@ -1661,7 +1661,7 @@ A través de un enfoque centrado en las necesidades del usuario y la diferenciac
 - Repositorio GitHub Informe: [Ver enlace](https://github.com/TripTeamOrganization/Informes)
 - Figma: [Diseño en Figma para Page Wireframe](https://www.figma.com/file/OVYa70f4Bnr66FnHXTdypf/Untitled?type=design&node-id=0%3A1&mode=design&t=GWueqbqhuC88FRo8-1)
 - Figma: [Diseño en Figma](https://www.figma.com/file/2eL1Zj6N0ULup3L12N3imY/Leo's-team-library?type=design&node-id=0-1&mode=design&t=DZ3HGQCqkqiTAoWP-0)
-- Lucidchart: [Diseño ](https://lucid.app/lucidspark/e42b38ec-9f8c-4f10-8d31-03eefad55095/edit?beaconFlowId=CFC1390090154143&invitationId=inv_262b6d7f-b989-4b5d-8995-1fff1088f3b6&page=0_0#)
+- Lucidchart: [Diseño ](https://lucid.app/lucidchart/e42b38ec-9f8c-4f10-8d31-03eefad55095/edit?beaconFlowId=CFC1390090154143&invitationId=inv_262b6d7f-b989-4b5d-8995-1fff1088f3b6&page=0_0)
 - Vertabelo: [Database Diagram](https://my.vertabelo.com/doc/GhFMgdkWDIc5djSsQZ1gCi9SJtg1Yyj7)
 - Link del video de explicación: [Web Application Prototyping](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EUuGU8D42A9Hts47QaVwvuAB-oC-0f1mD9HXSP7yvrRq1Q?e=Xf6lwj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - PivotalTracker: [Product Backlog](https://www.pivotaltracker.com/n/projects/2700998)
