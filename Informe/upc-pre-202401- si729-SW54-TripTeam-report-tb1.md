@@ -1552,16 +1552,9 @@ Aunque se logró mucho en el Sprint 1, aún quedan algunas tareas pendientes par
 
 - 5.2.1.6. Services Documentation Evidence for Sprint Review
     - 5.2.1.7. Software Deployment Evidence for Sprint Review
-      Para la entrega del Sprint N1, se desplego la primera versión de nuestra LandingPage, donde mostramos lo que nuestros usuarios podrán ver dentro de nuestra aplicación web, todo bug       y error presentando en esta landing será adecuadamente corregido en futuras entregas.
-      ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/07a71b67-c4b5-451b-8374-56648000e121)
-      ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/7eb2023b-34b1-4338-9137-822aeb84c5ca)
-      ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/980ae330-56e9-49fd-ae40-c28b966cf5ca)
-      ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/f05dc1f8-c256-4747-8d3d-e2a30680910d)
-      ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/e0daf212-ab9f-4bab-a1c5-fceaeddb1c44)
-      ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/093b9ccb-f2d6-43a1-bd79-14d54a01b9d9)
-      ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/78d0b9a4-af1c-41dd-940a-080ac39a8ea0)
-      ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/da33b279-d2e0-4ff0-a44e-ef2a57111975)
-      ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/c2ffb243-94b4-41f6-a04b-8bbecc8f38c5)
+      Para la entrega del Sprint N1, se desplego la primera versión de nuestra LandingPage en netlify, donde mostramos lo que nuestros usuarios podrán ver dentro de nuestra aplicación web, todo bug       y error presentando en esta landing será adecuadamente corregido en futuras entregas.
+      ![netlify](https://github.com/TripTeamOrganization/Informes/assets/48342953/ac8c994c-5e52-43fb-84a6-7d4b6dee1be3)
+
 
     - 5.2.1.8. Team Collaboration Insights during Sprint
       | Alumno                              | Actividad                                                  |
