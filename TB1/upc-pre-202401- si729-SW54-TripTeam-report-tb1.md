@@ -1616,12 +1616,8 @@ Aunque se logró mucho en el Sprint 1, aún quedan algunas tareas pendientes par
         
       ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/75214625-7e44-4ca3-8f06-403131deb1a8)
       
-      ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/aca423c7-a88f-42eb-949b-e4e69344786b)
- 
-      ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/febe29a8-9e90-4a78-9c4f-5908cabe5b04)
-
-      ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/c4063587-dd4d-4e3e-be66-9daf8769e946)
-
+      ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/cfcdd471-cc96-4fe8-a845-bf17b60db1aa)
+![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/e64a5481-7192-4487-b518-b8ac9bb653dc)
 
 
 **Conclusiones** 
