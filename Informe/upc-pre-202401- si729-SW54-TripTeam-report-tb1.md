@@ -1197,9 +1197,11 @@ En cuanto a los sistemas de navegación, TripTeam ha implementado un enfoque int
   - 4.6.2. Software Architecture Container Diagrams
   
    **Container Diagram elaborado para los usuarios:**
+  
   ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/e4781115-cfae-4325-820f-dd383101304d)
   
    **Container Diagram elaborado para los administradores:**
+  
   ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/29eb4b8d-08b2-4c6a-bdee-2baa9b084e3f)
 
   - 4.6.3. Software Architecture Components Diagrams
