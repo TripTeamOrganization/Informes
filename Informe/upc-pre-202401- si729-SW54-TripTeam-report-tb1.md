@@ -734,12 +734,15 @@ Segmento objetivo 2: Martin Casanova
 ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/7baacfc6-3819-4067-ae7d-e808e68230fd)
 
 - 2.3.4. Empathy Mapping
+  
 En esta sección se expone el Mapeo de Empatía de nuestros dos segmentos objetivos. Esta técnica se empleó para identificar a nuestra audiencia objetivo, comprender su contexto y sus necesidades, lo que nos permite entender su perspectiva y visión del mundo.
 
 Segmento objetivo 1: Julia Nuñez
+
 ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/96253bbc-28eb-46b1-badc-9b08939d9da4)
 
 Segmento objetivo 2: Martin Casanova
+
 ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/0b9d748d-d567-4210-a2fe-86e4f829b8db)
 
 
