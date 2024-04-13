@@ -1656,6 +1656,7 @@ A través de un enfoque centrado en las necesidades del usuario y la diferenciac
 
  **Anexos**
 - Enlace para acceder a la landing page: [Ver enlace](https://getwork.netlify.app/)
+- Enlace para ver el video de la exposición: [Ver enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/Ef8WlmIxI9ZAvmmYDu037JgBIdz70UiaFXIK5vwag9Hj1g?e=hodVn0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - Video de todas las entrevistas subido a stream: [Ver enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYBkLLrqb1nS8vDVTedop1PgQ)
 - Repositorio GitHub LandingPage: [Ver enlace](https://github.com/TripTeamOrganization/FrontEnd)
 - Repositorio GitHub Informe: [Ver enlace](https://github.com/TripTeamOrganization/Informes)
