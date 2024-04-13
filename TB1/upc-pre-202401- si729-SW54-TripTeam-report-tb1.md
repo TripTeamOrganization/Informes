@@ -62,6 +62,10 @@
 
 ### Project Report Collaboration Insights
 
+**TB1:**
+
+Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
+
 | Integrante                            | Tareas Designadas       |
 |-----------------------------------|--------------|
 | Adrián Enrique Jesús Palma Obispo| Creación de la base de la Landing, Capítulo V, Conclusiones y Tabla de Testing Evidence |
@@ -69,6 +73,10 @@
 | Jeremy Joel Quispe Andia         | Capitulo V, Capitulo II, Implementar Convenios a la landing page, elaborar figma, anexos, acceptance test e informe de participación|
 | Leonel Alfaro Cumba    | Capitulo IV, implementación de la sección Acerca de, video explicativo del prototipo|
 | Paolo Del Carmen Martinez Villanueva | Capitulo III, implementar sección de testimonios, Capitulo V y elaboracion de seccion de itinerario y carrito en Figma|
+
+Evidencias del Insights Contributos de los commits del informe:
+
+![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/59cf1fdb-7051-4680-8a1d-bb1d8ee1ed66)
 
 
 ### Tabla de contenidos
