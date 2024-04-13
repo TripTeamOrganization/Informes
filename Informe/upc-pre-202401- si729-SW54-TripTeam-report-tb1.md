@@ -1304,46 +1304,64 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
 - 5.1. Software Configuration Management
   - 5.1.1. Software Development Environment Configuration
 
-    **Requirements Management**
+**Requirements Management**
 
-      1. **Miro:** Plataforma en línea que permite la colaboración en tiempo real a través de pizarras digitales. Ofrece herramientas para la creación de diagramas, mapas mentales, diagramas de flujo, y más. En este caso, utilizamos Miro para la elaboración de As-Is y To-Be Scenarios Mapping.
+1. **Miro:** Plataforma en línea que permite la colaboración en tiempo real a través de pizarras digitales. Ofrece herramientas para la creación de diagramas, mapas mentales, diagramas de flujo, y más. En este caso, utilizamos Miro para la elaboración de As-Is y To-Be Scenarios Mapping.
 
-      ![image](https://github.com/TripTeamOrganization/Informes/assets/164519824/c6a157d4-5891-4df6-9a52-4155c04d3c37)
+    <p align="center">
+        <img src="https://github.com/TripTeamOrganization/Informes/assets/164519824/c6a157d4-5891-4df6-9a52-4155c04d3c37" alt="image" width="150" height="150">
+    </p>
 
-      2. **UXPressia:** Herramienta especializada en la creación de mapas de impacto de experiencia de usuario (UX). En este caso, utilizamos UXPressia para la elaboración del Impact Mapping para cada segmento objetivo.
+2. **UXPressia:** Herramienta especializada en la creación de mapas de impacto de experiencia de usuario (UX). En este caso, utilizamos UXPressia para la elaboración del Impact Mapping para cada segmento objetivo.
 
-      ![image](https://github.com/TripTeamOrganization/Informes/assets/164519824/8337a3ad-5689-4f7c-9a67-1b7f6df8d95b)
+    <p align="center">
+        <img src="https://github.com/TripTeamOrganization/Informes/assets/164519824/8337a3ad-5689-4f7c-9a67-1b7f6df8d95b" alt="image" width="150" height="150">
+    </p>
 
-      3. **Figma:** Herramienta de diseño de interfaces de usuario (UI) y prototipado colaborativo basada en la nube. En este caso, utilizamos Figma para la elaboración del prototipo de la aplicación.
+3. **Figma:** Herramienta de diseño de interfaces de usuario (UI) y prototipado colaborativo basada en la nube. En este caso, utilizamos Figma para la elaboración del prototipo de la aplicación.
 
-      ![image](https://github.com/TripTeamOrganization/Informes/assets/164519824/c4a55064-caee-464b-bdd8-908578c23e5f)
+    <p align="center">
+        <img src="https://github.com/TripTeamOrganization/Informes/assets/164519824/c4a55064-caee-464b-bdd8-908578c23e5f" alt="image" width="150" height="150">
+    </p>
 
-      4. **PivotalTracker**: Herramienta de gestión de proyectos basada en tableros. En este caso, utilizamos PivotalTracker para visualizar y actualizar el estado de las tareas e historias de usuario pertenecientes al sprint a desarrollar.
+4. **PivotalTracker:** Herramienta de gestión de proyectos basada en tableros. En este caso, utilizamos PivotalTracker para visualizar y actualizar el estado de las tareas e historias de usuario pertenecientes al sprint a desarrollar.
 
-      ![image](https://github.com/TripTeamOrganization/Informes/assets/164519824/0b140fca-5e55-4f15-ab6a-3b0a2aff2291)
+    <p align="center">
+        <img src="https://github.com/TripTeamOrganization/Informes/assets/164519824/0b140fca-5e55-4f15-ab6a-3b0a2aff2291" alt="image" width="150" height="150">
+    </p>
 
-      **Software Development**
+**Software Development**
 
-      1. **Visual Studio Code:** Editor de código fuente desarrollado por Microsoft que ofrece una amplia gama de funcionalidades para programadores. En este caso, utilizamos Visual Studio Code como nuestro entorno de desarrollo integrado principal para escribir, editar y depurar el código HTML y CSS de nuestro proyecto.
+1. **Visual Studio Code:** Editor de código fuente desarrollado por Microsoft que ofrece una amplia gama de funcionalidades para programadores. En este caso, utilizamos Visual Studio Code como nuestro entorno de desarrollo integrado principal para escribir, editar y depurar el código HTML y CSS de nuestro proyecto.
 
-      ![image](https://github.com/TripTeamOrganization/Informes/assets/164519824/4e2f9613-5067-4294-89e2-e3426ca7605a)
+    <p align="center">
+        <img src="https://github.com/TripTeamOrganization/Informes/assets/164519824/4e2f9613-5067-4294-89e2-e3426ca7605a" alt="image" width="150" height="150">
+    </p>
 
-      2. **HTML:** HTML (Hypertext Markup Language) es el lenguaje estándar utilizado para crear y diseñar páginas web. En este caso, utilizamos el lenguaje HTML para la creación y presentación de nuestra página web.
+2. **HTML:** HTML (Hypertext Markup Language) es el lenguaje estándar utilizado para crear y diseñar páginas web. En este caso, utilizamos el lenguaje HTML para la creación y presentación de nuestra página web.
 
-      ![image](https://github.com/TripTeamOrganization/Informes/assets/164519824/d4a632ca-5dc9-4c77-b51a-3d1839e5476b)
+    <p align="center">
+        <img src="https://github.com/TripTeamOrganization/Informes/assets/164519824/d4a632ca-5dc9-4c77-b51a-3d1839e5476b" alt="image" width="150" height="150">
+    </p>
 
-      3. **CSS:** CSS (Cascading Style Sheets) es un lenguaje de diseño utilizado para estilizar la presentación de documentos HTML.
+3. **CSS:** CSS (Cascading Style Sheets) es un lenguaje de diseño utilizado para estilizar la presentación de documentos HTML.
 
-      ![image](https://github.com/TripTeamOrganization/Informes/assets/164519824/2ff3321a-5c8f-4dc9-804e-cd6fa4027417)
+    <p align="center">
+        <img src="https://github.com/TripTeamOrganization/Informes/assets/164519824/2ff3321a-5c8f-4dc9-804e-cd6fa4027417" alt="image" width="150" height="150">
+    </p>
 
-      4. **GitHub:** Plataforma de desarrollo colaborativo basada en la nube que utiliza el sistema de control de versiones Git. Permite a los desarrolladores alojar, revisar y colaborar en proyectos de software. En este caso, utilizamos GitHub como un repositorio remoto para almacenar y gestionar el código fuente de nuestro proyecto.
+4. **GitHub:** Plataforma de desarrollo colaborativo basada en la nube que utiliza el sistema de control de versiones Git. Permite a los desarrolladores alojar, revisar y colaborar en proyectos de software. En este caso, utilizamos GitHub como un repositorio remoto para almacenar y gestionar el código fuente de nuestro proyecto.
 
-      ![image](https://github.com/TripTeamOrganization/Informes/assets/164519824/80bc9459-2cdd-40de-851b-d23d9eb62d4b)
-    
-      5. **Netlify:** Plataforma de alojamiento y despliegue web que simplifica el proceso de implementación de sitios y aplicaciones web. Con Netlify, podemos implementar nuestra aplicación directamente desde nuestro repositorio de GitHub con solo unos pocos clics, lo que facilita la implementación continua y la administración del ciclo de vida de nuestra aplicación web.
-      ![image](https://github.com/TripTeamOrganization/Informes/assets/48342953/6380c8be-fa87-4b5a-a5a7-f93a75fc7aec)
+    <p align="center">
+        <img src="https://github.com/TripTeamOrganization/Informes/assets/164519824/80bc9459-2cdd-40de-851b-d23d9eb62d4b" alt="image" width="150" height="150">
+    </p>
 
-  - 5.1.2. Source Code Management
+5. **Netlify:** Plataforma de alojamiento y despliegue web que simplifica el proceso de implementación de sitios y aplicaciones web. Con Netlify, podemos implementar nuestra aplicación directamente desde nuestro repositorio de GitHub con solo unos pocos clics, lo que facilita la implementación continua y la administración del ciclo de vida de nuestra aplicación web.
+
+    <p align="center">
+        <img src="https://github.com/TripTeamOrganization/Informes/assets/48342953/6380c8be-fa87-4b5a-a5a7-f93a75fc7aec" alt="image" width="150" height="150">
+    </p>
+Source Code Management
 
     Para todo el ciclo de vida de nuestro proyecto, utilizaremos el sistema de control de versiones Git donde la evidencia será visualizada y registrada en la plataforma de GitHub de nuestra organización. Se podrá visualizar todos los cambios y modificaciones hechos por cada uno de los miembros del grupo. 
 
