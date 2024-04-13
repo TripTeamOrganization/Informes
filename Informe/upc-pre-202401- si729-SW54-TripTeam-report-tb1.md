@@ -1190,25 +1190,25 @@ En cuanto a los sistemas de navegación, TripTeam ha implementado un enfoque int
 
 
    
-- 4.6. Domain-Driven Software Architecture
+  **4.6. Domain-Driven Software Architecture**
   - 4.6.1. Software Architecture Context Diagram
   
   
-   ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/249ba48d-ab33-4e72-b479-43b4c6910565)
+ ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/249ba48d-ab33-4e72-b479-43b4c6910565)
 
-  - 4.6.2. Software Architecture Container Diagrams
+- 4.6.2. Software Architecture Container Diagrams
   
-   **Container Diagram elaborado para los usuarios:**
+ **Container Diagram elaborado para los usuarios:**
   
-  ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/e4781115-cfae-4325-820f-dd383101304d)
+[image](https://github.com/TripTeamOrganization/Informes/assets/134337719/e4781115-cfae-4325-820f-dd383101304d)
   
-    Enlace para acceder al Diagram [Ver enlace](https://structurizr.com/dsl)
+Enlace para acceder al Diagram [Ver enlace](https://structurizr.com/dsl)
   
-   **Container Diagram elaborado para los administradores:**
+**Container Diagram elaborado para los administradores:**
   
-  ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/29eb4b8d-08b2-4c6a-bdee-2baa9b084e3f)
+![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/29eb4b8d-08b2-4c6a-bdee-2baa9b084e3f)
 
-   Enlace para acceder al Diagram [Ver enlace](https://structurizr.com/dsl)
+Enlace para acceder al Diagram [Ver enlace](https://structurizr.com/dsl)
 
   - 4.6.3. Software Architecture Components Diagrams
 
