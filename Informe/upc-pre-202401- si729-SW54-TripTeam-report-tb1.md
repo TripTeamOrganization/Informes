@@ -1066,12 +1066,8 @@ En cuanto a los sistemas de navegación, TripTeam ha implementado un enfoque int
 
    ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/b6b6ae74-ff7d-4905-ae9a-15f283d65e2c)
 
-
-   
-
-
   
-   https://www.figma.com/file/2eL1Zj6N0ULup3L12N3imY/Leo%27s-team-library?type%3Ddesign%26node-id%3D0-1%26mode%3Ddesign%26t%3DCXLIiwbDD1OiPXhC-0
+   Link del figma: [Ver enlace](https://www.figma.com/file/2eL1Zj6N0ULup3L12N3imY/Leo%27s-team-library?type%3Ddesign%26node-id%3D0-1%26mode%3Ddesign%26t%3DCXLIiwbDD1OiPXhC-0)
  
 
 - 4.4. Web Applications UX/UI Design
@@ -1186,7 +1182,13 @@ En cuanto a los sistemas de navegación, TripTeam ha implementado un enfoque int
 
    ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/d372f674-6206-48b9-a65b-75a04b0b9e74)
 
-   https://www.figma.com/file/0Y5muw10u8AJ8yd0atXYWb/Web-App-TripMate?type=design&node-id=0-1&mode=design&t=t3QYABOFRd1TQ2aw-0
+   Link del figma: [Ver enlace](https://www.figma.com/file/0Y5muw10u8AJ8yd0atXYWb/Web-App-TripMate?type=design&node-id=0-1&mode=design&t=t3QYABOFRd1TQ2aw-0)
+
+  Link del video de explicación: [Ver enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EUuGU8D42A9Hts47QaVwvuAB-oC-0f1mD9HXSP7yvrRq1Q?e=Xf6lwj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+  ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/bc1fd366-3445-4cd8-8223-a0a9e38a4f13)
+
+
    
 - 4.6. Domain-Driven Software Architecture
   - 4.6.1. Software Architecture Context Diagram
@@ -1200,13 +1202,19 @@ En cuanto a los sistemas de navegación, TripTeam ha implementado un enfoque int
   
   ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/e4781115-cfae-4325-820f-dd383101304d)
   
+    Enlace para acceder al Diagram [Ver enlace](https://structurizr.com/dsl)
+  
    **Container Diagram elaborado para los administradores:**
   
   ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/29eb4b8d-08b2-4c6a-bdee-2baa9b084e3f)
 
+   Enlace para acceder al Diagram [Ver enlace](https://structurizr.com/dsl)
+
   - 4.6.3. Software Architecture Components Diagrams
 
-![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/f2877233-5baf-4816-a7c6-57337817b2dc)
+  ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/f2877233-5baf-4816-a7c6-57337817b2dc)
+
+   Enlace para acceder al Diagram [Ver enlace](https://structurizr.com/dsl)
 
 - 4.7. Software Object-Oriented Design
   - 4.7.1. Class Diagrams
@@ -1363,9 +1371,9 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
     </p>
 Source Code Management
 
-    Para todo el ciclo de vida de nuestro proyecto, utilizaremos el sistema de control de versiones Git donde la evidencia será visualizada y registrada en la plataforma de GitHub de nuestra organización. Se podrá visualizar todos los cambios y modificaciones hechos por cada uno de los miembros del grupo. 
+Para todo el ciclo de vida de nuestro proyecto, utilizaremos el sistema de control de versiones Git donde la evidencia será visualizada y registrada en la plataforma de GitHub de nuestra organización. Se podrá visualizar todos los cambios y modificaciones hechos por cada uno de los miembros del grupo. 
 
-    GitHub URL: https://github.com/TripTeamOrganization 
+GitHub URL: https://github.com/TripTeamOrganization 
 
   - 5.1.3. Source Code Style Guide & Conventions
   
@@ -1647,6 +1655,7 @@ A través de un enfoque centrado en las necesidades del usuario y la diferenciac
 - Figma: [Diseño en Figma](https://www.figma.com/file/2eL1Zj6N0ULup3L12N3imY/Leo's-team-library?type=design&node-id=0-1&mode=design&t=DZ3HGQCqkqiTAoWP-0)
 - Lucidspack: [Diseño ](https://lucid.app/lucidspark/e42b38ec-9f8c-4f10-8d31-03eefad55095/edit?beaconFlowId=CFC1390090154143&invitationId=inv_262b6d7f-b989-4b5d-8995-1fff1088f3b6&page=0_0#)
 - Vertabelo: [Database Diagram](https://my.vertabelo.com/doc/GhFMgdkWDIc5djSsQZ1gCi9SJtg1Yyj7)
+- Link del video de explicación: [Web Application Prototyping](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EUuGU8D42A9Hts47QaVwvuAB-oC-0f1mD9HXSP7yvrRq1Q?e=Xf6lwj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - PivotalTracker: [Product Backlog](https://www.pivotaltracker.com/n/projects/2700998)
 
 </div>
