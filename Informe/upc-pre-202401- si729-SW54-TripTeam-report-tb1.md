@@ -1415,7 +1415,7 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
 
   - 5.2.1.3. Development Evidence for Sprint Review
     
-|Repository|Branch|Commit ID|Commit Message|Commit Message <br> Body|Commited On (Date)|  
+|Repository|Branch|Commit ID|Commit Message|Commit Message <br> Body|Commited<br>On (Date)|  
 |----------|------|---------|--------------|-------------------|------------------|
 |Jemisas/<br>TripTeamOrganization/<br>FrontEnd|Main|f2dd6d8731|feat: add Initial Commit|-|23/03/2024| 
 |Jemisas/<br>TripTeamOrganization/<br>FrontEnd|Main|674d37b56c|feat: add Images|-|23/03/2024| 
@@ -1446,11 +1446,11 @@ Para el proyecto TripMate, se ha optado por utilizar MySQL como motor de base de
 
 |Repository|Branch|Commit ID|Commit Message|Commit Message <br> Body|Commited On (Date)|  
 |----------|------|---------|--------------|-------------------|------------------|
-|Jemisas/TripTeamOrganization<br>/AcceptanceTest|Main|ba88a30|feat: added US-27: Acceso a la sección de "Convenios"|-|23/03/2024| 
-|APOGamer/TripTeamOrganization<br>/AcceptanceTest|Main|2824ff0|Fix: US26.feature|-|23/03/2024| 
-|Leonel-Alfaro/TripTeamOrganization<br>/AcceptanceTest|Main|47bef22291|feat: add feature|-|23/03/2024| 
-|MesSobble/TripTeamOrganization<br>/AcceptanceTest|Main|7518970|fix: US-24|-|25/03/2024| 
-|paolomv02/TripTeamOrganization<br>/AcceptanceTest|Main|6f728c9|fix: update US-23|-|28/03/2024| 
+|Jemisas/<br>TripTeamOrganization<br>/AcceptanceTest|Main|ba88a30|feat: added US-27: Acceso a la sección de "Convenios"|-|23/03/2024| 
+|APOGamer/<br>TripTeamOrganization<br>/AcceptanceTest|Main|2824ff0|Fix: US26.feature|-|23/03/2024| 
+|Leonel-Alfaro/<br>TripTeamOrganization<br>/AcceptanceTest|Main|47bef22291|feat: add feature|-|23/03/2024| 
+|MesSobble/<br>TripTeamOrganization<br>/AcceptanceTest|Main|7518970|fix: US-24|-|25/03/2024| 
+|paolomv02/<br>TripTeamOrganization<br>/AcceptanceTest|Main|6f728c9|fix: update US-23|-|28/03/2024| 
 
 
 En el proceso de desarrollo de la landing page, se aplicaron diversas estrategias de prueba para garantizar su correcto funcionamiento y adaptabilidad en diferentes entornos. A continuación se detallan las herramientas utilizadas y los enfoques adoptados
