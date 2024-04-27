@@ -598,15 +598,18 @@ Segmento objetivo 1: Familias Viajeras y Aventureras
 
 | Entrevistado N°1: Sandro Quispesivana |<img src="https://github.com/TripTeamOrganization/Informes/assets/134337719/36f9bff8-5412-4069-a221-182eef515dbb" alt="Andrés Valle" style="width: 185px;">|
 |--------------------------------|------------------------------------------------------------|
-| **Nombre:**                    | Sandro Quispesivana                                               |
+| **Nombre:**                    | Sandro Quispesivana      |
 | **Edad:**                      | 30                                                         |
 | **Sexo:**                      | Masculino                                                  |
 | **Ocupación:**                 | Docente                                     |
 | **Entrevista:**                | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYBYnfWGmR6cUkaSo8Og_I99g?e=RIgaXC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)       |
+ **Entrevistador :**                    | Jeremy Joel Quispe Andia                                       |
 | **Momento de inicio:**         | 0:02                                                       |
 | **Momento Fin:**                  | 3:58                                                       |
 
+Resumen:
 
+Sandro, una docente de 30 años, comparte su opinión sobre TripMate, una aplicación para planificar y gestionar viajes familiares. Considera que sería muy útil y que características como itinerarios personalizados, listas de empaque colaborativas e información sobre atracciones familiares que facilitan los viajes. Destaca la importancia de la seguridad y privacidad, prefiriendo una aplicación que proteja datos personales. Le gustaría recibir recomendaciones personalizadas sobre destinos y actividades adecuadas para la familia. Menciona que el desafío principal al planificar viajes es la coordinación de horarios y preferencias, y que la aplicación podría ayudar con herramientas de planificación y opciones personalizadas. También le gustaría poder compartir fotos, comentarios y recibir sugerencias. Finalmente, cree que TripMate podría mejorar la experiencia de viaje al facilitar la comunicación y el intercambio de experiencias, haciendo que los viajes sean más emocionantes y satisfactorios para su familia.
 
 | Entrevistado N°2: Isabel Martinez |<img src="https://github.com/TripTeamOrganization/Informes/assets/134337719/12f8c567-9528-4494-86cb-3fb749280fc4" alt="Andrés Valle" style="width: 220px;">|
 |--------------------------------|------------------------------------------------------------|
@@ -615,6 +618,7 @@ Segmento objetivo 1: Familias Viajeras y Aventureras
 | **Sexo:**                      | Femenino                                                  |
 | **Ocupación:**                 | Cosmetóloga                                      |
 | **Entrevista:**                | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYBYnfWGmR6cUkaSo8Og_I99g?e=RIgaXC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)       |
+**Entrevistador :**                    | Leonel Alfaro Cumba                                       |
 | **Momento de inicio:**         | 3:59                                                       |
 | **Momento Fin:**                  | 8:18                                                       |
 
@@ -627,9 +631,14 @@ Segmento objetivo 1: Familias Viajeras y Aventureras
 | **Sexo:**                      | Masculino                                                  |
 | **Ocupación:**                 | Electrónico                                      |
 | **Entrevista:**                | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYBYnfWGmR6cUkaSo8Og_I99g?e=RIgaXC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)     |
+ **Entrevistador :**                    | Leonel Alfaro Cumba                                       |
 | **Momento de inicio:**         | 8:19                                                       |
 | **Momento Fin:**                | 13:23                                                       |
 
+Resumen:
+
+
+Isaac Sánchez, de 30 años, trabaja en la línea uno del tren de Lima como encargado de técnica electrónica y comparte su perspectiva sobre el uso de aplicaciones para planificar viajes familiares. Aprecia una aplicación que facilite la planificación, ya que organizar vuelos, hospedaje, movilidad y actividades puede ser tedioso y requerir mucho tiempo. Una aplicación ideal para él debe ofrecer un amplio catálogo de vuelos, hoteles y restaurantes, con información clara sobre precios y ubicaciones. Valora la seguridad, especialmente al hacer transacciones bancarias y proteger datos personales, debido al riesgo de fraudes y estafas. Isaac también considera valioso recibir recomendaciones personalizadas sobre destinos y actividades para planificar mejor y evitar lugares inseguros. Prefiere una aplicación con características generales que sirvan para toda la familia, permitiendo viajar juntos sin complicaciones. Finalmente, Isaac cree que una aplicación confiable y segura puede mejorar la experiencia de viaje al ofrecer sugerencias de otros usuarios, rutas seguras y actividades adecuadas, ayudando a que los viajes familiares sean más emocionantes y satisfactorios.
 
 
 Segmento objetivo 2: Viajeros de lujo
@@ -641,8 +650,17 @@ Segmento objetivo 2: Viajeros de lujo
 | **Sexo:**                    | Masculino                                                                                                             |
 |**Ocupación:**                | Ingeniero Aeronáutico                                                                                                 |
 | **Entrevista:**             | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYBYnfWGmR6cUkaSo8Og_I99g?e=RIgaXC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)                                                                   |
+ **Entrevistador :**                    | Jeremy Joel Quispe Andia                                       |
 | **Momento de inicio:**         | 13:24                                                                                                                  |
 | **Momento Fin:**                | 17:12                                                                                                                  |
+
+Resumen:
+
+
+
+Andrés, entrevistado por Jeremy, describe sus preferencias para los viajes de lujo y cómo una aplicación como "Trip Matte" podría satisfacer sus necesidades. Busca experiencias sofisticadas, con alojamientos exclusivos y servicios personalizados. Considera que TripMate puede mejorar sus viajes al ofrecer recomendaciones exclusivas, acceso a servicios premium y la posibilidad de reservar experiencias únicas. Para él, características clave incluyen reservas de alta gama. La personalización es crucial para adaptar el itinerario a sus gustos, y la seguridad y privacidad son fundamentales para proteger datos personales, especialmente en viajes de lujo. Andrés valora la exclusividad y el trato personalizado en las aplicaciones móviles y espera que TripMate mantenga altos estándares de seguridad. Piensa que la tecnología puede mejorar la experiencia de viaje al facilitar la reserva y acceso a servicios exclusivos. Sin embargo, no revela experiencias pasadas con aplicaciones para planificar viajes, dejando espacio para futuras preguntas.
+
+
 
 
 | Entrevistado N°5: Gustavo Chinchay | <img src=https://github.com/TripTeamOrganization/Informes/assets/89095594/bdda83a4-be1a-4c7e-a8a2-fa329cf779c9 alt="Andrés Valle" style="width: 200px;"> |
@@ -652,8 +670,15 @@ Segmento objetivo 2: Viajeros de lujo
 | **Sexo:**                      | Masculino                                                  |
 | **Ocupación:**                 | Ingeniero de sonido                                      |
 | **Entrevista:**                | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYBYnfWGmR6cUkaSo8Og_I99g?e=RIgaXC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)       |
+ **Entrevistador :**                    | Leonel Alfaro Cumba                                       |
 | **Momento de inicio:**         | 17:13                                                       |
 | **Momento Fin:**                  | 22:27                                                       |
+
+Resumen:
+
+
+Gustavo Chinchay, ingeniero de audio de 30 años, tiene viajar como segundo hobby debido a su profesión, que lo lleva por todo Perú. Al planificar viajes de lujo, busca experiencias donde todo esté organizado para optimizar el tiempo, ya que sus compromisos de trabajo son prolongados. Cree que una aplicación como TripMate  podría ser útil si es segura, fácil de usar y proporciona información clara sobre precios y destinos destacados. Para Gustavo, la seguridad y la protección de datos son cruciales, especialmente al usar aplicaciones para reservar hoteles, vuelos y otros servicios. Aunque valora la personalización, insiste en que las empresas deben garantizar la seguridad de la información. Señala que muchas personas, debido a la falta de experiencia con la tecnología, desconfían de las aplicaciones por temor a fraudes y robo de identidad, prefiriendo a menudo las agencias de viaje tradicionales. Gustavo considera que la tecnología puede mejorar la experiencia de viaje, pero ha tenido experiencias mixtas con aplicaciones, desde positivas hasta negativas, reforzando la importancia de la seguridad y la confianza.
+
 
 
 | Entrevistado N°6: Jhan Caseres | <img src=https://github.com/TripTeamOrganization/Informes/assets/134337719/9da98916-6e6e-4b85-9d32-c8f2fd49c87a alt="Andrés Valle" style="width: 240px;"> |
@@ -663,8 +688,14 @@ Segmento objetivo 2: Viajeros de lujo
 | **Sexo:**                      | Masculino                                                  |
 | **Ocupación:**                 | Ingeniero Mecánico                                        |
 | **Entrevista:**                | [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYBYnfWGmR6cUkaSo8Og_I99g?e=RIgaXC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)      |
+ **Entrevistador :**                    | Leonel Alfaro Cumba                                       |
 | **Momento de inicio:**         | 22:28                                                       |
 | **Momento Fin:**                  | 26:59                                                       |
+
+Resumen:
+
+
+Jhan Caseres es un apasionado viajero que busca experiencias personalizadas y de alta calidad cuando planifica sus viajes de lujo. En una entrevista, destaca la importancia de la atención personalizada y la capacidad de especificar detalles como hospedaje y tours antes de llegar a su destino para asegurar una experiencia fluida. Jonathan valora aplicaciones que ofrezcan autenticidad y permitan disfrutar de lo mejor de cada lugar, con la capacidad de personalización como factor clave. Considera esencial la seguridad y protección de datos, especialmente en transacciones con tarjetas de crédito o débito, y prefiere aplicaciones que garanticen exclusividad y privacidad. Aunque no ha tenido experiencias negativas con aplicaciones de viaje, sugiere un contacto directo con agencias para mayor satisfacción del cliente. Para él, la tecnología puede mejorar la experiencia de viaje permitiendo personalizar itinerarios antes de llegar al destino.
 
 
 - 2.2.3. Análisis de entrevistas
@@ -686,6 +717,19 @@ Análisis de Entrevistas sobre Experiencias de Viaje de Lujo:
 | Andrés Valle        | Busca experiencias lujosas que ofrezcan sofisticación y comodidad. Valora la capacidad de personalización, la seguridad de sus datos y la exclusividad en sus reservas.<br>Ha tenido experiencias tanto positivas como negativas al utilizar aplicaciones móviles para planificar sus viajes de lujo. |
 | Gustavo Chinchay                      | Reconoce en TripMate la posibilidad de enriquecer sus viajes de lujo por el Perú.<br>Valora la personalización, la seguridad de sus datos y la exclusividad en sus reservas.<br>Considera que la tecnología puede mejorar significativamente la experiencia de viaje de lujo. |
 | Jhan Caseres        | Reconoce en TripMate la oportunidad de elevar la calidad de sus travesías por el territorio peruano.<br>Aprecia la personalización, la seguridad de sus datos y la exclusividad en sus reservas.<br>Considera que la tecnología puede contribuir significativamente a mejorar la experiencia de viaje de lujo. |
+
+
+ ### Estadísticas 
+
+
+![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/bd67a809-d781-4143-a3d9-1851095df464)
+![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/507e3546-873d-418a-999e-eefdf127edb5)
+![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/5901b007-153b-4eb2-8716-6b65a03de913)
+![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/b1927489-1497-4a5c-b3f5-cb8dca1e783f)
+![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/80ca1bed-417e-40dd-bfe5-c3c9fe7afcb6)
+![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/347bf7c6-e6a2-417f-abc3-ccaa9fdbd758)
+
+
 
 
 - 2.3. Needfinding
@@ -1663,9 +1707,9 @@ A través de un enfoque centrado en las necesidades del usuario y la diferenciac
 - Link del video de explicación: [Web Application Prototyping](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EUuGU8D42A9Hts47QaVwvuAB-oC-0f1mD9HXSP7yvrRq1Q?e=Xf6lwj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - PivotalTracker: [Product Backlog](https://www.pivotaltracker.com/n/projects/2700998)
 
+- Entrevista: [Estadísticas](https://docs.google.com/forms/d/1IJXnKL29jQRBFT7Qa_Eep8OgMqbm3zj4dygn0jlTlL8/edit#responses)
+
 </div>
-
-
 
 
 
