@@ -1672,7 +1672,7 @@ Aunque se logró mucho en el Sprint 1, aún quedan algunas tareas pendientes par
 | **Sprint #** | **Sprint 2** |
 | :- | :- |
 | **Sprint Planning Background** | |
-| Date | 15/04/2024 |
+| Date | 20/04/2024 |
 | Time | 9:00 PM - 3:00 AM |
 | Location | Discord |
 | **Prepared By** | Adrián Enrique Jesús Palma Obispo  |
@@ -1709,29 +1709,32 @@ Aunque se logró mucho en el Sprint 1, aún quedan algunas tareas pendientes par
     
 |Repository|Branch|Commit ID|Commit Message|Commit Message <br> Body|Commited<br>On (Date)|  
 |----------|------|---------|--------------|-------------------|------------------|
-|Jemisas/<br>TripTeamOrganization/<br>FrontEnd|Main|f2dd6d8731|feat: add Initial Commit|-|23/03/2024| 
-|Jemisas/<br>TripTeamOrganization/<br>FrontEnd|Main|674d37b56c|feat: add Images|-|23/03/2024| 
-|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|47bef22291|feat: add Button|-|23/03/2024| 
-|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|2a836c499e|feat: add Navbar|-|25/03/2024| 
-|Jemisas/<br>TripTeamOrganization/<br>FrontEnd|Main|d867e4d88f|feat: add Login y Register|-|28/03/2024| 
-|MesSobble/<br>TripTeamOrganization/<br>FrontEnd|Main|b3aabb1055|fix: colors|-|30/03/2024| 
-|Jemisas/<br>TripTeamOrganization/<br>FrontEnd|Testimonios|4524d2e6bd|feat: add Buttons|-|31/03/2024| 
-|paolovm02/<br>TripTeamOrganization/<br>FrontEnd|Testimonios|df60b4b190|feat: add Buttons Styles|-|31/03/2024| 
-|ppaolovm02/<br>TripTeamOrganization/<br>FrontEnd|Testimonios|6948049460|feat: add js|-|31/03/2024| 
-|paolovm02/<br>TripTeamOrganization/<br>FrontEnd|Testimonios|cffd774c83|feat: remove Buttons css|-|31/03/2024|
-|paolovm02/<br>TripTeamOrganization/<br>FrontEnd|Testimonios|2518c2a9dd|feat: add testimony|-|6/04/2024|
-|paolovm02/<br>TripTeamOrganization/<br>FrontEnd|Testimonios|6347a2351d|feat: add styles|-|6/04/2024| 
-|Jemisas/<br>TripTeamOrganization/<br>FrontEnd|Main|a770865894|feat: add section convenios|-|6/04/2024|
-|Leonel-Alfaro/<br>TripTeamOrganization/<br>FrontEnd|Main|3da62d2b18|feat: add section Acerca de Nosotros|-|6/04/2024|
-|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|2a64d8a75b|feat: add photos|-|6/04/2024|
-|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|70d9639e89|feat: add video|-|6/04/2024|
-|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|515d752402|feat: add deployment, convenios responsive|-|6/04/2024|
-|MesSobble/<br>TripTeamOrganization/<br>FrontEnd|Responsive|b30b72bb20|feat: add Responsive NavBar|-|6/04/2024| 
-|MesSobble/<br>TripTeamOrganization/<br>FrontEnd|Responsive|491f06fad2|fix: landing page|-|6/04/2024| 
-|MesSobble/<br>TripTeamOrganization/<br>FrontEnd|Main|491f06fad2|feat: add colors|-|6/04/2024|
-|MesSobble/<br>TripTeamOrganization/<br>FrontEnd|Main|6359222392|feat: add font styles|-|7/04/2024| 
-|Jemisas/<br>TripTeamOrganization/<br>FrontEnd|Main|878f958fea|fix: change background login and register|-|7/04/2024|
-|Jemisas/<br>TripTeamOrganization/<br>FrontEnd|Main|d600d2754e|feat: add logo on the navbar|-|7/04/2024|
+|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|ad43574|feat: add Tripmate theme prototype|-|20/04/2024| 
+|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|a86c625|feat: add General Components|-|21/04/2024| 
+|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|7847bf9|feat: add Mat-Tab-header|-|21/04/2024| 
+|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|fc4ac3f|feat: add Mejora del container general|-|22/04/2024| 
+|MesSobble/<br>TripTeamOrganization/<br>FrontEnd|Main|72a0838|feat: add folders|-|23/04/2024| 
+|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|116f72a|feat: add Starsvg count component|-|23/04/2024|
+|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|6a7fe2e|feat: add CardMain|-|23/04/2024|
+|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|3963914|feat: add responsive card|-|24/04/2024|
+|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|ca5ec6e|feat: add css|-|24/04/2024|
+|MesSobble/<br>TripTeamOrganization/<br>FrontEnd|Main|4b3c7ad|feat: add inputs|-|24/04/2024| 
+|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|3976f11|feat: add services|-|24/04/2024|
+|MesSobble/<br>TripTeamOrganization/<br>FrontEnd|Main|5cb7de5|feat: add myjourneys|-|24/04/2024| 
+|MesSobble/<br>TripTeamOrganization/<br>FrontEnd|Main|64702d5|feat: add shoppingcart|-|24/04/2024| 
+|MesSobble/<br>TripTeamOrganization/<br>FrontEnd|Main|edc1a67|feat: update toolbar.component.ts|-|24/04/2024|
+|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|5752d91|feat: update enviroments.ts|-|24/04/2024|
+|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|2cc8730|feat: add components|-|24/04/2024|
+|paolomv02/<br>TripTeamOrganization/<br>FrontEnd|Main|b104af3|feat: add restaurants methods|-|24/04/2024|
+|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|a5e58ad|feat: add ngfor restaurants|-|24/04/2024|
+|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|c3468a6|feat: add validation|-|24/04/2024|
+|paolomv02/<br>TripTeamOrganization/<br>FrontEnd|Main|70ed095|feat: add searchbar|-|24/04/2024|
+|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|64893e6|feat: add activites filter|-|25/04/2024|
+|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|5588ea1|feat: add searchbar for flights|-|25/04/2024|
+|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|4aa0d69|feat: add searchbar for activities and accomodations|-|25/04/2024|
+|Leonel-Alfaro/<br>TripTeamOrganization/<br>FrontEnd|Main|e786058|feat: add dropdown card|-|26/04/2024|
+|Leonel-Alfaro/<br>TripTeamOrganization/<br>FrontEnd|Main|d8e8f49|feat: add range-slider|-|26/04/2024|
+
 
 
 
