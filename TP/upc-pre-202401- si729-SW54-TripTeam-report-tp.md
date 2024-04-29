@@ -1502,29 +1502,29 @@ GitHub URL: https://github.com/TripTeamOrganization
     
 |Repository|Branch|Commit ID|Commit Message|Commit Message <br> Body|Commited<br>On (Date)|  
 |----------|------|---------|--------------|-------------------|------------------|
-|Jemisas/<br>TripTeamOrganization-<br>LandingPage|Main|f2dd6d8731|feat: add Initial Commit|-|23/03/2024| 
-|Jemisas/<br>TripTeamOrganization-<br>LandingPage|Main|674d37b56c|feat: add Images|-|23/03/2024| 
-|APOGamer/<br>TripTeamOrganization-<br>LandingPage|Main|47bef22291|feat: add Button|-|23/03/2024| 
-|APOGamer/<br>TripTeamOrganization-<br>LandingPage|Main|2a836c499e|feat: add Navbar|-|25/03/2024| 
-|Jemisas/<br>TripTeamOrganization-<br>LandingPage|Main|d867e4d88f|feat: add Login y Register|-|28/03/2024| 
-|MesSobble/<br>TripTeamOrganization-<br>LandingPage|Main|b3aabb1055|fix: colors|-|30/03/2024| 
-|Jemisas/<br>TripTeamOrganization-<br>LandingPage|Testimonios|4524d2e6bd|feat: add Buttons|-|31/03/2024| 
-|paolovm02/<br>TripTeamOrganization-<br>LandingPage|Testimonios|df60b4b190|feat: add Buttons Styles|-|31/03/2024| 
-|ppaolovm02/<br>TripTeamOrganization-<br>LandingPage|Testimonios|6948049460|feat: add js|-|31/03/2024| 
-|paolovm02/<br>TripTeamOrganization-<br>LandingPage|Testimonios|cffd774c83|feat: remove Buttons css|-|31/03/2024|
-|paolovm02/<br>TripTeamOrganization-<br>LandingPage|Testimonios|2518c2a9dd|feat: add testimony|-|6/04/2024|
-|paolovm02/<br>TripTeamOrganization-<br>LandingPage|Testimonios|6347a2351d|feat: add styles|-|6/04/2024| 
-|Jemisas/<br>TripTeamOrganization-<br>LandingPage|Main|a770865894|feat: add section convenios|-|6/04/2024|
-|Leonel-Alfaro/<br>TripTeamOrganization-<br>LandingPage|Main|3da62d2b18|feat: add section Acerca de Nosotros|-|6/04/2024|
-|APOGamer/<br>TripTeamOrganization-<br>LandingPage|Main|2a64d8a75b|feat: add photos|-|6/04/2024|
-|APOGamer/<br>TripTeamOrganization-<br>LandingPage|Main|70d9639e89|feat: add video|-|6/04/2024|
-|APOGamer/<br>TripTeamOrganization-<br>LandingPage|Main|515d752402|feat: add deployment, convenios responsive|-|6/04/2024|
-|MesSobble/<br>TripTeamOrganization-<br>LandingPage|Responsive|b30b72bb20|feat: add Responsive NavBar|-|6/04/2024| 
-|MesSobble/<br>TripTeamOrganization-<br>LandingPage|Responsive|491f06fad2|fix: landing page|-|6/04/2024| 
-|MesSobble/<br>TripTeamOrganization-<br>LandingPage|Main|491f06fad2|feat: add colors|-|6/04/2024|
-|MesSobble/<br>TripTeamOrganization-<br>LandingPage|Main|6359222392|feat: add font styles|-|7/04/2024| 
-|Jemisas/<br>TripTeamOrganization-<br>LandingPage|Main|878f958fea|fix: change background login and register|-|7/04/2024|
-|Jemisas/<br>TripTeamOrganization-<br>LandingPage|Main|d600d2754e|feat: add logo on the navbar|-|7/04/2024|
+|Jemisas/<br>TripMate-<br>LandingPage|Main|f2dd6d8731|feat: add Initial Commit|-|23/03/2024| 
+|Jemisas/<br>TripMate-<br>LandingPage|Main|674d37b56c|feat: add Images|-|23/03/2024| 
+|APOGamer/<br>TripMate-<br>LandingPage|Main|47bef22291|feat: add Button|-|23/03/2024| 
+|APOGamer/<br>TripMate-<br>LandingPage|Main|2a836c499e|feat: add Navbar|-|25/03/2024| 
+|Jemisas/<br>TripMate-<br>LandingPage|Main|d867e4d88f|feat: add Login y Register|-|28/03/2024| 
+|MesSobble/<br>TripMate-<br>LandingPage|Main|b3aabb1055|fix: colors|-|30/03/2024| 
+|Jemisas/<br>TripMate-<br>LandingPage|Testimonios|4524d2e6bd|feat: add Buttons|-|31/03/2024| 
+|paolovm02/<br>TripMate-<br>LandingPage|Testimonios|df60b4b190|feat: add Buttons Styles|-|31/03/2024| 
+|paolovm02/<br>TripMate-<br>LandingPage|Testimonios|6948049460|feat: add js|-|31/03/2024| 
+|paolovm02/<br>TripMate-<br>LandingPage|Testimonios|cffd774c83|feat: remove Buttons css|-|31/03/2024|
+|paolovm02/<br>TripMate-<br>LandingPage|Testimonios|2518c2a9dd|feat: add testimony|-|6/04/2024|
+|paolovm02/<br>TripMate-<br>LandingPage|Testimonios|6347a2351d|feat: add styles|-|6/04/2024| 
+|Jemisas/<br>TripMate-<br>LandingPage|Main|a770865894|feat: add section convenios|-|6/04/2024|
+|Leonel-Alfaro/<br>TripMate-<br>LandingPage|Main|3da62d2b18|feat: add section Acerca de Nosotros|-|6/04/2024|
+|APOGamer/<br>TripMate-<br>LandingPage|Main|2a64d8a75b|feat: add photos|-|6/04/2024|
+|APOGamer/<br>TripMate-<br>LandingPage|Main|70d9639e89|feat: add video|-|6/04/2024|
+|APOGamer/<br>TripMate-<br>LandingPage|Main|515d752402|feat: add deployment, convenios responsive|-|6/04/2024|
+|MesSobble/<br>TripMate-<br>LandingPage|Responsive|b30b72bb20|feat: add Responsive NavBar|-|6/04/2024| 
+|MesSobble/<br>TripMate-<br>LandingPage|Responsive|491f06fad2|fix: landing page|-|6/04/2024| 
+|MesSobble/<br>TripMate-<br>LandingPage|Main|491f06fad2|feat: add colors|-|6/04/2024|
+|MesSobble/<br>TripMate-<br>LandingPage|Main|6359222392|feat: add font styles|-|7/04/2024| 
+|Jemisas/<br>TripMate-<br>LandingPage|Main|878f958fea|fix: change background login and register|-|7/04/2024|
+|Jemisas/<br>TripMate-<br>LandingPage|Main|d600d2754e|feat: add logo on the navbar|-|7/04/2024|
 
   - 5.2.1.4. Testing Suite Evidence for Sprint Review
 
@@ -1709,66 +1709,66 @@ Aunque se logró mucho en el Sprint 1, aún quedan algunas tareas pendientes par
     
 |Repository|Branch|Commit ID|Commit Message|Commit Message <br> Body|Commited<br>On (Date)|  
 |----------|------|---------|--------------|-------------------|------------------|
-|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|ad43574|feat: add Tripmate theme prototype|-|20/04/2024| 
-|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|a86c625|feat: add General Components|-|21/04/2024| 
-|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|7847bf9|feat: add Mat-Tab-header|-|21/04/2024| 
-|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|fc4ac3f|feat: add Mejora del container general|-|22/04/2024| 
-|MesSobble/<br>TripTeamOrganization/<br>FrontEnd|Main|72a0838|feat: add folders|-|23/04/2024| 
-|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|116f72a|feat: add Starsvg count component|-|23/04/2024|
-|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|6a7fe2e|feat: add CardMain|-|23/04/2024|
-|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|3963914|feat: add responsive card|-|24/04/2024|
-|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|ca5ec6e|feat: add css|-|24/04/2024|
-|MesSobble/<br>TripTeamOrganization/<br>FrontEnd|Main|4b3c7ad|feat: add inputs|-|24/04/2024| 
-|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|3976f11|feat: add services|-|24/04/2024|
-|MesSobble/<br>TripTeamOrganization/<br>FrontEnd|Main|5cb7de5|feat: add myjourneys|-|24/04/2024| 
-|MesSobble/<br>TripTeamOrganization/<br>FrontEnd|Main|64702d5|feat: add shoppingcart|-|24/04/2024| 
-|MesSobble/<br>TripTeamOrganization/<br>FrontEnd|Main|edc1a67|feat: update toolbar.component.ts|-|24/04/2024|
-|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|5752d91|feat: update enviroments.ts|-|24/04/2024|
-|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|2cc8730|feat: add components|-|24/04/2024|
-|paolomv02/<br>TripTeamOrganization/<br>FrontEnd|Main|b104af3|feat: add restaurants methods|-|24/04/2024|
-|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|a5e58ad|feat: add ngfor restaurants|-|24/04/2024|
-|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|c3468a6|feat: add validation|-|24/04/2024|
-|paolomv02/<br>TripTeamOrganization/<br>FrontEnd|Main|70ed095|feat: add searchbar|-|24/04/2024|
-|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|64893e6|feat: add activites filter|-|25/04/2024|
-|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|5588ea1|feat: add searchbar for flights|-|25/04/2024|
-|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|4aa0d69|feat: add searchbar for activities and accomodations|-|25/04/2024|
-|Leonel-Alfaro/<br>TripTeamOrganization/<br>FrontEnd|Main|e786058|feat: add dropdown card|-|26/04/2024|
-|Leonel-Alfaro/<br>TripTeamOrganization/<br>FrontEnd|Main|d8e8f49|feat: add range-slider|-|26/04/2024|
-|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|4262c3e|feat: add apifake db.json|-|26/04/2024|
-|paolomv02/<br>TripTeamOrganization/<br>FrontEnd|Main|7afee54|feat: add main filter|-|26/04/2024|
-|Leonel-Alfaro/<br>TripTeamOrganization/<br>FrontEnd|Main|cba2ceb|feat: add placeholder|-|26/04/2024|
-|MesSobble/<br>TripTeamOrganization/<br>FrontEnd|Main|a6ea834|feat: add signin and register|-|26/04/2024|
-|paolomv02/<br>TripTeamOrganization/<br>FrontEnd|Main|e6ea840|feat: add slider methods|-|26/04/2024|
-|paolomv02/<br>TripTeamOrganization/<br>FrontEnd|Main|c6c7348|feat: add placeholder styles|-|26/04/2024|
-|paolomv02/<br>TripTeamOrganization/<br>FrontEnd|Main|04c6bb0|feat: add placeholder html|-|26/04/2024|
-|paolomv02/<br>TripTeamOrganization/<br>FrontEnd|Main|5a59197|feat: add main filter values|-|26/04/2024|
-|paolomv02/<br>TripTeamOrganization/<br>FrontEnd|Main|ea50361|feat: add dropdown html|-|26/04/2024|
-|paolomv02/<br>TripTeamOrganization/<br>FrontEnd|Main|06641ed|feat: add import filter component|-|26/04/2024|
-|paolomv02/<br>TripTeamOrganization/<br>FrontEnd|Main|a4370de|feat: add activites filter|-|26/04/2024|
-|paolomv02/<br>TripTeamOrganization/<br>FrontEnd|Main|47093f8|feat: add accomodations filter|-|26/04/2024|
-|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|9e769ab|feat: add register validation|-|26/04/2024|
-|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|9e769ab|feat: add register validation|-|26/04/2024|
-|MesSobble/<br>TripTeamOrganization/<br>FrontEnd|Main|07c88ed|feat: signin and register|-|26/04/2024|
-|MesSobble/<br>TripTeamOrganization/<br>FrontEnd|Main|c65bd3f|feat: add conditionals|-|26/04/2024|
-|Jemisas/<br>TripTeamOrganization/<br>FrontEnd|Main|940bc10|feat: add bar notifications|-|26/04/2024|
-|MesSobble/<br>TripTeamOrganization/<br>FrontEnd|Main|8a9d61a|feat: add myjourneys model|-|27/04/2024|
-|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|c8e7842|feat: add chat section|-|27/04/2024|
-|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|f25d6d2|feat: add shopping cart service|-|27/04/2024|
-|paolovm02/<br>TripTeamOrganization/<br>FrontEnd|Main|da9c158|feat: add change routes|-|27/04/2024|
-|paolovm02/<br>TripTeamOrganization/<br>FrontEnd|Main|76ef19b|feat: add userview html|-|27/04/2024|
-|paolovm02/<br>TripTeamOrganization/<br>FrontEnd|Main|a1619f9|feat: import modules|-|27/04/2024|
-|MesSobble/<br>TripTeamOrganization/<br>FrontEnd|Main|8a9d61a|fix: shoppingcart|-|27/04/2024|
-|paolovm02/<br>TripTeamOrganization/<br>FrontEnd|Main|0bcc8b1|feat: add users endpoint|-|27/04/2024|
-|paolovm02/<br>TripTeamOrganization/<br>FrontEnd|Main|2ed00e8|feat: create user model|-|27/04/2024|
-|paolovm02/<br>TripTeamOrganization/<br>FrontEnd|Main|975c403|feat: add getUser method|-|27/04/2024|
-|Jemisas/<br>TripTeamOrganization/<br>FrontEnd|Main|ce73e58|feat: add notifications|-|27/04/2024|
-|Jemisas/<br>TripTeamOrganization/<br>FrontEnd|Main|bd17058|fix: ddd|-|28/04/2024|
-|Leonel-Alfaro/<br>TripTeamOrganization/<br>FrontEnd|Main|ed46a0e|feat: add itineraty|-|28/04/2024|
-|MesSobble/<br>TripTeamOrganization/<br>FrontEnd|Main|2d731e9|feat: add toggle button|-|28/04/2024|
-|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|dc41446|feat: add Logic for shopping cart|-|28/04/2024|
-|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|10c0958|feat: add routerlink to reservation|-|28/04/2024|
-|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|3d57597|feat: add validation for reservation service|-|28/04/2024|
-|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|2386722|fix: reservar carrito|-|28/04/2024|
+|APOGamer/<br>TripMate<br>WebAppFront|Main|ad43574|feat: add Tripmate theme prototype|-|20/04/2024| 
+|APOGamer/<br>TripMate<br>WebAppFront|Main|a86c625|feat: add General Components|-|21/04/2024| 
+|APOGamer/<br>TripMate<br>WebAppFront|Main|7847bf9|feat: add Mat-Tab-header|-|21/04/2024| 
+|APOGamer/<br>TripMate<br>WebAppFront|Main|fc4ac3f|feat: add Mejora del container general|-|22/04/2024| 
+|MesSobble/<br>TripMate<br>WebAppFront|Main|72a0838|feat: add folders|-|23/04/2024| 
+|APOGamer/<br>TripMate<br>WebAppFront|Main|116f72a|feat: add Starsvg count component|-|23/04/2024|
+|APOGamer/<br>TripMate<br>WebAppFront|Main|6a7fe2e|feat: add CardMain|-|23/04/2024|
+|APOGamer/<br>TripMate<br>WebAppFront|Main|3963914|feat: add responsive card|-|24/04/2024|
+|APOGamer/<br>TripMate<br>WebAppFront|Main|ca5ec6e|feat: add css|-|24/04/2024|
+|MesSobble/<br>TripMate<br>WebAppFront|Main|4b3c7ad|feat: add inputs|-|24/04/2024| 
+|APOGamer/<br>TripMate<br>WebAppFront|Main|3976f11|feat: add services|-|24/04/2024|
+|MesSobble/<br>TripMate<br>WebAppFront|Main|5cb7de5|feat: add myjourneys|-|24/04/2024| 
+|MesSobble/<br>TripMate<br>WebAppFront|Main|64702d5|feat: add shoppingcart|-|24/04/2024| 
+|MesSobble/<br>TripMate<br>WebAppFront|Main|edc1a67|feat: update toolbar.component.ts|-|24/04/2024|
+|APOGamer/<br>TripMate<br>WebAppFront|Main|5752d91|feat: update enviroments.ts|-|24/04/2024|
+|APOGamer/<br>TripMate<br>WebAppFront|Main|2cc8730|feat: add components|-|24/04/2024|
+|paolomv02/<br>TripMate<br>WebAppFront|Main|b104af3|feat: add restaurants methods|-|24/04/2024|
+|APOGamer/<br>TripMate<br>WebAppFront|Main|a5e58ad|feat: add ngfor restaurants|-|24/04/2024|
+|APOGamer/<br>TripMate<br>WebAppFront|Main|c3468a6|feat: add validation|-|24/04/2024|
+|paolomv02/<br>TripMate<br>WebAppFront|Main|70ed095|feat: add searchbar|-|24/04/2024|
+|APOGamer/<br>TripMate<br>WebAppFront|Main|64893e6|feat: add activites filter|-|25/04/2024|
+|APOGamer/<br>TripMate<br>WebAppFront|Main|5588ea1|feat: add searchbar for flights|-|25/04/2024|
+|APOGamer/<br>TripMate<br>WebAppFront|Main|4aa0d69|feat: add searchbar for activities and accomodations|-|25/04/2024|
+|Leonel-Alfaro/<br>TripMate<br>WebAppFront|Main|e786058|feat: add dropdown card|-|26/04/2024|
+|Leonel-Alfaro/<br>TripMate<br>WebAppFront|Main|d8e8f49|feat: add range-slider|-|26/04/2024|
+|APOGamer/<br>TripMate<br>WebAppFront|Main|4262c3e|feat: add apifake db.json|-|26/04/2024|
+|paolomv02/<br>TripMate<br>WebAppFront|Main|7afee54|feat: add main filter|-|26/04/2024|
+|Leonel-Alfaro/<br>TripMate<br>WebAppFront|Main|cba2ceb|feat: add placeholder|-|26/04/2024|
+|MesSobble/<br>TripMate<br>WebAppFront|Main|a6ea834|feat: add signin and register|-|26/04/2024|
+|paolomv02/<br>TripMate<br>WebAppFront|Main|e6ea840|feat: add slider methods|-|26/04/2024|
+|paolomv02/<br>TripMate<br>WebAppFront|Main|c6c7348|feat: add placeholder styles|-|26/04/2024|
+|paolomv02/<br>TripMate<br>WebAppFront|Main|04c6bb0|feat: add placeholder html|-|26/04/2024|
+|paolomv02/<br>TripMate<br>WebAppFront|Main|5a59197|feat: add main filter values|-|26/04/2024|
+|paolomv02/<br>TripMate<br>WebAppFront|Main|ea50361|feat: add dropdown html|-|26/04/2024|
+|paolomv02/<br>TripMate<br>WebAppFront|Main|06641ed|feat: add import filter component|-|26/04/2024|
+|paolomv02/<br>TripMate<br>WebAppFront|Main|a4370de|feat: add activites filter|-|26/04/2024|
+|paolomv02/<br>TripMate<br>WebAppFront|Main|47093f8|feat: add accomodations filter|-|26/04/2024|
+|APOGamer/<br>TripMate<br>WebAppFront|Main|9e769ab|feat: add register validation|-|26/04/2024|
+|APOGamer/<br>TripMate<br>WebAppFront|Main|9e769ab|feat: add register validation|-|26/04/2024|
+|MesSobble/<br>TripMate<br>WebAppFront|Main|07c88ed|feat: signin and register|-|26/04/2024|
+|MesSobble/<br>TripMate<br>WebAppFront|Main|c65bd3f|feat: add conditionals|-|26/04/2024|
+|Jemisas/<br>TripMate<br>WebAppFront|Main|940bc10|feat: add bar notifications|-|26/04/2024|
+|MesSobble/<br>TripMate<br>WebAppFront|Main|8a9d61a|feat: add myjourneys model|-|27/04/2024|
+|APOGamer/<br>TripMate<br>WebAppFront|Main|c8e7842|feat: add chat section|-|27/04/2024|
+|APOGamer/<br>TripMate<br>WebAppFront|Main|f25d6d2|feat: add shopping cart service|-|27/04/2024|
+|paolovm02/<br>TripMate<br>WebAppFront|Main|da9c158|feat: add change routes|-|27/04/2024|
+|paolovm02/<br>TripMate<br>WebAppFront|Main|76ef19b|feat: add userview html|-|27/04/2024|
+|paolovm02/<br>TripMate<br>WebAppFront|Main|a1619f9|feat: import modules|-|27/04/2024|
+|MesSobble/<br>TripMate<br>WebAppFront|Main|8a9d61a|fix: shoppingcart|-|27/04/2024|
+|paolovm02/<br>TripMate<br>WebAppFront|Main|0bcc8b1|feat: add users endpoint|-|27/04/2024|
+|paolovm02/<br>TripMate<br>WebAppFront|Main|2ed00e8|feat: create user model|-|27/04/2024|
+|paolovm02/<br>TripMate<br>WebAppFront|Main|975c403|feat: add getUser method|-|27/04/2024|
+|Jemisas/<br>TripMate<br>WebAppFront|Main|ce73e58|feat: add notifications|-|27/04/2024|
+|Jemisas/<br>TripMate<br>WebAppFront|Main|bd17058|fix: ddd|-|28/04/2024|
+|Leonel-Alfaro/<br>TripMate<br>WebAppFront|Main|ed46a0e|feat: add itineraty|-|28/04/2024|
+|MesSobble/<br>TripMate<br>WebAppFront|Main|2d731e9|feat: add toggle button|-|28/04/2024|
+|APOGamer/<br>TripMate<br>WebAppFront|Main|dc41446|feat: add Logic for shopping cart|-|28/04/2024|
+|APOGamer/<br>TripMate<br>WebAppFront|Main|10c0958|feat: add routerlink to reservation|-|28/04/2024|
+|APOGamer/<br>TripMate<br>WebAppFront|Main|3d57597|feat: add validation for reservation service|-|28/04/2024|
+|APOGamer/<br>TripMate<br>WebAppFront|Main|2386722|fix: reservar carrito|-|28/04/2024|
 
 
 **Conclusiones** 
