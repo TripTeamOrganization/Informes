@@ -1663,68 +1663,6 @@ Aunque se logró mucho en el Sprint 1, aún quedan algunas tareas pendientes par
       ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/cfcdd471-cc96-4fe8-a845-bf17b60db1aa)
 ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/e64a5481-7192-4487-b518-b8ac9bb653dc)
 
-- 5.2.2. Sprint 1
-    - 5.2.2.1. Sprint Planning 2
-      
-    Un sprint representa un periodo corto y fijo de tiempo durante el cual se desarrolla un conjunto de tareas o actividades específicas en un proyecto, asociado con metodologías ágiles como Scrum. El Sprint #2 tiene como fecha de inicio el 15/04/2024 y plantea elaborar la primera versión del FrontEnd de la aplicación web de TripMate contenga las funcionalidades del proyecto.
-
-
-| **Sprint #** | **Sprint 2** |
-| :- | :- |
-| **Sprint Planning Background** | |
-| Date | 15/04/2024 |
-| Time | 9:00 PM - 3:00 AM |
-| Location | Discord |
-| **Prepared By** | Adrián Enrique Jesús Palma Obispo  |
-| Attendees | - Adrián Enrique Jesús Palma Obispo (u202210066)<br>- Paolo Del Carmen Martinez Villanueva (u202010039)<br>- Bárbara Antonella Espinoza Delgado (u201911727)<br>- Jeremy Joel Quispe Andia (u202216279)<br>- Leonel Alfaro Cumba (u20201a930) |
-| **Sprint 2 Goal** | Elaborar, diseñar y desplegar la primera versión del FrontEnd de la aplicación web de TripMate. |
-| **Sprint 2 Velocity** | 20 |
-| **Sum of Story Points** | 20 |
-
-
-  - 5.2.2.2. Sprint Backlog 2
-
-    |**Sprint #**|**Sprint 2**|||||||
-    | :- | :- | :- | :- | :- | :- | :- | :- |
-    |User Story|Work-Item / Task|||||||
-    |Id|Title|Id|Title|Description|Estimation (Hours)|Assigned To|Status (To-do / In-Process / To-Review / Done)|
-    |US20|Visualizar features de la aplicación|W-01|Features|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar todos las funcionalidades y servicios que brinda TripMate</p><p>**Para** entender el uso de la aplicación</p>|3 hours|**Adrian Palma**|Done|
-    |US21|Sección “Acerca de nosotros”|W-02|Sección “Acerca de Nosotros**”**|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar una sección que me informe sobre el startup</p><p>**Para** conocer al equipo de TripMate y su propósito</p>|3 hours|**Leonel Alfaro**|Done|
-    |US22|Sección “Convenios”|W-03|Sección “Convenios”|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar los convenios que tiene TripMate</p><p>**Para** conocer las distintas empresas asociadas</p>|3 hours|**Jeremy Quispe**|Done|
-    |US23|Sección “Testimonios”|W-04|Sección “Testimonios”|<p>**Como** visitante del landing page</p><p>**Quiero** poder ver testimonios y experiencias de otros usuarios</p><p>**Para** conocer la opinión del público sobre TripMate</p>|3 hours|**Paolo Martinez**|Done|
-    |US24|Acceder desde cualquier dispositivo a la landing page|W-05|Accesibilidad|<p>**Como** visitante del landing page</p><p>**Quiero** que sea accesible desde diferentes dispositivos </p><p>**Para** poder ingresar al sitio web desde cualquier dispositivo</p>|3 hours|**Bárbara Espinoza**|Done|
-
-
-
-
-  - 5.2.2.3. Development Evidence for Sprint Review
-    
-|Repository|Branch|Commit ID|Commit Message|Commit Message <br> Body|Commited<br>On (Date)|  
-|----------|------|---------|--------------|-------------------|------------------|
-|Jemisas/<br>TripTeamOrganization/<br>FrontEnd|Main|f2dd6d8731|feat: add Initial Commit|-|23/03/2024| 
-|Jemisas/<br>TripTeamOrganization/<br>FrontEnd|Main|674d37b56c|feat: add Images|-|23/03/2024| 
-|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|47bef22291|feat: add Button|-|23/03/2024| 
-|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|2a836c499e|feat: add Navbar|-|25/03/2024| 
-|Jemisas/<br>TripTeamOrganization/<br>FrontEnd|Main|d867e4d88f|feat: add Login y Register|-|28/03/2024| 
-|MesSobble/<br>TripTeamOrganization/<br>FrontEnd|Main|b3aabb1055|fix: colors|-|30/03/2024| 
-|Jemisas/<br>TripTeamOrganization/<br>FrontEnd|Testimonios|4524d2e6bd|feat: add Buttons|-|31/03/2024| 
-|paolovm02/<br>TripTeamOrganization/<br>FrontEnd|Testimonios|df60b4b190|feat: add Buttons Styles|-|31/03/2024| 
-|ppaolovm02/<br>TripTeamOrganization/<br>FrontEnd|Testimonios|6948049460|feat: add js|-|31/03/2024| 
-|paolovm02/<br>TripTeamOrganization/<br>FrontEnd|Testimonios|cffd774c83|feat: remove Buttons css|-|31/03/2024|
-|paolovm02/<br>TripTeamOrganization/<br>FrontEnd|Testimonios|2518c2a9dd|feat: add testimony|-|6/04/2024|
-|paolovm02/<br>TripTeamOrganization/<br>FrontEnd|Testimonios|6347a2351d|feat: add styles|-|6/04/2024| 
-|Jemisas/<br>TripTeamOrganization/<br>FrontEnd|Main|a770865894|feat: add section convenios|-|6/04/2024|
-|Leonel-Alfaro/<br>TripTeamOrganization/<br>FrontEnd|Main|3da62d2b18|feat: add section Acerca de Nosotros|-|6/04/2024|
-|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|2a64d8a75b|feat: add photos|-|6/04/2024|
-|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|70d9639e89|feat: add video|-|6/04/2024|
-|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|515d752402|feat: add deployment, convenios responsive|-|6/04/2024|
-|MesSobble/<br>TripTeamOrganization/<br>FrontEnd|Responsive|b30b72bb20|feat: add Responsive NavBar|-|6/04/2024| 
-|MesSobble/<br>TripTeamOrganization/<br>FrontEnd|Responsive|491f06fad2|fix: landing page|-|6/04/2024| 
-|MesSobble/<br>TripTeamOrganization/<br>FrontEnd|Main|491f06fad2|feat: add colors|-|6/04/2024|
-|MesSobble/<br>TripTeamOrganization/<br>FrontEnd|Main|6359222392|feat: add font styles|-|7/04/2024| 
-|Jemisas/<br>TripTeamOrganization/<br>FrontEnd|Main|878f958fea|fix: change background login and register|-|7/04/2024|
-|Jemisas/<br>TripTeamOrganization/<br>FrontEnd|Main|d600d2754e|feat: add logo on the navbar|-|7/04/2024|
-
 
 
 **Conclusiones** 
