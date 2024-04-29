@@ -1688,11 +1688,13 @@ Aunque se logró mucho en el Sprint 1, aún quedan algunas tareas pendientes par
     | :- | :- | :- | :- | :- | :- | :- | :- |
     |User Story|Work-Item / Task|||||||
     |Id|Title|Id|Title|Description|Estimation (Hours)|Assigned To|Status (To-do / In-Process / To-Review / Done)|
-    |US20|Visualizar features de la aplicación|W-01|Features|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar todos las funcionalidades y servicios que brinda TripMate</p><p>**Para** entender el uso de la aplicación</p>|3 hours|**Adrian Palma**|Done|
-    |US21|Sección “Acerca de nosotros”|W-02|Sección “Acerca de Nosotros**”**|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar una sección que me informe sobre el startup</p><p>**Para** conocer al equipo de TripMate y su propósito</p>|3 hours|**Leonel Alfaro**|Done|
-    |US22|Sección “Convenios”|W-03|Sección “Convenios”|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar los convenios que tiene TripMate</p><p>**Para** conocer las distintas empresas asociadas</p>|3 hours|**Jeremy Quispe**|Done|
-    |US23|Sección “Testimonios”|W-04|Sección “Testimonios”|<p>**Como** visitante del landing page</p><p>**Quiero** poder ver testimonios y experiencias de otros usuarios</p><p>**Para** conocer la opinión del público sobre TripMate</p>|3 hours|**Paolo Martinez**|Done|
-    |US24|Acceder desde cualquier dispositivo a la landing page|W-05|Accesibilidad|<p>**Como** visitante del landing page</p><p>**Quiero** que sea accesible desde diferentes dispositivos </p><p>**Para** poder ingresar al sitio web desde cualquier dispositivo</p>|3 hours|**Bárbara Espinoza**|Done|
+    |US01|Registro de usuario|W-01|Seccion Register|<p>**Como** usuario nuevo</p><p>**Quiero** poder registrarme en TripMate</p><p>**Para** epoder acceder a todas las funcionalidades de la aplicación</p>|2 hours|**Adrian Palma**|Done|
+    |US02|Inicio de sesión|W-02|Sección Sign In|<p>**Como** usuario registrado</p><p>**Quiero** poder iniciar sesión en la aplicación</p><p>**Para** acceder a mi cuenta</p>|2 hours|**Leonel Alfaro**|Done|
+    |US03|Recuperación de contraseña|W-03|Opción Recuperar Contraseña|<p>**Como** usuario registrado</p><p>**Quiero** tener la opción de recuperación de contraseña</p><p>**Para** poder acceder a mi cuenta sin problemas</p>|3 hours|**Jeremy Quispe**|Done|
+    |US04|Cambiar dirección de correo electrónico|W-04|Opción Recuperar Contraseña|<p>**Como** usuario</p><p>**Quiero** poder cambiar la dirección de correo electrónico asociada a mi cuenta</p><p>**Para** mantener mi información de contacto actualizada</p>|3 hours|**Paolo Martinez**|Done|
+    |US05|Buscar destinos por filtros|W-05|Filtrado de destinos|<p>**Como** usuario</p><p>**Quiero**poder buscar destinos por categorías</p><p>**Para** explorar opciones según mis intereses y preferencias</p>|3 hours|**Bárbara Espinoza**|Done|
+    |US06|Información sobre destinos|W-05|Filtrado de destinos|<p>**Como** usuario</p><p>**Quiero**poder acceder a información sobre destino de mi viaje</p><p>**Para** conocer el lugar y planificar un itinerario</p>|3 hours|**Bárbara Espinoza**|Done|
+    
 
 
 
