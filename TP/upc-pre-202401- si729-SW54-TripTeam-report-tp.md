@@ -1734,8 +1734,41 @@ Aunque se logró mucho en el Sprint 1, aún quedan algunas tareas pendientes par
 |APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|4aa0d69|feat: add searchbar for activities and accomodations|-|25/04/2024|
 |Leonel-Alfaro/<br>TripTeamOrganization/<br>FrontEnd|Main|e786058|feat: add dropdown card|-|26/04/2024|
 |Leonel-Alfaro/<br>TripTeamOrganization/<br>FrontEnd|Main|d8e8f49|feat: add range-slider|-|26/04/2024|
-
-
+|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|4262c3e|feat: add apifake db.json|-|26/04/2024|
+|paolomv02/<br>TripTeamOrganization/<br>FrontEnd|Main|7afee54|feat: add main filter|-|26/04/2024|
+|Leonel-Alfaro/<br>TripTeamOrganization/<br>FrontEnd|Main|cba2ceb|feat: add placeholder|-|26/04/2024|
+|MesSobble/<br>TripTeamOrganization/<br>FrontEnd|Main|a6ea834|feat: add signin and register|-|26/04/2024|
+|paolomv02/<br>TripTeamOrganization/<br>FrontEnd|Main|e6ea840|feat: add slider methods|-|26/04/2024|
+|paolomv02/<br>TripTeamOrganization/<br>FrontEnd|Main|c6c7348|feat: add placeholder styles|-|26/04/2024|
+|paolomv02/<br>TripTeamOrganization/<br>FrontEnd|Main|04c6bb0|feat: add placeholder html|-|26/04/2024|
+|paolomv02/<br>TripTeamOrganization/<br>FrontEnd|Main|5a59197|feat: add main filter values|-|26/04/2024|
+|paolomv02/<br>TripTeamOrganization/<br>FrontEnd|Main|ea50361|feat: add dropdown html|-|26/04/2024|
+|paolomv02/<br>TripTeamOrganization/<br>FrontEnd|Main|06641ed|feat: add import filter component|-|26/04/2024|
+|paolomv02/<br>TripTeamOrganization/<br>FrontEnd|Main|a4370de|feat: add activites filter|-|26/04/2024|
+|paolomv02/<br>TripTeamOrganization/<br>FrontEnd|Main|47093f8|feat: add accomodations filter|-|26/04/2024|
+|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|9e769ab|feat: add register validation|-|26/04/2024|
+|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|9e769ab|feat: add register validation|-|26/04/2024|
+|MesSobble/<br>TripTeamOrganization/<br>FrontEnd|Main|07c88ed|feat: signin and register|-|26/04/2024|
+|MesSobble/<br>TripTeamOrganization/<br>FrontEnd|Main|c65bd3f|feat: add conditionals|-|26/04/2024|
+|Jemisas/<br>TripTeamOrganization/<br>FrontEnd|Main|940bc10|feat: add bar notifications|-|26/04/2024|
+|MesSobble/<br>TripTeamOrganization/<br>FrontEnd|Main|8a9d61a|feat: add myjourneys model|-|27/04/2024|
+|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|c8e7842|feat: add chat section|-|27/04/2024|
+|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|f25d6d2|feat: add shopping cart service|-|27/04/2024|
+|paolovm02/<br>TripTeamOrganization/<br>FrontEnd|Main|da9c158|feat: add change routes|-|27/04/2024|
+|paolovm02/<br>TripTeamOrganization/<br>FrontEnd|Main|76ef19b|feat: add userview html|-|27/04/2024|
+|paolovm02/<br>TripTeamOrganization/<br>FrontEnd|Main|a1619f9|feat: import modules|-|27/04/2024|
+|MesSobble/<br>TripTeamOrganization/<br>FrontEnd|Main|8a9d61a|fix: shoppingcart|-|27/04/2024|
+|paolovm02/<br>TripTeamOrganization/<br>FrontEnd|Main|0bcc8b1|feat: add users endpoint|-|27/04/2024|
+|paolovm02/<br>TripTeamOrganization/<br>FrontEnd|Main|2ed00e8|feat: create user model|-|27/04/2024|
+|paolovm02/<br>TripTeamOrganization/<br>FrontEnd|Main|975c403|feat: add getUser method|-|27/04/2024|
+|Jemisas/<br>TripTeamOrganization/<br>FrontEnd|Main|ce73e58|feat: add notifications|-|27/04/2024|
+|Jemisas/<br>TripTeamOrganization/<br>FrontEnd|Main|bd17058|fix: ddd|-|28/04/2024|
+|Leonel-Alfaro/<br>TripTeamOrganization/<br>FrontEnd|Main|ed46a0e|feat: add itineraty|-|28/04/2024|
+|MesSobble/<br>TripTeamOrganization/<br>FrontEnd|Main|2d731e9|feat: add toggle button|-|28/04/2024|
+|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|dc41446|feat: add Logic for shopping cart|-|28/04/2024|
+|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|10c0958|feat: add routerlink to reservation|-|28/04/2024|
+|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|3d57597|feat: add validation for reservation service|-|28/04/2024|
+|APOGamer/<br>TripTeamOrganization/<br>FrontEnd|Main|2386722|fix: reservar carrito|-|28/04/2024|
 
 
 **Conclusiones** 
