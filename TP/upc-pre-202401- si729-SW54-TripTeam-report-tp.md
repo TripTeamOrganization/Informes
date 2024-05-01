@@ -1672,7 +1672,7 @@ Aunque se logró mucho en el Sprint 1, aún quedan algunas tareas pendientes par
 - 5.2.2. Sprint 2
     - 5.2.2.1. Sprint Planning 2
       
-    Un sprint representa un periodo corto y fijo de tiempo durante el cual se desarrolla un conjunto de tareas o actividades específicas en un proyecto, asociado con metodologías ágiles como Scrum. El Sprint #2 tiene como fecha de inicio el 15/04/2024 y plantea elaborar la primera versión del FrontEnd de la aplicación web de TripMate contenga las funcionalidades del proyecto.
+    Un sprint representa un periodo corto y fijo de tiempo durante el cual se desarrolla un conjunto de tareas o actividades específicas en un proyecto, asociado con metodologías ágiles como Scrum. El Sprint #2 tiene como fecha de inicio el 20/04/2024 y plantea elaborar la primera versión del FrontEnd de la aplicación web de TripMate contenga las funcionalidades del proyecto.
 
 
 | **Sprint #** | **Sprint 2** |
