@@ -623,6 +623,11 @@ Sandro, una docente de 30 años, comparte su opinión sobre TripMate, una aplica
 | **Momento Fin:**                  | 8:18                                                       |
 
 
+Resumen:
+
+Isabel Martínez Cuya, cosmetóloga de 35 años, encuentra valiosa la idea de una aplicación que ayude a las familias a planificar y gestionar viajes de forma más eficiente. Le gusta la idea de una aplicación que ahorre tiempo, permita organizar viajes con mayor facilidad y ofrezca información confiable sobre destinos, alojamientos y actividades, ayudando a saber cuánto gastar y dónde ir. Sin embargo, Isabel destaca la importancia de la seguridad y la privacidad de datos, preocupándose por el uso indebido de la información personal y valorando la transparencia en las aplicaciones. Como madre de familia, Isabel enfrenta desafíos al planificar viajes, como la elección de destinos y la administración del presupuesto. Cree que una aplicación como TripMate podría ayudarla a superar estos desafíos al proporcionar información clara y permitir la planificación integral. Prefiere un aplicativo que se adapte a la familia como un todo para hacer los viajes familiares más placenteros y menos estresantes..
+
+
 
 | Entrevistado N°3: Isaak Sánches | <img src="https://github.com/TripTeamOrganization/Informes/assets/134337719/d5c28126-a804-4c18-833c-a98db0a4f349" alt="Andrés Valle" style="width: 230px;"> |
 |--------------------------------|------------------------------------------------------------|
@@ -722,12 +727,12 @@ Análisis de Entrevistas sobre Experiencias de Viaje de Lujo:
  ### Estadísticas 
 
 
-![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/bd67a809-d781-4143-a3d9-1851095df464)
-![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/507e3546-873d-418a-999e-eefdf127edb5)
-![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/5901b007-153b-4eb2-8716-6b65a03de913)
-![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/b1927489-1497-4a5c-b3f5-cb8dca1e783f)
-![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/80ca1bed-417e-40dd-bfe5-c3c9fe7afcb6)
-![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/347bf7c6-e6a2-417f-abc3-ccaa9fdbd758)
+![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/6603c073-65c1-43db-ab76-1bd46cd4c6c7)
+![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/ff4e550d-a655-4014-808c-6faf8d043b4c)
+![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/dbc37835-112f-4a56-9b94-87d5f8a76262)
+![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/a866da03-075d-4f3e-9af4-083cc2c79c5c)
+![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/a394fb09-092c-4f89-9e34-7629287652fc)
+![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/58b4c385-53f5-466b-a762-72f9b0fbbbf4)
 
 
 
