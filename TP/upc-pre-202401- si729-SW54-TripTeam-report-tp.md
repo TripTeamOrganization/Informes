@@ -1782,27 +1782,67 @@ Aunque se logró mucho en el Sprint 1, aún quedan algunas tareas pendientes par
 |APOGamer/<br>TripMate<br>WebAppFront|Main|2386722|fix: reservar carrito|-|28/04/2024|
 
 
-  - 5.2.2.5. Execution Evidence for Sprint Review
-    
- **Sprint 2**
+ - 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 
-Progreso en el Desarrollo
-- Durante el Sprint 2, se realizaron las siguientes implementaciones en la página:
+
+|Repository|Branch|Commit ID|Commit Message|Commit Message <br> Body|Commited<br>On (Date)|
+|----------|------|---------|--------------|-------------------|------------------|
+|APOGamer/<br>TripTeamOrganization<br>/AcceptanceTest|Main|0176377|fix: US11.feature|-|01/05/2024| 
+|Jemisas /<br>TripTeamOrganization<br>/AcceptanceTest|Main|ffa6225|fix: US06.feature|-|01/05/2024| 
+|Leonel-Alfaro/<br>TripTeamOrganization<br>/AcceptanceTest|Main|f64fa7d|fix: US05.feature|-|01/05/2024| 
+|MesSobble/<br>TripTeamOrganization<br>/AcceptanceTest|Main|f472297|fix: US02.feature|-|01/05/2024| 
+|paolomv02/<br>TripTeamOrganization<br>/AcceptanceTest|Main|302df33|fix: US08.feature|-|01/05/2024| 
+
+
+En el proceso de desarrollo del frontend, se usaron diferentes estrategias de prueba para garantizar que todo funcionara correctamente y que el diseño se adaptara bien a diversos entornos. Aquí están las herramientas y métodos que utilizamos:
+
+1. **Servidor Local en WebStorm**
+
+- **Propósito:** Facilitamos el desarrollo y la prueba del frontend en un entorno local.
+- **Descripción:** Empleamos un servidor en WebStorm para poder ver el frontend en el navegador y visualizar cambios en tiempo real sin tener que recargar la página manualmente. Esto nos permitió trabajar de forma más eficiente y detectar problemas rápidamente.
+
+2. **Firefox Developer para Pruebas Móviles**
+
+- **Propósito:** Verificar la compatibilidad del frontend y su diseño en dispositivos móviles.
+- **Descripción:** Utilizamos Firefox Developer para simular diferentes tamaños de pantalla y asegurarnos de que el diseño respondiera adecuadamente en dispositivos móviles. Esta herramienta nos permitió comprobar cómo se veía y funcionaba el frontend en distintas resoluciones.
+
+3. **Herramientas del Navegador para Diseño Responsivo**
+
+- **Propósito:** Usar las funciones del navegador para mejorar el diseño y la compatibilidad con CSS .
+- **Descripción:** Con las herramientas de inspección del navegador, ajustamos y optimizamos el diseño del frontend para trabajar con CSS. También usamos las herramientas de depuración para corregir problemas de diseño responsivo y mejorar la experiencia del usuario.
+
+  Estas estrategias de prueba nos ayudaron a garantizar que el frontend funcionara bien, se viera atractivo y fuera adaptable en diferentes dispositivos y navegadores, contribuyendo a una experiencia de usuario de alta calidad.
+
+4. **Pruebas de Interactividad y Funcionalidad**
+
+- **Propósito:**: Asegurar que todas las interacciones y funcionalidades del frontend funcionen correctamente.
+
+- **Descripción:** Realizamos pruebas manuales para verificar que los botones, enlaces, formularios y otras funciones interactivas del frontend respondieran de manera adecuada. Al probar diferentes casos de uso y flujos de usuario, pudimos identificar errores o comportamientos inesperados y corregirlos antes de que llegaran a producción.
+Esta estrategia nos permitió comprobar de forma directa cómo los usuarios interactúan con el frontend y nos ayudó a garantizar una experiencia de usuario sin problemas.
+
+
+  
+- 5.2.2.5. Execution Evidence for Sprint Review 
+
+  **Sprint 2**
+
+
+    Progreso en el Desarrollo
+  - Durante el Sprint 2, se realizaron las siguientes implementaciones en la página:
 
 1. **Barra de Navegación (Navbar):**
    - Se creó y configuró una barra de navegación para permitir la navegación fácil entre las diferentes secciones de la página
+   
      
-     ![image](https://github.com/TripTeamOrganization/Informes/assets/48342953/3d31bf76-1433-44ff-b2ab-e5405a8df0e5)
+     ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/fe1d8b86-7ba9-4327-96bc-f37559124b05)
+Secciones 
 
 2. **Sección de Alojamientos:**
    - Se diseño e implementamos una sección dinámica de alojamientos, donde se presentan tarjetas con destinos. Estas tarjetas ofrecen información de interés del visitante.
 
      
      ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/d2d22ab7-cb08-4d52-bb17-d5789f9bdbd8)
-
-
-
 
 
 3. **Seccion de Vuelos :**
@@ -1862,9 +1902,13 @@ Progreso en el Desarrollo
      ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/5df08478-d50c-43d0-8f83-6a45e7f8dd96)
 
 
-  ## 5.2.1.8. Colaboración del Equipo durante el Sprint
+- 5.2.2.6. Services Documentation Evidence for Sprint Review
 
-### Actividades por Alumno
+   - 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+- 5.2.2.8. Colaboración del Equipo durante el Sprint
+
+#### Actividades por Alumno
 
 | Alumno                              | Actividad                                                 |
 |-------------------------------------|-----------------------------------------------------------|
@@ -1878,7 +1922,7 @@ Progreso en el Desarrollo
 Se realizaron un total de 108 commits para el desarrollo de la landing page, incluyendo creación de secciones y corrección de bugs.
 
 
-### Tabla para Identificación (Usuarios de Github)
+#### Tabla para Identificación (Usuarios de Github)
 
 | Username (Github)  | Nombre                                  |
 |--------------------|----------------------------------------|
