@@ -1951,16 +1951,9 @@ Se realizaron un total de 108 commits para el desarrollo de la landing page, inc
 
 **Conclusiones** 
 
-El proyecto de la *web app* **Tripmate** busca abordar de manera **efectiva** el problema de la mala elección de servicios, gastos innecesarios y desorganización al planificar un viaje a un nuevo destino. Al proporcionar una plataforma centralizada que ofrece opciones personalizadas y filtradas según las preferencias y presupuestos del usuario, se simplifica y optimiza significativamente el proceso de planificación de viajes. Esto se traduce en un **ahorro de tiempo y dinero** para los viajeros, así como en una mayor satisfacción al encontrar las opciones más adecuadas para sus necesidades.
+En el sprint 2, se han implementado importantes características para mejorar la experiencia del usuario, incluyendo el registro de usuario, inicio de sesión y cambio de dirección de correo electrónico. Además, se ha trabajado en la funcionalidad de búsqueda para vuelos, alojamientos, restaurantes y actividades, así como la posibilidad de ver y reservar cada uno de estos servicios. También se ha incluido la opción de planificar itinerarios, realizar pagos y aplicar códigos promocionales para obtener descuentos adicionales.
 
-La aplicación se centra en ofrecer una experiencia de usuario intuitiva y amigable, con características como:
-- Filtros precisos
-- Ingreso de presupuestos
-- Notificaciones anticipadas sobre cambios en los servicios seleccionados
-
-Estas funcionalidades están diseñadas para facilitar la búsqueda y selección de opciones de viaje, así como para evitar inconvenientes de última hora que puedan afectar negativamente la experiencia del usuario. Al priorizar la comodidad y la eficiencia, la *landing page* busca garantizar que los viajeros tengan una experiencia agradable desde el momento en que visitan nuestro sitio web hasta que deciden explorar más a fondo nuestras ofertas.
-
-A través de un enfoque centrado en las necesidades del usuario y la diferenciación de la competencia, la *landing page* busca destacarse en el mercado de viajes en línea. La inclusión de características únicas, como la sección de galería para inspirar a los viajeros, la barra de navegación intuitiva y el fondo animado para captar la atención del usuario, se suma a su propuesta de valor. Además, la colaboración con empresas asociadas y la promoción de descuentos exclusivos pueden atraer a una base de usuarios más amplia y consolidar la posición de la página de inicio en el mercado. En resumen, la *landing page* se presenta como una solución atractiva y funcional para los viajeros, ofreciendo una experiencia de usuario fluida y diferenciada para planificar sus próximas aventuras.
+Estas nuevas funcionalidades, junto con una interfaz intuitiva y características únicas como la sección de galería para inspirar a los viajeros, la barra de navegación intuitiva y el fondo animado, fortalecen la propuesta de valor de Tripmate en el mercado de viajes en línea. La colaboración con empresas asociadas y la promoción de descuentos exclusivos continúan atrayendo a una base de usuarios más amplia y consolidan su posición en el mercado como una solución atractiva y funcional para los viajeros.
 
 **Bibliografía**
 
