@@ -1784,6 +1784,114 @@ Estas funcionalidades están diseñadas para facilitar la búsqueda y selección
 
 A través de un enfoque centrado en las necesidades del usuario y la diferenciación de la competencia, la *landing page* busca destacarse en el mercado de viajes en línea. La inclusión de características únicas, como la sección de galería para inspirar a los viajeros, la barra de navegación intuitiva y el fondo animado para captar la atención del usuario, se suma a su propuesta de valor. Además, la colaboración con empresas asociadas y la promoción de descuentos exclusivos pueden atraer a una base de usuarios más amplia y consolidar la posición de la página de inicio en el mercado. En resumen, la *landing page* se presenta como una solución atractiva y funcional para los viajeros, ofreciendo una experiencia de usuario fluida y diferenciada para planificar sus próximas aventuras.
 
+
+
+  - 5.2.1.5. Execution Evidence for Sprint Review
+    
+ **Sprint 2**
+
+
+Progreso en el Desarrollo
+- Durante el Sprint 2, se realizaron las siguientes implementaciones en la página:
+
+1. **Barra de Navegación (Navbar):**
+   - Se creó y configuró una barra de navegación para permitir la navegación fácil entre las diferentes secciones de la página
+     
+     ![image](https://github.com/TripTeamOrganization/Informes/assets/48342953/3d31bf76-1433-44ff-b2ab-e5405a8df0e5)
+
+2. **Sección de Alojamientos:**
+   - Se diseño e implementamos una sección dinámica de alojamientos, donde se presentan tarjetas con destinos. Estas tarjetas ofrecen información de interés del visitante.
+
+     
+     ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/d2d22ab7-cb08-4d52-bb17-d5789f9bdbd8)
+
+
+
+
+
+3. **Seccion de Vuelos :**
+   - Desarrollamos una sección para mostrar opciones de vuelos, donde se listan diferentes aerolíneas. Esta sección incluye información relevante para ayudar a los visitantes a elegir el vuelo que mejor se adapte a sus necesidades.
+     
+     ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/fd9c95ed-ba5f-49d4-b4c9-ce839127f687)
+
+
+4. **Seccion de Restaurantes :**
+   - Implementamos una sección dedicada a restaurantes. Los visitantes pueden encontrar información detallada restaurantes , ubicaciones y horarios.
+     
+     ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/c9923a37-6f51-4d8a-8cd3-0cc18e64903c)
+
+5. **Sección de Actividades:**
+   - Creamos una sección enfocada en actividades y experiencias. Los visitantes pueden explorar diversas opciones para sus aventuras. 
+      
+     ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/7c7fb951-46d3-4128-b474-268bd005d412)
+
+6. **Filtros por secciones :**
+
+   - Se agregaron filtros segun la sección
+
+
+      - Alojamientos
+
+      ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/5921b215-e10a-4b70-9f9b-759c9853567e)
+
+      - Vuelos
+
+      ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/96bd730e-b570-4252-8c14-b41f1aadcdb5)
+      
+      - Restaurantes
+
+      ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/36ac32d5-2a72-4289-bc9c-5b72389e89f1)
+
+      - Actividades
+
+      ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/04f0a3c0-60dd-4f86-a1c1-c1efdafb1411)
+     
+
+7. **Sección de Carrito de compras :**
+
+   - Diseñamos una sección de carrito de compras para que los visitantes puedan revisar y gestionar los productos o servicios que han seleccionado.
+     
+      ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/4a11c9bd-e1fe-49db-a96e-358862d5f091)
+
+     
+8. **Apartado de Notificaciones :**
+   - Se agregaron detalles sobre los convenios establecidos con aerolíneas, hoteles y restaurantes.
+          
+     ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/f08a35ca-cbb4-4f02-b5d2-dfd6f4269ff5)
+
+
+9. **Apartado de Reserva:**
+   - Desarrollamos un apartado para pagar lo que se reserva.
+   
+     ![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/5df08478-d50c-43d0-8f83-6a45e7f8dd96)
+
+
+  ## 5.2.1.8. Colaboración del Equipo durante el Sprint
+
+### Actividades por Alumno
+
+| Alumno                              | Actividad                                                 |
+|-------------------------------------|-----------------------------------------------------------|
+| Palma Obispo, Adrián Enrique Jesús  | Implementación de las secciones: Toolbar y Alojamientos   |
+| Espinoza Delgado, Bárbara Antonella | Implementación de Registro, Planes, Actividades y Carrito de Compras |
+| Quispe Andia, Jeremy Joel           | Implementación de Mis Viajes, Vuelos y Notificaciones      |
+| Martinez Villanueva, Paolo Del Carmen| Implementación de Restaurantes, User Profile y Filtros    |
+| Alfaro Cumba, Leonel                | Implementación de Reservaciones, Inicio de Sesión e Itinerario |
+
+
+Se realizaron un total de 108 commits para el desarrollo de la landing page, incluyendo creación de secciones y corrección de bugs.
+
+
+### Tabla para Identificación (Usuarios de Github)
+
+| Username (Github)  | Nombre                                  |
+|--------------------|----------------------------------------|
+| APOgamer            | Palma Obispo, Adrián Enrique Jesús   |
+| MesSobble           | Espinoza Delgado, Bárbara Antonella   |
+| Jemisas             | Quispe Andia, Jeremy Joel              |
+| paolomv02           | Martinez Villanueva, Paolo Del Carmen  |
+| Leonel-Alfaro       | Alfaro Cumba, Leonel                   |
+
 **Bibliografía**
 
 - Asmar, S. (2023). Consejos para no endeudarse en sus próximos viajes y pagar la deuda en pocos meses. Recuperado de: [La República](https://www.larepublica.co/finanzas-personales/consejos-para-no-endeudarse-en-sus-proximos-viajes-y-pagar-la-deuda-en-pocos-meses-3598007)
