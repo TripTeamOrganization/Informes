@@ -1782,18 +1782,33 @@ Aunque se logró mucho en el Sprint 1, aún quedan algunas tareas pendientes par
 |APOGamer/<br>TripMate<br>WebAppFront|Main|2386722|fix: reservar carrito|-|28/04/2024|
 
 
- - 5.2.1.4. Testing Suite Evidence for Sprint Review
+- 5.2.2.4. Testing Suite Evidence for Sprint Review
 
-
-
-|Repository|Branch|Commit ID|Commit Message|Commit Message <br> Body|Commited<br>On (Date)|
-|----------|------|---------|--------------|-------------------|------------------|
-|APOGamer/<br>TripTeamOrganization<br>/AcceptanceTest|Main|0176377|fix: US11.feature|-|01/05/2024| 
-|Jemisas /<br>TripTeamOrganization<br>/AcceptanceTest|Main|ffa6225|fix: US06.feature|-|01/05/2024| 
-|Leonel-Alfaro/<br>TripTeamOrganization<br>/AcceptanceTest|Main|f64fa7d|fix: US05.feature|-|01/05/2024| 
-|MesSobble/<br>TripTeamOrganization<br>/AcceptanceTest|Main|f472297|fix: US02.feature|-|01/05/2024| 
-|paolomv02/<br>TripTeamOrganization<br>/AcceptanceTest|Main|302df33|fix: US08.feature|-|01/05/2024| 
-
+  |Repository|Branch|Commit ID|Commit Message|Commit Message <br> Body|Commited<br>On (Date)|  
+  |----------|------|---------|--------------|-------------------|------------------|
+  |TripTeamOrganization<br>/AcceptanceTest|Main|ed7d0e3|fix: update US02.feature|-|01/05/2024| 
+  |TripTeamOrganization<br>/AcceptanceTest|Main|ac5b533|fix: update US05.feature|-|01/05/2024| 
+  |TripTeamOrganization<br>/AcceptanceTest|Main|48fbe8f|fix: update US06.feature|-|01/05/2024| 
+  |TripTeamOrganization<br>/AcceptanceTest|Main|3c1f41e|fix: update US05.feature|-|01/05/2024| 
+  |TripTeamOrganization<br>/AcceptanceTest|Main|35f86d5|fix: update US06.feature|-|01/05/2024|
+  |TripTeamOrganization<br>/AcceptanceTest|Main|0b1237e|feat: add US07.feature|-|01/05/2024| 
+  |TripTeamOrganization<br>/AcceptanceTest|Main|a9d3e43|fix: update US07.feature|-|01/05/2024| 
+  |TripTeamOrganization<br>/AcceptanceTest|Main|85d3482|fix: update US08.feature|-|01/05/2024| 
+  |TripTeamOrganization<br>/AcceptanceTest|Main|bb57f21|fix: update US08.feature|-|01/05/2024| 
+  |TripTeamOrganization<br>/AcceptanceTest|Main|039a6aa|feat: add US09.feature|-|01/05/2024| 
+  |TripTeamOrganization<br>/AcceptanceTest|Main|3acf614|feat: add US10.feature|-|01/05/2024| 
+  |TripTeamOrganization<br>/AcceptanceTest|Main|d1be39d|fix: update US11.feature|-|01/05/2024| 
+  |TripTeamOrganization<br>/AcceptanceTest|Main|26c1b5d|feat: add US12.feature|-|01/05/2024| 
+  |TripTeamOrganization<br>/AcceptanceTest|Main|5ea62e3|feat: add US13.feature|-|01/05/2024| 
+  |TripTeamOrganization<br>/AcceptanceTest|Main|05437a5|feat: add US14.feature|-|01/05/2024| 
+  |TripTeamOrganization<br>/AcceptanceTest|Main|d8573ff|feat: add US15.feature|-|01/05/2024| 
+  |TripTeamOrganization<br>/AcceptanceTest|Main|312c9e2|feat: add US16.feature|-|01/05/2024| 
+  |TripTeamOrganization<br>/AcceptanceTest|Main|93836bd|feat: add US17.feature|-|01/05/2024| 
+  |TripTeamOrganization<br>/AcceptanceTest|Main|cc0f4a4|feat: add US25.feature|-|01/05/2024| 
+  |TripTeamOrganization<br>/AcceptanceTest|Main|0ee5ba2|feat: add US26.feature|-|01/05/2024| 
+  |TripTeamOrganization<br>/AcceptanceTest|Main|8af8df8|feat: add US01.feature|-|01/05/2024| 
+  |TripTeamOrganization<br>/AcceptanceTest|Main|18abb15|feat: add US03.feature|-|01/05/2024| 
+  |TripTeamOrganization<br>/AcceptanceTest|Main|58f0d46|feat: add US04.feature|-|01/05/2024| 
 
 En el proceso de desarrollo del frontend, se usaron diferentes estrategias de prueba para garantizar que todo funcionara correctamente y que el diseño se adaptara bien a diversos entornos. Aquí están las herramientas y métodos que utilizamos:
 
