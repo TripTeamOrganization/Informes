@@ -1794,7 +1794,8 @@ Aunque se logró mucho en el Sprint 1, aún quedan algunas tareas pendientes par
 |APOGamer/<br>TripMate<br>WebAppFront|Main|10c0958|feat: add routerlink to reservation|-|28/04/2024|
 |APOGamer/<br>TripMate<br>WebAppFront|Main|3d57597|feat: add validation for reservation service|-|28/04/2024|
 |APOGamer/<br>TripMate<br>WebAppFront|Main|2386722|fix: reservar carrito|-|28/04/2024|
-
+|Jemisas/<br>TripMate<br>WebAppFront|Main|5076297|feat: add all cruds|-|01/05/2024|
+|APOGamer/<br>TripMate<br>WebAppFront|Main|2386722|fix: responsive fix|-|01/03/2024|
 
 - 5.2.2.4. Testing Suite Evidence for Sprint Review
 
