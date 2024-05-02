@@ -55,9 +55,11 @@
 | 2.1       |  2024/03/22    |Palma Obispo, Adrián Enrique Jesús |Registro de evidencias del Sprint 1 |
 | 2.2       |  2024/03/22    |Alfaro Cumba, Leonel|Rediseño de mockups. Elaboración de wireflows y user-flows|
 | 2.3       |  2024/04/01    | Martinez Villanueva, Paolo Del Carmen | Redacción de software configuration management, sprint planning 1, sprint backlog 1 |
-| 2.4       |  2024/03/22    | Quispe Andia, Jeremy Joel | Redacción de Collaboration Insights| 
-| 2.5       |  2024/03/22    | Palma Obispo, Adrián Enrique Jesús | Conclusiones|
-
+| 2.4       |  2024/05/02    | Martinez Villanueva, Paolo Del Carmen | Testing Suite Evidence y actualizó las historias de usuario, sprint backlog 2 y sprint planning 2| 
+| 2.4       |  2024/05/02   | Espinoza Delgado, Bárbara Antonella | Sprint Planning 2, Sprint Backlog 2, Development Evidence for Sprint Review | 
+| 2.4       |  2024/05/02    | Quispe Andia, Jeremy Joel |Execution Evidence for Sprint Review y Conclusiones | 
+| 2.4       |  2024/05/02    | Alfaro Cumba, Leonel | Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review | 
+| 2.5       |  2024/03/22    | Palma Obispo, Adrián Enrique Jesús | Conclusiones, Anexos, Team Collaboratio Insights|
 
 
 ### Project Report Collaboration Insights
@@ -77,6 +79,14 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 Evidencias del Insights Contributos de los commits del informe:
 
 ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/59cf1fdb-7051-4680-8a1d-bb1d8ee1ed66)
+
+| Integrante                            | Tareas Designadas       |
+|-----------------------------------|--------------|
+| Adrián Enrique Jesús Palma Obispo| Conclusiones, Anexos, Team Collaboratio Insights |
+| Bárbara Antonella Espinoza Delgado | Sprint Planning 2, Sprint Backlog 2, Development Evidence for Sprint Review |
+| Jeremy Joel Quispe Andia         | Execution Evidence for Sprint Review y Conclusiones|
+| Leonel Alfaro Cumba    | Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review|
+| Paolo Del Carmen Martinez Villanueva |Testing Suite Evidence y actualizó las historias de usuario, sprint backlog 2 y sprint planning 2|
 
 
 ### Tabla de contenidos
