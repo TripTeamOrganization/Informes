@@ -2008,7 +2008,8 @@ Estas nuevas funcionalidades, junto con una interfaz intuitiva y característica
 
  **Anexos**
 - Enlace para acceder a la landing page: [Ver enlace](https://landingpage-tripmate.netlify.app/)
-- Enlace para ver el video de la exposición: [Ver enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/Ef8WlmIxI9ZAvmmYDu037JgBIdz70UiaFXIK5vwag9Hj1g?e=hodVn0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Enlace para acceder a la web application: [Ver enlace](https://tripmateupc.netlify.app/accommodations)
+- Enlace para ver el video de la exposición: [Ver enlace](https://upcedupe-my.sharepoint.com/personal/u202010039_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202010039%5Fupc%5Fedu%5Fpe%2FDocuments%2Fexposici%C3%B3n%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0=&ga=1)
 - Video de todas las entrevistas subido a stream: [Ver enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYBkLLrqb1nS8vDVTedop1PgQ)
 - Repositorio GitHub LandingPage: [Ver enlace](https://github.com/TripTeamOrganization/FrontEnd)
 - Repositorio GitHub Informe: [Ver enlace](https://github.com/TripTeamOrganization/Informes)
@@ -2018,7 +2019,6 @@ Estas nuevas funcionalidades, junto con una interfaz intuitiva y característica
 - Vertabelo: [Database Diagram](https://my.vertabelo.com/doc/GhFMgdkWDIc5djSsQZ1gCi9SJtg1Yyj7)
 - Link del video de explicación: [Web Application Prototyping](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EUuGU8D42A9Hts47QaVwvuAB-oC-0f1mD9HXSP7yvrRq1Q?e=Xf6lwj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - PivotalTracker: [Product Backlog](https://www.pivotaltracker.com/n/projects/2700998)
-
 - Entrevista: [Estadísticas](https://docs.google.com/forms/d/1IJXnKL29jQRBFT7Qa_Eep8OgMqbm3zj4dygn0jlTlL8/edit#responses)
 
 </div>
