@@ -1934,15 +1934,6 @@ Secciones
 
 - 5.2.2.6. Services Documentation Evidence for Sprint Review
 
-
-   - 5.2.2.7. Software Deployment Evidence for Sprint Review
-
-     Para la entrega del Sprint N1, se desplego la primera versión de nuestra Aplicación Web en netlify, donde mostramos lo que nuestros usuarios podrán ver dentro de nuestra aplicación web,   todo bug y error presentando en esta entrega del FrontEnd será                 adecuadamente corregido en futuras entregas.
-
-     ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/7138a072-2266-4f06-9878-ab8cb3036795)
-
-- 5.2.2.8. Colaboración del Equipo durante el Sprint
-
 | Endpoint       | Operación | Parámetros                              | URL                        |
 |----------------|-----------|-----------------------------------------|-----------------------------|
 | Alojamiento     | GET       | ID de alojamiento (opcional)            | `/api/alojamientos`         |
@@ -1970,6 +1961,14 @@ Secciones
 |               | PUT       | ID de notificación, datos de la notificación| `/api/notificaciones/{id}` |
 |               | DELETE    | ID de notificación                          | `/api/notificaciones/{id}` |
 
+
+   - 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+     Para la entrega del Sprint N1, se desplego la primera versión de nuestra Aplicación Web en netlify, donde mostramos lo que nuestros usuarios podrán ver dentro de nuestra aplicación web,   todo bug y error presentando en esta entrega del FrontEnd será                 adecuadamente corregido en futuras entregas.
+
+     ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/7138a072-2266-4f06-9878-ab8cb3036795)
+
+- 5.2.2.8. Colaboración del Equipo durante el Sprint
 
 #### Actividades por Alumno
 
