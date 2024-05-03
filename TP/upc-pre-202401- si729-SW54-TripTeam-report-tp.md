@@ -1990,7 +1990,9 @@ Se realizaron un total de 108 commits para el desarrollo de la landing page, inc
 | paolomv02           | Martinez Villanueva, Paolo Del Carmen  |
 | Leonel-Alfaro       | Alfaro Cumba, Leonel                   |
 
-
+![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/ec26c5ab-195f-4e7f-85d1-270c0f226280)
+![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/6331fec0-cf68-4f02-b8b4-533079e6a3f1)
+![image](https://github.com/TripTeamOrganization/Informes/assets/89095594/94bf0c1f-0f95-401c-8da5-d968540220dd)
 
 **Conclusiones** 
 
