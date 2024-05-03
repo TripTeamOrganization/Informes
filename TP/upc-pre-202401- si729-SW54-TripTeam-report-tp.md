@@ -1934,32 +1934,28 @@ Secciones
 
 - 5.2.2.6. Services Documentation Evidence for Sprint Review
 
-| Endpoint       | Operación | Parámetros                              | URL                        |
-|----------------|-----------|-----------------------------------------|-----------------------------|
-| Alojamiento     | GET       | ID de alojamiento (opcional)            | `/api/alojamientos`         |
-|               | POST      | Datos del alojamiento                   | `/api/alojamientos`         |
-|               | PUT       | ID de alojamiento, datos del alojamiento | `/api/alojamientos/{id}`   |
-|               | DELETE    | ID de alojamiento                        | `/api/alojamientos/{id}`   |
-| Vuelos           | GET       | ID de vuelo (opcional)                   | `/api/vuelos`               |
-|               | POST      | Datos del vuelo                          | `/api/vuelos`               |
-|               | PUT       | ID de vuelo, datos del vuelo              | `/api/vuelos/{id}`         |
-|               | DELETE    | ID de vuelo                               | `/api/vuelos/{id}`         |
-| Restaurantes   | GET       | ID de restaurante (opcional)             | `/api/restaurantes`         |
-|               | POST      | Datos del restaurante                     | `/api/restaurantes`         |
-|               | PUT       | ID de restaurante, datos del restaurante  | `/api/restaurantes/{id}`   |
-|               | DELETE    | ID de restaurante                         | `/api/restaurantes/{id}`   |
-| Actividades     | GET       | ID de actividad (opcional)                | `/api/actividades`          |
-|               | POST      | Datos de la actividad                     | `/api/actividades`          |
-|               | PUT       | ID de actividad, datos de la actividad    | `/api/actividades/{id}`    |
-|               | DELETE    | ID de actividad                           | `/api/actividades/{id}`    |
-| Usuarios         | GET       | ID de usuario (opcional)                   | `/api/usuarios`             |
-|               | POST      | Datos del usuario                         | `/api/usuarios`             |
-|               | PUT       | ID de usuario, datos del usuario           | `/api/usuarios/{id}`       |
-|               | DELETE    | ID de usuario                              | `/api/usuarios/{id}`       |
-| Notificaciones  | GET       | ID de notificación (opcional)              | `/api/notificaciones`       |
-|               | POST      | Datos de la notificación                   | `/api/notificaciones`       |
-|               | PUT       | ID de notificación, datos de la notificación| `/api/notificaciones/{id}` |
-|               | DELETE    | ID de notificación                          | `/api/notificaciones/{id}` |
+| Endpoint     | Operación | Parámetros                                      | URL                             |
+|--------------|-----------|-------------------------------------------------|----------------------------------|
+| Alojamiento  | GET       | (Opcional) ID de alojamiento, filtros (nombre, ubicación, precio, etc.) | `/api/alojamientos`          |
+|              | POST      | nombre, imagen, descripción, ubicación, precio   | `/api/alojamientos`          |
+|              | PUT       | ID de alojamiento, datos para actualizar           | `/api/alojamientos/{id}`   |
+|              | DELETE    | ID de alojamiento                                   | `/api/alojamientos/{id}`   |
+| Vuelos       | GET       | (Opcional) ID de vuelo, filtros (nombre, tipo, precio, etc.) | `/api/vuelos`               |
+|              | POST      | nombre, imagen, tipo, precio, descripción          | `/api/vuelos`               |
+|              | PUT       | ID de vuelo, datos para actualizar                 | `/api/vuelos/{id}`         |
+|              | DELETE    | ID de vuelo                                        | `/api/vuelos/{id}`         |
+| Restaurantes | GET       | (Opcional) ID de restaurante, filtros (nombre, ubicación, precio, etc.) | `/api/restaurantes`         |
+|              | POST      | nombre, imagen, descripción, ubicación, precio   | `/api/restaurantes`         |
+|              | PUT       | ID de restaurante, datos para actualizar           | `/api/restaurantes/{id}`   |
+|              | DELETE    | ID de restaurante                                   | `/api/restaurantes/{id}`   |
+| Users        | GET       | (Opcional) ID de usuario, filtros (nombre, email, plan, etc.) | `/api/users`              |
+|              | POST      | nombre, apellidos, dni, email, password, telefono, plan (opcional) | `/api/users`            |
+|              | PUT       | ID de usuario, datos para actualizar                | `/api/users/{id}`         |
+|              | DELETE    | ID de usuario                                       | `/api/users/{id}`         |
+| Notificaciones | GET       | (Opcional) ID de notificación, filtros (text, descuento, etc.) | `/api/notificaciones`            |
+|              | POST      | text, detalles adicionales, fecha de emisión           | `/api/notificaciones`            |
+|              | PUT       | ID de notificación, datos para actualizar           | `/api/notificaciones/{id}`     |
+|              | DELETE    | ID de notificación                               | `/api/notificaciones/{id}`     |
 
 
    - 5.2.2.7. Software Deployment Evidence for Sprint Review
