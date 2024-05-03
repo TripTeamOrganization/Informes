@@ -1934,6 +1934,7 @@ Secciones
 
 - 5.2.2.6. Services Documentation Evidence for Sprint Review
 
+
    - 5.2.2.7. Software Deployment Evidence for Sprint Review
 
      Para la entrega del Sprint N1, se desplego la primera versión de nuestra Aplicación Web en netlify, donde mostramos lo que nuestros usuarios podrán ver dentro de nuestra aplicación web,   todo bug y error presentando en esta entrega del FrontEnd será                 adecuadamente corregido en futuras entregas.
@@ -1941,6 +1942,34 @@ Secciones
      ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/7138a072-2266-4f06-9878-ab8cb3036795)
 
 - 5.2.2.8. Colaboración del Equipo durante el Sprint
+
+| Endpoint       | Operación | Parámetros                              | URL                        |
+|----------------|-----------|-----------------------------------------|-----------------------------|
+| Alojamiento     | GET       | ID de alojamiento (opcional)            | `/api/alojamientos`         |
+|               | POST      | Datos del alojamiento                   | `/api/alojamientos`         |
+|               | PUT       | ID de alojamiento, datos del alojamiento | `/api/alojamientos/{id}`   |
+|               | DELETE    | ID de alojamiento                        | `/api/alojamientos/{id}`   |
+| Vuelos           | GET       | ID de vuelo (opcional)                   | `/api/vuelos`               |
+|               | POST      | Datos del vuelo                          | `/api/vuelos`               |
+|               | PUT       | ID de vuelo, datos del vuelo              | `/api/vuelos/{id}`         |
+|               | DELETE    | ID de vuelo                               | `/api/vuelos/{id}`         |
+| Restaurantes   | GET       | ID de restaurante (opcional)             | `/api/restaurantes`         |
+|               | POST      | Datos del restaurante                     | `/api/restaurantes`         |
+|               | PUT       | ID de restaurante, datos del restaurante  | `/api/restaurantes/{id}`   |
+|               | DELETE    | ID de restaurante                         | `/api/restaurantes/{id}`   |
+| Actividades     | GET       | ID de actividad (opcional)                | `/api/actividades`          |
+|               | POST      | Datos de la actividad                     | `/api/actividades`          |
+|               | PUT       | ID de actividad, datos de la actividad    | `/api/actividades/{id}`    |
+|               | DELETE    | ID de actividad                           | `/api/actividades/{id}`    |
+| Usuarios         | GET       | ID de usuario (opcional)                   | `/api/usuarios`             |
+|               | POST      | Datos del usuario                         | `/api/usuarios`             |
+|               | PUT       | ID de usuario, datos del usuario           | `/api/usuarios/{id}`       |
+|               | DELETE    | ID de usuario                              | `/api/usuarios/{id}`       |
+| Notificaciones  | GET       | ID de notificación (opcional)              | `/api/notificaciones`       |
+|               | POST      | Datos de la notificación                   | `/api/notificaciones`       |
+|               | PUT       | ID de notificación, datos de la notificación| `/api/notificaciones/{id}` |
+|               | DELETE    | ID de notificación                          | `/api/notificaciones/{id}` |
+
 
 #### Actividades por Alumno
 
