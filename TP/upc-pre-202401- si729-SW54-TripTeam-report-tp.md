@@ -2047,6 +2047,8 @@ Estas nuevas funcionalidades, junto con una interfaz intuitiva y característica
 - Link del video de explicación: [Web Application Prototyping](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EUuGU8D42A9Hts47QaVwvuAB-oC-0f1mD9HXSP7yvrRq1Q?e=Xf6lwj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - PivotalTracker: [Product Backlog](https://www.pivotaltracker.com/n/projects/2700998)
 - Entrevista: [Estadísticas](https://docs.google.com/forms/d/1IJXnKL29jQRBFT7Qa_Eep8OgMqbm3zj4dygn0jlTlL8/edit#responses)
+- Enlace para la webapp: [webapp](https://notelivewebapp.netlify.app/)
+  
 
 </div>
 
