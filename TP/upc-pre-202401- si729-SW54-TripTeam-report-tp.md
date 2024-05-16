@@ -1509,12 +1509,12 @@ GitHub URL: https://github.com/TripTeamOrganization
     |**Sprint #**|**Sprint 1**|||||||
     | :- | :- | :- | :- | :- | :- | :- | :- |
     |User Story|Work-Item / Task|||||||
-    |Id|Title|Id|Title|Description|Estimation (Points)|Assigned To|Status (To-do / In-Process / To-Review / Done)|
-    |US20|Visualizar features de la aplicación|W-01|Features|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar todos las funcionalidades y servicios que brinda TripMate</p><p>**Para** entender el uso de la aplicación</p>|3 points|**Adrian Palma**|Done|
-    |US21|Sección “Acerca de nosotros”|W-02|Sección “Acerca de Nosotros**”**|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar una sección que me informe sobre el startup</p><p>**Para** conocer al equipo de TripMate y su propósito</p>|2 points|**Leonel Alfaro**|Done|
-    |US22|Sección “Convenios”|W-03|Sección “Convenios”|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar los convenios que tiene TripMate</p><p>**Para** conocer las distintas empresas asociadas</p>|2 points|**Jeremy Quispe**|Done|
-    |US23|Sección “Testimonios”|W-04|Sección “Testimonios”|<p>**Como** visitante del landing page</p><p>**Quiero** poder ver testimonios y experiencias de otros usuarios</p><p>**Para** conocer la opinión del público sobre TripMate</p>|2 points|**Paolo Martinez**|Done|
-    |US24|Acceder desde cualquier dispositivo a la landing page|W-05|Accesibilidad|<p>**Como** visitante del landing page</p><p>**Quiero** que sea accesible desde diferentes dispositivos </p><p>**Para** poder ingresar al sitio web desde cualquier dispositivo</p>|3 points|**Bárbara Espinoza**|Done|
+    |Id|Title|Id|Title|Description|Estimation (Hours)|Assigned To|Status (To-do / In-Process / To-Review / Done)|
+    |US20|Visualizar features de la aplicación|W-01|Features|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar todos las funcionalidades y servicios que brinda TripMate</p><p>**Para** entender el uso de la aplicación</p>|3 hours|**Adrian Palma**|Done|
+    |US21|Sección “Acerca de nosotros”|W-02|Sección “Acerca de Nosotros**”**|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar una sección que me informe sobre el startup</p><p>**Para** conocer al equipo de TripMate y su propósito</p>|2 hours|**Leonel Alfaro**|Done|
+    |US22|Sección “Convenios”|W-03|Sección “Convenios”|<p>**Como** visitante del landing page</p><p>**Quiero** visualizar los convenios que tiene TripMate</p><p>**Para** conocer las distintas empresas asociadas</p>|2 hours|**Jeremy Quispe**|Done|
+    |US23|Sección “Testimonios”|W-04|Sección “Testimonios”|<p>**Como** visitante del landing page</p><p>**Quiero** poder ver testimonios y experiencias de otros usuarios</p><p>**Para** conocer la opinión del público sobre TripMate</p>|2 hours|**Paolo Martinez**|Done|
+    |US24|Acceder desde cualquier dispositivo a la landing page|W-05|Accesibilidad|<p>**Como** visitante del landing page</p><p>**Quiero** que sea accesible desde diferentes dispositivos </p><p>**Para** poder ingresar al sitio web desde cualquier dispositivo</p>|3 hours|**Bárbara Espinoza**|Done|
 
 
 
@@ -1709,26 +1709,26 @@ Aunque se logró mucho en el Sprint 1, aún quedan algunas tareas pendientes par
     |**Sprint #**|**Sprint 2**|||||||
     | :- | :- | :- | :- | :- | :- | :- | :- |
     |User Story|Work-Item / Task|||||||
-    |Id|Title|Id|Title|Description|Estimation (Points)|Assigned To|Status (To-do / In-Process / To-Review / Done)|
-    |US01|Registro de usuario|W-01|Seccion Register|<p>**Como** usuario nuevo</p><p>**Quiero** poder registrarme en TripMate</p><p>**Para** poder acceder a todas las funcionalidades de la aplicación</p>|3 points|**Bárbara Espinoza**|Done|
-    |US02|Inicio de sesión|W-02|Sección Sign In|<p>**Como** usuario registrado</p><p>**Quiero** poder iniciar sesión en la aplicación</p><p>**Para** acceder a mi cuenta</p>|3 points|**Bárbara Espinoza**|Done|
-    |US03|Recuperación de contraseña|W-03|Opción Recuperar Contraseña|<p>**Como** usuario registrado</p><p>**Quiero** tener la opción de recuperación de contraseña</p><p>**Para** poder acceder a mi cuenta sin problemas</p>|2 points|**Paolo Martinez**|Done|
-    |US04|Cambiar dirección de correo electrónico|W-04|Opción Cambiar Correo|<p>**Como** usuario</p><p>**Quiero** poder cambiar la dirección de correo electrónico asociada a mi cuenta</p><p>**Para** mantener mi información de contacto actualizada</p>|2 points|**Paolo Martinez**|Done|
-    |US05|Búsqueda por filtros|W-05|Aplicación de filtros en cada sección|<p>**Como** usuario</p><p>**Quiero** buscar vuelos, alojamientos, restaurantes y actividades utilizando filtros</p><p>**Para** explorar opciones según mis intereses y preferencias</p>|4 points|**Leonel Alfaro**|Done|
-    |US06|Ver alojamientos|W-06|Sección alojamientos|<p>**Como** usuario</p><p>**Quiero** ver todos los alojamientos disponibles en la aplicación</p><p>**Para** poder planificar mi viaje y mi itinerario</p>|3 points|**Adrian Palma**|Done|
-    |US07|Ver vuelos|W-07|Sección vuelos|<p>**Como** usuario</p><p>**Quiero** ver todos vuelos disponibles en la aplicación</p><p>**Para** poder planificar mi viaje y mi itinerario</p>|3 points|**Jeremy Quispe**|Done|
-    |US08|Ver actividades|W-08|Sección actividades|<p>**Como** usuario</p><p>**Quiero**  ver todas las actividades disponibles en la aplicación</p><p>**Para** poder planificar mi viaje y mi itinerario</p>|3 points|**Bárbara Espinoza**|Done|
-    |US09|Ver restaurantes|W-09|Sección restaurantes|<p>**Como** usuario</p><p>**Quiero** ver todos los restaurantes disponibles en la aplicación</p><p>**Para** poder planificar mi viaje y mi itinerario</p>|3 points|**Paolo Martinez**|Done|
-    |US10|Reservar alojamiento|W-11|Reserva de alojamientos|<p>**Como** usuario</p><p>**Quiero** poder reservar alojamiento en la aplicación</p><p>**Para** asegurar mi hospedaje durante el viaje</p>|2 points|**Adrian Palma**|Done|
-    |US11|Reservar vuelos|W-12|Reserva de alojamientos|<p>**Como** usuario</p><p>**Quiero** poder reservar vuelos en la aplicación</p><p>**Para** poder planificar mi viaje de manera eficiente</p>|2 points|**Jeremy Quispe**|Done|
-    |US12|Reservar actividades|W-13|Reserva de alojamientos|<p>**Como** usuario</p><p>**Quiero** poder reservar actividades en la aplicación</p><p>**Para** poder planificar mi viaje de manera eficiente</p>|2 points|**Bárbara Espinoza**|Done|
-    |US13|Reservar restaurantes|W-14|Reserva de alojamientos|<p>**Como** usuario</p><p>**Quiero** poder reservar restaurantes en la aplicación</p><p>**Para** poder planificar mi viaje de manera eficiente</p>|2 points|**Paolo Martinez**|Done|
-    |US14|Planificar itinerario|W-15|Planificación de itinerario|<p>**Como** usuario</p><p>**Quiero** poder planificar mi itinerario en la aplicación</p><p>**Para** organizar mis actividades durante el viaje</p>|1 point|**Leonel Alfaro**|Done|
-    |US15|Realizar pago|W-16|Realización de pago|<p>**Como** usuario</p><p>**Quiero** poder realizar los pagos dentro de la aplicación</p><p>**Para** poder terminar de planificar el viaje</p>|3 points|**Jeremy Quispe**|Done|
-    |US16|Aplicación de códigos promocionales|W-17|Ingreso de códigos promocionales|<p>**Como** usuario</p><p>**Quiero** tener la opción de ingresar códigos promocionales durante el proceso de pago</p><p>**Para** obtener descuentos adicionales en los servicios ofrecidos</p>|1 point|**Jeremy Quispe**|Done|
-    |US17|Contactar al soporte|W-18|Contacto con soporte|<p>**Como** usuario</p><p>**Quiero** poder contactar al equipo de soporte de la aplicación</p><p>**Para** obtener ayuda con problemas técnicos</p>|1 point|**Bárbara Espinoza**|Done|
-    |US25|Suscripción a membresía premium|W-19|Suscripción a membresía|<p>**Como** usuario</p><p>**Quiero** poder suscribirme a una membresía en la aplicación</p><p>**Para** poder adquirir beneficios adicionales</p>|3 points|**Jeremy Quispe**|Done|
-    |US26|Eliminar cuenta|W-20|Eliminación de cuenta|<p>**Como** usuario</p><p>**Quiero** tener la opción de eliminar permanentemente mi cuenta y todos los datos asociados</p><p>**Para** borrar la información de mi cuenta de la aplicación</p>|2 points|**Paolo Martinez**|Done|
+    |Id|Title|Id|Title|Description|Estimation (hours)|Assigned To|Status (To-do / In-Process / To-Review / Done)|
+    |US01|Registro de usuario|W-01|Seccion Register|<p>**Como** usuario nuevo</p><p>**Quiero** poder registrarme en TripMate</p><p>**Para** poder acceder a todas las funcionalidades de la aplicación</p>|3 hours|**Bárbara Espinoza**|Done|
+    |US02|Inicio de sesión|W-02|Sección Sign In|<p>**Como** usuario registrado</p><p>**Quiero** poder iniciar sesión en la aplicación</p><p>**Para** acceder a mi cuenta</p>|3 hours|**Bárbara Espinoza**|Done|
+    |US03|Recuperación de contraseña|W-03|Opción Recuperar Contraseña|<p>**Como** usuario registrado</p><p>**Quiero** tener la opción de recuperación de contraseña</p><p>**Para** poder acceder a mi cuenta sin problemas</p>|2 hours|**Paolo Martinez**|Done|
+    |US04|Cambiar dirección de correo electrónico|W-04|Opción Cambiar Correo|<p>**Como** usuario</p><p>**Quiero** poder cambiar la dirección de correo electrónico asociada a mi cuenta</p><p>**Para** mantener mi información de contacto actualizada</p>|2 hours|**Paolo Martinez**|Done|
+    |US05|Búsqueda por filtros|W-05|Aplicación de filtros en cada sección|<p>**Como** usuario</p><p>**Quiero** buscar vuelos, alojamientos, restaurantes y actividades utilizando filtros</p><p>**Para** explorar opciones según mis intereses y preferencias</p>|4 hours|**Leonel Alfaro**|Done|
+    |US06|Ver alojamientos|W-06|Sección alojamientos|<p>**Como** usuario</p><p>**Quiero** ver todos los alojamientos disponibles en la aplicación</p><p>**Para** poder planificar mi viaje y mi itinerario</p>|3 hours|**Adrian Palma**|Done|
+    |US07|Ver vuelos|W-07|Sección vuelos|<p>**Como** usuario</p><p>**Quiero** ver todos vuelos disponibles en la aplicación</p><p>**Para** poder planificar mi viaje y mi itinerario</p>|3 hours|**Jeremy Quispe**|Done|
+    |US08|Ver actividades|W-08|Sección actividades|<p>**Como** usuario</p><p>**Quiero**  ver todas las actividades disponibles en la aplicación</p><p>**Para** poder planificar mi viaje y mi itinerario</p>|3 hours|**Bárbara Espinoza**|Done|
+    |US09|Ver restaurantes|W-09|Sección restaurantes|<p>**Como** usuario</p><p>**Quiero** ver todos los restaurantes disponibles en la aplicación</p><p>**Para** poder planificar mi viaje y mi itinerario</p>|3 hours|**Paolo Martinez**|Done|
+    |US10|Reservar alojamiento|W-11|Reserva de alojamientos|<p>**Como** usuario</p><p>**Quiero** poder reservar alojamiento en la aplicación</p><p>**Para** asegurar mi hospedaje durante el viaje</p>|2 hours|**Adrian Palma**|Done|
+    |US11|Reservar vuelos|W-12|Reserva de alojamientos|<p>**Como** usuario</p><p>**Quiero** poder reservar vuelos en la aplicación</p><p>**Para** poder planificar mi viaje de manera eficiente</p>|2 hours|**Jeremy Quispe**|Done|
+    |US12|Reservar actividades|W-13|Reserva de alojamientos|<p>**Como** usuario</p><p>**Quiero** poder reservar actividades en la aplicación</p><p>**Para** poder planificar mi viaje de manera eficiente</p>|2 hours|**Bárbara Espinoza**|Done|
+    |US13|Reservar restaurantes|W-14|Reserva de alojamientos|<p>**Como** usuario</p><p>**Quiero** poder reservar restaurantes en la aplicación</p><p>**Para** poder planificar mi viaje de manera eficiente</p>|2 hours|**Paolo Martinez**|Done|
+    |US14|Planificar itinerario|W-15|Planificación de itinerario|<p>**Como** usuario</p><p>**Quiero** poder planificar mi itinerario en la aplicación</p><p>**Para** organizar mis actividades durante el viaje</p>|1 hours|**Leonel Alfaro**|Done|
+    |US15|Realizar pago|W-16|Realización de pago|<p>**Como** usuario</p><p>**Quiero** poder realizar los pagos dentro de la aplicación</p><p>**Para** poder terminar de planificar el viaje</p>|3 hours|**Jeremy Quispe**|Done|
+    |US16|Aplicación de códigos promocionales|W-17|Ingreso de códigos promocionales|<p>**Como** usuario</p><p>**Quiero** tener la opción de ingresar códigos promocionales durante el proceso de pago</p><p>**Para** obtener descuentos adicionales en los servicios ofrecidos</p>|1 hours|**Jeremy Quispe**|Done|
+    |US17|Contactar al soporte|W-18|Contacto con soporte|<p>**Como** usuario</p><p>**Quiero** poder contactar al equipo de soporte de la aplicación</p><p>**Para** obtener ayuda con problemas técnicos</p>|1 hours|**Bárbara Espinoza**|Done|
+    |US25|Suscripción a membresía premium|W-19|Suscripción a membresía|<p>**Como** usuario</p><p>**Quiero** poder suscribirme a una membresía en la aplicación</p><p>**Para** poder adquirir beneficios adicionales</p>|3 hours|**Jeremy Quispe**|Done|
+    |US26|Eliminar cuenta|W-20|Eliminación de cuenta|<p>**Como** usuario</p><p>**Quiero** tener la opción de eliminar permanentemente mi cuenta y todos los datos asociados</p><p>**Para** borrar la información de mi cuenta de la aplicación</p>|2 hours|**Paolo Martinez**|Done|
     
 
 
