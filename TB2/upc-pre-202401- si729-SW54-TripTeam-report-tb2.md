@@ -2045,7 +2045,35 @@ Se realizaron un total de 108 commits para el desarrollo de la landing page, inc
 
 **5.3. Validation Interviews.**
 
-**5.3.1. Diseño de Entrevistas.**
+**5.3.1. Diseño de Entrevistas.**  
+Preguntas iniciales:
+1. ¿Cuál es su nombre completo?
+
+2. ¿Cuántos años tiene?
+
+3. ¿En qué distrito vive?
+
+4. ¿A que se dedica?
+
+*Se procede a compartir pantalla, mostrando la plataforma web de TripMate.
+
+Preguntas luego de mostrar la web:
+
+1. ¿Qué opina de la facilidad de uso de la aplicación para organizar un viaje?
+
+2. ¿Encuentra que la interfaz de usuario es intuitiva y llamativa?
+
+3. ¿Cómo calificaría la experiencia de buscar y seleccionar un hotel, un vuelo, una actividad o un restaurante en nuestra plataforma?
+
+4. ¿Cree que la información proporcionada sobre los hoteles, vuelos, actividades o restaurantes es fácil de acceder y entender?
+
+5. ¿Hay alguna característica adicional que le gustaría ver en la aplicación para mejorar la experiencia de los viajeros al usar nuestra web?
+
+6. ¿Qué opina sobre la seguridad y veracidad de la información en la aplicación?
+
+7. ¿Cómo se siente acerca de la capacidad de tener toda la información sobre hoteles, vuelos, actividades y restaurantes en una sola aplicación?
+
+8. ¿Tiene alguna sugerencia o recomendación para mejorar la aplicación y hacerla mejor para los demás viajeros?
 
 **5.3.2. Registro de Entrevistas.**
 
