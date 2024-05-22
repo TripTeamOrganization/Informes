@@ -2042,6 +2042,7 @@ Se realizaron un total de 108 commits para el desarrollo de la landing page, inc
 **5.2.3.7.Software Deployment Evidence for Sprint Review.**
 
 **5.2.3.8.Team Collaboration Insights during Sprint.**
+![image](https://github.com/TripTeamOrganization/Informes/assets/48342953/7cc8ff2d-c8bd-422b-8a23-2ceaa3ea7a94)
 
 **5.3. Validation Interviews.**
 
