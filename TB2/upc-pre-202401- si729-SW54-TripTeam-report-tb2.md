@@ -1714,6 +1714,9 @@ Aunque se logró mucho en el Sprint 1, aún quedan algunas tareas pendientes par
 
 - 5.2.2. Sprint 2
 
+
+    - 5.2.2.1. Sprint Planning 2
+      
     Un sprint representa un periodo corto y fijo de tiempo durante el cual se desarrolla un conjunto de tareas o actividades específicas en un proyecto, asociado con metodologías ágiles como Scrum. El Sprint #2 tiene como fecha de inicio el 20/04/2024 y plantea elaborar la primera versión del FrontEnd de la aplicación web de TripMate contenga las funcionalidades del proyecto.
 
 
@@ -1730,10 +1733,6 @@ Aunque se logró mucho en el Sprint 1, aún quedan algunas tareas pendientes par
 | **Sum of Story Points** | 45 |
 
 
-    - 5.2.2.1. Sprint Planning 2
-      
-
-![image](https://github.com/Capibara767/iamgen1/assets/168503032/1d0e523c-feff-4c68-8ff2-c01b564102c6)
 
   - 5.2.2.2. Sprint Backlog 2
 
@@ -1761,7 +1760,7 @@ Aunque se logró mucho en el Sprint 1, aún quedan algunas tareas pendientes par
     |US25|Suscripción a membresía premium|W-19|Suscripción a membresía|<p>**Como** usuario</p><p>**Quiero** poder suscribirme a una membresía en la aplicación</p><p>**Para** poder adquirir beneficios adicionales</p>|3 hours|**Jeremy Quispe**|Done|
     |US26|Eliminar cuenta|W-20|Eliminación de cuenta|<p>**Como** usuario</p><p>**Quiero** tener la opción de eliminar permanentemente mi cuenta y todos los datos asociados</p><p>**Para** borrar la información de mi cuenta de la aplicación</p>|2 hours|**Paolo Martinez**|Done|
     
-
+![image](https://github.com/Capibara767/iamgen1/assets/168503032/1d0e523c-feff-4c68-8ff2-c01b564102c6)
 
   - 5.2.2.3. Development Evidence for Sprint Review
     
@@ -2031,6 +2030,13 @@ Se realizaron un total de 108 commits para el desarrollo de la landing page, inc
 **5.2.3. Sprint 3**
 
 
+
+
+
+
+
+**5.2.3.1.Spring Planning 3.**
+
 | **Sprint #** | **Sprint 3** |
 | :- | :- |
 | **Sprint Planning Background** | |
@@ -2047,31 +2053,26 @@ Se realizaron un total de 108 commits para el desarrollo de la landing page, inc
 | **Sum of Story Points** | 60|
 
 
-
-
-**5.2.3.1.Spring Planning 3.**
-
-![image](https://github.com/Capibara767/iamgen1/assets/168503032/34461e62-9977-4215-9088-bd9b934dc972)
-
-
 **5.2.3.2.Sprint Backlog 3.**
 
 **Sprint #**|**Sprint 3**|||||||
 | :- | :- | :- | :- | :- | :- | :- | :- |
 |User Story|Work-Item / Task|||||||
 |Id|Title|Id|Title|Description|Estimation (hours)|Assigned To|Status (To-do / In-Process / To-Review / Done)|
-|TS01|Post User|W-01|Implementación de Registro de Usuario|<p>**Como** usuario nuevo</p><p>**Quiero** poder registrarme en TripMate</p><p>**Para** poder acceder a todas las funcionalidades de la aplicación</p>|8 hours|**Jeremy Quispe**|To-do|
-|TS02|Get User|W-02|Implementación de Obtención de Usuario|<p>**Como** usuario registrado</p><p>**Quiero** poder obtener mi información de usuario en TripMate</p><p>**Para** acceder fácilmente a mis datos personales en la aplicación</p>|8 hours|**Leonel Alfaro**|To-do|
-|TS03|Get Accommodations|W-03|Implementación de Obtención de Alojamientos|<p>**Como** usuario de TripMate</p><p>**Quiero** obtener información sobre los alojamientos disponibles</p><p>**Para** poder planificar y reservar mi hospedaje para mis viajes</p>|13 hours|**Paolo Martinez**|To-do|
-|TS04|Get Flights|W-04|Implementación de Obtención de Vuelos|<p>**Como** usuario de TripMate</p><p>**Quiero** obtener información sobre los vuelos disponibles</p><p>**Para** poder planificar y reservar mis viajes de manera eficiente</p>|13 hours|**Adrián Palma**|To-do|
-|TS05|Get Restaurants|W-05|Implementación de Obtención de Restaurantes|<p>**Como** usuario de TripMate</p><p>**Quiero** obtener información sobre los restaurantes disponibles</p><p>**Para** poder planificar y reservar mis comidas durante mis viajes</p>|13 hours|**Paolo Martinez**|To-do|
-|TS06|Get Activities|W-06|Implementación de Obtención de Actividades|<p>**Como** usuario de TripMate</p><p>**Quiero** obtener información sobre las actividades disponibles</p><p>**Para** poder planificar y reservar actividades durante mis viajes</p>|13 hours|**Bárbara Espinoza**|To-do|
-|TS07|Post Reservation|W-07|Implementación de Registro de Reserva|<p>**Como** usuario de TripMate</p><p>**Quiero** poder realizar una reserva en la aplicación</p><p>**Para** asegurar mi lugar en alojamientos, vuelos, actividades o restaurantes durante mis viajes</p>|8 hours|**Jeremy Quispe**|To-do|
-|TS08|Get Reservation|W-08|Implementación de Obtención de Reserva|<p>**Como** usuario de TripMate</p><p>**Quiero** obtener información sobre mis reservas realizadas</p><p>**Para** poder revisar y gestionar mis reservas de viaje de manera fácil</p>|8 hours|**Leonel Alfaro**|To-do|
-|TS09|Post Itinerary|W-09|Implementación de Registro de Itinerario|<p>**Como** usuario de TripMate</p><p>**Quiero** poder crear un itinerario para mi viaje</p><p>**Para** organizar y planificar mis actividades durante mi viaje</p>|8 hours|**Jeremy Quispe**|To-do|
-|TS10|Get Itinerary|W-10|Implementación de Obtención de Itinerario|<p>**Como** usuario de TripMate</p><p>**Quiero** obtener información sobre mi itinerario de viaje</p><p>**Para** poder visualizar y seguir mi planificación de actividades durante mi viaje</p>|8 hours|**Adrián Palma**|To-do|
-|TS11|Post Payment Method|W-11|Implementación de Registro de Método de Pago|<p>**Como** usuario de TripMate</p><p>**Quiero** registrar un método de pago en la aplicación</p><p>**Para** poder realizar pagos de manera rápida y segura durante mis reservas de viaje</p>|8 hours|**Paolo Martinez**|To-do|
-|TS12|Get Payment Method|W-12|Implementación de Obtención de Método de Pago|<p>**Como** usuario de TripMate</p><p>**Quiero** obtener información sobre mis métodos de pago registrados</p><p>**Para** poder gestionar y actualizar mis métodos de pago según sea necesario</p>|8 hours|**Bárbara Espinoza**|To-do|
+|TS01|Post User|W-01|Implementación de Registro de Usuario|<p>**Como** usuario nuevo</p><p>**Quiero** poder registrarme en TripMate</p><p>**Para** poder acceder a todas las funcionalidades de la aplicación</p>|3 hours|**Jeremy Quispe**|To-do|
+|TS02|Get User|W-02|Implementación de Obtención de Usuario|<p>**Como** usuario registrado</p><p>**Quiero** poder obtener mi información de usuario en TripMate</p><p>**Para** acceder fácilmente a mis datos personales en la aplicación</p>|4 hours|**Leonel Alfaro**|To-do|
+|TS03|Get Accommodations|W-03|Implementación de Obtención de Alojamientos|<p>**Como** usuario de TripMate</p><p>**Quiero** obtener información sobre los alojamientos disponibles</p><p>**Para** poder planificar y reservar mi hospedaje para mis viajes</p>|5 hours|**Paolo Martinez**|To-do|
+|TS04|Get Flights|W-04|Implementación de Obtención de Vuelos|<p>**Como** usuario de TripMate</p><p>**Quiero** obtener información sobre los vuelos disponibles</p><p>**Para** poder planificar y reservar mis viajes de manera eficiente</p>|3 hours|**Adrián Palma**|To-do|
+|TS05|Get Restaurants|W-05|Implementación de Obtención de Restaurantes|<p>**Como** usuario de TripMate</p><p>**Quiero** obtener información sobre los restaurantes disponibles</p><p>**Para** poder planificar y reservar mis comidas durante mis viajes</p>|5 hours|**Paolo Martinez**|To-do|
+|TS06|Get Activities|W-06|Implementación de Obtención de Actividades|<p>**Como** usuario de TripMate</p><p>**Quiero** obtener información sobre las actividades disponibles</p><p>**Para** poder planificar y reservar actividades durante mis viajes</p>|3 hours|**Bárbara Espinoza**|To-do|
+|TS07|Post Reservation|W-07|Implementación de Registro de Reserva|<p>**Como** usuario de TripMate</p><p>**Quiero** poder realizar una reserva en la aplicación</p><p>**Para** asegurar mi lugar en alojamientos, vuelos, actividades o restaurantes durante mis viajes</p>|4 hours|**Jeremy Quispe**|To-do|
+|TS08|Get Reservation|W-08|Implementación de Obtención de Reserva|<p>**Como** usuario de TripMate</p><p>**Quiero** obtener información sobre mis reservas realizadas</p><p>**Para** poder revisar y gestionar mis reservas de viaje de manera fácil</p>|3 hours|**Leonel Alfaro**|To-do|
+|TS09|Post Itinerary|W-09|Implementación de Registro de Itinerario|<p>**Como** usuario de TripMate</p><p>**Quiero** poder crear un itinerario para mi viaje</p><p>**Para** organizar y planificar mis actividades durante mi viaje</p>|4 hours|**Jeremy Quispe**|To-do|
+|TS10|Get Itinerary|W-10|Implementación de Obtención de Itinerario|<p>**Como** usuario de TripMate</p><p>**Quiero** obtener información sobre mi itinerario de viaje</p><p>**Para** poder visualizar y seguir mi planificación de actividades durante mi viaje</p>|5 hours|**Adrián Palma**|To-do|
+|TS11|Post Payment Method|W-11|Implementación de Registro de Método de Pago|<p>**Como** usuario de TripMate</p><p>**Quiero** registrar un método de pago en la aplicación</p><p>**Para** poder realizar pagos de manera rápida y segura durante mis reservas de viaje</p>|3 hours|**Paolo Martinez**|To-do|
+|TS12|Get Payment Method|W-12|Implementación de Obtención de Método de Pago|<p>**Como** usuario de TripMate</p><p>**Quiero** obtener información sobre mis métodos de pago registrados</p><p>**Para** poder gestionar y actualizar mis métodos de pago según sea necesario</p>|3.5 hours|**Bárbara Espinoza**|To-do|
+
+![image](https://github.com/Capibara767/iamgen1/assets/168503032/34461e62-9977-4215-9088-bd9b934dc972)
 
 
 **5.2.3.3.Development Evidence for Sprint Review.**
