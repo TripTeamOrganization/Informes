@@ -2124,6 +2124,352 @@ Preguntas luego de mostrar la web:
 
 **5.3.3. Evaluaciones según heurísticas.**
 
+SITE o APP A EVALUAR
+
+TripMate
+
+Meta: El propósito general de la evaluación es encontrar problemas existentes en la aplicación web TripMate.
+
+Cómo: Los hallazgos del sitio web se llevarán a cabo utilizando la Lista Heurística de Nielsen, inicialmente investigada y creada por Jakob Nielsen
+
+TAREAS A EVALUAR
+
+1. Desktop Landing Page
+   1. Información y descripción de la aplicación y sus funcionalidades
+   1. Visualización de planes de pago y precio de la aplicación
+   1. Header y footer apropiado para la Landing Page
+   1. Interacción de la Landing Page con la aplicación
+
+1. Web Application
+   1. Registro de nuevo usuario
+   1. Inicio de sesión
+   1. Búsqueda de alojamientos
+   1. Búsqueda de vuelos
+   1. Búsqueda de actividades
+   1. Búsqueda de restaurantes
+   1. Búsqueda por precio
+   1. Búsqueda de alojamientos por número de camas
+   1. Búsqueda de actividades por horario de apertura
+   1. Búsqueda de restaurantes por horario de apertura
+   1. Visualización de itinerario
+   1. Proceso de reserva
+   1. Estética general de la interfaz
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1. Desktop Landing Page
+   1. Redes sociales asociadas al startup
+   1. Política de privacidad y condiciones de uso
+   1. Internacionalización
+
+1. Web Application
+   1. Cambio de contraseña
+   1. Cambio de correo electrónico
+   1. Información detallada de cada servicio ofrecido
+   1. Proceso de pago
+   1. Cambio de idioma de la aplicación
+
+ESCALA DE SEVERIDAD:
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+|Nivel|Descripción|
+| :-: | :-: |
+|1|<p>Problema superficial: puede ser fácilmente superado por el usuario u ocurre con muy poca frecuencia. No necesita ser arreglado a no</p><p>ser que exista disponibilidad de tiempo.</p>|
+|2|<p>Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar</p><p>una prioridad baja resolverlo de cara al siguiente reléase</p>|
+|3|Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.|
+|4|Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.|
+
+TABLA RESUMEN:
+
+Desktop Landing Page
+
+|#|Problema|Escala de severidad|Heurística/Principio violada(o)|
+| :- | :-: | :-: | :-: |
+|1|El botón “Empezar Ahora” del Landing Page no redirecciona a la aplicación web|<p></p><p>3</p>|Usability – Visibilidad del estado del sistema|
+|2|No hay una clara división para la sección de los planes|<p>1</p><p></p>|Information Architecture – Organización|
+|3|No se puede iniciar el proceso de pago de plan desde el Landing Page|<p></p><p>2</p>|Usability – Control y libertad para el usuario|
+|4|La información de cada integrante en la sección “Acerca de nosotros” se sale de los bordes de la imagen|<p></p><p>1</p>|Information Architecture – Organización|
+
+Problema #01: El botón “Empezar Ahora” del Landing Page no redirecciona a la aplicación web
+
+Escala de severidad: 3
+
+Principio violado: Usability – Visibilidad del estado del sistema
+
+Problema:
+
+El botón “Empezar Ahora” que se muestra en el Landing Page que sirve para redireccionar a los usuarios a la aplicación web no tiene funcionalidad.
+
+![1](https://github.com/TripTeamOrganization/Informes/assets/164519824/dbc066d3-9415-4d10-a172-09ef442bc9f5)
+
+Recomendación:
+
+Implementar la funcionalidad del botón “Empezar Ahora” para que los usuarios de nuestra Landing Page puedan redirigirse a la aplicación web sin ningún problema.
+
+Problema #02: No hay una clara división para la sección de los planes
+
+Escala de severidad: 1
+
+Principio violado: Information Architecture – Organización
+
+Problema:
+
+La sección donde se muestran los planes no tiene una correcta división y no es fácilmente visible para los usuarios que naveguen por el Landing Page.
+
+![2](https://github.com/TripTeamOrganization/Informes/assets/164519824/761c49d2-2768-4393-a374-da8050c9a15a)
+
+Recomendación:
+
+Agregar un encabezado antes de las cartas que muestran los planes para que sean fáciles de identificar por el usuario mientras navega por nuestra Landing Page.
+
+Problema #03: No se puede iniciar el proceso de pago de plan desde el Landing Page
+
+Escala de severidad: 2
+
+Principio violado: Usability – Control y libertad para el usuario
+
+Problema:
+
+Las cartas de planes que se muestran en nuestra Landing Page no cuentan con un botón para poder redireccionar al usuario a elegir un plan para su cuenta.
+
+![3](https://github.com/TripTeamOrganization/Informes/assets/164519824/d51210c4-f846-485d-b693-3e1b7fb4fcba)
+
+Recomendación:
+
+Agregar una acción a estas cartas mediante un botón para que los usuarios puedan elegir el plan que deseen e ir al proceso de pago desde nuestra Landing Page.
+
+
+Problema #04: La información de cada integrante en la sección “Acerca de nosotros” se sale de los bordes de la imagen
+
+Escala de severidad: 1
+
+Principio violado: Information Architecture – Organización
+
+Problema: 
+
+La información de cada integrante que aparece al colocar el cursor encima de la imagen se sale de los bordes de esta.
+
+![4](https://github.com/TripTeamOrganization/Informes/assets/164519824/e151f087-8c3c-4498-b755-c366cbfd2eb9)
+
+Recomendación:
+
+Cambiar los estilos de la imagen y el texto mostrados para que encajen correctamente y no se sobresalga de los bordes y se pueda apreciar mejor.
+
+
+
+Web Application
+
+|#|Problema|Escala de severidad|Heurística/Principio violada(o)|
+| :- | :-: | :-: | :-: |
+|1|Se muestra la barra de navegación en las pantallas de registro e inicio de sesión.|<p></p><p>2</p>|<p>Usability – Diseño estético y minimalista</p><p></p>|
+|2|Los formularios de registro e inicio de sesión no validan la información ingresada.|<p></p><p>3</p>|Usability – Prevención de errores|
+|3|No se puede modificar los recuadros de precio mínimo y máximo al hacer clic.|<p></p><p>1</p>|Usability – Control y libertad para el usuario|
+|4|Los filtros que se muestran en los menús desplegables no funcionan.|<p></p><p>4</p>|Usability – Visibilidad del estado del sistema|
+|5|El botón “Seleccionar” no muestra un mensaje de confirmación.|<p></p><p>2</p>|Usability – Consistencia y estándares|
+|6|Espacio inadecuado entre la barra de navegación y el contenido de la vista del itinerario.|<p></p><p>1</p>|<p>Information Architecture – </p><p>Jerarquía de Información</p>|
+|7|Si haces clic al apartado “Mis Viajes” en la barra de navegación te lleva a la vista “Restaurantes”.|<p></p><p>2</p>|<p>Information Architecture –</p><p>Navegación</p>|
+|8|El botón “Eliminar” del apartado “Carrito de Compras” no funciona.|<p></p><p>4</p>|Usability – Visibilidad del estado del sistema|
+|9|El botón “Confirmar reserva” en la sección de reserva no funciona.|<p></p><p>4</p>|Usability – Visibilidad del estado del sistema|
+|10|No hay funcionalidades relacionadas a la modificación o personalización de perfil |<p></p><p>3</p>|Usability – Control y libertad del usuario|
+|11|Al hacer click varias veces al botón “Seleccionar” se agrega muchas veces el servicio al carrito de compras|<p></p><p>4</p>|Usability – Prevención de errores|
+
+Problema #01: Se muestra la barra de navegación en las pantallas de registro e inicio de sesión.
+
+Escala de severidad: 2
+
+Principio violado: Usability – Diseño estético y minimalista
+
+Problema:
+
+Al momento de ingresar al apartado de registro o inicio de sesión, se muestra la barra de navegación principal en la parte posterior de la ventana.
+
+![5](https://github.com/TripTeamOrganization/Informes/assets/164519824/db83f1fc-8e8b-4669-b6ef-c6955df3c9e6)
+
+Recomendación:
+
+Validar la implementación de la barra de navegación para que no se muestre en los apartados de registro e inicio de sesión, ya que no brindan funcionalidad ninguna en esos apartados.
+
+Problema #02: Los formularios de registro e inicio de sesión no validan la información ingresada.
+
+Escala de severidad: 3
+
+Principio violado: Usability – Prevención de errores
+
+Problema:
+
+Los formularios de registro e inicio de sesión no validan la información, ya que al hacer clic en “Registrarse” o en “Iniciar sesión” te redirecciona a la aplicación sin verificar los datos ingresados.
+
+![6](https://github.com/TripTeamOrganization/Informes/assets/164519824/502dd757-69fe-43c5-b799-0cf7ad2de11d)
+
+Recomendación:
+
+Implementar una validación en cada formulario para poder verificar que los datos ingresados por el usuario son correctos y poder registrarse o iniciar sesión correctamente.
+
+
+
+Problema #03: No se puede modificar los recuadros de precio mínimo y máximo al hacer clic.
+
+Escala de severidad: 1
+
+Principio violado: Usability – Control y libertad para el usuario
+
+Problema:
+
+Los recuadros que muestran el precio mínimo y máximo a buscar por filtro no se pueden modificar al hacer clic encima, solo se modifican al mover los extremos del slider de derecha a izquierda
+
+![7](https://github.com/TripTeamOrganization/Informes/assets/164519824/4b2c03e5-e61b-43b5-b19a-19d499b8eee6)
+
+Recomendación:
+
+Implementar una función que permita cambiar los valores de precio mínimo y máximo de forma libre al usuario tanto moviendo el slider como haciendo clic e ingresando el valor que el usuario desee.
+
+
+
+Problema #04: Los filtros que se muestran en los menús desplegables no funcionan.
+
+Escala de severidad: 4
+
+Principio violado: 
+
+Problema:
+
+Los filtros que se muestran en los menús desplegables de cada apartado no funcionan, ya que al seleccionar cualquier opción disponible no se realiza la búsqueda.
+
+![8](https://github.com/TripTeamOrganization/Informes/assets/164519824/3dcf074b-c3e2-40da-adc6-fdd99e2e38a2)
+
+Recomendación:
+
+Implementar la funcionalidad a los menús desplegables para que se pueda realizar la búsqueda de servicios utilizando los filtros que presenta el menú desplegable.
+
+
+
+Problema #05: El botón “Seleccionar” no muestra un mensaje de confirmación.
+
+Escala de severidad: 2
+
+Principio violado: Usability – Consistencia y estándares
+
+Problema:
+
+Al hacer clic al botón “Seleccionar” no se muestra un mensaje de confirmación de que el servicio haya sido seleccionado y agregado al carrito de compras.
+
+![9](https://github.com/TripTeamOrganization/Informes/assets/164519824/ded8b11b-7e3e-4227-b08a-aecfa98ac350)
+
+Recomendación:
+
+Agregar una ventana emergente que muestre un mensaje de confirmación al seleccionar un servicio para que el usuario esté seguro de que se ha agregado al carrito de compras y está disponible para reservar.
+
+
+
+Problema #06: Espacio inadecuado entre la barra de navegación y el contenido de la vista del itinerario.
+
+Escala de severidad: 1
+
+Principio violado: Information Architecture – Jerarquía de Información
+
+Problema:
+
+En la sección de itinerario se muestra un espacio vacío entre la barra de navegación y la información que se muestra en el apartado.
+
+![10](https://github.com/TripTeamOrganization/Informes/assets/164519824/52ebb501-60c1-41ec-bb21-0675f0cdc50b)
+
+Recomendación:
+
+Revisar la organización del apartado y colocar menos espaciado entre la barra de navegación y el contenido para poder tener una mejor jerarquía de la información visible.
+
+
+
+Problema #07: Si haces clic al apartado “Mis Viajes” en la barra de navegación te lleva a la vista “Restaurantes”.
+
+Escala de severidad: 2
+
+Principio violado: Information Architecture – Navegación
+
+Problema:
+
+Al visualizar otro apartado que no sea “Restaurantes” y hacer clic en el apartado “Mis Viajes” nos redirige al apartado “Restaurantes”, luego se debe hacer otro clic para poder acceder a “Mis Viajes”.
+
+![11](https://github.com/TripTeamOrganization/Informes/assets/164519824/f51b020e-3744-4239-908b-974f11906697)
+
+Recomendación:
+
+Revisar cómo está implementado el ruteo de la aplicación para poder corregir este error y poder ingresar al apartado “Mis Viajes” desde cualquier parte de la aplicación sin errores.
+
+
+
+Problema #08: El botón “Eliminar” del apartado “Carrito de Compras” no funciona.
+
+Escala de severidad: 4
+
+Principio violado: Usability – Visibilidad del estado del sistema
+
+Problema:
+
+El botón “Eliminar” que se encuentra en el carrito de compras no funciona ya que no elimina el servicio seleccionado de la lista.
+
+![12](https://github.com/TripTeamOrganization/Informes/assets/164519824/35e4734b-9fea-4bf5-ab9e-007e548f254f)
+
+Recomendación:
+
+Implementar la funcionalidad del botón para que se pueda eliminar objetos agregados a la lista del carrito de compras de manera efectiva.
+
+
+
+Problema #09: El botón “Confirmar reserva” en la sección de reserva no funciona.
+
+Escala de severidad: 4
+
+Principio violado: Usability – Visibilidad del estado del sistema
+
+Problema:
+
+El botón “Confirmar reserva” en la sección de reserva no funciona ya que no realiza ninguna acción en la aplicación.
+
+![13](https://github.com/TripTeamOrganization/Informes/assets/164519824/07fec86f-7d92-4e8d-9467-b48b4cfd0c92)
+
+Recomendación:
+
+Implementar la funcionalidad del botón para poder confirmar las reservas realizadas por los usuarios de forma correcta.
+
+
+
+Problema #10: No hay funcionalidades relacionadas a la modificación o personalización de perfil
+
+Escala de severidad: 3
+
+Principio violado: Usability – Control y libertad del usuario
+
+Problema:
+
+El apartado del perfil del usuario no presenta opciones para que el usuario pueda modificar su perfil y sus datos de forma libre.
+
+![14](https://github.com/TripTeamOrganization/Informes/assets/164519824/5bce2615-ccc2-4fe2-b55f-9f9c949d616f)
+
+Recomendación:
+
+Implementar funcionalidades para que el usuario pueda modificar sus datos desde el apartado de perfil.
+
+
+
+Problema #11: Al hacer click varias veces al botón “Seleccionar” se agrega muchas veces el servicio al carrito de compras
+
+Escala de severidad: 4
+
+Principio violado: Usability – Prevención de errores
+
+Problema:
+
+Al hacer clic en el botón “Seleccionar” en un servicio varias veces este se agrega múltiples veces al carrito de compras.
+
+![15](https://github.com/TripTeamOrganization/Informes/assets/164519824/d0d7193c-9b40-45d2-829e-b055fad819c4)
+
+Recomendación:
+
+Implementar una validación para que el mismo objeto no se agregue múltiples veces al carrito de compras.
+
+
+
 **5.4. Video About-the-Product.**
 
 
