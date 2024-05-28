@@ -2191,7 +2191,7 @@ Desktop Landing Page
 |3|No se puede iniciar el proceso de pago de plan desde el Landing Page|<p></p><p>2</p>|Usability – Control y libertad para el usuario|
 |4|La información de cada integrante en la sección “Acerca de nosotros” se sale de los bordes de la imagen|<p></p><p>1</p>|Information Architecture – Organización|
 
-Problema #01: El botón “Empezar Ahora” del Landing Page no redirecciona a la aplicación web
+<br/>**Problema #01: El botón “Empezar Ahora” del Landing Page no redirecciona a la aplicación web**
 
 Escala de severidad: 3
 
@@ -2207,7 +2207,8 @@ Recomendación:
 
 Implementar la funcionalidad del botón “Empezar Ahora” para que los usuarios de nuestra Landing Page puedan redirigirse a la aplicación web sin ningún problema.
 
-Problema #02: No hay una clara división para la sección de los planes
+
+<br/>**Problema #02: No hay una clara división para la sección de los planes**
 
 Escala de severidad: 1
 
@@ -2223,7 +2224,7 @@ Recomendación:
 
 Agregar un encabezado antes de las cartas que muestran los planes para que sean fáciles de identificar por el usuario mientras navega por nuestra Landing Page.
 
-Problema #03: No se puede iniciar el proceso de pago de plan desde el Landing Page
+<br/>**Problema #03: No se puede iniciar el proceso de pago de plan desde el Landing Page**
 
 Escala de severidad: 2
 
@@ -2240,7 +2241,7 @@ Recomendación:
 Agregar una acción a estas cartas mediante un botón para que los usuarios puedan elegir el plan que deseen e ir al proceso de pago desde nuestra Landing Page.
 
 
-Problema #04: La información de cada integrante en la sección “Acerca de nosotros” se sale de los bordes de la imagen
+<br/>**Problema #04: La información de cada integrante en la sección “Acerca de nosotros” se sale de los bordes de la imagen**
 
 Escala de severidad: 1
 
@@ -2274,7 +2275,7 @@ Web Application
 |10|No hay funcionalidades relacionadas a la modificación o personalización de perfil |<p></p><p>3</p>|Usability – Control y libertad del usuario|
 |11|Al hacer click varias veces al botón “Seleccionar” se agrega muchas veces el servicio al carrito de compras|<p></p><p>4</p>|Usability – Prevención de errores|
 
-Problema #01: Se muestra la barra de navegación en las pantallas de registro e inicio de sesión.
+<br/>**Problema #01: Se muestra la barra de navegación en las pantallas de registro e inicio de sesión.**
 
 Escala de severidad: 2
 
@@ -2290,7 +2291,7 @@ Recomendación:
 
 Validar la implementación de la barra de navegación para que no se muestre en los apartados de registro e inicio de sesión, ya que no brindan funcionalidad ninguna en esos apartados.
 
-Problema #02: Los formularios de registro e inicio de sesión no validan la información ingresada.
+<br/>**Problema #02: Los formularios de registro e inicio de sesión no validan la información ingresada.**
 
 Escala de severidad: 3
 
@@ -2308,7 +2309,7 @@ Implementar una validación en cada formulario para poder verificar que los dato
 
 
 
-Problema #03: No se puede modificar los recuadros de precio mínimo y máximo al hacer clic.
+<br/>**Problema #03: No se puede modificar los recuadros de precio mínimo y máximo al hacer clic.**
 
 Escala de severidad: 1
 
@@ -2326,7 +2327,7 @@ Implementar una función que permita cambiar los valores de precio mínimo y má
 
 
 
-Problema #04: Los filtros que se muestran en los menús desplegables no funcionan.
+<br/>**Problema #04: Los filtros que se muestran en los menús desplegables no funcionan.**
 
 Escala de severidad: 4
 
@@ -2344,7 +2345,7 @@ Implementar la funcionalidad a los menús desplegables para que se pueda realiza
 
 
 
-Problema #05: El botón “Seleccionar” no muestra un mensaje de confirmación.
+<br/>**Problema #05: El botón “Seleccionar” no muestra un mensaje de confirmación.**
 
 Escala de severidad: 2
 
@@ -2362,7 +2363,7 @@ Agregar una ventana emergente que muestre un mensaje de confirmación al selecci
 
 
 
-Problema #06: Espacio inadecuado entre la barra de navegación y el contenido de la vista del itinerario.
+<br/>**Problema #06: Espacio inadecuado entre la barra de navegación y el contenido de la vista del itinerario.**
 
 Escala de severidad: 1
 
@@ -2380,7 +2381,7 @@ Revisar la organización del apartado y colocar menos espaciado entre la barra d
 
 
 
-Problema #07: Si haces clic al apartado “Mis Viajes” en la barra de navegación te lleva a la vista “Restaurantes”.
+<br/>**Problema #07: Si haces clic al apartado “Mis Viajes” en la barra de navegación te lleva a la vista “Restaurantes”.**
 
 Escala de severidad: 2
 
@@ -2398,7 +2399,7 @@ Revisar cómo está implementado el ruteo de la aplicación para poder corregir 
 
 
 
-Problema #08: El botón “Eliminar” del apartado “Carrito de Compras” no funciona.
+<br/>**Problema #08: El botón “Eliminar” del apartado “Carrito de Compras” no funciona.**
 
 Escala de severidad: 4
 
@@ -2416,7 +2417,7 @@ Implementar la funcionalidad del botón para que se pueda eliminar objetos agreg
 
 
 
-Problema #09: El botón “Confirmar reserva” en la sección de reserva no funciona.
+<br/>**Problema #09: El botón “Confirmar reserva” en la sección de reserva no funciona.**
 
 Escala de severidad: 4
 
@@ -2434,7 +2435,7 @@ Implementar la funcionalidad del botón para poder confirmar las reservas realiz
 
 
 
-Problema #10: No hay funcionalidades relacionadas a la modificación o personalización de perfil
+<br/>**Problema #10: No hay funcionalidades relacionadas a la modificación o personalización de perfil**
 
 Escala de severidad: 3
 
@@ -2452,7 +2453,7 @@ Implementar funcionalidades para que el usuario pueda modificar sus datos desde 
 
 
 
-Problema #11: Al hacer click varias veces al botón “Seleccionar” se agrega muchas veces el servicio al carrito de compras
+<br/>**Problema #11: Al hacer click varias veces al botón “Seleccionar” se agrega muchas veces el servicio al carrito de compras**
 
 Escala de severidad: 4
 
