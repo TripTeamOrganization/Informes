@@ -2074,6 +2074,8 @@ Se realizaron un total de 108 commits para el desarrollo de la landing page, inc
 
 ![image](https://github.com/Capibara767/iamgen1/assets/168503032/34461e62-9977-4215-9088-bd9b934dc972)
 
+https://trello.com/invite/b/tehbosMY/ATTI5c6d500fde1d9fa635975ebae594a5f6B0A617D9/sprint-3
+
 
 **5.2.3.3.Development Evidence for Sprint Review.**
 
