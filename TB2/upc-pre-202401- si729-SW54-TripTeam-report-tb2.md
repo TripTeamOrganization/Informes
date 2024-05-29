@@ -2122,6 +2122,10 @@ Preguntas luego de mostrar la web:
 
 **5.3.2. Registro de Entrevistas.**
 
+![image](https://github.com/Capibara767/iamgen1/assets/168503032/c433fdfd-f12b-4c55-b38c-1726134f92de)
+
+![image](https://github.com/Capibara767/iamgen1/assets/168503032/be640deb-b34a-4474-86bd-996af23186f5)
+
 **5.3.3. Evaluaciones según heurísticas.**
 
 SITE o APP A EVALUAR
