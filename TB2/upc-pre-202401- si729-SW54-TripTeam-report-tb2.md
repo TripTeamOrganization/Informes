@@ -2118,9 +2118,50 @@ Preguntas luego de mostrar la web:
 
 **5.3.2. Registro de Entrevistas.**
 
-![image](https://github.com/Capibara767/iamgen1/assets/168503032/c433fdfd-f12b-4c55-b38c-1726134f92de)
 
-![image](https://github.com/Capibara767/iamgen1/assets/168503032/be640deb-b34a-4474-86bd-996af23186f5)
+| Entrevistado N°1: Sandro Quispesivana |<img src="https://github.com/Capibara767/iamgen1/assets/168503032/dceb2ce0-ac94-4dc9-b0eb-5538d77c9bb5" alt="Andrés Valle" style="width: 300px;">|
+|--------------------------------|------------------------------------------------------------|
+| **Nombre:**                    | Yobana milagros      |
+| **Sexo:**                      | Femenino                                                  |
+| **Entrevista:**                | [Link](https://www.youtube.com/watch?v=qiLR-8f7fes)       |
+ **Entrevistador :**                    | Leonel Alfaro                                       |
+| **Resumen:**         | En una reciente entrevista, hablé con Milagros, una chef de Miraflores, Lima, sobre su experiencia con nuestro proyecto de organización de viajes. Ella destacó la facilidad y practicidad de la aplicación, que le permite buscar y filtrar opciones de alojamientos, vuelos, actividades y restaurantes de manera intuitiva. Milagros calificó su experiencia como excelente, apreciando la disponibilidad y precisión de la información. Sugirió aumentar y oscurecer el tamaño de la letra para mejorar la legibilidad, especialmente para personas con problemas de visión. En general, quedó muy satisfecha con la seguridad y veracidad de los datos proporcionados, y agradeció la oportunidad de participar en la entrevista.                                                     |
+| **Duración:**                  | 5:43                                                       |
+
+
+| Entrevistado N°1: Sandro Quispesivana |<img src="https://github.com/Capibara767/iamgen1/assets/168503032/c0fd22b9-28da-4496-bdf5-f5b686a5f028" alt="Andrés Valle" style="width: 300px;">|
+|--------------------------------|------------------------------------------------------------|
+| **Nombre:**                    | Gustavo      |
+| **Sexo:**                      | Masculino                                                  |
+| **Entrevista:**                | [Link](https://www.youtube.com/watch?v=tLMpMYRLndk)       |
+ **Entrevistador :**                    | Leonel Alfaro                                       |
+| **Resumen:**         | En una reciente entrevista con Gustavo, un ingeniero de audio de 30 años que reside en el centro de Lima, discutimos su experiencia con nuestro proyecto de organización de viajes. Gustavo destacó la utilidad de la aplicación para planificar viajes, encontrando intuitiva y llamativa la interfaz, aunque mencionó que es una versión beta que requiere algunas mejoras en tipografía y otros detalles visuales. Comentó que la plataforma abarca todas las necesidades esenciales como alojamientos, vuelos, actividades y restaurantes, lo cual le parece muy interesante. Consideró la información proporcionada como fácil de entender y acceder, sugiriendo además añadir más contenido visual como fotografías y videos para enriquecer la experiencia del usuario. Gustavo valoró la seguridad y veracidad de la información, subrayando la importancia de la confidencialidad de los datos personales. En general, encontró muy útil tener toda la información de viaje en una sola aplicación y agradeció la oportunidad de participar en la entrevista.                                                      |
+| **Duración:**                  | 6:53                                                       |
+
+
+| Entrevistado N°1: Sandro Quispesivana |<img src="https://github.com/Capibara767/iamgen1/assets/168503032/9cde892b-5a69-42fa-9985-124a708260d0" alt="Andrés Valle" style="width: 300px;">|
+|--------------------------------|------------------------------------------------------------|
+| **Nombre:**                    | Isaac      |
+| **Sexo:**                      | Masculino                                                  |
+| **Entrevista:**                | [Link](https://www.youtube.com/watch?v=7Ls0OXfcooA)       |
+ **Entrevistador :**                    | Leonel Alfaro                                       |
+| **Resumen:**         | En una reciente entrevista con Isaac, un especialista en electrónica de 31 años que vive en Lima, discutimos su experiencia con nuestra aplicación de organización de viajes. Isaac encontró la aplicación llamativa y fácil de usar, destacando la claridad de la interfaz y la utilidad de tener información sobre alojamientos, vuelos, actividades y restaurantes en un solo lugar. Valoró positivamente la posibilidad de filtrar búsquedas por nombre y precio, y calificó su experiencia de navegación como muy buena, ya que la aplicación proporciona una descripción detallada de cada opción disponible. Sugerió agregar comentarios de otros usuarios para enriquecer la experiencia y mejorar la seguridad de los datos personales durante las reservas. Isaac también mencionó que le gustaría ver un aumento en el tamaño de la letra para una mejor legibilidad, aunque los colores no le parecieron un aspecto crucial. En general, encontró que la aplicación facilita la organización de viajes de manera rápida y eficiente, agradeciendo la oportunidad de participar en la entrevista.entrevista.                                                      |
+| **Duración:**                  | 7:28                                                       |
+
+
+
+
+| Entrevistado N°1: Sandro Quispesivana |<img src="https://github.com/Capibara767/iamgen1/assets/168503032/19cb8037-8fbf-4b62-90e2-8d8eb477d7d5" alt="Andrés Valle" style="width: 300px;">|
+|--------------------------------|------------------------------------------------------------|
+| **Nombre:**                    | Jhan Antonio     |
+| **Sexo:**                      | Femenino                                                  |
+| **Entrevista:**                | [Link](https://www.youtube.com/watch?v=cyY0nQV2wfw)       |
+ **Entrevistador :**                    | Leonel Alfaro                                       |
+| **Resumen:**         | En una reciente entrevista con Jhan Antonio, un residente de San Juan de Lurigancho de 30 años, conversamos sobre su experiencia con nuestra aplicación de organización de viajes. Jhan Antonio encontró la aplicación sumamente sencilla de usar y destacó la claridad e intuición de la interfaz, aunque sugirió que los colores tranquilos la hacen menos llamativa pero más fácil de manejar. Valoró positivamente la capacidad de filtrar búsquedas por nombre y precio, calificando la experiencia como excelente debido a las descripciones breves y precisas de los hoteles, vuelos, actividades y restaurantes. Jhan Antonio recomendó agregar referencias y comentarios de otros usuarios para mejorar la experiencia del usuario y proporcionar más información sobre posibles inconvenientes en las estadías. En cuanto a la seguridad y veracidad de la información, se mostró confiado y destacó la conveniencia de tener toda la información en una sola plataforma. También sugirió reconsiderar el uso del tono de azul en la aplicación para evitar que resulte tedioso. En general, encontró la idea novedosa y muy buena, agradeciendo la oportunidad de participar en la entrevista.                                                      |
+| **Duración:**                  | 5:02                                                       |
+
+
+
 
 **5.3.3. Evaluaciones según heurísticas.**
 
