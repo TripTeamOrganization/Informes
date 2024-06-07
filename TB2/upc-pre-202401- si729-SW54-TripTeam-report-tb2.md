@@ -2104,6 +2104,22 @@ https://trello.com/invite/b/tehbosMY/ATTI5c6d500fde1d9fa635975ebae594a5f6B0A617D
 
 **5.2.3.5.Execution Evidence for Sprint Review.**
 
+**Sprint 3**
+
+Progreso en el Desarrollo
+
+Durante el Sprint 3, se realizaron las siguientes implementaciones en la página:
+
+1. **Implementación de la sección cambiar contraseña:**
+En esta seccion se realizó la implementación de la pantalla de cambiar contraseña para que el usuario pueda modificar su contraseña de manera segura.
+
+![image](https://github.com/TripTeamOrganization/Reports/assets/134337719/62ec6230-cb9b-41d6-883f-ab18a0198ac2)
+
+2. **Implementación de la funcionalidad de Itinerario:**
+En esta sección se realizó la implementación de la funcionalidad de Itinerario para que el usuario pueda planificar y organizar sus actividades durante su viaje.
+
+![image](https://github.com/TripTeamOrganization/Reports/assets/134337719/5e64957d-b622-4e16-afd2-7f0160a47b91)
+
 **5.2.3.6.Services Documentation Evidence for Sprint Review.**
 
 **5.2.3.7.Software Deployment Evidence for Sprint Review.**
