@@ -2129,7 +2129,7 @@ Preguntas luego de mostrar la web:
 | **Duración:**                  | 5:43                                                       |
 
 
-| Entrevistado N°1: Sandro Quispesivana |<img src="https://github.com/Capibara767/iamgen1/assets/168503032/c0fd22b9-28da-4496-bdf5-f5b686a5f028" alt="Andrés Valle" style="width: 300px;">|
+| Entrevistado N°2: Sandro Quispesivana |<img src="https://github.com/Capibara767/iamgen1/assets/168503032/c0fd22b9-28da-4496-bdf5-f5b686a5f028" alt="Andrés Valle" style="width: 300px;">|
 |--------------------------------|------------------------------------------------------------|
 | **Nombre:**                    | Gustavo      |
 | **Sexo:**                      | Masculino                                                  |
@@ -2139,7 +2139,7 @@ Preguntas luego de mostrar la web:
 | **Duración:**                  | 6:53                                                       |
 
 
-| Entrevistado N°1: Sandro Quispesivana |<img src="https://github.com/Capibara767/iamgen1/assets/168503032/9cde892b-5a69-42fa-9985-124a708260d0" alt="Andrés Valle" style="width: 300px;">|
+| Entrevistado N°3: Sandro Quispesivana |<img src="https://github.com/Capibara767/iamgen1/assets/168503032/9cde892b-5a69-42fa-9985-124a708260d0" alt="Andrés Valle" style="width: 300px;">|
 |--------------------------------|------------------------------------------------------------|
 | **Nombre:**                    | Isaac      |
 | **Sexo:**                      | Masculino                                                  |
@@ -2151,7 +2151,7 @@ Preguntas luego de mostrar la web:
 
 
 
-| Entrevistado N°1: Sandro Quispesivana |<img src="https://github.com/Capibara767/iamgen1/assets/168503032/19cb8037-8fbf-4b62-90e2-8d8eb477d7d5" alt="Andrés Valle" style="width: 300px;">|
+| Entrevistado N°4: Sandro Quispesivana |<img src="https://github.com/Capibara767/iamgen1/assets/168503032/19cb8037-8fbf-4b62-90e2-8d8eb477d7d5" alt="Andrés Valle" style="width: 300px;">|
 |--------------------------------|------------------------------------------------------------|
 | **Nombre:**                    | Jhan Antonio     |
 | **Sexo:**                      | Femenino                                                  |
@@ -2160,6 +2160,14 @@ Preguntas luego de mostrar la web:
 | **Resumen:**         | En una reciente entrevista con Jhan Antonio, un residente de San Juan de Lurigancho de 30 años, conversamos sobre su experiencia con nuestra aplicación de organización de viajes. Jhan Antonio encontró la aplicación sumamente sencilla de usar y destacó la claridad e intuición de la interfaz, aunque sugirió que los colores tranquilos la hacen menos llamativa pero más fácil de manejar. Valoró positivamente la capacidad de filtrar búsquedas por nombre y precio, calificando la experiencia como excelente debido a las descripciones breves y precisas de los hoteles, vuelos, actividades y restaurantes. Jhan Antonio recomendó agregar referencias y comentarios de otros usuarios para mejorar la experiencia del usuario y proporcionar más información sobre posibles inconvenientes en las estadías. En cuanto a la seguridad y veracidad de la información, se mostró confiado y destacó la conveniencia de tener toda la información en una sola plataforma. También sugirió reconsiderar el uso del tono de azul en la aplicación para evitar que resulte tedioso. En general, encontró la idea novedosa y muy buena, agradeciendo la oportunidad de participar en la entrevista.                                                      |
 | **Duración:**                  | 5:02                                                       |
 
+| Entrevistado N°5: Juan José Navarro Chacón |<img src="https://github.com/Capibara767/iamgen1/assets/168503032/19cb8037-8fbf-4b62-90e2-8d8eb477d7d5" alt="Andrés Valle" style="width: 300px;">|
+|--------------------------------|------------------------------------------------------------|
+| **Nombre:**                    | Juan José Navarro Chacón     |
+| **Sexo:**                      | Masculino                                                 |
+| **Entrevista:**                | [Link](https://www.youtube.com/watch?v=d0Ou-59UXTM)       |
+ **Entrevistador :**                    | Bárbara Espinoza                                       |
+| **Resumen:**         | En la entrevista con Juan Navarro, un residente de Los Olivos de 20 años, conversamos sobre su experiencia con nuestra aplicación de organización de viajes. Juan Navarro encontró la aplicación muy didáctica y que cualquiera sin conocimiento podria usarla y que los colores son encendidos y llamativos. Calificó muy bien la aplicación debido a que tiene acceso a todo lo necesario para un viaje en una sola plataforma. Además, piensa que la información es confiable debido a que se está extrayendo información real que se encuentra en internet. Resaltó la opción de filtrar y busqueda por nombre como una buena característica. También sugirió la implementaión call to action para guiar mas al usuario a saber a donde dirigirá al usuario cada botón y una mayor variedad de colores. En general, encontró la aplicación como sencilla de usar y util.                                                       |
+| **Duración:**                  | 4:43                                                       |
 
 
 
