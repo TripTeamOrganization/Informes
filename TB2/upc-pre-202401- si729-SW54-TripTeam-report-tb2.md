@@ -59,7 +59,12 @@
 | 2.5      |  2024/05/02   | Espinoza Delgado, Bárbara Antonella | Sprint Planning 2, Sprint Backlog 2, Development Evidence for Sprint Review | 
 | 2.6       |  2024/05/02    | Quispe Andia, Jeremy Joel |Execution Evidence for Sprint Review y Conclusiones | 
 | 2.7       |  2024/05/02    | Alfaro Cumba, Leonel | Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review | 
-| 2.8       |  2024/03/22    | Palma Obispo, Adrián Enrique Jesús | Conclusiones, Anexos, Team Collaboratio Insights|
+| 2.8       |  2024/05/02    | Martinez Villanueva, Paolo Del Carmen | Testing Suite Evidence y actualizó las historias de usuario, sprint backlog 2 y sprint planning 2| 
+| 2.9      |  2024/06/02   | Espinoza Delgado, Bárbara Antonella | Sprint Planning 3, Sprint Backlog 3, Development Evidence for Sprint Review | 
+| 3.0       |  2024/06/02    | Quispe Andia, Jeremy Joel |Execution Evidence for Sprint Review y Conclusiones | 
+| 3.1       |  2024/06/02    | Alfaro Cumba, Leonel | Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review | 
+| 3.2       |  2024/05/02    | Martinez Villanueva, Paolo Del Carmen | Heuristicas, Testing Suite Evidence y actualizó las historias de usuario, sprint backlog 3 y sprint planning 3| 
+| 3.3       |  2024/06/02    | Palma Obispo, Adrián Enrique Jesús | Conclusiones, Anexos, Team Collaboratio Insights|
 
 
 ### Project Report Collaboration Insights
@@ -80,6 +85,8 @@ Evidencias del Insights Contributos de los commits del informe:
 
 ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/59cf1fdb-7051-4680-8a1d-bb1d8ee1ed66)
 
+**TP:**
+
 | Integrante                            | Tareas Designadas       |
 |-----------------------------------|--------------|
 | Adrián Enrique Jesús Palma Obispo| Conclusiones, Anexos, Team Collaboratio Insights |
@@ -92,6 +99,17 @@ Evidencias del Insights Contributos de los commits del informe:
 
 ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/59cf1fdb-7051-4680-8a1d-bb1d8ee1ed66)
 
+**TB2:**
+
+| Integrante                            | Tareas Designadas       |
+|-----------------------------------|--------------|
+| Adrián Enrique Jesús Palma Obispo| Conclusiones, Anexos, Team Collaboratio Insights |
+| Bárbara Antonella Espinoza Delgado | Sprint Planning 3, Sprint Backlog 3, Development Evidence for Sprint Review |
+| Paolo Del Carmen Martinez Villanueva         | Heuristicas, Execution Evidence for Sprint Review y Conclusiones|
+| Leonel Alfaro Cumba    | Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review|
+| Jeremy Joel Quispe Andia |Testing Suite Evidence y actualizó las historias de usuario, sprint backlog 3 y sprint planning 3|
+
+Evidencias del Insights Contributos de los commits del informe:
 
 ### Tabla de contenidos
 
