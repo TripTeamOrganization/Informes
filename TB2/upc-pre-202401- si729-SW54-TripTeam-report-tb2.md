@@ -2623,8 +2623,6 @@ Estas nuevas funcionalidades, junto con una interfaz intuitiva y característica
 - Urvina Alejandro, M. A., Lastra‐Bravo, X. B., & Jaramillo-Moreno, C. (2022). Turismo y aplicaciones móviles. Preferencias de turistas y prestadores de servicios en el cantón Tena, Napo, Ecuador. Recuperado de: [RIULL](https://riull.ull.es/xmlui/handle/915/26221)
 
  **Anexos**
-- Enlace para acceder a la landing page: [Ver enlace](https://landingpage-tripmate.netlify.app/)
-- Enlace para acceder a la web application: [Ver enlace](https://tripmateupc.netlify.app/accommodations)
 - Enlace para ver el video de la exposición: [Ver enlace](https://upcedupe-my.sharepoint.com/personal/u202010039_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202010039%5Fupc%5Fedu%5Fpe%2FDocuments%2Fexposici%C3%B3n%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0=&ga=1)
 - Video de todas las entrevistas subido a stream: [Ver enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYBkLLrqb1nS8vDVTedop1PgQ)
 - Repositorio GitHub LandingPage: [Ver enlace](https://github.com/TripTeamOrganization/FrontEnd)
