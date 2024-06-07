@@ -2073,7 +2073,34 @@ https://trello.com/invite/b/tehbosMY/ATTI5c6d500fde1d9fa635975ebae594a5f6B0A617D
 
 **5.2.3.3.Development Evidence for Sprint Review.**
 
+| Repository                                |Branch| Commit ID | Commit Message                                      |Commit Message <br> Body| Commited<br>On (Date) |  
+|-------------------------------------------|------|---------|-----------------------------------------------------|-------------------|-----------------------|
+| Jemisas/<br>TripMate<br>WebAppBackend     |Main| 1cbb32f | Initial Commit                                      |-| 23/05/2024            | 
+| Jemisas/<br>TripMate<br>WebAppBackend     |Main| b73ebb0 | feat: updated the structure of project in base to DDD |-| 28/05/2024            | 
+| Jemisas/<br>TripMate<br>WebAppBackend     |Main| 4a749a3 | fix: application.properties                         |-| 28/05/2024            | 
+| Jemisas/<br>TripMate<br>WebAppBackend     |Main| 5beb0a6 | feat: added files                                   |-| 28/05/2024            | 
+| Jemisas/<br>TripMate<br>WebAppBackend     |Main| 27c0f64 | feat: added files                                   |-| 28/05/2024            | 
+| MesSobble/<br>TripMate<br>WebAppBackend      |Main| c3c8b6  | feat: add Activity Model and Service                      |-| 29/05/2024            |
+| MesSobble/<br>TripMate<br>WebAppBackend      |Main| e1a12b  | feat:add Controller and Services                          |-| 29/05/2024            |
+| MesSobble/<br>TripMate<br>WebAppBackend      |Main| 05587c  | fix: Assembler|-| 29/05/2024            |
+| Jemisas/<br>TripMate<br>WebAppBackend     |Main| b7b1c0d | feat: added structure of TS01 "User"                          |-| 02/06/2024            | 
+| Jemisas/<br>TripMate<br>WebAppBackend     |Main| 84af349 | fix: corrected the files and configuration |-| 04/06/2024            | 
+| Jemisas/<br>TripMate<br>WebAppBackend     |Main| 412797a | feat: added impl                          |-| 04/06/2024            | 
+| Jemisas/<br>TripMate<br>WebAppBackend     |Main| a24014c | feat: added the ResponseEntity in controler|-| 04/06/2024            | 
+| Jemisas/<br>TripMate<br>WebAppBackend     |Main| d4e0823 | feat: added HttpStatus                                   |-| 04/06/2024            |
+| Jemisas/<br>TripMate<br>WebAppBackend     |Main| d08a811 |feat: added the structure of table "Reservation" |-| 05/06/2024            | 
+| APOGamer/<br>TripMate<br>WebAppBackend      |Main| 019812 | Feat: First Version with dependencies problems                       |-| 05/04/2024            |
+| Jemisas/<br>TripMate<br>WebAppBackend     |Main| 10cd6b8| feat: added the structure of reservation                          |-| 06/06/2024            | 
+| Jemisas/<br>TripMate<br>WebAppBackend     |Main| a204378| feat: added the reservation|-| 06/06/2024           | 
+| Jemisas/<br>TripMate<br>WebAppBackend     |Main| cc19751 | fix: corrected error in method "POST" of reservation                                  |-| 06/06/2024            | 
+
+
+
 **5.2.3.4.Testing Suite Evidence for Sprint Review.**
+
+|Repository|Branch|Commit ID|Commit Message|Commit Message <br> Body| Commited<br>On (Date) |  
+  |----------|------|---------|--------------|-------------------|-----------------------|
+|TripTeamOrganization<br>/AcceptanceTest|Main|82ffe35|feat: added all technical stories in gherkin|-| 07/06/2024            |
 
 **5.2.3.5.Execution Evidence for Sprint Review.**
 
