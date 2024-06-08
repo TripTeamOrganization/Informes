@@ -2177,7 +2177,10 @@ POST RESERVATION:
 ![image](https://github.com/TripTeamOrganization/Reports/assets/48342953/97c5be1d-de69-4d08-9615-87b32d077a1a)
 
 **5.2.3.7.Software Deployment Evidence for Sprint Review.**
+El despliegue de la appp web en Netlify se completó exitosamente, y durante este proceso se ajustaron las configuraciones de enrutamiento para manejar las solicitudes POST y GET de manera adecuada. Además, se realizaron adaptaciones específicas para garantizar la compatibilidad y el funcionamiento óptimo en el entorno de Netlify.
 
+![image](https://github.com/TripTeamOrganization/Reports/assets/48342953/6e4599bc-875f-48bc-82dc-2f8297c02346)
+  ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/7138a072-2266-4f06-9878-ab8cb3036795)
 **5.2.3.8.Team Collaboration Insights during Sprint.**
 
 ![image](https://github.com/TripTeamOrganization/Reports/assets/48342953/0545bc9b-c0f4-4d34-8672-380556b65238)
