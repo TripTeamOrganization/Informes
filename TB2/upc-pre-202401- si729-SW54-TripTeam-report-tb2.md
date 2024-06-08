@@ -2138,6 +2138,18 @@ En esta sección se realizó la implementación de la funcionalidad de Itinerari
 
 ![image](https://github.com/TripTeamOrganization/Reports/assets/134337719/5e64957d-b622-4e16-afd2-7f0160a47b91)
 
+3. **Implementación de la pantalla post pago de reservación:**
+En esta sección se confirma la compra de la reservación.
+
+![image](https://github.com/TripTeamOrganization/Reports/assets/134337719/1a9ee8b1-758e-465e-9175-59e6de55fac4)
+
+3. **Implementación de la vista cambiar Emaim:**
+En esta sección se muestra un apartado para poder cambiar el emaail del usuario.
+
+![image](https://github.com/TripTeamOrganization/Reports/assets/134337719/1dade7fb-4f62-4dc4-b3db-2ac4917a63c1)
+
+
+
 **5.2.3.6.Services Documentation Evidence for Sprint Review.**
 
 **5.2.3.7.Software Deployment Evidence for Sprint Review.**
