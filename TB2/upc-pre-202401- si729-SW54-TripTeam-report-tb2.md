@@ -2143,8 +2143,9 @@ En esta sección se realizó la implementación de la funcionalidad de Itinerari
 **5.2.3.7.Software Deployment Evidence for Sprint Review.**
 
 **5.2.3.8.Team Collaboration Insights during Sprint.**
-![image](https://github.com/TripTeamOrganization/Informes/assets/48342953/7cc8ff2d-c8bd-422b-8a23-2ceaa3ea7a94)
+![image](https://github.com/TripTeamOrganization/Reports/assets/48342953/0545bc9b-c0f4-4d34-8672-380556b65238)
 
+Se avanzó de manera colaborativa en el desarrollo de la aplicación web, incluyendo su integración con el backend y la mejora de los ruteos. Además, se mejoró el redireccionamiento del frontend arreglando errores antiguos y se desarrolló un video. Se crearon ramas para el desarrollo de diferentes historias de usuario, las cuales se fusionaron con la rama develop para evitar errores con la rama main. Se realizaron commits por cada funcionalidad implementada, tal como se muestra en la imagen.
 **5.3. Validation Interviews.**
 
 **5.3.1. Diseño de Entrevistas.**  
