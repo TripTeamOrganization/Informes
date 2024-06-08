@@ -2181,7 +2181,7 @@ Preguntas luego de mostrar la web:
 **5.3.2. Registro de Entrevistas.**
 
 
-| Entrevistado N°1: Sandro Quispesivana |<img src="https://github.com/Capibara767/iamgen1/assets/168503032/dceb2ce0-ac94-4dc9-b0eb-5538d77c9bb5" alt="Andrés Valle" style="width: 300px;">|
+| Entrevistado N°1: Yobana milagros |<img src="https://github.com/Capibara767/iamgen1/assets/168503032/dceb2ce0-ac94-4dc9-b0eb-5538d77c9bb5" alt="Andrés Valle" style="width: 300px;">|
 |--------------------------------|------------------------------------------------------------|
 | **Nombre:**                    | Yobana milagros      |
 | **Sexo:**                      | Femenino                                                  |
@@ -2191,7 +2191,7 @@ Preguntas luego de mostrar la web:
 | **Duración:**                  | 5:43                                                       |
 
 
-| Entrevistado N°2: Sandro Quispesivana |<img src="https://github.com/Capibara767/iamgen1/assets/168503032/c0fd22b9-28da-4496-bdf5-f5b686a5f028" alt="Andrés Valle" style="width: 300px;">|
+| Entrevistado N°2: Gustavo |<img src="https://github.com/Capibara767/iamgen1/assets/168503032/c0fd22b9-28da-4496-bdf5-f5b686a5f028" alt="Andrés Valle" style="width: 300px;">|
 |--------------------------------|------------------------------------------------------------|
 | **Nombre:**                    | Gustavo      |
 | **Sexo:**                      | Masculino                                                  |
@@ -2201,7 +2201,7 @@ Preguntas luego de mostrar la web:
 | **Duración:**                  | 6:53                                                       |
 
 
-| Entrevistado N°3: Sandro Quispesivana |<img src="https://github.com/Capibara767/iamgen1/assets/168503032/9cde892b-5a69-42fa-9985-124a708260d0" alt="Andrés Valle" style="width: 300px;">|
+| Entrevistado N°3: Isaac |<img src="https://github.com/Capibara767/iamgen1/assets/168503032/9cde892b-5a69-42fa-9985-124a708260d0" alt="Andrés Valle" style="width: 300px;">|
 |--------------------------------|------------------------------------------------------------|
 | **Nombre:**                    | Isaac      |
 | **Sexo:**                      | Masculino                                                  |
@@ -2213,7 +2213,7 @@ Preguntas luego de mostrar la web:
 
 
 
-| Entrevistado N°4: Sandro Quispesivana |<img src="https://github.com/Capibara767/iamgen1/assets/168503032/19cb8037-8fbf-4b62-90e2-8d8eb477d7d5" alt="Andrés Valle" style="width: 300px;">|
+| Entrevistado N°4: Jhan Antonio |<img src="https://github.com/Capibara767/iamgen1/assets/168503032/19cb8037-8fbf-4b62-90e2-8d8eb477d7d5" alt="Andrés Valle" style="width: 300px;">|
 |--------------------------------|------------------------------------------------------------|
 | **Nombre:**                    | Jhan Antonio     |
 | **Sexo:**                      | Femenino                                                  |
@@ -2231,6 +2231,14 @@ Preguntas luego de mostrar la web:
 | **Resumen:**         | En la entrevista con Juan Navarro, un residente de Los Olivos de 20 años, conversamos sobre su experiencia con nuestra aplicación de organización de viajes. Juan Navarro encontró la aplicación muy didáctica, que cualquiera sin conocimiento podria usarla y que los colores son encendidos y llamativos. Calificó muy bien la aplicación debido a que tiene acceso a todo lo necesario para un viaje en una sola plataforma. Además, piensa que la información es confiable debido a que se está extrayendo información real que se encuentra en internet. Resaltó la opción de filtrar y busqueda por nombre como una buena característica. También sugirió la implementaión call to action para guiar mas al usuario a saber a donde lo dirigirá cada botón y una mayor variedad de colores. En general, encontró la aplicación como sencilla de usar y util.                                                       |
 | **Duración:**                  | 4:43                                                       |
 
+| Entrevistado N°5: Frank Alva |<img src="https://github.com/Capibara767/iamgen1/assets/168503032/f2e0eafb-e3ab-4035-ac1c-30b48ad01abd" alt="Andrés Valle" style="width: 300px;">|
+|--------------------------------|------------------------------------------------------------|
+| **Nombre:**                    | Frank Alva    |
+| **Sexo:**                      | Masculino |
+| **Entrevista:**                | [Link](https://www.youtube.com/watch?v=PFJCu3hOEUk)       |
+ **Entrevistador :**                    | Bárbara Espinoza                                       |
+| **Resumen:**         |   En una reciente entrevista con Frank, un estudiante universitario que reside en San Juan de Lurigancho, discutimos su experiencia con nuestra aplicación de organización de viajes llamada CheatMate. Frank encontró la aplicación sumamente rápida y fácil de usar para realizar reservas, aunque sugirió que la interfaz podría ser mejorada en términos de diseño visual para hacerla más llamativa. En cuanto a la funcionalidad de buscar y seleccionar hoteles, vuelos, actividades y restaurantes, Frank valoró la facilidad con la que se pueden seleccionar las fechas y otros criterios importantes. Además, propuso la adición de calificaciones y recomendaciones de otros usuarios para cada alojamiento, lo que ayudaría a los viajeros a elegir el hotel ideal basado en experiencias previas. Sobre la veracidad de la información, Frank sugirió separar más claramente la información personal del método de pago en el formulario de reserva para mayor seguridad y claridad. En general, Frank encontró la aplicación muy conveniente, ya que permite tener toda la información necesaria en una sola plataforma, facilitando la planificación de viajes. Agradeció la oportunidad de compartir sus opiniones y recomendaciones para mejorar la experiencia del usuario    |
+| **Duración:**                  | 5:05                                                       |
 
 
 **5.3.3. Evaluaciones según heurísticas.**
