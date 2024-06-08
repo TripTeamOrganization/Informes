@@ -111,6 +111,9 @@ Evidencias del Insights Contributos de los commits del informe:
 
 Evidencias del Insights Contributos de los commits del informe:
 
+![image](https://github.com/TripTeamOrganization/Reports/assets/134337719/cd49ef82-4a9c-4db4-9d1b-d298201fa11f)
+
+
 ### Tabla de contenidos
 
 - [Capítulo I: Introducción](#cap%C3%ADtulo-i-introducci%C3%B3n)
