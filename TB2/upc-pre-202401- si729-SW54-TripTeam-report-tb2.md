@@ -2151,6 +2151,19 @@ En esta sección se muestra un apartado para poder cambiar el emaail del usuario
 
 
 **5.2.3.6.Services Documentation Evidence for Sprint Review.**
+GET FLIGHTS:
+![image](https://github.com/TripTeamOrganization/Reports/assets/48342953/6a26f446-4a8e-483a-a6b3-4e915e534ee6)
+GET ACCOMODATIONS:
+![image](https://github.com/TripTeamOrganization/Reports/assets/48342953/c28f6b72-842d-4cc4-964c-fe9f22b6e7d6)
+GET USERS:
+![image](https://github.com/TripTeamOrganization/Reports/assets/48342953/3f2b974d-e561-438c-b12e-c22a29a4e4a7)
+GET RESERVATIONS:
+![image](https://github.com/TripTeamOrganization/Reports/assets/48342953/5307e2c7-7970-4201-99d0-d169c025c64a)
+GET RESTAURANTS:
+![image](https://github.com/TripTeamOrganization/Reports/assets/48342953/7f74c779-22c5-400a-b0c5-06739292c8af)
+
+POST RESERVATION:
+![image](https://github.com/TripTeamOrganization/Reports/assets/48342953/97c5be1d-de69-4d08-9615-87b32d077a1a)
 
 **5.2.3.7.Software Deployment Evidence for Sprint Review.**
 
