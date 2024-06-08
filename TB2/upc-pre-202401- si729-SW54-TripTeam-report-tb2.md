@@ -2151,23 +2151,35 @@ En esta sección se muestra un apartado para poder cambiar el emaail del usuario
 
 
 **5.2.3.6.Services Documentation Evidence for Sprint Review.**
+
 GET FLIGHTS:
+
 ![image](https://github.com/TripTeamOrganization/Reports/assets/48342953/6a26f446-4a8e-483a-a6b3-4e915e534ee6)
+
 GET ACCOMODATIONS:
+
 ![image](https://github.com/TripTeamOrganization/Reports/assets/48342953/c28f6b72-842d-4cc4-964c-fe9f22b6e7d6)
+
 GET USERS:
+
 ![image](https://github.com/TripTeamOrganization/Reports/assets/48342953/3f2b974d-e561-438c-b12e-c22a29a4e4a7)
+
 GET RESERVATIONS:
+
 ![image](https://github.com/TripTeamOrganization/Reports/assets/48342953/5307e2c7-7970-4201-99d0-d169c025c64a)
+
 GET RESTAURANTS:
+
 ![image](https://github.com/TripTeamOrganization/Reports/assets/48342953/7f74c779-22c5-400a-b0c5-06739292c8af)
 
 POST RESERVATION:
+
 ![image](https://github.com/TripTeamOrganization/Reports/assets/48342953/97c5be1d-de69-4d08-9615-87b32d077a1a)
 
 **5.2.3.7.Software Deployment Evidence for Sprint Review.**
 
 **5.2.3.8.Team Collaboration Insights during Sprint.**
+
 ![image](https://github.com/TripTeamOrganization/Reports/assets/48342953/0545bc9b-c0f4-4d34-8672-380556b65238)
 
 Se avanzó de manera colaborativa en el desarrollo de la aplicación web, incluyendo su integración con el backend y la mejora de los ruteos. Además, se mejoró el redireccionamiento del frontend arreglando errores antiguos y se desarrolló un video. Se crearon ramas para el desarrollo de diferentes historias de usuario, las cuales se fusionaron con la rama develop para evitar errores con la rama main. Se realizaron commits por cada funcionalidad implementada, tal como se muestra en la imagen.
