@@ -2255,38 +2255,37 @@ TAREAS A EVALUAR
 
 1. Desktop Landing Page
    1. Información y descripción de la aplicación y sus funcionalidades
-   1. Visualización de planes de pago y precio de la aplicación
-   1. Header y footer apropiado para la Landing Page
-   1. Interacción de la Landing Page con la aplicación
+   2. Visualización de planes de pago y precio de la aplicación
+   3. Header y footer apropiado para la Landing Page
+   4. Interacción de la Landing Page con la aplicación
 
 1. Web Application
    1. Registro de nuevo usuario
-   1. Inicio de sesión
-   1. Búsqueda de alojamientos
-   1. Búsqueda de vuelos
-   1. Búsqueda de actividades
-   1. Búsqueda de restaurantes
-   1. Búsqueda por precio
-   1. Búsqueda de alojamientos por número de camas
-   1. Búsqueda de actividades por horario de apertura
-   1. Búsqueda de restaurantes por horario de apertura
-   1. Visualización de itinerario
-   1. Proceso de reserva
-   1. Estética general de la interfaz
+   2. Inicio de sesión
+   3. Búsqueda de alojamientos
+   4. Búsqueda de vuelos
+   5. Búsqueda de actividades
+   6. Búsqueda de restaurantes
+   7. Búsqueda por precio
+   8. Búsqueda de alojamientos por número de camas
+   9. Búsqueda de actividades por horario de apertura
+   10. Búsqueda de restaurantes por horario de apertura
+   11. Visualización de itinerario
+   12. Proceso de reserva
+   13. Estética general de la interfaz
 
 No están incluidas en esta versión de la evaluación las siguientes tareas:
 
 1. Desktop Landing Page
    1. Redes sociales asociadas al startup
-   1. Política de privacidad y condiciones de uso
-   1. Internacionalización
+   2. Política de privacidad y condiciones de uso
+   3. Internacionalización
 
 1. Web Application
    1. Cambio de contraseña
-   1. Cambio de correo electrónico
-   1. Información detallada de cada servicio ofrecido
-   1. Proceso de pago
-   1. Cambio de idioma de la aplicación
+   2. Cambio de correo electrónico
+   3. Información detallada de cada servicio ofrecido
+   4. Proceso de pago
 
 ESCALA DE SEVERIDAD:
 
