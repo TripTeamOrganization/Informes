@@ -2625,6 +2625,13 @@ En el sprint 2, se han implementado importantes características para mejorar la
 
 Estas nuevas funcionalidades, junto con una interfaz intuitiva y características únicas como la sección de galería para inspirar a los viajeros, la barra de navegación intuitiva y el fondo animado, fortalecen la propuesta de valor de Tripmate en el mercado de viajes en línea. La colaboración con empresas asociadas y la promoción de descuentos exclusivos continúan atrayendo a una base de usuarios más amplia y consolidan su posición en el mercado como una solución atractiva y funcional para los viajeros.
 
+**TB2:**
+
+En el sprint 3, se ha implementado el backend con operaciones cruciales para la gestión de datos de usuarios y servicios de viaje. Se han desarrollado endpoints para crear y obtener usuarios, así como para gestionar de reservas. Los usuarios ahora pueden consultar información detallada sobre alojamientos, vuelos, restaurantes y actividades, y realizar reservas directamente desde la aplicación.
+Además, se han implementado endpoints específicos para crear y consultar itinerarios, permitiendo a los usuarios planificar sus viajes de manera integral y organizada. Estas funcionalidades son esenciales para ofrecer una experiencia de usuario completa y satisfactoria, facilitando la organización de viajes y la interacción con diversos servicios de manera centralizada.
+
+Estas mejoras en el backend de TripMate aseguran que la aplicación sea capaz de manejar de manera eficiente las solicitudes de los usuarios y gestionar la información relevante de viajes en tiempo real. Esto no solo optimiza el rendimiento del sistema, sino que también refuerza la propuesta de valor de TripMate, proporcionando una plataforma robusta y fiable que apoya la planificación de viajes de principio a fin.
+
 **Bibliografía**
 
 - Asmar, S. (2023). Consejos para no endeudarse en sus próximos viajes y pagar la deuda en pocos meses. Recuperado de: [La República](https://www.larepublica.co/finanzas-personales/consejos-para-no-endeudarse-en-sus-proximos-viajes-y-pagar-la-deuda-en-pocos-meses-3598007)
