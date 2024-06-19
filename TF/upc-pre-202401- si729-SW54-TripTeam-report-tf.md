@@ -331,7 +331,7 @@ FALTA IMAGEN
   
   -  5.4. Video About-the-Product.
     
-  - 5.2.1. Sprint 4
+  - 5.2.4. Sprint 4
   
   - 5.2.4.1. Sprint Planning 4.
   
@@ -2690,7 +2690,55 @@ Implementar una validación para que el mismo objeto no se agregue múltiples ve
 
 **5.4. Video About-the-Product.**
 
+**5.2.4. Sprint 4**
+  
+**5.2.4.1. Sprint Planning 4.**  
 
+| **Sprint #** | **Sprint 4** |
+| :- | :- |
+| **Sprint Planning Background** | |
+| Date | 21/06/2024 |
+| Time | 8:00 PM - 11:00 PM |
+| Location | Discord |
+| **Prepared By** | Adrián Enrique Jesús Palma Obispo  |
+| Attendees | - Adrián Enrique Jesús Palma Obispo (u202210066)<br>- Paolo Del Carmen Martinez Villanueva (u202010039)<br>- Bárbara Antonella Espinoza Delgado (u201911727)<br>- Jeremy Joel Quispe Andia (u202216279)<br>- Leonel Alfaro Cumba (u20201a930) |
+| **Sprint 3 Review Summary** | En el sprint anterior, logramos concluir con la mayoría de las technical stories. |
+| **Sprint 3 Retrospective Summary** | En el sprint anterior, se logró mejorar varios aspectos del proyecto e identificar errores pasados para ser corregidos. |
+| **Sprint Goal & User Stories** | |
+| **Sprint 3 Goal** | Elaborar, diseñar la versión final del BackEnd de la aplicación web de TripMate, incluyendo los cambios necesarios para mejorar la integración con el FrontEnd.  |
+| **Sprint 3 Velocity** | 27 |
+| **Sum of Story Points** | 27|
+  
+**5.2.4.2. Sprint Backlog 4.**  
+
+|**Sprint #**|**Sprint 4**|||||||
+| :- | :- | :- | :- | :- | :- | :- | :- |
+|User Story|Work-Item / Task|||||||
+|Id|Title|Id|Title|Description|Estimation (hours)|Assigned To|Status (To-do / In-Process / To-Review / Done)|
+|TS01|Post User|W-01|Implementación de Registro de Usuario|<p>**Como** usuario nuevo</p><p>**Quiero** poder registrarme en TripMate</p><p>**Para** poder acceder a todas las funcionalidades de la aplicación</p>|3 hours|**Jeremy Quispe**|To-do|
+|TS02|Get User|W-02|Implementación de Obtención de Usuario|<p>**Como** usuario registrado</p><p>**Quiero** poder obtener mi información de usuario en TripMate</p><p>**Para** acceder fácilmente a mis datos personales en la aplicación</p>|2 hours|**Leonel Alfaro**|To-do|
+|TS03|Get Accommodations|W-03|Implementación de Obtención de Alojamientos|<p>**Como** usuario de TripMate</p><p>**Quiero** obtener información sobre los alojamientos disponibles</p><p>**Para** poder planificar y reservar mi hospedaje para mis viajes</p>|2 hours|**Jeremy Quispe**|To-do|
+|TS04|Get Flights|W-04|Implementación de Obtención de Vuelos|<p>**Como** usuario de TripMate</p><p>**Quiero** obtener información sobre los vuelos disponibles</p><p>**Para** poder planificar y reservar mis viajes de manera eficiente</p>|2 hours|**Jeremy Quispe**|To-do|
+|TS05|Get Restaurants|W-05|Implementación de Obtención de Restaurantes|<p>**Como** usuario de TripMate</p><p>**Quiero** obtener información sobre los restaurantes disponibles</p><p>**Para** poder planificar y reservar mis comidas durante mis viajes</p>|2 hours|**Paolo Martinez**|To-do|
+|TS06|Get Activities|W-06|Implementación de Obtención de Actividades|<p>**Como** usuario de TripMate</p><p>**Quiero** obtener información sobre las actividades disponibles</p><p>**Para** poder planificar y reservar actividades durante mis viajes</p>|2 hours|**Bárbara Espinoza**|To-do|
+|TS07|Post Reservation|W-07|Implementación de Registro de Reserva|<p>**Como** usuario de TripMate</p><p>**Quiero** poder realizar una reserva en la aplicación</p><p>**Para** asegurar mi lugar en alojamientos, vuelos, actividades o restaurantes durante mis viajes</p>|4 hours|**Jeremy Quispe**|To-do|
+|TS08|Get Reservation|W-08|Implementación de Obtención de Reserva|<p>**Como** usuario de TripMate</p><p>**Quiero** obtener información sobre mis reservas realizadas</p><p>**Para** poder revisar y gestionar mis reservas de viaje de manera fácil</p>|2 hours|**Leonel Alfaro**|To-do|
+|TS09|Post Itinerary|W-09|Implementación de Registro de Itinerario|<p>**Como** usuario de TripMate</p><p>**Quiero** poder crear un itinerario para mi viaje</p><p>**Para** organizar y planificar mis actividades durante mi viaje</p>|4 hours|**Jeremy Quispe**|To-do|
+|TS10|Get Itinerary|W-10|Implementación de Obtención de Itinerario|<p>**Como** usuario de TripMate</p><p>**Quiero** obtener información sobre mi itinerario de viaje</p><p>**Para** poder visualizar y seguir mi planificación de actividades durante mi viaje</p>|2 hours|**Adrián Palma**|To-do|
+|TS11|Identity and Access Management (IAM)|W-11|Adición del IAM al proyecto|<p>**Como** desarrollador que trabaja en la aplicación de TripMate</p><p>**Quiero** obtener información de perfil de usuario **mediante una API**</p><p>**Para** mostrarla en la aplicación cuando se solicite</p>|2 hours|**Adrián Palma**|To-do|
+
+  
+- **5.2.4.3. Development Evidence for Sprint Review.**
+  
+- **5.2.4.4. Testing Suite Evidence for Sprint Review.**
+  
+- **5.2.4.5. Execution Evidence for Sprint Review.**
+  
+- **5.2.4.6. Services Documentation Evidence for Sprint Review.**
+  
+- **5.2.4.7. Software Deployment Evidence for Sprint Review.**
+  
+- **5.2.4.8. Team Collaboration Insights during Sprint.**
 **Conclusiones** 
 
 **TB1:**
