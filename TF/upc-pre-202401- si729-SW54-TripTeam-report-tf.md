@@ -2245,6 +2245,7 @@ El despliegue de la appp web en Netlify se completó exitosamente, y durante est
 ![image](https://github.com/TripTeamOrganization/Reports/assets/48342953/0545bc9b-c0f4-4d34-8672-380556b65238)
 
 Se avanzó de manera colaborativa en el desarrollo de la aplicación web, incluyendo su integración con el backend y la mejora de los ruteos. Además, se mejoró el redireccionamiento del frontend arreglando errores antiguos y se desarrolló un video. Se crearon ramas para el desarrollo de diferentes historias de usuario, las cuales se fusionaron con la rama develop para evitar errores con la rama main. Se realizaron commits por cada funcionalidad implementada, tal como se muestra en la imagen.
+
 **5.3. Validation Interviews.**
 
 **5.3.1. Diseño de Entrevistas.**  
@@ -2731,6 +2732,10 @@ Implementar una validación para que el mismo objeto no se agregue múltiples ve
 - **5.2.4.3. Development Evidence for Sprint Review.**
   
 - **5.2.4.4. Testing Suite Evidence for Sprint Review.**
+
+|Repository|Branch|Commit ID|Commit Message|Commit Message <br> Body| Commited<br>On (Date) |  
+  |----------|------|---------|--------------|-------------------|-----------------------|
+|TripTeamOrganization<br>/AcceptanceTest|Main|82ffe35|feat: added all technical stories in gherkin|-| 21/06/2024    
   
 - **5.2.4.5. Execution Evidence for Sprint Review.**
   
@@ -2738,7 +2743,7 @@ Implementar una validación para que el mismo objeto no se agregue múltiples ve
   
 - **5.2.4.7. Software Deployment Evidence for Sprint Review.**
   
-- **5.2.4.8. Team Collaboration Insights during Sprint.**
+- **5.2.4.8. Team Collaboration Insights during Sprint.**  
 **Conclusiones** 
 
 **TB1:**
@@ -2766,6 +2771,13 @@ En el sprint 3, se ha implementado el backend con operaciones cruciales para la 
 Además, se han implementado endpoints específicos para crear y consultar itinerarios, permitiendo a los usuarios planificar sus viajes de manera integral y organizada. Estas funcionalidades son esenciales para ofrecer una experiencia de usuario completa y satisfactoria, facilitando la organización de viajes y la interacción con diversos servicios de manera centralizada.
 
 Estas mejoras en el backend de TripMate aseguran que la aplicación sea capaz de manejar de manera eficiente las solicitudes de los usuarios y gestionar la información relevante de viajes en tiempo real. Esto no solo optimiza el rendimiento del sistema, sino que también refuerza la propuesta de valor de TripMate, proporcionando una plataforma robusta y fiable que apoya la planificación de viajes de principio a fin.
+
+**TF:**
+
+En el sprint 4, se ha implementado el backend con operaciones para el manejo de usuarios. Se han incluido los endpoints para crear y obtener usuarios, así como el uso de IAM y Swagger. Los usuarios ahora pueden crear cuentas e iniciar sesión con validaciónes.
+Además, se han corregido las deficiencias de los demas endpoints para asegurar una correcta funcionalidad en cada parte de la aplicación.
+
+Estas mejoras e implementaciones en el backend de TripMate aseguran que la aplicación sea segura se usar y sus funcionalidades estén bien implementadas. Esto aumentará la confianza de los usuarios al utilizar nuestra aplicación.
 
 **Bibliografía**
 
