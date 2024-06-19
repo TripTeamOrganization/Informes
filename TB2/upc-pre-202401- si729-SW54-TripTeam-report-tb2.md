@@ -63,8 +63,12 @@
 | 2.9      |  2024/06/02   | Espinoza Delgado, Bárbara Antonella | Sprint Planning 3, Sprint Backlog 3, Development Evidence for Sprint Review | 
 | 3.0       |  2024/06/02    | Quispe Andia, Jeremy Joel |Execution Evidence for Sprint Review y Conclusiones | 
 | 3.1       |  2024/06/02    | Alfaro Cumba, Leonel | Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review | 
-| 3.2       |  2024/05/02    | Martinez Villanueva, Paolo Del Carmen | Heuristicas, Testing Suite Evidence y actualizó las historias de usuario, sprint backlog 3 y sprint planning 3| 
-| 3.3       |  2024/06/02    | Palma Obispo, Adrián Enrique Jesús | Conclusiones, Anexos, Team Collaboratio Insights|
+| 3.2       |  2024/06/02    | Martinez Villanueva, Paolo Del Carmen | Heuristicas, Testing Suite Evidence y actualizó las historias de usuario, sprint backlog 3 y sprint planning 3| 
+| 4.0      |  2024/06/21   | Espinoza Delgado, Bárbara Antonella | Sprint Planning 4, Sprint Backlog 4, Development Evidence for Sprint Review | 
+| 4.1       |  2024/06/21    | Quispe Andia, Jeremy Joel |Execution Evidence for Sprint Review | 
+| 4.2       |  2024/06/21    | Alfaro Cumba, Leonel | Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review | 
+| 4.3       |  2024/06/21    | Martinez Villanueva, Paolo Del Carmen | Testing Suite Evidence | 
+| 4.4       |  2024/06/21    | Palma Obispo, Adrián Enrique Jesús | Conclusiones, Anexos, Team Collaboratio Insights|
 
 
 ### Project Report Collaboration Insights
@@ -112,6 +116,19 @@ Evidencias del Insights Contributos de los commits del informe:
 Evidencias del Insights Contributos de los commits del informe:
 
 ![image](https://github.com/TripTeamOrganization/Reports/assets/134337719/cd49ef82-4a9c-4db4-9d1b-d298201fa11f)
+
+**TF:**
+
+| Integrante                            | Tareas Designadas       |
+|-----------------------------------|--------------|
+| Adrián Enrique Jesús Palma Obispo| Conclusiones, Anexos, Team Collaboratio Insights |
+| Bárbara Antonella Espinoza Delgado | Sprint Planning 4, Sprint Backlog 4, Development Evidence for Sprint Review |
+| Jeremy Joel Quispe Andia         | Execution Evidence for Sprint Review |
+| Leonel Alfaro Cumba    | Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review|
+| Paolo Del Carmen Martinez Villanueva |Testing Suite Evidence|
+
+Evidencias del Insights Contributos de los commits del informe:
+FALTA IMAGEN
 
 
 ### Tabla de contenidos
@@ -267,6 +284,24 @@ Evidencias del Insights Contributos de los commits del informe:
   - 5.2.1.7. Software Deployment Evidence for Sprint Review.
   
   - 5.2.1.8. Team Collaboration Insights during Sprint.
+    
+  - 5.2.2. Sprint 2
+  
+  - 5.2.2.1. Sprint Planning 2.
+  
+  - 5.2.2.2. Sprint Backlog 2.
+
+  - 5.2.2.3. Development Evidence for Sprint Review.
+  
+  - 5.2.2.4. Testing Suite Evidence for Sprint Review.
+  
+  - 5.2.2.5. Execution Evidence for Sprint Review.
+  
+  - 5.2.2.6. Services Documentation Evidence for Sprint Review.
+  
+  - 5.2.2.7. Software Deployment Evidence for Sprint Review.
+  
+  - 5.2.2.8. Team Collaboration Insights during Sprint.
   
   - 5.2.3. Sprint 3
   
@@ -296,7 +331,25 @@ Evidencias del Insights Contributos de los commits del informe:
   
   -  5.4. Video About-the-Product.
     
-    - Avance de Conclusiones, Bibliografía y Anexos.
+  - 5.2.1. Sprint 4
+  
+  - 5.2.4.1. Sprint Planning 4.
+  
+  - 5.2.4.2. Sprint Backlog 4.
+  
+  - 5.2.4.3. Development Evidence for Sprint Review.
+  
+  - 5.2.4.4. Testing Suite Evidence for Sprint Review.
+  
+  - 5.2.4.5. Execution Evidence for Sprint Review.
+  
+  - 5.2.4.6. Services Documentation Evidence for Sprint Review.
+  
+  - 5.2.4.7. Software Deployment Evidence for Sprint Review.
+  
+  - 5.2.4.8. Team Collaboration Insights during Sprint.
+    
+  - Avance de Conclusiones, Bibliografía y Anexos.
 
 ### Student Outcome  
 El curso contribuye al cumplimiento del Student Outcome ABET: ABET – EAC - Student Outcome 3
