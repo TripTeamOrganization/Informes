@@ -2202,14 +2202,14 @@ En esta sección se confirma la compra de la reservación.
 
 ![image](https://github.com/TripTeamOrganization/Reports/assets/134337719/1a9ee8b1-758e-465e-9175-59e6de55fac4)
 
-3. **Implementación de la vista cambiar Emaim:**
-En esta sección se muestra un apartado para poder cambiar el emaail del usuario.
+3. **Implementación de la vista cambiar Email:**
+En esta sección se muestra un apartado para poder cambiar el email del usuario.
 
 ![image](https://github.com/TripTeamOrganization/Reports/assets/134337719/1dade7fb-4f62-4dc4-b3db-2ac4917a63c1)
 
 
 
-**5.2.3.6.Services Documentation Evidence for Sprint Review.**
+**5.2.3.6. Services Documentation Evidence for Sprint Review.**
 
 GET FLIGHTS:
 
@@ -2737,13 +2737,56 @@ Implementar una validación para que el mismo objeto no se agregue múltiples ve
   |----------|------|---------|--------------|-------------------|-----------------------|
 |TripTeamOrganization<br>/AcceptanceTest|Main|82ffe35|feat: added all technical stories in gherkin|-| 21/06/2024    
   
-- **5.2.4.5. Execution Evidence for Sprint Review.**
+- **5.2.4.5. Execution Evidence for Sprint Review.**  
+**Sprint 4**
+
+Conclución en el Desarrollo
+
+Durante el Sprint 4, se realizaron las implementaciones faltantes al proyecto:
+
+1. **Implementación del crear usuario:**
+En esta seccion se realizó la pantalla de crear usuario con validaciones.
+
+FALTA IMAGEN
+
+2. **Implementación del iniciar sesión:**
+En esta seccion se realizó el inicio de sesión con validaciones para que los usuarios puedan ingresar a sus cuentas de manera segura.
+
+FALTA IMAGEN
+
+3. **Implementación de la lista en reserva:**  
+Se implementó una pequeña lista en la reserva donde se muestra el titulo de los servicios que se han seleccionado.
+
+FALTA IMAGEN
   
-- **5.2.4.6. Services Documentation Evidence for Sprint Review.**
+- **5.2.4.6. Services Documentation Evidence for Sprint Review.**  
+GET USERS:  
+FALTA IMAGEN  
+POST USERS:  
+FALTA IMAGEN  
+GET ACTIVITIES:  
+FALTA IMAGEN  
   
-- **5.2.4.7. Software Deployment Evidence for Sprint Review.**
+- **5.2.4.7. Software Deployment Evidence for Sprint Review.**  
+  Para la entrega del Sprint 4, se desplegó la versión final de nuestra Aplicación Web en ..., el cual contiene la versión final del backend deployada con el FrontEnd corregido.  
+  FALTA IMAGEN
   
-- **5.2.4.8. Team Collaboration Insights during Sprint.**  
+- **5.2.4.8. Team Collaboration Insights during Sprint.**
+
+   #### Actividades por Alumno
+
+| Alumno                              | Actividad                                                 |
+|-------------------------------------|-----------------------------------------------------------|
+| Palma Obispo, Adrián Enrique Jesús  | Implementación del IAM   |
+| Espinoza Delgado, Bárbara Antonella | Implementación del get activities |
+| Quispe Andia, Jeremy Joel           | Implementación de la seccion users      |
+| Martinez Villanueva, Paolo Del Carmen| Deployado del Backend  |
+| Alfaro Cumba, Leonel                | Corrección de endpoints |
+
+
+Se avanzó de manera colaborativa en el desarrollo de la aplicación web, incluyendo las correcciones del frontend como las mejoras del backend. Además, se implemento una carpeta genérica shared con el swagger y el IAM. Se realizaron commits por cada funcionalidad implementada, tal como se muestra en la imagen.  
+
+FALTA IMAGEN  
 **Conclusiones** 
 
 **TB1:**
