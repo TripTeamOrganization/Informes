@@ -2726,8 +2726,10 @@ Implementar una validación para que el mismo objeto no se agregue múltiples ve
 |TS08|Get Reservation|W-08|Implementación de Obtención de Reserva|<p>**Como** usuario de TripMate</p><p>**Quiero** obtener información sobre mis reservas realizadas</p><p>**Para** poder revisar y gestionar mis reservas de viaje de manera fácil</p>|2 hours|**Leonel Alfaro**|To-do|
 |TS09|Post Itinerary|W-09|Implementación de Registro de Itinerario|<p>**Como** usuario de TripMate</p><p>**Quiero** poder crear un itinerario para mi viaje</p><p>**Para** organizar y planificar mis actividades durante mi viaje</p>|4 hours|**Jeremy Quispe**|To-do|
 |TS10|Get Itinerary|W-10|Implementación de Obtención de Itinerario|<p>**Como** usuario de TripMate</p><p>**Quiero** obtener información sobre mi itinerario de viaje</p><p>**Para** poder visualizar y seguir mi planificación de actividades durante mi viaje</p>|2 hours|**Adrián Palma**|To-do|
-|TS11|Identity and Access Management (IAM)|W-11|Adición del IAM al proyecto|<p>**Como** desarrollador que trabaja en la aplicación de TripMate</p><p>**Quiero** obtener información de perfil de usuario **mediante una API**</p><p>**Para** mostrarla en la aplicación cuando se solicite</p>|2 hours|**Adrián Palma**|To-do|
+|TS11|Identity and Access Management (IAM)|W-11|Adición del IAM al proyecto|<p>**Como** desarrollador que trabaja en la aplicación de TripMate</p><p>**Quiero** obtener información de perfil de usuario **mediante una API**</p><p>**Para** mostrarla en la aplicación cuando se solicite</p>|2 hours|**Adrián Palma**|To-do|  
 
+![imagen](https://github.com/TripTeamOrganization/Reports/assets/98995070/94419790-87b8-49a5-ab49-cb657d56e41d)  
+https://trello.com/invite/b/AHbwzmBa/ATTIfee26b73a85cb3316ae03ca8754f7072D161F25F/sprint-4 
   
 - **5.2.4.3. Development Evidence for Sprint Review.**
   
