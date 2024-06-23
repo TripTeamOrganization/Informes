@@ -2166,7 +2166,6 @@ https://trello.com/invite/b/tehbosMY/ATTI5c6d500fde1d9fa635975ebae594a5f6B0A617D
 | Jemisas/<br>TripMate<br>WebAppBackend     |Main| 5beb0a6 | feat: added files                                   |-| 28/05/2024            | 
 | Jemisas/<br>TripMate<br>WebAppBackend     |Main| 27c0f64 | feat: added files                                   |-| 28/05/2024            | 
 | MesSobble/<br>TripMate<br>WebAppBackend      |Main| c3c8b6  | feat: add Activity Model and Service                      |-| 29/05/2024            |
-| MesSobble/<br>TripMate<br>WebAppBackend      |Main| e1a12b  | feat:add Controller and Services                          |-| 29/05/2024            |
 | MesSobble/<br>TripMate<br>WebAppBackend      |Main| 05587c  | fix: Assembler|-| 29/05/2024            |
 | Jemisas/<br>TripMate<br>WebAppBackend     |Main| 84af349 | fix: corrected the files and configuration |-| 04/06/2024            | 
 | Jemisas/<br>TripMate<br>WebAppBackend     |Main| 412797a | feat: added impl                          |-| 04/06/2024            | 
@@ -2735,6 +2734,16 @@ Implementar una validación para que el mismo objeto no se agregue múltiples ve
 https://trello.com/invite/b/AHbwzmBa/ATTIfee26b73a85cb3316ae03ca8754f7072D161F25F/sprint-4 
   
 - **5.2.4.3. Development Evidence for Sprint Review.**
+
+| Repository                                |Branch| Commit ID | Commit Message                                      |Commit Message <br> Body| Commited<br>On (Date) |  
+|-------------------------------------------|------|---------|-----------------------------------------------------|-------------------|-----------------------|
+| Jemisas/<br>TripMate<br>WebAppBackend     |TS04| 05235c4 | feat: add method put and delete                                    |-| 19/06/2024            | 
+| paolomv02/<br>TripMate<br>WebAppBackend     |TS05| ee538cd| feat: implements restaurant commands, queries, resources, transforms and controllers |-| 20/06/2024            | 
+| paolomv02/<br>TripMate<br>WebAppBackend     |TS06| cf5baad | fix: put and getById                        |-| 28/05/2024            | 
+| APOgamer/<br>TripMate<br>WebAppBackend     |TS11| e3a271e | feat: add IAM                                  |-| 21/06/2024            | 
+| paolomv02/<br>TripMate<br>WebAppBackend     |deployment| 029ccf7 | feat: add deployment files                                   |-| 22/06/2024            | 
+| MesSobble/<br>TripMate<br>WebAppBackend      |TS06| e1a12b  | feat:add Controller and Services                          |-| 29/05/2024            |
+
   
 - **5.2.4.4. Testing Suite Evidence for Sprint Review.**
 
