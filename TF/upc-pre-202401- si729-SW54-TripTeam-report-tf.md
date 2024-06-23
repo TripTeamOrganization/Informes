@@ -2832,8 +2832,8 @@ FALTA IMAGEN
 |-------------------------------------|-----------------------------------------------------------|
 | Palma Obispo, Adrián Enrique Jesús  | Implementación del IAM   |
 | Espinoza Delgado, Bárbara Antonella | Implementación del get activities |
-| Quispe Andia, Jeremy Joel           | Implementación de la seccion users      |
-| Martinez Villanueva, Paolo Del Carmen| Deployado del Backend  |
+| Quispe Andia, Jeremy Joel           | Implementación de la seccion accomodations y flights      |
+| Martinez Villanueva, Paolo Del Carmen| Deployado del Backend e Implementación de la seccion accomodations y flights   |
 | Alfaro Cumba, Leonel                | Corrección de endpoints |
 
 
