@@ -2871,7 +2871,7 @@ POST SIGN-IN:
 ![image](https://github.com/TripTeamOrganization/Reports/assets/134337719/005e555c-de79-4bf0-9bc7-81fdc2f8fa3a)
 
 - **5.2.4.7. Software Deployment Evidence for Sprint Review.**  
-  Para la entrega del Sprint 4, se desplegó la versión final de nuestra Aplicación Web en ..., el cual contiene la versión final del backend deployada con el FrontEnd corregido.  
+  Para la entrega del Sprint 4, se desplegó la versión final de nuestra Aplicación Web, el cual contiene la versión final del backend deployada con el FrontEnd corregido.  
   FALTA IMAGEN
   
 - **5.2.4.8. Team Collaboration Insights during Sprint.**
