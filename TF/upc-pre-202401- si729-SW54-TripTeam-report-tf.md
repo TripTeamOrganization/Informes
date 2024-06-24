@@ -2709,8 +2709,8 @@ Implementar una validación para que el mismo objeto no se agregue múltiples ve
 | **Sprint 3 Review Summary** | En el sprint anterior, logramos concluir con la mayoría de las technical stories. |
 | **Sprint 3 Retrospective Summary** | En el sprint anterior, se logró mejorar varios aspectos del proyecto e identificar errores pasados para ser corregidos. |
 | **Sprint Goal & User Stories** | |
-| **Sprint 3 Goal** | Elaborar, diseñar la versión final del BackEnd de la aplicación web de TripMate, incluyendo los cambios necesarios para mejorar la integración con el FrontEnd.  |
-| **Sprint 3 Velocity** | 24 |
+| **Sprint 4 Goal** | Elaborar, diseñar la versión final del BackEnd de la aplicación web de TripMate, incluyendo los cambios necesarios para mejorar la integración con el FrontEnd.  |
+| **Sprint 4 Velocity** | 24 |
 | **Sum of Story Points** | 24|
   
 **5.2.4.2. Sprint Backlog 4.**  
