@@ -2951,5 +2951,5 @@ El resultado de estas implementaciones no es solo un backend más robusto y segu
 - PivotalTracker: [Product Backlog](https://www.pivotaltracker.com/n/projects/2700998)
 - Entrevista: [Estadísticas](https://docs.google.com/forms/d/1IJXnKL29jQRBFT7Qa_Eep8OgMqbm3zj4dygn0jlTlL8/edit#responses)  
 - Enlace para acceder a la landing page: [Ver enlace](https://landingpage-tripmate.netlify.app/)
-- Enlace para acceder a la web application: [Ver enlace](https://tripmateupc.netlify.app/accommodations)
+- Enlace para acceder a la web application: [Ver enlace](http://upcproyects.duckdns.org:4200/signin)
 </div>
