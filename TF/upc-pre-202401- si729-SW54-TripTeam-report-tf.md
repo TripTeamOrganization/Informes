@@ -2742,7 +2742,7 @@ https://trello.com/invite/b/AHbwzmBa/ATTIfee26b73a85cb3316ae03ca8754f7072D161F25
 | paolomv02/<br>TripMate<br>WebAppBackend     |TS06| cf5baad | fix: put and getById                        |-| 28/05/2024            | 
 | APOgamer/<br>TripMate<br>WebAppBackend     |TS11| e3a271e | feat: add IAM                                  |-| 21/06/2024            | 
 | paolomv02/<br>TripMate<br>WebAppBackend     |deployment| 029ccf7 | feat: add deployment files                                   |-| 22/06/2024            | 
-| MesSobble/<br>TripMate<br>WebAppBackend      |TS06| e1a12b  | feat:add Controller and Services                          |-| 29/05/2024            |
+| MesSobble/<br>TripMate<br>WebAppBackend      |Main| 2a966b6  | fix: reservation                          |-| 22/06/2024            |
 
   
 - **5.2.4.4. Testing Suite Evidence for Sprint Review.**
