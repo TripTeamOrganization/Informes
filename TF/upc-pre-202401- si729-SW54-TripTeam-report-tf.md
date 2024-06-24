@@ -2695,6 +2695,9 @@ Implementar una validación para que el mismo objeto no se agregue múltiples ve
 
 
 **5.4. Video About-the-Product.**
+![image](https://github.com/TripTeamOrganization/Reports/assets/89095594/88f75214-69b7-459a-8efc-c79089ca54ee)
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201a930_upc_edu_pe/EbsV7NUHZl5EoZkaPrRgu3wBy0jBNMmIADv6-4ertJGXZw?e=twWVeg&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 **5.2.4. Sprint 4**
   
@@ -2964,7 +2967,7 @@ Este enfoque estructurado y bien documentado no solo asegura la calidad y releva
 - Urvina Alejandro, M. A., Lastra‐Bravo, X. B., & Jaramillo-Moreno, C. (2022). Turismo y aplicaciones móviles. Preferencias de turistas y prestadores de servicios en el cantón Tena, Napo, Ecuador. Recuperado de: [RIULL](https://riull.ull.es/xmlui/handle/915/26221)
 
  **Anexos**
-- Enlace para ver el video de la exposición: [Ver enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EUn4VELmbbRIib4u-U9SwrYBoYBYFDaUtUXwt-6qhX61vw?e=taYi16)
+- Enlace para ver el video de la exposición: [Ver enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EexuoPoUrMxBhDes4zDUBuIBXSBjwV59F41QAgt12AbUMw?e=X5Gzy6)
 - Video About-the-product: [Ver enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201a930_upc_edu_pe/EbsV7NUHZl5EoZkaPrRgu3wBy0jBNMmIADv6-4ertJGXZw?e=twWVeg&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - Video About-the-team: [Ver enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202010039_upc_edu_pe/EUqZZlhGTXpPtAAD0jvDJ78B3urqgHUIVvjkfOYC8BlUBw?e=bbgsyj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - Video de todas las entrevistas subido a stream: [Ver enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYBkLLrqb1nS8vDVTedop1PgQ)
