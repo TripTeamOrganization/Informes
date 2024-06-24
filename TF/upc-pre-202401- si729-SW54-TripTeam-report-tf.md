@@ -2923,6 +2923,19 @@ Un logro notable ha sido la capacidad de modificar y eliminar servicios dentro d
 
 El resultado de estas implementaciones no es solo un backend más robusto y seguro, sino también una experiencia de usuario mejorada que se espera aumente la confianza y satisfacción de los usuarios al utilizar TripMate. Este trabajo colaborativo y detallado subraya nuestro compromiso con la calidad y la seguridad en el desarrollo de software, asegurando que cada componente de la aplicación funcione de manera óptima y segura.
 
+**Conclusión del ciclo de vida del proyecto**
+
+El ciclo de vida del proyecto de TripTeam ha concluido exitosamente con la implementación y revisión de múltiples sprints, abarcando desde la fase inicial de planificación hasta el despliegue y evaluación final del producto. A lo largo del proyecto, cada fase fue documentada meticulosamente, asegurando que todas las actividades, decisiones y cambios estuvieran respaldados por evidencias sólidas y rastreables.
+
+Durante la fase inicial, se establecieron los fundamentos del proyecto, incluyendo el perfil de la startup y el perfil de la solución. Esta fase fue crucial para definir la dirección y los objetivos del proyecto, lo cual se refleja en la elaboración detallada de los requisitos y el diseño del producto. Se realizaron entrevistas para comprender mejor las necesidades de los usuarios, y se desarrollaron personas y mapas de empatía que guiaron el diseño y la funcionalidad del producto.
+
+En las fases intermedias, se especificaron y refinaron los requisitos a través de sprints sucesivos, cada uno acompañado de su propia planificación, desarrollo y revisiones. Los sprints se centraron en iteraciones rápidas y evaluaciones constantes, permitiendo ajustes ágiles basados en el feedback real del usuario y las evaluaciones de desempeño del sistema. Cada sprint concluyó con una revisión de sprint donde se presentaron las evidencias de desarrollo, las pruebas realizadas y la documentación de los servicios implementados.
+
+Finalmente, la fase de cierre del proyecto demostró la integración y funcionalidad completa del producto en un entorno de producción, con pruebas exhaustivas y ajustes finales. Se realizaron entrevistas de validación y se documentaron mediante evidencias que confirmaron la alineación del producto final con las expectativas y requisitos iniciales. La documentación completa, incluyendo guías de estilo, arquitectura de información y pruebas de software, proporciona un cierre comprensivo y detallado del ciclo de vida del proyecto.
+
+Este enfoque estructurado y bien documentado no solo asegura la calidad y relevancia del producto final, sino que también establece un marco sólido para futuros proyectos y mejoras, destacando la importancia de una gestión de proyecto meticulosa y la adaptabilidad en el desarrollo de software.
+
+
 **Bibliografía**
 
 - Asmar, S. (2023). Consejos para no endeudarse en sus próximos viajes y pagar la deuda en pocos meses. Recuperado de: [La República](https://www.larepublica.co/finanzas-personales/consejos-para-no-endeudarse-en-sus-proximos-viajes-y-pagar-la-deuda-en-pocos-meses-3598007)
@@ -2942,7 +2955,7 @@ El resultado de estas implementaciones no es solo un backend más robusto y segu
 
  **Anexos**
 - Enlace para ver el video de la exposición: [Ver enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/EUn4VELmbbRIib4u-U9SwrYBoYBYFDaUtUXwt-6qhX61vw?e=taYi16)
-- Video About-the-product: [Ver enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202010039_upc_edu_pe/EaSgrh7tShNFrJo633VX8aUBfeTElZC0Ucwb7WlzYPkCDQ?e=jiyIQO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Video About-the-product: [Ver enlace](https://upcedupe-my.sharepoint.com/personal/u20201a930_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20201a930%5Fupc%5Fedu%5Fpe%2FDocuments%2FTripMate%20%2D%20Google%20Chrome%202024%2D06%2D24%2009%2D18%2D19%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eaaaaf425%2Df188%2D45c9%2Dba2e%2De2c25a3df517)
 - Video About-the-team: [Ver enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202010039_upc_edu_pe/EUqZZlhGTXpPtAAD0jvDJ78B3urqgHUIVvjkfOYC8BlUBw?e=bbgsyj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - Video de todas las entrevistas subido a stream: [Ver enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYBkLLrqb1nS8vDVTedop1PgQ)
 - Repositorio GitHub LandingPage: [Ver enlace](https://github.com/TripTeamOrganization/FrontEnd)
