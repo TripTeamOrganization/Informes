@@ -2695,6 +2695,7 @@ Implementar una validación para que el mismo objeto no se agregue múltiples ve
 
 
 **5.4. Video About-the-Product.**
+
 ![image](https://github.com/TripTeamOrganization/Reports/assets/89095594/88f75214-69b7-459a-8efc-c79089ca54ee)
 
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201a930_upc_edu_pe/EbsV7NUHZl5EoZkaPrRgu3wBy0jBNMmIADv6-4ertJGXZw?e=twWVeg&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
