@@ -2761,54 +2761,58 @@ Conclución en el Desarrollo
 Durante el Sprint 4, se realizaron las implementaciones faltantes al proyecto:
 
 1. **Implementación del obtener actividades:**
-En esta seccion se realizó la pantalla de obtener actividades.
 
-FALTA IMAGEN  
+![image](https://github.com/TripTeamOrganization/Reports/assets/89095594/d93a567f-67d8-40c7-9601-454d8d0e4b43)
 
-2. **Implementación del borrar hoteles:**
+
+
+3. **Implementación del borrar hoteles:**
 En esta seccion se realizó la pantalla de borrar hotel por id.
 
-FALTA IMAGEN  
+![image](https://github.com/TripTeamOrganization/Reports/assets/89095594/c7dc893d-cbca-451b-9b5f-219238fe98e0)
 
 3. **Implementación del borrar vuelos:**
 En esta seccion se realizó la pantalla de borrar vuelo por id.
 
-FALTA IMAGEN  
+![image](https://github.com/TripTeamOrganization/Reports/assets/89095594/5c42c6a3-a797-48cb-a6ab-49917cf797db)
 
 4. **Implementación del borrar actividades:**
 En esta seccion se realizó la pantalla de borrar actividad por id.
 
-FALTA IMAGEN  
+![image](https://github.com/TripTeamOrganization/Reports/assets/89095594/90ca04df-d57c-45ca-be67-e854a68261b3)
 
 5. **Implementación del borrar restaurantes:**
 En esta seccion se realizó la pantalla de borrar restaurante por id.
 
-FALTA IMAGEN
+![image](https://github.com/TripTeamOrganization/Reports/assets/89095594/306577bd-369f-4c59-8c63-f02e06ac3cb6)
+
 
 6. **Implementación del modificar hoteles:**
 En esta seccion se realizó la pantalla de modificar hotel por id.
 
-FALTA IMAGEN  
+![image](https://github.com/TripTeamOrganization/Reports/assets/89095594/664f0b6f-5e7a-45b8-80b0-903d932efeae)
+
 
 7. **Implementación del modificar vuelos:**
 En esta seccion se realizó la pantalla de modificar vuelo por id.
 
-FALTA IMAGEN  
+![image](https://github.com/TripTeamOrganization/Reports/assets/89095594/0e171014-64c6-4421-9e73-f29daea91cf3)
 
 8. **Implementación del modificar actividades:**
 En esta seccion se realizó la pantalla de modificar actividad por id.
 
-FALTA IMAGEN  
+![image](https://github.com/TripTeamOrganization/Reports/assets/89095594/917bcdd7-d611-440e-b5a9-af25beaf1dfb)
 
 9. **Implementación del modificar restaurantes:**
 En esta seccion se realizó la pantalla de modificar restaurant por id.
 
-FALTA IMAGEN
+![image](https://github.com/TripTeamOrganization/Reports/assets/89095594/91db7504-76e1-4e26-8f10-31c1a3572ee8)
+
 
 10. **Implementación de la lista en reserva:**  
 Se implementó una pequeña lista en la reserva donde se muestra el titulo de los servicios que se han seleccionado.
 
-FALTA IMAGEN
+![image](https://github.com/TripTeamOrganization/Reports/assets/89095594/1b9ba611-75df-4c20-9115-dc0ad74b7716)
   
 - **5.2.4.6. Services Documentation Evidence for Sprint Review.**
   
