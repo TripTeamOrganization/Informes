@@ -128,7 +128,9 @@ Evidencias del Insights Contributos de los commits del informe:
 | Paolo Del Carmen Martinez Villanueva |Testing Suite Evidence|
 
 Evidencias del Insights Contributos de los commits del informe:
-FALTA IMAGEN
+
+![image](https://github.com/TripTeamOrganization/Reports/assets/98995070/81db22cb-2c6f-4cbd-bf63-01ffe25aaef4)
+
 
 
 ### Tabla de contenidos
@@ -2749,7 +2751,7 @@ https://trello.com/invite/b/AHbwzmBa/ATTIfee26b73a85cb3316ae03ca8754f7072D161F25
 
 |Repository|Branch|Commit ID|Commit Message|Commit Message <br> Body| Commited<br>On (Date) |  
   |----------|------|---------|--------------|-------------------|-----------------------|
-|TripTeamOrganization<br>/AcceptanceTest|Main|82ffe35|feat: added all technical stories in gherkin|-| 21/06/2024    
+|TripTeamOrganization<br>/AcceptanceTest|Main|428dec|feat: added new technical stories|-| 24/06/2024    
   
 - **5.2.4.5. Execution Evidence for Sprint Review.**  
 **Sprint 4**
@@ -2874,7 +2876,13 @@ POST SIGN-IN:
 
 Se avanzó de manera colaborativa en el desarrollo de la aplicación web, incluyendo las correcciones del frontend como las mejoras del backend. Además, se implemento una carpeta genérica shared con el swagger y el IAM. Se realizaron commits por cada funcionalidad implementada, tal como se muestra en la imagen.  
 
-FALTA IMAGEN  
+Commits FrontEnd  
+![image](https://github.com/TripTeamOrganization/Reports/assets/98995070/6a36d3dd-dfc5-40d6-b013-76cb6396eebe)  
+
+Commits Backend  
+![image](https://github.com/TripTeamOrganization/Reports/assets/98995070/ca13596f-6b4c-47d6-bd5e-b51b04d3605e)
+
+ 
 **Conclusiones** 
 
 **TB1:**
