@@ -2811,24 +2811,50 @@ FALTA IMAGEN
 - **5.2.4.6. Services Documentation Evidence for Sprint Review.**
   
 GET ACTIVITIES:  
-FALTA IMAGEN  
-DELETE ACOMMODATIONS:  
-FALTA IMAGEN 
+
+![image](https://github.com/TripTeamOrganization/Reports/assets/134337719/c40d6382-3218-45bc-96e4-ae4a9a8e0ff3)
+
+DELETE ACOMMODATIONS:
+
+![image](https://github.com/TripTeamOrganization/Reports/assets/134337719/6bc69e99-fc30-4ab0-87c1-2e9ec727952e)
+
 DELETE FLIGHTS:  
-FALTA IMAGEN 
+
+![image](https://github.com/TripTeamOrganization/Reports/assets/134337719/34ac72c2-e02d-4871-8c38-3c7a636cbe8c)
+
 DELETE ACTIVITIES:  
-FALTA IMAGEN 
+
+![image](https://github.com/TripTeamOrganization/Reports/assets/134337719/738d0528-71d7-4e2d-a747-38b1bf41f5e1)
+
 DELETE RESTAURANTS:  
-FALTA IMAGEN 
+
+![image](https://github.com/TripTeamOrganization/Reports/assets/134337719/0e086290-a7e9-4849-b101-cbad00a21a6d)
+
 PUT ACOMMODATIONS:  
-FALTA IMAGEN 
+
+![image](https://github.com/TripTeamOrganization/Reports/assets/134337719/f0824237-671a-4250-80ec-fef40a65b4dd)
+
 PUT FLIGHTS:  
-FALTA IMAGEN 
+
+![image](https://github.com/TripTeamOrganization/Reports/assets/134337719/4afd0170-4a30-474e-a284-c193e75858c1)
+
+
 PUT ACTIVITIES:  
-FALTA IMAGEN 
+
+![image](https://github.com/TripTeamOrganization/Reports/assets/134337719/94e658f9-c925-4025-9b4d-fcd3d93255bc)
+
 PUT RESTAURANTS:  
-FALTA IMAGEN 
-  
+
+![image](https://github.com/TripTeamOrganization/Reports/assets/134337719/e1222cbd-18bc-4d3f-ab63-d33e696fe2db)
+
+POST SIGN-UP:  
+
+![image](https://github.com/TripTeamOrganization/Reports/assets/134337719/acc6a314-26e3-43aa-94f2-74a4c018bbf2)
+
+POST SIGN-IN:  
+
+![image](https://github.com/TripTeamOrganization/Reports/assets/134337719/005e555c-de79-4bf0-9bc7-81fdc2f8fa3a)
+
 - **5.2.4.7. Software Deployment Evidence for Sprint Review.**  
   Para la entrega del Sprint 4, se desplegó la versión final de nuestra Aplicación Web en ..., el cual contiene la versión final del backend deployada con el FrontEnd corregido.  
   FALTA IMAGEN
@@ -2879,10 +2905,11 @@ Estas mejoras en el backend de TripMate aseguran que la aplicación sea capaz de
 
 **TF:**
 
-En el sprint 4, se ha implementado el backend con operaciones put y delete. Se han incluido los endpoints para crear y obtener usuarios, así como el uso de IAM y Swagger. Los usuarios ahora pueden crear cuentas e iniciar sesión con validaciónes y los servicios de la aplicación pueden ser modificados y eliminados.
-Además, se han corregido las deficiencias de los demás endpoints para asegurar una correcta funcionalidad en cada parte de la aplicación.
+Durante el sprint 4 del desarrollo de TripMate, el equipo ha alcanzado importantes hitos en la evolución del backend, implementando con éxito operaciones cruciales de PUT y DELETE. Este avance permitió la integración de endpoints esenciales para la creación y gestión de usuarios, incluyendo sofisticadas capacidades de Identity and Access Management (IAM) y documentación interactiva mediante Swagger. La implementación de estos servicios no solo facilita que los usuarios finales puedan registrarse e iniciar sesión con robustos mecanismos de validación, sino que también asegura que puedan gestionar sus cuentas de manera eficaz.
 
-Estas mejoras e implementaciones en el backend de TripMate aseguran que la aplicación sea segura se usar y sus funcionalidades estén bien implementadas. Esto aumentará la confianza de los usuarios al utilizar nuestra aplicación.
+Un logro notable ha sido la capacidad de modificar y eliminar servicios dentro de la aplicación, lo que refleja un diseño flexible y orientado al usuario. Además, se han dedicado esfuerzos significativos para corregir y optimizar las deficiencias encontradas en otros endpoints. Este meticuloso enfoque de mejora continua ha sido posible gracias a la estrecha colaboración entre los desarrolladores, testers y diseñadores, quienes han trabajado en un ambiente altamente integrativo y receptivo a feedback.
+
+El resultado de estas implementaciones no es solo un backend más robusto y seguro, sino también una experiencia de usuario mejorada que se espera aumente la confianza y satisfacción de los usuarios al utilizar TripMate. Este trabajo colaborativo y detallado subraya nuestro compromiso con la calidad y la seguridad en el desarrollo de software, asegurando que cada componente de la aplicación funcione de manera óptima y segura.
 
 **Bibliografía**
 
