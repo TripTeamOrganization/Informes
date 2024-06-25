@@ -2135,8 +2135,8 @@ Se realizaron un total de 108 commits para el desarrollo de la landing page, inc
 | **Sprint 3 Retrospective Summary** | En el sprint anterior, se logró mejorar varios aspectos del proyecto. Además, se puede seguir mejorando  algunos componentes segun lo indicado. |
 | **Sprint Goal & User Stories** | |
 | **Sprint 3 Goal** | Elaborar, diseñar la primera versión del BackEnd de la aplicación web de TripMate, incluyendo los cambios necesarios para mejorar la integración con el FrontEnd.  |
-| **Sprint 3 Velocity** | 60 |
-| **Sum of Story Points** | 60|
+| **Sprint 3 Velocity** | 18 |
+| **Sum of Story Points** | 18 |
 
 
 **5.2.3.2.Sprint Backlog 3.**
